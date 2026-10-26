@@ -88,5 +88,80 @@
    "3D质感"
   ],
   "cat": "知识讲解"
+ },
+ {
+  "id": "2026-10-25-01",
+  "date": "2026-10-25",
+  "kind": "weekly",
+  "report": "reports/2026-10-25-weekly.html#i1",
+  "title": "Everpure x Bloomberg TV 系列",
+  "author": "Illo",
+  "url": "https://vimeo.com/1237267983",
+  "embed": "https://player.vimeo.com/video/1237267983?playsinline=1&dnt=1",
+  "tags": [
+   "MG",
+   "数据可视化"
+  ],
+  "cat": "动效 / MG · 本周第一"
+ },
+ {
+  "id": "2026-10-25-02",
+  "date": "2026-10-25",
+  "kind": "weekly",
+  "report": "reports/2026-10-25-weekly.html#i2",
+  "title": "R.EVISITED（Hublot 概念片）",
+  "author": "Studio River",
+  "url": "https://vimeo.com/1231228900",
+  "embed": "https://player.vimeo.com/video/1231228900?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "剪辑节奏"
+  ],
+  "cat": "英雄镜头 · CG"
+ },
+ {
+  "id": "2026-10-25-03",
+  "date": "2026-10-25",
+  "kind": "weekly",
+  "report": "reports/2026-10-25-weekly.html#i3",
+  "title": "Dyson Clean+Wash Hygiene",
+  "author": "Optical Arts",
+  "url": "https://vimeo.com/1238863381",
+  "embed": "https://player.vimeo.com/video/1238863381?playsinline=1&dnt=1",
+  "tags": [
+   "剪辑节奏",
+   "转场"
+  ],
+  "cat": "剪辑节奏"
+ },
+ {
+  "id": "2026-10-25-04",
+  "date": "2026-10-25",
+  "kind": "weekly",
+  "report": "reports/2026-10-25-weekly.html#i4",
+  "title": "Paperlab：会折、会卷、会烧的纸",
+  "author": "Noor Mtir",
+  "url": "https://tympanus.net/codrops/2026/10/18/real-folds-real-fire/",
+  "embed": "none",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画"
+ },
+ {
+  "id": "2026-10-25-05",
+  "date": "2026-10-25",
+  "kind": "weekly",
+  "report": "reports/2026-10-25-weekly.html#i5",
+  "title": "Aave 通知开关弹窗",
+  "author": "Aave App（60fps 收录，具体设计师没署名）",
+  "url": "https://x.com/60fpsdesign/status/2112609066845671764",
+  "embed": "x:2112609066845671764",
+  "tags": [
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "UI 动效"
  }
 ]
