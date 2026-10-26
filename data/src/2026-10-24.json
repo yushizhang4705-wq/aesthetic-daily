@@ -1,0 +1,339 @@
+{
+ "kicker": "审美日报 · 周六",
+ "title": "2026-10-24 审美日报",
+ "flag": "【看过视频】",
+ "note": "今天 10 条都下载下来看过了，只有 MKBHD 那条 29 分钟的长测评只看了前 2 分钟。看完留下 6 条，剔除 4 条，剔除理由放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "动效 / MG",
+   "title": "Everpure x Bloomberg TV 系列",
+   "author": "Illo",
+   "date": "10-19，90 秒",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1237267983"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/"
+    ]
+   ],
+   "good": "90 秒几乎没有硬切，全靠形状变形和镜头推进换场：等轴测塔压扁成柱状图，再立回 3D 柱子。缓动顺滑，没有回弹，一种粉彩虹彩渐变是全片唯一的亮色",
+   "borrow": "AI 科普里给「老系统 / AI / 方案」各配一种形状（硬方块、软 blob、两者融合），在 Remotion 里用形状接力代替切镜，细拆见文末",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "MG",
+    "数据可视化"
+   ],
+   "id": "2026-10-24-01",
+   "embed": "https://player.vimeo.com/video/1237267983?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1237267983",
+   "cover": "covers/2026-10-24/01.jpg"
+  },
+  {
+   "cat": "代码动画",
+   "title": "Paperlab：会折、会卷、会烧的纸",
+   "author": "Noor Mtir",
+   "date": "10-18",
+   "links": [
+    [
+     "Codrops 文章和演示 ↗",
+     "https://tympanus.net/codrops/2026/10/18/real-folds-real-fire/"
+    ],
+    [
+     "在线演示 ↗",
+     "https://paperlab.nawwara.studio/"
+    ],
+    [
+     "GitHub ↗",
+     "https://github.com/NourMtir0722/Paperlab"
+    ]
+   ],
+   "good": "纸是真 3D 网格，边烧边卷，灰烬和火星也在 3D 空间里飞，火光会照亮纸面。深色界面、米白纸、橙黄火，界面用无衬线，纸上用衬线",
+   "borrow": "竖屏开场用 Three.js 让一页论文被点燃卷起，再露出标题，Remotion 用 @remotion/three 接进来。火光打到纸上这一下最值得抄",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 文章里的演示录屏拼接，共 47 秒，无声"
+    ]
+   },
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "id": "2026-10-24-02",
+   "embed": "none",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/10/18/real-folds-real-fire/",
+   "cover": "covers/2026-10-24/02.jpg"
+  },
+  {
+   "cat": "UI 动效",
+   "title": "Aave 通知开关弹窗",
+   "author": "Aave App（60fps 收录，具体设计师没署名）",
+   "date": "10-21，13 秒",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2112609066845671764"
+    ]
+   ],
+   "good": "13 秒循环，3D 铃铛轻轻摆动。整屏深灰单色，只有一抹柔紫。铃铛是哑光材质，有自阴影和柔和投影，不靠发光撑效果",
+   "borrow": "讲功能怎么开时，做「哑光 3D 小图标 + 一行字」的循环卡片。Three.js 里用高粗糙度材质加一盏柔光，不加辉光",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "原帖无声"
+    ]
+   },
+   "tags": [
+    "UI动效",
+    "3D质感"
+   ],
+   "id": "2026-10-24-03",
+   "embed": "x:2112609066845671764",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2112609066845671764",
+   "cover": "covers/2026-10-24/03.jpg"
+  },
+  {
+   "cat": "英雄镜头 · CG",
+   "title": "R.EVISITED（Hublot 概念片）",
+   "author": "Studio River",
+   "date": "9-29 上传，10-15 报道，68 秒",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1231228900"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/jellyfish-on-ice-studio-river-wades-into-the-cg-watch-wars/"
+    ]
+   ],
+   "good": "节奏分三段：开头每镜 4 到 6 秒的远景，中段装表时约 1 秒一切、切在动作上，结尾 10 秒以上的英雄镜头。纯灰阶，冰、玻璃、水的折射配硬光，景深只用来引导视线",
+   "borrow": "硬件片按「慢、快、慢」排节奏：慢镜立气氛，拆装段快切，成品留长镜。黑白加一盏硬光就够出质感",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "3D质感",
+    "剪辑节奏"
+   ],
+   "id": "2026-10-24-04",
+   "embed": "https://player.vimeo.com/video/1231228900?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1231228900",
+   "cover": "covers/2026-10-24/04.jpg"
+  },
+  {
+   "cat": "剪辑节奏",
+   "title": "Dyson Clean+Wash Hygiene",
+   "author": "Optical Arts",
+   "date": "10-23，40 秒",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1238863381"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/optical-arts-drops-the-mops-like-dominos-for-dyson/"
+    ]
+   ],
+   "good": "先给 5 秒大全景，然后跟着进行曲的鼓点 1 到 2 秒一切，每刀切在洗地机倒下的半途，下一镜接着倒。混凝土灰、米色木头配产品的蓝和铜，透视很大，阴影柔和",
+   "borrow": "讲「连锁反应 / 训练流程」时，先全景再踩拍快切，让动作方向贯穿每一刀，镜头自己就连起来了",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "剪辑节奏",
+    "转场"
+   ],
+   "id": "2026-10-24-05",
+   "embed": "https://player.vimeo.com/video/1238863381?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1238863381",
+   "cover": "covers/2026-10-24/05.jpg"
+  },
+  {
+   "cat": "知识讲解",
+   "title": "The Flattest Surface in the World",
+   "author": "Branch Education",
+   "date": "10-16，57 秒竖屏",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=VUPxowV0fsk"
+    ]
+   ],
+   "good": "每镜 5 到 10 秒，在 3D 剖面里慢慢平移、推近，靠推镜换尺度，很少硬切，深色底板上的标签很好读。缺点是偏模板化，紫色激光的光晕快碰到「廉价发光」那条线",
+   "borrow": "竖屏讲芯片时用「一路推近换尺度」代替切镜，每镜只放一个标签，光效收着用",
+   "media": {
+    "ratio": "v"
+   },
+   "tags": [
+    "知识讲解",
+    "3D质感"
+   ],
+   "id": "2026-10-24-06",
+   "embed": "https://www.youtube-nocookie.com/embed/VUPxowV0fsk?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=VUPxowV0fsk",
+   "cover": "covers/2026-10-24/06.jpg"
+  }
+ ],
+ "cut_title": "看完剔除的 4 条",
+ "cut": [
+  {
+   "title": "ASMR iPhone Duo Unboxing",
+   "author": "Marques Brownlee",
+   "link": "https://www.youtube.com/watch?v=_4ELeWAgMwo",
+   "why": "俯拍实拍加 1 到 3 秒的跳切，没有设计过的动效，没东西可借",
+   "cover": "covers/2026-10-24/cut-01.jpg"
+  },
+  {
+   "title": "iPhone Duo Review: First Generation Fun!",
+   "author": "Marques Brownlee",
+   "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+   "why": "看了前 2 分钟：常规口播加微距空镜，有漏光、1:13 的数码故障转场和大量微距虚化，全在不喜欢清单上",
+   "cover": "covers/2026-10-24/cut-02.jpg"
+  },
+  {
+   "title": "Microsoft Foundry Labs 品牌片",
+   "author": "Ranger & Fox",
+   "link": "https://vimeo.com/1197401743",
+   "why": "0.5 到 1 秒的乱切加分屏，发光漂浮的 DNA 和数学符号很俗套，等宽字和高反差衬线字混着用",
+   "cover": "covers/2026-10-24/cut-03.jpg"
+  },
+  {
+   "title": "Clouds Are Way Heavier Than You Think",
+   "author": "Cleo Abram",
+   "link": "https://www.youtube.com/watch?v=poXYqJ5cb4Q",
+   "why": "Shorts 式快切加甩镜，黄绿底色块上的大字很吵，3D 大象直接贴在平面天空照片上，光是平的",
+   "cover": "covers/2026-10-24/cut-04.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "title": "Illo × Everpure",
+  "toc": "今日细拆：Illo × Everpure",
+  "lede": "看完全片后重写。下面的时间点和时长是看片记下的，颜色是从画面取的近似色，Remotion 里的参数是我给的起步值",
+  "blocks": [
+   {
+    "h": "结构：90 秒分三段",
+    "ul": [
+     "0:00–0:29 老存储：硬的深色几何体，裂成零散的图表",
+     "0:30–0:59 AI：粉彩虹彩的有机形状（blob、扫过的曲线），讲 AI 项目失败率高",
+     "1:00–1:29 方案：硬方块和虹彩质感融合，落在省成本、更稳定"
+    ]
+   },
+   {
+    "h": "关键动作",
+    "ul": [
+     "0:08 深色背景被擦掉，等轴测塔压扁、展开成 2D 柱状图，约 1.5 秒",
+     "0:11 计数器从 42% 滚到 43%，约 0.5 秒",
+     "0:13 平的柱子倾斜，变回 3D 柱子，约 2 秒",
+     "0:38 硬邦邦的胶囊扭成起伏的 blob，约 2 秒",
+     "0:44 柱状图顶部像金属贴纸一样被揭起，约 1.5 秒"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": "几乎不切，全靠形状接力：折线图变成台阶，台阶再变成 3D 方块，同一个东西一路变下去"
+   },
+   {
+    "h": "缓动和镜头",
+    "p": "平滑的贝塞尔曲线，没有过冲、没有回弹，滑到位后轻轻停住。镜头一直在推和摇，转场时加速，出字时放慢，留时间读"
+   },
+   {
+    "h": "配色（近似色）",
+    "chips": [
+     [
+      "#111111",
+      "黑"
+     ],
+     [
+      "#FFFCF5",
+      "米白底"
+     ],
+     [
+      "#FEF7E5",
+      "四角更暖"
+     ],
+     [
+      "#383230",
+      "黑柱"
+     ],
+     [
+      "#785954",
+      "大数字暖棕"
+     ],
+     [
+      "#7A726F",
+      "小字灰"
+     ]
+    ],
+    "after": "唯一的强调色是一种粉彩虹彩渐变，主要是桃色、浅蓝、浅黄，只出现在代表 AI 的东西上"
+   },
+   {
+    "chips": [
+     [
+      "#F6C9AE",
+      "桃（近似）"
+     ],
+     [
+      "#B9D3EE",
+      "浅蓝（近似）"
+     ],
+     [
+      "#F4E6A6",
+      "浅黄（近似）"
+     ]
+    ]
+   },
+   {
+    "h": "字体",
+    "p": "全大写等宽字，像终端里的字（字体未识别）"
+   },
+   {
+    "h": "立体感从哪来",
+    "p": "等轴测视角，平面按前后顺序叠放，背板下有柔和投影，没有真 3D 渲染的重材质"
+   },
+   {
+    "h": "怎么复现（Remotion）",
+    "ol": [
+     "镜头：所有元素包进一个外层 div，`transform: translate(x, y) scale(s)`，用 interpolate 让 s 从 1 慢慢推到 1.15。转场段让推进快一点，出字段放慢",
+     "缓动统一一种，不要回弹：`Easing.bezier(0.45, 0, 0.2, 1)`，或者 `spring({ frame, fps, config: { damping: 200 } })`。别用低 damping 的弹簧",
+     "柱子 3D 和 2D 互变：每根柱子是顶、左、右 3 个 SVG 多边形，把侧面多边形的深度从 d 插值到 0，柱子就压成平面柱状图（30fps 下约 45 帧）。插回去就重新立起来（约 60 帧）",
+     "计数器：42 到 43 用 interpolate 在约 15 帧内完成，Math.round 取整，数字用 translateY 往上滚",
+     "形状接力：折线、台阶、方块用同一个元素，跨场景保留，插值它的路径点、位置和尺寸，不硬切",
+     "blob：胶囊变 blob 用 SVG 路径插值（flubber 这类库生成插值函数，再喂进度），约 60 帧。要虹彩质感就用 Three.js ShaderMaterial，噪声配桃、蓝、黄三色",
+     "揭贴纸：柱顶那块单独拆出来，用 rotateX 加一道移动的高光，约 45 帧"
+    ]
+   },
+   {
+    "h": "鱼知道里怎么用",
+    "p": "竖屏讲「为什么很多 AI 项目落不了地」：米白底，一组硬黑方块代表传统系统，镜头慢推，方块压扁成柱状图，右上角数字用真实数据滚动出来；下一句讲模型时，一个胶囊扭成虹彩 blob，最后和方块融到一起，全程不硬切"
+   }
+  ],
+  "links": [
+   [
+    "↑ 回到第 1 条看片",
+    "#i1"
+   ],
+   [
+    "Stash 报道 ↗",
+    "https://www.stashmedia.tv/abstract-clarity-illo-illuminates-everpure-x-bloomberg-tv/"
+   ]
+  ]
+ },
+ "sources": "信源：Vimeo Staff Picks、Stash、Motionographer、Codrops、YouTube（Branch Education、MKBHD、Cleo Abram、Kurzgesagt、Vox、Apple 等频道 RSS）、X（@60fpsdesign、关键词搜索）",
+ "date": "2026-10-24",
+ "kind": "daily",
+ "slug": "2026-10-24"
+}
