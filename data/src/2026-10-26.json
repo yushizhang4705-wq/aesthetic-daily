@@ -1,0 +1,468 @@
+{
+ "kicker": "审美日报 · 周一",
+ "title": "2026-10-26 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天 10 条，口播出镜这一类没找到合格新作，空着。第 3 条 Meta Connect 开场片完整看过 31 秒并做了细拆，标【看过视频】；其余 9 条是下载后抽帧看的画面，标【看过画面（抽帧）】。Wendover 那条只看了前 2 分钟。按原片上传时间，Meta（10-14）、Ferrari（04-24）、Sonic Studies（10-08）、OUR PLANET（10-05）、Diptyque（05-30）都超过 7 天，是近期才被媒体收录或推荐；Iteration 9 月上传、10-23 才进 Staff Pick。看完剔除 12 条放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "代码动画",
+   "title": "TwelveLabs 官网开场动画",
+   "author": "TwelveLabs（60fps 收录）· 作者是 AI 公司，这里只看网页动效",
+   "date": "10-24",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2114031823831650451"
+    ]
+   ],
+   "good": "整页深灰，一条等距视角的环形赛道铺满视频缩略图，只有一小段被点亮的彩色「车流」在跑，标题和按钮压在左下角留白里",
+   "borrow": "竖屏开头用 Three.js 把本期要讲的素材排成一条暗色轨道，只亮一段，镜头跟着它走",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "代码动画",
+    "UI动效"
+   ],
+   "id": "2026-10-26-01",
+   "embed": "x:2114031823831650451",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2114031823831650451",
+   "cover": "covers/2026-10-26/01.jpg"
+  },
+  {
+   "cat": "UI 动效",
+   "title": "Wispr Flow 引导页",
+   "author": "Wispr（60fps 收录）",
+   "date": "10-23",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2113673276912554202"
+    ]
+   ],
+   "good": "深色照片底、衬线标题居中，界面卡片从中间浮出又收成一颗胶囊形声波按钮，字在弧线上滑过，全程只有一个奶白色强调色。字体未识别",
+   "borrow": "口播里讲「语音输入」这类功能时，用一个胶囊按钮加一行弧形滚动字代替整屏录屏",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "原帖无声"
+    ]
+   },
+   "tags": [
+    "UI动效",
+    "字体版式"
+   ],
+   "id": "2026-10-26-02",
+   "embed": "x:2113673276912554202",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2113673276912554202",
+   "cover": "covers/2026-10-26/02.jpg"
+  },
+  {
+   "cat": "动效 / 片头",
+   "title": "Meta Connect 2026 Opening Film",
+   "author": "FutureDeluxe",
+   "date": "Vimeo 10-14 上传，31 秒（超过 7 天）",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1235907762"
+    ]
+   ],
+   "good": "深蓝渐变底上只有一个无限符号：先是扁平 logo 和两句白字，然后同一个形状轮流换成针织、苔藓、玻璃、镀铬、木头，全部硬切，节奏慢-快-慢，最后镀铬全景停 7 秒。logo 本身不转，焦点从头到尾只有它。字体未识别（几何无衬线，接近 Meta 品牌字）",
+   "borrow": "片头用 Three.js 把「鱼知道」的 logo 换 3 种材质，特写快扫、全景慢推，剪辑点卡鼓点，结尾回到标准版长停。细拆见文末",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "完整看过 31 秒，有声，剪辑卡音乐"
+    ]
+   },
+   "tags": [
+    "片头片尾",
+    "3D质感",
+    "剪辑节奏"
+   ],
+   "id": "2026-10-26-03",
+   "embed": "https://player.vimeo.com/video/1235907762?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1235907762",
+   "cover": "covers/2026-10-26/03.jpg"
+  },
+  {
+   "cat": "英雄镜头 · CG",
+   "title": "Ferrari Hypersail 发布片",
+   "author": "FutureDeluxe",
+   "date": "Vimeo 04-24 上传，Motionographer 10-16 收录（超过 7 天）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1186261079"
+    ]
+   ],
+   "good": "黑底灰雾里只拍船身局部，黄色涂装线条贴着曲面走，水花和帆面交替出现，最后才给完整船体和 logo",
+   "borrow": "实测新硬件时先拍 3 个局部特写（边框、接口、logo），最后一镜才给全貌",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "3D质感",
+    "片头片尾"
+   ],
+   "id": "2026-10-26-04",
+   "embed": "https://player.vimeo.com/video/1186261079?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1186261079",
+   "cover": "covers/2026-10-26/04.jpg"
+  },
+  {
+   "cat": "英雄镜头 · 微距",
+   "title": "Iteration",
+   "author": "Sandro Bocci",
+   "date": "Vimeo 09-07 上传，10-23 进 Staff Pick",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1224671736"
+    ]
+   ],
+   "good": "全片只拍珊瑚表面，每个镜头一个纹理、一个焦点，暗背景把颗粒和褶皱的立体感托出来；颜色偏艳，属于珊瑚本身的荧光",
+   "borrow": "B-roll 用手机微距镜头贴近拍键盘、芯片、布料纹理，暗背景单一焦点，当转场垫镜",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "只下载了前 2 分钟"
+    ]
+   },
+   "tags": [
+    "实拍剪辑"
+   ],
+   "id": "2026-10-26-05",
+   "embed": "https://player.vimeo.com/video/1224671736?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1224671736",
+   "cover": "covers/2026-10-26/05.jpg"
+  },
+  {
+   "cat": "产品 B-roll · 材质",
+   "title": "Sonic Studies #1: Textiles & Fashion",
+   "author": "Cypher（视觉作者页面上没署名）",
+   "date": "Vimeo 10-08 上传，Stash 10-16 收录（超过 7 天）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1234054708"
+    ]
+   ],
+   "good": "纱筒、纱线、布面、外套都拍得很近，暖灰低饱和，布料的纹路和褶皱看得清，结尾外套像有人在里面一样自己抱起胳膊",
+   "borrow": "讲某个产品时，先拍它最有手感的材质特写，再给整体",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "3D质感",
+    "实拍剪辑"
+   ],
+   "id": "2026-10-26-06",
+   "embed": "https://player.vimeo.com/video/1234054708?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1234054708",
+   "cover": "covers/2026-10-26/06.jpg"
+  },
+  {
+   "cat": "剪辑转场",
+   "title": "OUR PLANET",
+   "author": "FRAME，给 Ege Carpets x Gensler",
+   "date": "Vimeo 10-05 上传，Stash 10-18 收录（超过 7 天）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1233064601"
+    ]
+   ],
+   "good": "航拍地貌（河流、农田圆斑、山脊）和同纹理的地毯特写来回接，靠纹理相似做转场，观众分不清哪个是地面哪个是地毯。Stash 报道说制作里用了 AI",
+   "borrow": "讲两个东西「像」的时候，用形状或纹理相同的两个特写直接硬接",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "转场",
+    "实拍剪辑"
+   ],
+   "id": "2026-10-26-07",
+   "embed": "https://player.vimeo.com/video/1233064601?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1233064601",
+   "cover": "covers/2026-10-26/07.jpg"
+  },
+  {
+   "cat": "知识讲解",
+   "title": "America's Most Illegal Military Base",
+   "author": "Wendover Productions",
+   "date": "YouTube 10-21（只看了前 2 分钟）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=vIGub9r4a2o"
+    ]
+   ],
+   "good": "深色海面地图上只亮一座岛，法律文件用实物纸张俯拍加黄色高亮，新闻素材和地图交替，信息一次只给一个",
+   "borrow": "讲政策或条款时，把原文打印出来放桌上俯拍，用黄色高亮框出那一句",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "只下载、只看了前 2 分钟"
+    ]
+   },
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "id": "2026-10-26-08",
+   "embed": "https://www.youtube-nocookie.com/embed/vIGub9r4a2o?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=vIGub9r4a2o",
+   "cover": "covers/2026-10-26/08.jpg"
+  },
+  {
+   "cat": "字体版式 · 代码",
+   "title": "Atelier UI：WebGL 接管 DOM 的效果库",
+   "author": "Codrops",
+   "date": "10-21",
+   "links": [
+    [
+     "Codrops 文章和演示 ↗",
+     "https://tympanus.net/codrops/2026/10/21/atelier-ui-webgl-dom/"
+    ]
+   ],
+   "good": "白底黑色大字 CODROPS 被切开、错位、弯曲，配一张人像特写；三张同图分别做液体、像素、镜头三种 WebGL 效果，版面是规整的网格小字。附源码。像素那张有点故障风，借的时候少用。字体未识别",
+   "borrow": "竖屏标题用超大黑字铺满宽度，再用 shader 做一次拉扯，其余信息全用小字",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "演示页录屏，无声"
+    ]
+   },
+   "tags": [
+    "字体版式",
+    "代码动画"
+   ],
+   "id": "2026-10-26-09",
+   "embed": "none",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/10/21/atelier-ui-webgl-dom/",
+   "cover": "covers/2026-10-26/09.jpg"
+  },
+  {
+   "cat": "实物动画",
+   "title": "Diptyque「Médicis」",
+   "author": "Chris Ullens",
+   "date": "Vimeo 05-30 上传，Motionographer 10-08 收录（超过 7 天）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1196912145"
+    ]
+   ],
+   "good": "整片奶油色单色系，3D 打印的小木偶工人在拱形小作坊里做蜡瓶，暖色顶光、前中后景分明，最后单拍白色蜡瓶和凸起的 logo 浮雕",
+   "borrow": "介绍工具「内部怎么工作」时，搭一个单色小场景用实物或 3D 做成小作坊，比画流程图更好看",
+   "media": {
+    "ratio": "h"
+   },
+   "tags": [
+    "实物动画",
+    "3D质感"
+   ],
+   "id": "2026-10-26-10",
+   "embed": "https://player.vimeo.com/video/1196912145?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1196912145",
+   "cover": "covers/2026-10-26/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（12 条）",
+ "cut": [
+  {
+   "title": "Finish It（Terry Fox Foundation）",
+   "author": "Adrian Villagomez & Mathematic",
+   "link": "https://vimeo.com/1239323190",
+   "why": "精修 3D 卡通角色群像，人多画面满",
+   "cover": "covers/2026-10-26/cut-01.jpg"
+  },
+  {
+   "title": "Bullpadel Xplo 02",
+   "author": "Kutuko",
+   "link": "https://vimeo.com/1223033158",
+   "why": "砸网、碎玻璃、裂地面，破坏特效堆砌，偏炫技；Vimeo 上传是 9-01",
+   "cover": "covers/2026-10-26/cut-02.jpg"
+  },
+  {
+   "title": "Together",
+   "author": "Kim Soobin",
+   "link": "https://vimeo.com/1234299289",
+   "why": "绘本手作感加卡通角色，偏独立手作，不够精致商业",
+   "cover": "covers/2026-10-26/cut-03.jpg"
+  },
+  {
+   "title": "The Continuous Thread",
+   "author": "Tomakti Studio",
+   "link": "https://vimeo.com/1193744464",
+   "why": "宇宙爆炸、星云大光效，字幕又小又淡",
+   "cover": "covers/2026-10-26/cut-04.jpg"
+  },
+  {
+   "title": "Made By Dyslexia",
+   "author": "Art&Graft",
+   "link": "https://vimeo.com/1200148947",
+   "why": "精修 3D 卡通角色，紫色辉光多",
+   "cover": "covers/2026-10-26/cut-05.jpg"
+  },
+  {
+   "title": "Food Forest Ketelbroek",
+   "author": "Freek Freriks",
+   "link": "https://vimeo.com/1200030245",
+   "why": "动画里大量景深虚化，前景常糊一片，踩了「不要」",
+   "cover": "covers/2026-10-26/cut-06.jpg"
+  },
+  {
+   "title": "What If We Cool Down the Sun?",
+   "author": "Kurzgesagt",
+   "link": "https://www.youtube.com/watch?v=35No369rmq0",
+   "why": "扁平高饱和，没有立体感",
+   "cover": "covers/2026-10-26/cut-07.jpg"
+  },
+  {
+   "title": "Why M&M's is spending millions to change its blue candy",
+   "author": "Vox",
+   "link": "https://www.youtube.com/watch?v=rI646gHQYmQ",
+   "why": "竖屏网络连线画质，书架背景杂，精致度不够",
+   "cover": "covers/2026-10-26/cut-08.jpg"
+  },
+  {
+   "title": "What Is That Red Dot?",
+   "author": "Cleo Abram",
+   "link": "https://www.youtube.com/watch?v=PBPLhvsR9V8",
+   "why": "红色爆炸光效加贴纸字，太满",
+   "cover": "covers/2026-10-26/cut-09.jpg"
+  },
+  {
+   "title": "The new Apple TV 4K",
+   "author": "Apple",
+   "link": "https://www.youtube.com/watch?v=bNdmGYamiWM",
+   "why": "10-13 发布超过 7 天，画面多是扁平渐变卡片",
+   "cover": "covers/2026-10-26/cut-10.jpg"
+  },
+  {
+   "title": "search bubbles",
+   "author": "pooool（60fps 收录）",
+   "link": "https://x.com/60fpsdesign/status/2113268997932343490",
+   "why": "只有 2 秒，元素太小，看不出立体",
+   "cover": "covers/2026-10-26/cut-11.jpg"
+  },
+  {
+   "title": "PaperDrops 作品集",
+   "author": "Carmen Ansio（Codrops 10-24）",
+   "link": "https://tympanus.net/codrops/2026/10/24/carmen-ansio/",
+   "why": "配图像 AI 生成，正文是 lorem ipsum，模板感重",
+   "cover": "covers/2026-10-26/cut-12.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 3 条",
+  "toc": "细拆：Meta Connect 开场片",
+  "title": "一个形状、五种材质、全部硬切",
+  "flag": "【看过视频】",
+  "lede": "31 秒全片完整看过。整支片只有一个无限符号，不靠转场特效，只靠「同一形状换材质 + 硬切 + 慢-快-慢节奏 + 剪辑点卡鼓」。下面的秒数都是看片实测，可以直接抄进 Remotion 的 Sequence 表（30fps 下帧数＝秒×30）。",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://vimeo.com/1235907762"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "节奏表",
+    "ul": [
+     "0:00–0:02 扁平 logo（帧 0–60）",
+     "0:02–0:04 白字「Build the future」；0:05–0:07「with us」。字只淡入淡出，不缩放、不做文字动画",
+     "0:07 起进 3D 段，第一刀落在军鼓/拍手上：针织、苔藓、玻璃、镀铬、苔藓材质特写，各约 1 秒（帧 210–360）",
+     "0:12–0:14 慢下来：苔藓全景 logo 停 2 秒",
+     "0:14 镀铬特写、0:15 木头特写，各 1 秒",
+     "0:16–0:18 针织全景 2 秒；0:18–0:19 玻璃全景 1 秒",
+     "0:19–0:24 突然加速：约 5 个 0.5–1 秒的镀铬特写快切，卡人声切片和军鼓（帧 570–720）",
+     "0:24 切到镀铬全景 logo，正好落在高潮重拍，停 7 秒到结尾；约 0:30 渐黑（帧 900）"
+    ],
+    "after": "3D 段一共约 17 刀。规律是：特写 1 秒一刀 → 全景停 2 秒喘口气 → 再特写 → 最后 0.5 秒级快切冲高潮 → 全景长停。"
+   },
+   {
+    "h": "转场",
+    "p": "全部硬切，没有遮挡、溶解，也没有原地换材质。多数切点借运动峰值：镜头沿无限符号的曲面快速滑行，动势把观众带过剪辑点，下一刀直接是新角度、新材质。"
+   },
+   {
+    "h": "镜头",
+    "ul": [
+     "特写：沿曲面快速推移或摇，带明显浅景深（0:08 苔藓、0:14 镀铬最明显）",
+     "全景：很慢的推近，logo 本身不转",
+     "0:19–0:24 的快摇有明显运动模糊"
+    ]
+   },
+   {
+    "h": "颜色（取色近似值）",
+    "chips": [
+     [
+      "#001235",
+      "开头结尾底色·深"
+     ],
+     [
+      "#00478B",
+      "开头结尾底色·浅"
+     ],
+     [
+      "#1BA8A6",
+      "针织段底色"
+     ],
+     [
+      "#964319",
+      "木头段底色"
+     ],
+     [
+      "#5EABE2",
+      "玻璃段底色"
+     ]
+    ],
+    "after": "每种材质配一个自己的背景色，背景永远是空的渐变，没有地面。"
+   },
+   {
+    "h": "光和材质",
+    "ul": [
+     "主光大致从上或左上",
+     "镀铬反射的是模拟影棚：一组暖橙粉金灯、一组冷白蓝灯",
+     "玻璃折射浅蓝背景，带锐利高光",
+     "没有地面投影，靠强自阴影和环境遮蔽托出体积"
+    ]
+   },
+   {
+    "h": "在 Remotion / Three.js 里怎么做",
+    "ol": [
+     "只建一个几何体：把 logo 的 SVG 用 `ExtrudeGeometry`（加 bevel）挤出，或导入 glTF。准备一个材质数组：针织/苔藓用 `MeshStandardMaterial` + 法线贴图（针织再加 `sheen`），玻璃用 `MeshPhysicalMaterial` 的 `transmission:1`、低 `roughness`，镀铬用 `metalness:1`、`roughness≈0.05`，木头用木纹贴图",
+     "写一张剪辑表 `cuts=[{from,dur,mat,shot,bg}]`，每条一个 `<Sequence>`。每刀只换 `mat`、相机机位和背景色，刀与刀之间不做任何过渡（硬切）",
+     "特写快扫：取 logo 中线做 `CatmullRomCurve3`，相机用 `getPointAt(t)` 贴着曲面走，每刀 1 秒里 t 走一小段。用 `interpolate` + `Easing.out`，让每刀开头速度最大，这样切点正好在运动峰值上",
+     "全景慢推：2 秒里相机距离只缩 5%–8%，线性，logo 不转",
+     "浅景深用 @react-three/postprocessing 的 `DepthOfField`，只开在特写；0:19–0:24 快切段包一层 Remotion 的 `<CameraMotionBlur>` 做运动模糊",
+     "光：左上一盏主光；镀铬靠 `<Environment>` 里放两组 `Lightformer`（一组暖橙粉金、一组冷白蓝）出反射；不放地面，开 AO（如 N8AO）让自阴影托体积",
+     "字：白色几何无衬线，只用 `interpolate` 做 opacity 淡入淡出，不缩放",
+     "声音先行：先把音乐放进时间线，手标军鼓和重拍的帧号，再把剪辑表的 `from` 对齐上去。第一刀卡军鼓，快切卡人声切片，最后全景卡高潮重拍"
+    ]
+   },
+   {
+    "h": "用在「鱼知道」",
+    "p": "做一个 8–10 秒的短版片头：扁平 logo 1 秒 → 3 种材质特写各 1 秒 → 1 个全景停 1.5 秒 → 3 刀 0.5 秒镀铬快切 → 标准版 logo 停 3 秒。只换材质、不换形状，比加转场特效更高级。"
+   }
+  ]
+ },
+ "sources": "信源：60fps.design、Vimeo Staff Picks、Motionographer、Stash、Codrops、YouTube。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-10-26",
+ "kind": "daily",
+ "slug": "2026-10-26"
+}

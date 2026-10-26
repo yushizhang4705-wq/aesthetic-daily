@@ -163,5 +163,155 @@
    "3D质感"
   ],
   "cat": "UI 动效"
+ },
+ {
+  "id": "2026-10-26-01",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i1",
+  "title": "TwelveLabs 官网开场动画",
+  "author": "TwelveLabs（60fps 收录）· 作者是 AI 公司，这里只看网页动效",
+  "url": "https://x.com/60fpsdesign/status/2114031823831650451",
+  "embed": "x:2114031823831650451",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画"
+ },
+ {
+  "id": "2026-10-26-02",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i2",
+  "title": "Wispr Flow 引导页",
+  "author": "Wispr（60fps 收录）",
+  "url": "https://x.com/60fpsdesign/status/2113673276912554202",
+  "embed": "x:2113673276912554202",
+  "tags": [
+   "UI动效",
+   "字体版式"
+  ],
+  "cat": "UI 动效"
+ },
+ {
+  "id": "2026-10-26-03",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i3",
+  "title": "Meta Connect 2026 Opening Film",
+  "author": "FutureDeluxe",
+  "url": "https://vimeo.com/1235907762",
+  "embed": "https://player.vimeo.com/video/1235907762?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾",
+   "3D质感",
+   "剪辑节奏"
+  ],
+  "cat": "动效 / 片头"
+ },
+ {
+  "id": "2026-10-26-04",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i4",
+  "title": "Ferrari Hypersail 发布片",
+  "author": "FutureDeluxe",
+  "url": "https://vimeo.com/1186261079",
+  "embed": "https://player.vimeo.com/video/1186261079?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "片头片尾"
+  ],
+  "cat": "英雄镜头 · CG"
+ },
+ {
+  "id": "2026-10-26-05",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i5",
+  "title": "Iteration",
+  "author": "Sandro Bocci",
+  "url": "https://vimeo.com/1224671736",
+  "embed": "https://player.vimeo.com/video/1224671736?playsinline=1&dnt=1",
+  "tags": [
+   "实拍剪辑"
+  ],
+  "cat": "英雄镜头 · 微距"
+ },
+ {
+  "id": "2026-10-26-06",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i6",
+  "title": "Sonic Studies #1: Textiles & Fashion",
+  "author": "Cypher（视觉作者页面上没署名）",
+  "url": "https://vimeo.com/1234054708",
+  "embed": "https://player.vimeo.com/video/1234054708?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "实拍剪辑"
+  ],
+  "cat": "产品 B-roll · 材质"
+ },
+ {
+  "id": "2026-10-26-07",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i7",
+  "title": "OUR PLANET",
+  "author": "FRAME，给 Ege Carpets x Gensler",
+  "url": "https://vimeo.com/1233064601",
+  "embed": "https://player.vimeo.com/video/1233064601?playsinline=1&dnt=1",
+  "tags": [
+   "转场",
+   "实拍剪辑"
+  ],
+  "cat": "剪辑转场"
+ },
+ {
+  "id": "2026-10-26-08",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i8",
+  "title": "America's Most Illegal Military Base",
+  "author": "Wendover Productions",
+  "url": "https://www.youtube.com/watch?v=vIGub9r4a2o",
+  "embed": "https://www.youtube-nocookie.com/embed/vIGub9r4a2o?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "知识讲解"
+ },
+ {
+  "id": "2026-10-26-09",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i9",
+  "title": "Atelier UI：WebGL 接管 DOM 的效果库",
+  "author": "Codrops",
+  "url": "https://tympanus.net/codrops/2026/10/21/atelier-ui-webgl-dom/",
+  "embed": "none",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码"
+ },
+ {
+  "id": "2026-10-26-10",
+  "date": "2026-10-26",
+  "kind": "daily",
+  "report": "reports/2026-10-26.html#i10",
+  "title": "Diptyque「Médicis」",
+  "author": "Chris Ullens",
+  "url": "https://vimeo.com/1196912145",
+  "embed": "https://player.vimeo.com/video/1196912145?playsinline=1&dnt=1",
+  "tags": [
+   "实物动画",
+   "3D质感"
+  ],
+  "cat": "实物动画"
  }
 ]
