@@ -1,0 +1,521 @@
+{
+ "kicker": "审美日报 · 周二",
+ "title": "2026-10-27 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天 10 条，全部下载后抽帧看过画面；第 1 条 WAR 片头另外带声音完整看过，标【看过视频】，其余标【看过画面（抽帧）】；Oddfellows、TED-Ed、Catch Me If You Can 只下载了前 2 分钟。WAR（10-05）、Foundry Labs（06-01 上传）、建筑像素转场（10-09）超过 7 天，Datamosh（09-02）超过 30 天；Oddfellows（2021）和 Catch Me If You Can（2002）是经典旧作。看完剔除 16 条放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "片头片尾",
+   "tags": [
+    "片头片尾"
+   ],
+   "title": "WAR — Main Title Sequence",
+   "author": "Imaginary Forces",
+   "date": "Vimeo 10-05 上传（超过 7 天）",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1233092518"
+    ]
+   ],
+   "good": "黑白画布上只有厚涂的黑白颜料笔触，能看到刷毛压出的棱和布纹，到 0:20 音乐炸开时才第一次刷进大片深红。镜头不动，全靠颜料和剪辑：每一刀都硬切在弦乐的重音上。演职员名是很小、字距拉得很开的细无衬线字，最后收在正中的「WAR」。字体未识别",
+   "borrow": "片头只用黑、白加一个留到高潮才出现的强调色；笔触按 2–3 帧一跳出现、不做缓动，剪辑点卡在音乐重音上，字幕小字、大字距、静止不动",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "45 秒全片带声音完整看过"
+    ]
+   },
+   "id": "2026-10-27-01",
+   "embed": "https://player.vimeo.com/video/1233092518?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1233092518",
+   "cover": "covers/2026-10-27/01.jpg"
+  },
+  {
+   "cat": "字体版式 · 品牌片",
+   "tags": [
+    "字体版式",
+    "代码动画"
+   ],
+   "title": "Microsoft | Foundry Labs",
+   "author": "Ranger & Fox · 作者是 AI 业务品牌片，这里只看字和版式",
+   "date": "Vimeo 06-01 上传，Stash 10-21 收录（超过 7 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1197401743"
+    ]
+   ],
+   "good": "全黑底，等宽大写字带下划线和光标，像终端里一行行打出来（A_BREAKTHROUGH_、NOW_IT_TAKES_A_WEEKEND.）；画面切成网格小窗，放风暴、水滴、分子素材，最后落 logo。没有旁白。字体未识别（等宽）",
+   "borrow": "讲 AI 概念的标题卡用等宽字加闪烁光标逐字打出，配一两格网格素材，比大标题动画更克制",
+   "media": {
+    "ratio": "h"
+   },
+   "id": "2026-10-27-02",
+   "embed": "https://player.vimeo.com/video/1197401743?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1197401743",
+   "cover": "covers/2026-10-27/02.jpg"
+  },
+  {
+   "cat": "3D质感 · 产品片",
+   "tags": [
+    "3D质感"
+   ],
+   "title": "The new iPad mini",
+   "author": "Apple",
+   "date": "YouTube 10-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=3pQYJ_Um7YI"
+    ]
+   ],
+   "good": "纯白底，机身侧立旋转只露一条细边，芯片渲染、Siri 胶囊、一行黑字里只把一个词染蓝；结尾是光面立体的「mini」字压在 9:41 锁屏上",
+   "borrow": "讲硬件时用 Three.js 让机身侧面转一圈只露厚度，文字一句话只标一个蓝色关键词",
+   "media": {
+    "ratio": "h"
+   },
+   "id": "2026-10-27-03",
+   "embed": "https://www.youtube-nocookie.com/embed/3pQYJ_Um7YI?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=3pQYJ_Um7YI",
+   "cover": "covers/2026-10-27/03.jpg"
+  },
+  {
+   "cat": "UI动效",
+   "tags": [
+    "UI动效",
+    "3D质感"
+   ],
+   "title": "水面物理图标（Apple Health 概念）",
+   "author": "@rajavijayaraman（60fps 收录）",
+   "date": "X 10-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2114586302331113498"
+    ]
+   ],
+   "good": "深色手机界面下半截是一汪暗水，白色圆角图标里一颗红心半浮半沉，带细小气泡上下晃，其他元素都不动",
+   "borrow": "竖屏讲「数据存在本地/沉在底下」这类概念时，让一个图标在水面浮沉，只动这一个元素",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "原帖 15 秒，无声"
+    ]
+   },
+   "id": "2026-10-27-04",
+   "embed": "x:2114586302331113498",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2114586302331113498",
+   "cover": "covers/2026-10-27/04.jpg"
+  },
+  {
+   "cat": "字体版式 · 网页",
+   "tags": [
+    "字体版式",
+    "转场"
+   ],
+   "title": "Maria Vasilyeva 作品集",
+   "author": "Maria Vasilyeva（Codrops 10-20 收录）",
+   "date": "10-20",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "none",
+   "links": [
+    [
+     "Codrops 文章和演示 ↗",
+     "https://tympanus.net/codrops/2026/10/20/maria-vasilyeva-portfolio/"
+    ]
+   ],
+   "good": "纯黑白，超大衬线大写字（COMPOSING VISUAL NARRATIVES）铺满屏，字母会被横向拉长再收回；菜单是 NOTES / MELODY / OVERTURE / JAZZ，翻页用高低不齐的黑色竖条盖过去。字体未识别（衬线）",
+   "borrow": "标题字横向拉丝再归位当入场动画；章节切换用一排长短不一的黑条从下往上盖满",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 文章里的演示录屏，拼起来看的，无声"
+    ]
+   },
+   "id": "2026-10-27-05",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/10/20/maria-vasilyeva-portfolio/",
+   "cover": "covers/2026-10-27/05.jpg"
+  },
+  {
+   "cat": "转场 · 网页",
+   "tags": [
+    "转场",
+    "代码动画"
+   ],
+   "title": "极简建筑事务所网站（Astro + GSAP）",
+   "author": "Codrops 教程",
+   "date": "10-09（超过 7 天）",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "none",
+   "links": [
+    [
+     "Codrops 文章和演示 ↗",
+     "https://tympanus.net/codrops/2026/10/09/architecture-studio-astro-gsap/"
+    ]
+   ],
+   "good": "奶油色底，页面切换时一片黑、灰、少量黄色的方块像素从下往上铺满再散开，建筑照片也按像素块露出来；标题是蓝色窄体大字 SELECTED WORKS。附源码。字体未识别",
+   "borrow": "两段内容之间用像素方块铺满再散开当转场，颜色只用黑、灰加一个强调色",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 文章里的演示录屏，拼起来看的，无声"
+    ]
+   },
+   "id": "2026-10-27-06",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/10/09/architecture-studio-astro-gsap/",
+   "cover": "covers/2026-10-27/06.jpg"
+  },
+  {
+   "cat": "转场 · 代码",
+   "tags": [
+    "转场",
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "Breaking the Frame：Three.js 实时 Datamosh",
+   "author": "Codrops 教程",
+   "date": "09-02（超过 30 天）",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "none",
+   "links": [
+    [
+     "Codrops 文章和演示 ↗",
+     "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/"
+    ]
+   ],
+   "good": "黑底上一个奶白色光面三叶结在转，动起来时表面被拖出像素拖影、像视频压缩坏帧，停下又恢复干净；中间有调试用的运动矢量和网格画面。附源码",
+   "borrow": "两个镜头之间用一次 datamosh 拖影当转场，只用一下，主体保持单色光面",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 文章里的演示录屏，拼起来看的，无声"
+    ]
+   },
+   "id": "2026-10-27-07",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/",
+   "cover": "covers/2026-10-27/07.jpg"
+  },
+  {
+   "cat": "知识讲解 · 经典",
+   "tags": [
+    "知识讲解",
+    "MG",
+    "字体版式"
+   ],
+   "title": "Creativity Explained - What is layout?",
+   "author": "Oddfellows",
+   "date": "2021 年作品（经典，Vimeo 2021-09-03 上传）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/597500442"
+    ]
+   ],
+   "good": "讲「版式是什么」本身就是一页页杂志版式：网格线、粗体无衬线标题、黑白照片加一块蓝或红色块，红椅子在网格里移位、再出现在广告牌上。字体未识别",
+   "borrow": "讲概念时把画面直接做成杂志页，先显出网格线再让元素落位，每页一个强调色",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "只下载、只看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-27-08",
+   "embed": "https://player.vimeo.com/video/597500442?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/597500442",
+   "cover": "covers/2026-10-27/08.jpg"
+  },
+  {
+   "cat": "知识讲解 · MG",
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "title": "Why does this animal never age?",
+   "author": "TED-Ed（Raymond Adkins）",
+   "date": "YouTube 10-20",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=NPJ9KZqrl50"
+    ]
+   ],
+   "good": "灰绿低饱和底、带纸纹，水螅是一根细细的亮绿线条，标注只用一根细箭头；开头先给一句引文白卡，再进罐子特写和人物，信息一次一个",
+   "borrow": "科普开场先放一张白底引文卡，主角用一种亮色，背景压到低饱和带纸纹",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "只下载、只看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-27-09",
+   "embed": "https://www.youtube-nocookie.com/embed/NPJ9KZqrl50?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=NPJ9KZqrl50",
+   "cover": "covers/2026-10-27/09.jpg"
+  },
+  {
+   "cat": "片头片尾 · 经典",
+   "tags": [
+    "片头片尾",
+    "MG"
+   ],
+   "title": "Catch Me If You Can 片头",
+   "author": "Kuntzel + Deygas（YouTube 是网友转载）",
+   "date": "2002 年作品（经典）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=odtsqvUNp64"
+    ]
+   ],
+   "good": "剪影小人在大色块里走，每段一个底色（天蓝、橙黄、黑红、粉），竖线、跑道线、书架格子把画面切开，演职员名直接嵌在场景里",
+   "borrow": "片尾字幕不叠在画面上，而是放进场景里当招牌、书脊；每段换一个底色，人物全用剪影",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "只下载、只看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-27-10",
+   "embed": "https://www.youtube-nocookie.com/embed/odtsqvUNp64?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=odtsqvUNp64",
+   "cover": "covers/2026-10-27/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（16 条）",
+ "cut": [
+  {
+   "title": "ADC 106th Annual Awards Launch Film",
+   "author": "DixonBaxi",
+   "link": "https://vimeo.com/1235279682",
+   "why": "开头金色徽章不错，后面荧光品红绿大色块和镀铬箭头太吵",
+   "cover": "covers/2026-10-27/cut-01.jpg"
+  },
+  {
+   "title": "ADC 106「Search Everywhere」",
+   "author": "DixonBaxi",
+   "link": "https://vimeo.com/1235279863",
+   "why": "8 秒荧光箭头绕 logo，和上一条同一套，更吵",
+   "cover": "covers/2026-10-27/cut-02.jpg"
+  },
+  {
+   "title": "Query",
+   "author": "Brent Bonacorso",
+   "link": "https://vimeo.com/1223750139",
+   "why": "实拍剧情短片，8 分钟，剪辑上没有可借的转场",
+   "cover": "covers/2026-10-27/cut-03.jpg"
+  },
+  {
+   "title": "The Art Of Entering The Sea",
+   "author": "Marko Roth",
+   "link": "https://vimeo.com/1225933284",
+   "why": "胶片感实拍海边，好看但纯实拍，抽帧看不出特别的剪辑手法",
+   "cover": "covers/2026-10-27/cut-04.jpg"
+  },
+  {
+   "title": "K/DA「Firestarter」MV",
+   "author": "Riot Games",
+   "link": "https://www.youtube.com/watch?v=Mmw-PpWhKFg",
+   "why": "火焰霓虹角色动画，太炫太满",
+   "cover": "covers/2026-10-27/cut-05.jpg"
+  },
+  {
+   "title": "Flowers and People…",
+   "author": "teamLab",
+   "link": "https://www.youtube.com/watch?v=jSg_lE_VRjo",
+   "why": "投影房间满屏花色，太密；7 月发布",
+   "cover": "covers/2026-10-27/cut-06.jpg"
+  },
+  {
+   "title": "ripple reveal",
+   "author": "60fps 收录",
+   "link": "https://x.com/60fpsdesign/status/2114770231755452910",
+   "why": "不到 2 秒，元素太小，看不清",
+   "cover": "covers/2026-10-27/cut-07.jpg"
+  },
+  {
+   "title": "Claude duet",
+   "author": "60fps 收录",
+   "link": "https://x.com/60fpsdesign/status/2113323150821953838",
+   "why": "白屏上的放射线太小，又是 AI 产品界面",
+   "cover": "covers/2026-10-27/cut-08.jpg"
+  },
+  {
+   "title": "Scroll-Driven Ghost Trails",
+   "author": "Codrops 教程",
+   "link": "https://tympanus.net/codrops/2026/10/13/scroll-driven-ghost-trails/",
+   "why": "大字拖尾效果有意思，但项目卡片拼贴画面偏乱",
+   "cover": "covers/2026-10-27/cut-09.jpg"
+  },
+  {
+   "title": "Animating with Agents（Animaxxing）",
+   "author": "Codrops",
+   "link": "https://tympanus.net/codrops/2026/10/26/animating-agents-gsap-animaxxing/",
+   "why": "主题是用 AI agent 做动画，几套复古主题风格混杂",
+   "cover": "covers/2026-10-27/cut-10.jpg"
+  },
+  {
+   "title": "Parallel Page Transitions（GSAP + React Router）",
+   "author": "Codrops 教程",
+   "link": "https://tympanus.net/codrops/2026/10/08/building-parallel-page-transitions-with-gsap-and-react-router/",
+   "why": "砖建筑那页不错，但和像素转场那条重复，转场已有 3 条",
+   "cover": "covers/2026-10-27/cut-11.jpg"
+  },
+  {
+   "title": "The Plane That's 38% Nose",
+   "author": "Real Engineering",
+   "link": "https://www.youtube.com/watch?v=6B96xetwrqI",
+   "why": "CG 飞机渲染偏常规，热力图配色刺眼",
+   "cover": "covers/2026-10-27/cut-12.jpg"
+  },
+  {
+   "title": "Araldica — Sound-based motion toolkit",
+   "author": "ILLO",
+   "link": "https://vimeo.com/1220784560",
+   "why": "纹章像素图形很有系统感，但红黄绿粉高饱和撞色太满",
+   "cover": "covers/2026-10-27/cut-13.jpg"
+  },
+  {
+   "title": "Meta VR Glasses",
+   "author": "FutureDeluxe",
+   "link": "https://vimeo.com/1231231859",
+   "why": "大部分是实拍产品广告，UI 叠加只有几镜；Meta 开场片昨天已收",
+   "cover": "covers/2026-10-27/cut-14.jpg"
+  },
+  {
+   "title": "What I've been working on all year",
+   "author": "Johnny Harris",
+   "link": "https://www.youtube.com/watch?v=sOz7gG74OIw",
+   "why": "纯实拍预告片，转场常规",
+   "cover": "covers/2026-10-27/cut-15.jpg"
+  },
+  {
+   "title": "5 sneaky ways stores get you to spend more",
+   "author": "TED-Ed",
+   "link": "https://www.youtube.com/watch?v=a_4eFB8pPwI",
+   "why": "卡通角色加迷幻彩虹背景，比水螅那条吵",
+   "cover": "covers/2026-10-27/cut-16.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "toc": "细拆：WAR 片头",
+  "title": "一块画布、三种颜色、全部硬切",
+  "flag": "【看过视频】",
+  "lede": "45 秒全片带声音完整看过。这支片头镜头几乎不动，也没有任何转场特效，只靠厚涂颜料、2–3 帧一跳的笔触和卡在弦乐重音上的硬切撑起来。下面的秒数都是看片记下的，可以直接抄进 Remotion 的 Sequence 表（30fps 下帧数＝秒×30）",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://vimeo.com/1233092518"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "好在哪",
+    "ul": [
+     "材质是真的「厚」：不是纸上的水墨，而是布纹画布上的厚涂颜料（像油画或丙烯），刷毛压出的棱清清楚楚，光一照就有立体感。看不出是实拍定格还是 CG，合成痕迹应该不少",
+     "克制：整片只有黑、白、深红三种颜色，红色憋到 0:20 才出现，一出来就是满屏斜刷，情绪一下子顶上去",
+     "镜头锁死，只有极轻微的漂移，所有能量都来自颜料和剪辑",
+     "剪辑跟着音乐走：快速弦乐反复型里的每个打击重音都是一刀，45 秒大约 25 个镜头，多数 1–3 秒一个"
+    ]
+   },
+   {
+    "h": "节奏表",
+    "ul": [
+     "0:00–0:01 黑底上，一道白色笔触沿左边缘刷下",
+     "0:01–0:04 白底中央一团黑颜料堆起来，斜向的窗光阴影在画面上慢慢移动",
+     "0:06 第一组演职员名出现",
+     "0:10 分屏：左边黑颜料，右边露出的生画布",
+     "0:19–0:20 光面黑颜料的微距特写",
+     "0:20 音乐大爆发，红色第一次进场：满屏斜向红色笔触",
+     "0:33–0:37 红和黑互相叠刷、混在一起",
+     "0:42–0:45 最后一个重音落下，黑底，「WAR」在正中慢慢淡入（同一种字体，放大，静止），音乐余音后戛然而止"
+    ],
+    "after": "规律：前 20 秒只有黑白，在黑底和白底之间来回切；0:20 红色登场是全片唯一的「换挡」；结尾回到黑底，只留标题"
+   },
+   {
+    "h": "配色（取色近似值）",
+    "chips": [
+     [
+      "#0D0D0D",
+      "黑颜料 / 黑画布（近似）"
+     ],
+     [
+      "#F2F0EB",
+      "白画布（近似）"
+     ],
+     [
+      "#9B1B1E",
+      "深红（近似）"
+     ]
+    ],
+    "after": "只有这三色，没有渐变色、没有第四种颜色。白底镜头字用黑，黑底镜头字用白"
+   },
+   {
+    "h": "笔触和光",
+    "ul": [
+     "笔触不是「刷子划过去慢慢露出来」，而是几帧一块、一块一块跳出来，像定格动画，速度恒定，没有缓入缓出",
+     "背景在白画布和黑画布之间交替",
+     "白底镜头上有一道柔和的斜向窗光阴影，匀速慢慢漂移，完全不理会音乐节奏，和快剪形成对比"
+    ]
+   },
+   {
+    "h": "字幕",
+    "ul": [
+     "很小的细无衬线字，字距拉得很开，完全静止，不做任何文字动画",
+     "约 0.5 秒淡入，停住，然后在切镜前淡出，或者直接跟着镜头一起切掉",
+     "放在画面空的地方：左上角成块排列，或者靠两侧",
+     "字体：未识别"
+    ]
+   },
+   {
+    "h": "在 Remotion 里怎么做",
+    "ol": [
+     "先放音乐：把配乐拖进时间线，手标每个打击重音的帧号，做一张剪辑表 `cuts=[{from,dur,bg,layer}]`，每条一个 `<Sequence>`。镜头和镜头之间不加任何过渡，就是硬切",
+     "笔触：两种做法任选。一是把颜料笔触拍照或渲染成序列帧（sprite），用 `<Img>` 按帧号换图；二是一张厚涂颜料贴图加一个遮罩，遮罩一段一段变大。关键是每 2–3 帧才跳一次：`const step=Math.floor(frame/3)`，用 step 算进度，不用 `interpolate` 的缓动，速度保持恒定",
+     "画布质感：底层铺一张布纹画布贴图（白、黑各一张），笔触层加一点法线或浮雕感的高光，让刷毛棱在光下有立体感",
+     "窗光阴影：白底镜头上叠一层斜向的柔边渐变（`linear-gradient` 加大模糊），`translateX` 随帧线性移动，用 `Easing.linear`，不跟节拍",
+     "字幕：小号细无衬线，`letterSpacing` 设到 0.3–0.5em，位置固定。只用 `interpolate(frame,[0,15],[0,1])` 做 0.5 秒（30fps 下 15 帧）的透明度淡入，切镜前同样 15 帧淡出，或者直接随镜头切掉。白底用黑字、黑底用白字",
+     "红色留到高潮：剪辑表里前 20 秒只允许黑白，0:20 那一刀才第一次用红色笔触层，满屏斜刷",
+     "结尾：最后一个重音切到纯黑底，「WAR」放在正中，同一字体放大，慢慢淡入后静止，音乐一断就结束"
+    ]
+   },
+   {
+    "h": "注意事项",
+    "ul": [
+     "颜色别加：一旦多出第四种颜色或渐变，这种克制感就没了",
+     "笔触别加缓动：一加 ease 就变成普通的「刷子划出」效果，失去定格的手作感",
+     "剪辑点一定要对准重音，差两三帧就会显得拖；先标好音乐再剪",
+     "窗光阴影要慢、要匀速，它是全片唯一「不跟节奏」的东西，正是靠它让画面有呼吸",
+     "字幕要小、要静，别做弹跳或打字机效果",
+     "画布和颜料贴图最好自己拍或自己做，别直接截原片素材"
+    ]
+   },
+   {
+    "h": "用在「鱼知道」",
+    "p": "做一个 6–8 秒的黑白片头：前几刀只用黑白笔触卡鼓点，最后一刀刷进一笔品牌强调色，落在正中的小字标题上。不用任何转场特效，也能很有质感"
+   }
+  ]
+ },
+ "sources": "信源：Vimeo、Stash、60fps.design、Codrops、YouTube。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-10-27",
+ "kind": "daily",
+ "slug": "2026-10-27"
+}

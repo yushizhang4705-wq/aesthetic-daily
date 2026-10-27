@@ -313,5 +313,155 @@
    "3D质感"
   ],
   "cat": "实物动画"
+ },
+ {
+  "id": "2026-10-27-01",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i1",
+  "title": "WAR — Main Title Sequence",
+  "author": "Imaginary Forces",
+  "url": "https://vimeo.com/1233092518",
+  "embed": "https://player.vimeo.com/video/1233092518?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾"
+  ],
+  "cat": "片头片尾"
+ },
+ {
+  "id": "2026-10-27-02",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i2",
+  "title": "Microsoft | Foundry Labs",
+  "author": "Ranger & Fox · 作者是 AI 业务品牌片，这里只看字和版式",
+  "url": "https://vimeo.com/1197401743",
+  "embed": "https://player.vimeo.com/video/1197401743?playsinline=1&dnt=1",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 品牌片"
+ },
+ {
+  "id": "2026-10-27-03",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i3",
+  "title": "The new iPad mini",
+  "author": "Apple",
+  "url": "https://www.youtube.com/watch?v=3pQYJ_Um7YI",
+  "embed": "https://www.youtube-nocookie.com/embed/3pQYJ_Um7YI?playsinline=1&rel=0",
+  "tags": [
+   "3D质感"
+  ],
+  "cat": "3D质感 · 产品片"
+ },
+ {
+  "id": "2026-10-27-04",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i4",
+  "title": "水面物理图标（Apple Health 概念）",
+  "author": "@rajavijayaraman（60fps 收录）",
+  "url": "https://x.com/60fpsdesign/status/2114586302331113498",
+  "embed": "x:2114586302331113498",
+  "tags": [
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "UI动效"
+ },
+ {
+  "id": "2026-10-27-05",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i5",
+  "title": "Maria Vasilyeva 作品集",
+  "author": "Maria Vasilyeva（Codrops 10-20 收录）",
+  "url": "https://tympanus.net/codrops/2026/10/20/maria-vasilyeva-portfolio/",
+  "embed": "none",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 网页"
+ },
+ {
+  "id": "2026-10-27-06",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i6",
+  "title": "极简建筑事务所网站（Astro + GSAP）",
+  "author": "Codrops 教程",
+  "url": "https://tympanus.net/codrops/2026/10/09/architecture-studio-astro-gsap/",
+  "embed": "none",
+  "tags": [
+   "转场",
+   "代码动画"
+  ],
+  "cat": "转场 · 网页"
+ },
+ {
+  "id": "2026-10-27-07",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i7",
+  "title": "Breaking the Frame：Three.js 实时 Datamosh",
+  "author": "Codrops 教程",
+  "url": "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/",
+  "embed": "none",
+  "tags": [
+   "转场",
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "转场 · 代码"
+ },
+ {
+  "id": "2026-10-27-08",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i8",
+  "title": "Creativity Explained - What is layout?",
+  "author": "Oddfellows",
+  "url": "https://vimeo.com/597500442",
+  "embed": "https://player.vimeo.com/video/597500442?playsinline=1&dnt=1",
+  "tags": [
+   "知识讲解",
+   "MG",
+   "字体版式"
+  ],
+  "cat": "知识讲解 · 经典"
+ },
+ {
+  "id": "2026-10-27-09",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i9",
+  "title": "Why does this animal never age?",
+  "author": "TED-Ed（Raymond Adkins）",
+  "url": "https://www.youtube.com/watch?v=NPJ9KZqrl50",
+  "embed": "https://www.youtube-nocookie.com/embed/NPJ9KZqrl50?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-10-27-10",
+  "date": "2026-10-27",
+  "kind": "daily",
+  "report": "reports/2026-10-27.html#i10",
+  "title": "Catch Me If You Can 片头",
+  "author": "Kuntzel + Deygas（YouTube 是网友转载）",
+  "url": "https://www.youtube.com/watch?v=odtsqvUNp64",
+  "embed": "https://www.youtube-nocookie.com/embed/odtsqvUNp64?playsinline=1&rel=0",
+  "tags": [
+   "片头片尾",
+   "MG"
+  ],
+  "cat": "片头片尾 · 经典"
  }
 ]
