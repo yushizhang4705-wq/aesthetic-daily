@@ -1,0 +1,421 @@
+{
+ "kicker": "审美日报 · 周三",
+ "title": "2026-10-28 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天 10 条，全部下载后抽帧看过画面，标【看过画面（抽帧）】；Distance 和 The Continuous Thread 只下载了前 2 分钟。Branch Education（10-05）和 Cub Studio（10-05）超过 7 天。今天没有经典旧作。看完剔除 13 条放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "数据可视化 · 竖屏科普",
+   "tags": [
+    "数据可视化",
+    "知识讲解"
+   ],
+   "title": "Guess How Far The Sun Is",
+   "author": "Cleo Abram",
+   "date": "YouTube Shorts 10-27",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/DcAjv8YRKN8"
+    ]
+   ],
+   "good": "全黑底，把八大行星竖着一颗颗叠起来量地月距离，旁边一根荧光黄绿箭头标长度；倍数「192x」「124x」用同色粗体大字放在箭头中间。最后换成篮球场俯视图来比例缩放。底部字幕很小，不抢画面",
+   "borrow": "讲「有多远/多大」时，用 Three.js 把物体排成一列去量，只用一种荧光强调色画箭头和倍数；最后换成生活里的参照物（球场、身高）收尾",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "38 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-01",
+   "embed": "https://www.youtube-nocookie.com/embed/DcAjv8YRKN8?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/DcAjv8YRKN8",
+   "cover": "covers/2026-10-28/01.jpg"
+  },
+  {
+   "cat": "代码动画 · 数学",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "The Sphere Intersection Puzzle",
+   "author": "3Blue1Brown",
+   "date": "YouTube Shorts 10-25",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/V_uq3v6xK-4"
+    ]
+   ],
+   "good": "黑底上两颗青色实心球慢慢重叠，接着变成半透明线框球，交界处露出一片橙红色圆盘；再加上细白坐标轴转视角。全片就青、橙红、白三种颜色",
+   "borrow": "讲抽象概念时先给实心物体，再切线框显出内部，只把要讲的那一块染成对比色；Three.js 里 wireframe 加一个高亮面就能做",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "46 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-02",
+   "embed": "https://www.youtube-nocookie.com/embed/V_uq3v6xK-4?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+   "cover": "covers/2026-10-28/02.jpg"
+  },
+  {
+   "cat": "3D质感 · 竖屏科普",
+   "tags": [
+    "3D质感",
+    "知识讲解"
+   ],
+   "title": "Printing 92 GPU Chips in Just 18 Seconds!",
+   "author": "Branch Education",
+   "date": "YouTube Shorts 10-05（超过 7 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/V8m9UTl9aqw"
+    ]
+   ],
+   "good": "光刻机剖开成白灰色机械模型，紫色光束打在晶圆上；讲精度时画面中间推出一个放大镜圆框，里面标「1 µm」再变「10 nm」。字幕是黑底白字小条，一句一换",
+   "borrow": "讲微观尺度时用一个圆形放大镜框套住局部，框里数字跳一级；机器模型统一白灰色，只给光束一种颜色",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "59 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-03",
+   "embed": "https://www.youtube-nocookie.com/embed/V8m9UTl9aqw?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/V8m9UTl9aqw",
+   "cover": "covers/2026-10-28/03.jpg"
+  },
+  {
+   "cat": "MG · 竖屏科普",
+   "tags": [
+    "MG",
+    "知识讲解"
+   ],
+   "title": "What If We Cool Down the Sun?",
+   "author": "Kurzgesagt – In a Nutshell",
+   "date": "YouTube Shorts 10-24",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/35No369rmq0"
+    ]
+   ],
+   "good": "深蓝紫底的扁平插画，太阳戴墨镜，头顶有个温度表指针往冷那边掉；每个镜头只讲一件事（蜜蜂、海里的鱼、冰封的地球），换场景时整体换主色",
+   "borrow": "竖屏一镜一事，后果一个个往下排；每换一个后果就换一次主色调，观众不用读字也知道话题变了",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "78 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-04",
+   "embed": "https://www.youtube-nocookie.com/embed/35No369rmq0?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/35No369rmq0",
+   "cover": "covers/2026-10-28/04.jpg"
+  },
+  {
+   "cat": "代码动画 · UI",
+   "tags": [
+    "代码动画",
+    "UI动效",
+    "字体版式"
+   ],
+   "title": "What's your mood?（Spotify 概念动效）",
+   "author": "Roland Vale（@heisvale）",
+   "date": "X 10-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/heisvale/status/2114829098706928060"
+    ]
+   ],
+   "good": "作者说用 Remotion 做、最后在 CapCut 修。深墨绿底，开头粗体白字「WHAT'S YOUR MOOD?」，问号是绿色；专辑封面卡片飞进来组成搜索、歌单界面，中间插一段绿色音波条和满屏大字「FEEL EVERYTHING.」。字体未识别（粗体无衬线）",
+   "borrow": "讲产品或网站时不录屏，用 Remotion 把界面拆成卡片重新拼出来；界面段和大字段交替，强调色只用一种",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "32 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-05",
+   "embed": "x:2114829098706928060",
+   "embed_type": "x",
+   "url": "https://x.com/heisvale/status/2114829098706928060",
+   "cover": "covers/2026-10-28/05.jpg"
+  },
+  {
+   "cat": "MG · 手绘",
+   "tags": [
+    "MG",
+    "转场"
+   ],
+   "title": "Distance",
+   "author": "Ordinary Folk（故事来自 Nate DiMeo 的播客 The Memory Palace）",
+   "date": "Stash 10-22",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "none",
+   "links": [
+    [
+     "Stash 文章和原片 ↗",
+     "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/"
+    ]
+   ],
+   "good": "讲摩尔斯（发明电报的那位）的故事，Stash 介绍说是 900 张手绘帧。只有黑白灰：水墨刷出的横条、方块、窗格拼成楼房、人脸、太阳，画面常常被一排横条整个盖过去，再露出下一幕",
+   "borrow": "讲历史故事时只用黑白灰加纸纹，人物和场景都用几何块拼；换场用满屏横条一扫而过，Remotion 里用几个矩形做遮罩就行",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "原片 3 分 26 秒，只下载、只看了前 2 分钟",
+     "原站播放器没法嵌入，点上面链接去 Stash 看"
+    ]
+   },
+   "id": "2026-10-28-06",
+   "embed_type": "none",
+   "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
+   "cover": "covers/2026-10-28/06.jpg"
+  },
+  {
+   "cat": "3D质感 · 产品片",
+   "tags": [
+    "3D质感"
+   ],
+   "title": "Felipe Pantone x Etnia Barcelona",
+   "author": "Spot Studio（导演 Nicolás Cañellas）",
+   "date": "Stash 10-27",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "none",
+   "links": [
+    [
+     "Stash 文章和原片 ↗",
+     "https://www.stashmedia.tv/art-eyewear-collide-in-spot-studios-new-film-for-felipe-pantone-x-etnia-barcelona/"
+    ]
+   ],
+   "good": "纯白底上一副透明加镀铬的眼镜，镜腿上有彩虹渐变；镜头贴得很近扫过铰链和十字纹，中间叠一个像素风的准星光标；结尾退远看整副眼镜，最后只留签名和 logo",
+   "borrow": "讲一个硬件零件时，白底加透明材质，镜头先贴近扫局部再拉远看全貌；彩色只放在物体本身，背景不加东西",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "31 秒全片已下载",
+     "原站播放器没法嵌入，点上面链接去 Stash 看"
+    ]
+   },
+   "id": "2026-10-28-07",
+   "embed_type": "none",
+   "url": "https://www.stashmedia.tv/art-eyewear-collide-in-spot-studios-new-film-for-felipe-pantone-x-etnia-barcelona/",
+   "cover": "covers/2026-10-28/07.jpg"
+  },
+  {
+   "cat": "字体版式 · 开场",
+   "tags": [
+    "字体版式"
+   ],
+   "title": "The Continuous Thread",
+   "author": "Tomakti Studio（Dimitrios Sakkas）",
+   "date": "Motionographer 10-19",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1193744464"
+    ]
+   ],
+   "good": "宽银幕的星云、陨石、行星特效，每个镜头正中只放一行很细的白色无衬线小字（Before time, there was only potential. / Life finds its fuel.），字很淡，后半句再淡入。字体未识别（细体几何无衬线）",
+   "borrow": "宇宙或起源类开场，一镜一句短话，字号小、字重细、放正中，不加底框；画面暗时字也压低亮度",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "原片 5 分 26 秒，只下载、只看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-28-08",
+   "embed": "https://player.vimeo.com/video/1193744464?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1193744464",
+   "cover": "covers/2026-10-28/08.jpg"
+  },
+  {
+   "cat": "MG · 品牌片",
+   "tags": [
+    "MG",
+    "片头片尾"
+   ],
+   "title": "Bremont & Felix the Cat – Watch your 6",
+   "author": "Cub Studio（导演 Fraser Davidson）",
+   "date": "Motionographer 10-05（超过 7 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1170992024"
+    ]
+   ],
+   "good": "黑白 2D 菲利克斯猫和写实 3D 手表放在同一个夜里：飞机剪影划过月亮，猫拿手电照表盘，夜光刻度发青；30 秒后切到满屏亮黄，「WATCH YOUR 6」加一只小猫收尾",
+   "borrow": "2D 卡通角色和 3D 实物同框时，把整体压成黑白，只留一个发光色；片尾直接切一张纯色卡，和前面的暗反差拉满",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "30 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-09",
+   "embed": "https://player.vimeo.com/video/1170992024?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1170992024",
+   "cover": "covers/2026-10-28/09.jpg"
+  },
+  {
+   "cat": "剪辑节奏 · 预告",
+   "tags": [
+    "剪辑节奏",
+    "字体版式"
+   ],
+   "title": "MOTION PLUS DESIGN PARIS 2026 – Trailer",
+   "author": "Motion Plus Design",
+   "date": "Vimeo（上传日期没取到，活动 11-14）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1235860756"
+    ]
+   ],
+   "good": "各位讲者的作品片段一条条快切（粉色充气字、楼梯上滚的橙球、燃烧的 X），中间插纯黑底的白色粗体名字卡和讲者名单；最后是「LE GRAND REX NOV. 14」大字和一排赞助 logo",
+   "borrow": "合集或盘点视频，素材快切几条就插一张纯黑名字卡停一下，形成「快快快-停」的节奏；字只用白色粗体",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "82 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-28-10",
+   "embed": "https://player.vimeo.com/video/1235860756?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1235860756",
+   "cover": "covers/2026-10-28/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（13 条）",
+ "cut": [
+  {
+   "title": "Made By Dyslexia「What Is Dyslexia?」",
+   "author": "Art&Graft",
+   "link": "https://vimeo.com/1200148947",
+   "why": "角色叙事动画，讲得清楚但画面和镜头手法没有特别可借的",
+   "cover": "covers/2026-10-28/cut-01.jpg"
+  },
+  {
+   "title": "Food Forest – Ketelbroek",
+   "author": "Freek Freriks",
+   "link": "https://vimeo.com/1200030245",
+   "why": "Houdini 微缩森林很美，但今天 3D 质感已经满 3 条",
+   "cover": "covers/2026-10-28/cut-02.jpg"
+  },
+  {
+   "title": "Terry Fox「Finish It」",
+   "author": "Adrian Villagomez & Mathematic",
+   "link": "https://vimeo.com/1239323190",
+   "why": "移轴人群叙事，偏广告情绪片，3D 也已满额",
+   "cover": "covers/2026-10-28/cut-03.jpg"
+  },
+  {
+   "title": "Verizon London Hub",
+   "author": "FutureDeluxe",
+   "link": "https://www.stashmedia.tv/futuredeluxe-zooms-way-out-for-verizon-london-hub-film/",
+   "why": "FutureDeluxe 最近已经推过两次，换换口味",
+   "cover": "covers/2026-10-28/cut-04.jpg"
+  },
+  {
+   "title": "Together",
+   "author": "Kim Soobin",
+   "link": "https://vimeo.com/1234299289",
+   "why": "混合媒介叙事短片，画面偏乱，没有清楚的可借手法",
+   "cover": "covers/2026-10-28/cut-05.jpg"
+  },
+  {
+   "title": "Pipes",
+   "author": "Kilian Feusi",
+   "link": "https://vimeo.com/1237176348",
+   "why": "黑白叙事动画，有裸露画面，不适合放进参考",
+   "cover": "covers/2026-10-28/cut-06.jpg"
+  },
+  {
+   "title": "Ouais.",
+   "author": "Della Miranda",
+   "link": "https://vimeo.com/1236790091",
+   "why": "定格动画叙事，和代码做视频距离太远",
+   "cover": "covers/2026-10-28/cut-07.jpg"
+  },
+  {
+   "title": "Nostalgie",
+   "author": "Kathryn Ferguson",
+   "link": "https://vimeo.com/1237618682",
+   "why": "实拍纪录片，19 分钟，剪辑上没看到特别的转场",
+   "cover": "covers/2026-10-28/cut-08.jpg"
+  },
+  {
+   "title": "Why your best ideas feel like they come from somewhere else",
+   "author": "Vox",
+   "link": "https://www.youtube.com/shorts/juqvA2fp1m8",
+   "why": "播客口播画面，几乎没有动画",
+   "cover": "covers/2026-10-28/cut-09.jpg"
+  },
+  {
+   "title": "refraction effects @wabi",
+   "author": "60fps 收录",
+   "link": "https://x.com/60fpsdesign/status/2115044732888105168",
+   "why": "折射效果太细，只有 5 秒，60fps 的 UI 动效最近也刚推过",
+   "cover": "covers/2026-10-28/cut-10.jpg"
+  },
+  {
+   "title": "Designing in Paper：Paper Shaders off the Background",
+   "author": "Codrops",
+   "link": "https://tympanus.net/codrops/2026/10/19/paper-shaders-off-background/",
+   "why": "撕纸转场有意思，但演示里的配图很像 AI 生成，整体偏网页滚动",
+   "cover": "covers/2026-10-28/cut-11.jpg"
+  },
+  {
+   "title": "Songs of Hyrule",
+   "author": "Codrops",
+   "link": "https://tympanus.net/codrops/2026/10/27/songs-of-hyrule-from-a-fans-idea-to-a-three-js-mini-game-in-a-few-days/",
+   "why": "塞尔达同人小游戏，画面大多是静态场景",
+   "cover": "covers/2026-10-28/cut-12.jpg"
+  },
+  {
+   "title": "Built to Move: Carmen Ansio",
+   "author": "Codrops",
+   "link": "https://tympanus.net/codrops/2026/10/24/carmen-ansio/",
+   "why": "CSS 3D 和 Lottie 小玩意拼盘，单个都太小，看不出一种完整风格",
+   "cover": "covers/2026-10-28/cut-13.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "toc": "细拆：Cleo Abram 太阳有多远",
+  "title": "（待补）",
+  "flag": "【看过画面（抽帧）】",
+  "lede": "细拆待补（等看完整片后补节奏秒数）。",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://www.youtube.com/shorts/DcAjv8YRKN8"
+   ]
+  ],
+  "blocks": []
+ },
+ "sources": "信源：Vimeo、Motionographer、Stash、Codrops、YouTube、X。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-10-28",
+ "kind": "daily",
+ "slug": "2026-10-28"
+}

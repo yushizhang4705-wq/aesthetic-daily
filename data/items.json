@@ -463,5 +463,154 @@
    "MG"
   ],
   "cat": "片头片尾 · 经典"
+ },
+ {
+  "id": "2026-10-28-01",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i1",
+  "title": "Guess How Far The Sun Is",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/DcAjv8YRKN8",
+  "embed": "https://www.youtube-nocookie.com/embed/DcAjv8YRKN8?playsinline=1&rel=0",
+  "tags": [
+   "数据可视化",
+   "知识讲解"
+  ],
+  "cat": "数据可视化 · 竖屏科普"
+ },
+ {
+  "id": "2026-10-28-02",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i2",
+  "title": "The Sphere Intersection Puzzle",
+  "author": "3Blue1Brown",
+  "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+  "embed": "https://www.youtube-nocookie.com/embed/V_uq3v6xK-4?playsinline=1&rel=0",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 数学"
+ },
+ {
+  "id": "2026-10-28-03",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i3",
+  "title": "Printing 92 GPU Chips in Just 18 Seconds!",
+  "author": "Branch Education",
+  "url": "https://www.youtube.com/shorts/V8m9UTl9aqw",
+  "embed": "https://www.youtube-nocookie.com/embed/V8m9UTl9aqw?playsinline=1&rel=0",
+  "tags": [
+   "3D质感",
+   "知识讲解"
+  ],
+  "cat": "3D质感 · 竖屏科普"
+ },
+ {
+  "id": "2026-10-28-04",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i4",
+  "title": "What If We Cool Down the Sun?",
+  "author": "Kurzgesagt – In a Nutshell",
+  "url": "https://www.youtube.com/shorts/35No369rmq0",
+  "embed": "https://www.youtube-nocookie.com/embed/35No369rmq0?playsinline=1&rel=0",
+  "tags": [
+   "MG",
+   "知识讲解"
+  ],
+  "cat": "MG · 竖屏科普"
+ },
+ {
+  "id": "2026-10-28-05",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i5",
+  "title": "What's your mood?（Spotify 概念动效）",
+  "author": "Roland Vale（@heisvale）",
+  "url": "https://x.com/heisvale/status/2114829098706928060",
+  "embed": "x:2114829098706928060",
+  "tags": [
+   "代码动画",
+   "UI动效",
+   "字体版式"
+  ],
+  "cat": "代码动画 · UI"
+ },
+ {
+  "id": "2026-10-28-06",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i6",
+  "title": "Distance",
+  "author": "Ordinary Folk（故事来自 Nate DiMeo 的播客 The Memory Palace）",
+  "url": "https://www.stashmedia.tv/ordinary-folk-goes-the-distance-in-powerful-new-short-film/",
+  "embed": "none",
+  "tags": [
+   "MG",
+   "转场"
+  ],
+  "cat": "MG · 手绘"
+ },
+ {
+  "id": "2026-10-28-07",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i7",
+  "title": "Felipe Pantone x Etnia Barcelona",
+  "author": "Spot Studio（导演 Nicolás Cañellas）",
+  "url": "https://www.stashmedia.tv/art-eyewear-collide-in-spot-studios-new-film-for-felipe-pantone-x-etnia-barcelona/",
+  "embed": "none",
+  "tags": [
+   "3D质感"
+  ],
+  "cat": "3D质感 · 产品片"
+ },
+ {
+  "id": "2026-10-28-08",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i8",
+  "title": "The Continuous Thread",
+  "author": "Tomakti Studio（Dimitrios Sakkas）",
+  "url": "https://vimeo.com/1193744464",
+  "embed": "https://player.vimeo.com/video/1193744464?playsinline=1&dnt=1",
+  "tags": [
+   "字体版式"
+  ],
+  "cat": "字体版式 · 开场"
+ },
+ {
+  "id": "2026-10-28-09",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i9",
+  "title": "Bremont & Felix the Cat – Watch your 6",
+  "author": "Cub Studio（导演 Fraser Davidson）",
+  "url": "https://vimeo.com/1170992024",
+  "embed": "https://player.vimeo.com/video/1170992024?playsinline=1&dnt=1",
+  "tags": [
+   "MG",
+   "片头片尾"
+  ],
+  "cat": "MG · 品牌片"
+ },
+ {
+  "id": "2026-10-28-10",
+  "date": "2026-10-28",
+  "kind": "daily",
+  "report": "reports/2026-10-28.html#i10",
+  "title": "MOTION PLUS DESIGN PARIS 2026 – Trailer",
+  "author": "Motion Plus Design",
+  "url": "https://vimeo.com/1235860756",
+  "embed": "https://player.vimeo.com/video/1235860756?playsinline=1&dnt=1",
+  "tags": [
+   "剪辑节奏",
+   "字体版式"
+  ],
+  "cat": "剪辑节奏 · 预告"
  }
 ]
