@@ -1,0 +1,545 @@
+{
+ "kicker": "审美日报 · 周四",
+ "title": "2026-10-29 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天 10 条，全部下载后抽帧看过画面，第 1 条 IBM 另外完整看过，标【看过视频】，其余标【看过画面（抽帧）】；TED-Ed 那条只下载了前 2 分钟。IBM、Demo、BUCK、Canva 这 4 条是今年 5–7 月的作品，超过 30 天。今天没有经典旧作。看完剔除 12 条放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "3D质感 · 概念讲解",
+   "tags": [
+    "3D质感",
+    "知识讲解"
+   ],
+   "title": "IBM | Sovereign Core",
+   "author": "Tendril",
+   "date": "Vimeo 06-30（超过 30 天）",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1205673882"
+    ]
+   ],
+   "good": "一个抽象的企业软件概念，全片只用方块讲：蓝白磨砂玻璃块铺满画面，要强调的那一组块变成红色或紫色发光；再套一个细线框立方体当「边界」，一排排圆角胶囊里只亮一颗。只有蓝、白两种主色，最后落在白底 IBM 标志",
+   "borrow": "讲「数据在哪、谁能碰」这类看不见的概念时，用 Three.js 把数据做成一堆同色方块，只把主角染成对比色发光，再加线框盒子表示边界；整片不用一个角色。细拆见文末",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "52 秒全片已下载，完整看过"
+    ]
+   },
+   "id": "2026-10-29-01",
+   "embed": "https://player.vimeo.com/video/1205673882?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1205673882",
+   "cover": "covers/2026-10-29/01.jpg"
+  },
+  {
+   "cat": "片头片尾 · 字体版式",
+   "tags": [
+    "片头片尾",
+    "字体版式",
+    "剪辑节奏"
+   ],
+   "title": "ADC 106th Annual Awards Launch Film",
+   "author": "DixonBaxi",
+   "date": "Vimeo 10-13",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1235279682"
+    ],
+    [
+     "同系列 8 秒小片 ↗",
+     "https://vimeo.com/1235279863"
+    ]
+   ],
+   "good": "开头很静：黑底正中一行很小的衬线字「For over a century」，金色 3D 标志慢慢转出来。然后突然炸开：荧光绿、玫红、大红轮流换底，「BAD IDEAS THAT WON'T DIE」大字配 3D 箭头乱飞，多语种单词竖排快闪。最后回到白底细线排版收尾。字体未识别",
+   "borrow": "片头可以「静-炸-静」三段：先黑底小字慢慢进，再用几秒满屏撞色大字快切，最后白底细线排版收住。快切段只换底色和单词，版式骨架不动",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "40 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-02",
+   "embed": "https://player.vimeo.com/video/1235279682?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1235279682",
+   "cover": "covers/2026-10-29/02.jpg"
+  },
+  {
+   "cat": "字体版式 · 预告",
+   "tags": [
+    "字体版式",
+    "剪辑节奏"
+   ],
+   "title": "Demo 2027 trailer",
+   "author": "Studio Dumbar/DEPT®",
+   "date": "Vimeo 05-05（超过 30 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1189394573"
+    ]
+   ],
+   "good": "荷兰 Demo 动态设计节的预告，几乎只有黑白。「DEMO」被拉伸压扁到撑满整屏，「THE」横向拉成一条，「28」鼓成气球形状；中间穿插脚手架、车站屏幕的实拍，最后黑底白字网址收尾。字体未识别（可变宽度的展示字体）",
+   "borrow": "标题字不一定要动位置，只改字宽、字高，让一个词把画面撑满再缩回去，就很有冲击力。Remotion 里用可变字体的 wdth 轴，或者直接 scaleX/scaleY 做",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "68 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-03",
+   "embed": "https://player.vimeo.com/video/1189394573?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1189394573",
+   "cover": "covers/2026-10-29/03.jpg"
+  },
+  {
+   "cat": "3D质感 · 品牌片",
+   "tags": [
+    "3D质感",
+    "UI动效"
+   ],
+   "title": "Mega（智利电视台）品牌片",
+   "author": "Lumbre",
+   "date": "Stash 10-28",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "https://player.vimeo.com/video/1240497316",
+   "links": [
+    [
+     "Stash 文章 ↗",
+     "https://www.stashmedia.tv/fun-color-in-style-lumbre-keeps-it-mega-for-mega-chile/"
+    ]
+   ],
+   "good": "把手机通知、聊天气泡、爱心、提醒框都做成亮面塑料小玩具，白底上堆成一堆；再换成蓝底、黄底的大留白镜头，正中只放一个 logo 按钮。中间有小球沿着管道和同心圆轨道滚，手机、电视、平板里的界面也是一块块彩色积木",
+   "borrow": "讲 App 或网络服务时，把界面元素做成有厚度的塑料块，而不是平面截图；满屏热闹的镜头和只放一个按钮的大留白镜头交替，观众眼睛能歇一下",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "69 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-04",
+   "embed_type": "vimeo",
+   "url": "https://www.stashmedia.tv/fun-color-in-style-lumbre-keeps-it-mega-for-mega-chile/",
+   "cover": "covers/2026-10-29/04.jpg"
+  },
+  {
+   "cat": "3D质感 · 产品片",
+   "tags": [
+    "3D质感"
+   ],
+   "title": "Nike x Hyperice「Hyperslide」",
+   "author": "Someform Studio",
+   "date": "Stash 10-28",
+   "flag": "【看过画面（抽帧）】",
+   "embed": "https://player.vimeo.com/video/1239323189",
+   "links": [
+    [
+     "Stash 文章 ↗",
+     "https://www.stashmedia.tv/someform-studio-slips-into-the-hyperslide-for-hyperice-nike/"
+    ]
+   ],
+   "good": "全片只有米灰一种颜色：拖鞋像软陶捏的，泡泡一样鼓起来，鞋底有一圈圈水波纹；讲加热功能时，鞋里面透出一层橙红色的光。结尾标题「HYPERSLIDE」先是一个个鼓鼓的气球字，再压平成浮雕字",
+   "borrow": "整片只用一种中性色，只在讲到关键功能的那一下给一次暖色光；标题字的材质和产品一样，从「鼓起来」变到「压平」就是一个完整的收尾动作",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "30 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-05",
+   "embed_type": "vimeo",
+   "url": "https://www.stashmedia.tv/someform-studio-slips-into-the-hyperslide-for-hyperice-nike/",
+   "cover": "covers/2026-10-29/05.jpg"
+  },
+  {
+   "cat": "MG · 功能讲解",
+   "tags": [
+    "MG",
+    "UI动效"
+   ],
+   "title": "Spotify Mixing Tools",
+   "author": "BUCK",
+   "date": "Vimeo 05-20（超过 30 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1194156688"
+    ]
+   ],
+   "good": "讲「两首歌无缝衔接」这个功能，整片的主角就是几根发光彩线：粉、绿、黄的线在黑底透视网格里弯来弯去、互相缠绕，中间穿过莲花、城市、人脸等场景。最后线落到一排音频柱上交叉过去，配小字「Mix playlists seamlessly.」，再收到一个「Mix」按钮",
+   "borrow": "讲两个东西怎么「接上」时，用两根不同颜色的线代表它们，让线一路走、最后在一个点交叉；结尾把线收进一个真实的界面按钮，从比喻落回产品",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "31 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-06",
+   "embed": "https://player.vimeo.com/video/1194156688?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1194156688",
+   "cover": "covers/2026-10-29/06.jpg"
+  },
+  {
+   "cat": "知识讲解 · MG",
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "title": "How to present your ideas effectively",
+   "author": "TED-Ed",
+   "date": "YouTube 10-13",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=1uTRlM6MbMo"
+    ]
+   ],
+   "good": "浅粉底上几乎只有圆点和线：两个点代表两个人，一圈小点围着中间的靶心代表听众，靶心外面射出放射线和彩色光束。「connection / narration / explanation / persuasion」四个词左对齐排成一列，每个词后面跟一个小图形。后面换成橙色山坡，小圆点一级级往上爬",
+   "borrow": "讲方法论时，人物直接用圆点代替，用点的位置、大小、颜色说关系；这种画面几乎全能用代码画出来，Remotion 里几个 div 加弹簧动画就够",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "原片 6 分 33 秒，只下载、只看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-29-07",
+   "embed": "https://www.youtube-nocookie.com/embed/1uTRlM6MbMo?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1uTRlM6MbMo",
+   "cover": "covers/2026-10-29/07.jpg"
+  },
+  {
+   "cat": "UI动效 · 动效规范",
+   "tags": [
+    "UI动效",
+    "转场"
+   ],
+   "title": "Canva 动效规范示范片",
+   "author": "Vucko",
+   "date": "Vimeo 07-22（超过 30 天）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1212107387"
+    ]
+   ],
+   "good": "一墙 Canva 模板在滚，镜头推进其中一张荧光绿的「Go-to-Market Plan」幻灯片；两个带名字的协作光标（Jack、Minh）在上面移动，一个选中粉色圆点拉大，一个弹出评论气泡，接着又退回模板墙。只有 16 秒",
+   "borrow": "演示「多人协作」或「某个操作」时，给鼠标光标挂上名字标签当角色，用它们去点、去拖；从一墙内容推进到一张，再退回去，就是一个现成的进出场",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "16 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-08",
+   "embed": "https://player.vimeo.com/video/1212107387?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1212107387",
+   "cover": "covers/2026-10-29/08.jpg"
+  },
+  {
+   "cat": "字体版式 · 产品片",
+   "tags": [
+    "字体版式",
+    "剪辑节奏"
+   ],
+   "title": "New MacBook Pro with PROLED XDR Display and Touch",
+   "author": "Apple",
+   "date": "YouTube 10-28",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=WzuIZLoHqqA"
+    ]
+   ],
+   "good": "纯黑底正中一行白字（Meet the world's best laptop display / with true-to-life color / Drag, scroll, and pinch onscreen），一句一屏，字出来停一下就切到对应的画面，再回到黑底下一句。字体是 Apple 自家的 SF Pro",
+   "borrow": "短视频开头可以用「黑底一句话 → 一个画面 → 黑底下一句」的节奏，每句不超过一行，字放正中；字幕和画面分开出现，比叠在画面上更清楚",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "58 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-09",
+   "embed": "https://www.youtube-nocookie.com/embed/WzuIZLoHqqA?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=WzuIZLoHqqA",
+   "cover": "covers/2026-10-29/09.jpg"
+  },
+  {
+   "cat": "知识讲解 · 手绘",
+   "tags": [
+    "知识讲解"
+   ],
+   "title": "Why do hot objects glow?",
+   "author": "minutephysics",
+   "date": "YouTube Shorts 10-24",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/YBKuWCA5pug"
+    ]
+   ],
+   "good": "横格纸背景上的黑线手绘：冰块 0°C、火柴人 37°C、太阳 5505°C 三个东西一排排出来，然后每个都加上表示「在发光」的小短线；火柴人戴上墨镜说「I radiate cool」，最后是一座喷红色岩浆的火山。只有黑线和一种红色",
+   "borrow": "比较几个东西的数值时，把它们画成同样大小的简笔图标排一起、数字写在下面；要讲共同点时，给每个图标加同一种小记号，观众一眼看出「它们都一样」",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "19 秒全片已下载"
+    ]
+   },
+   "id": "2026-10-29-10",
+   "embed": "https://www.youtube-nocookie.com/embed/YBKuWCA5pug?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/YBKuWCA5pug",
+   "cover": "covers/2026-10-29/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（12 条）",
+ "cut": [
+  {
+   "title": "ADC 106 Search Everywhere",
+   "author": "DixonBaxi",
+   "link": "https://vimeo.com/1235279863",
+   "why": "和第 2 条是同一套视觉，只有 8 秒，放在第 2 条的链接里",
+   "cover": "covers/2026-10-29/cut-01.jpg"
+  },
+  {
+   "title": "GOLDEN WOLF REEL 2026",
+   "author": "Golden Wolf",
+   "link": "https://vimeo.com/1201762566",
+   "why": "工作室年度合集，画风很吵，和「克制」不搭",
+   "cover": "covers/2026-10-29/cut-02.jpg"
+  },
+  {
+   "title": "Hublot BBR Launch Film",
+   "author": "Tendril",
+   "link": "https://vimeo.com/1198568863",
+   "why": "手表产品特写很精致，但 3D 质感已经满 3 条",
+   "cover": "covers/2026-10-29/cut-03.jpg"
+  },
+  {
+   "title": "You Will Only Like Half of This Video",
+   "author": "Kurzgesagt – In a Nutshell",
+   "link": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
+   "why": "话题是 AI 内容，不碰 AI 话题；Kurzgesagt 昨天也推过",
+   "cover": "covers/2026-10-29/cut-04.jpg"
+  },
+  {
+   "title": "The Wavy Window Paradox",
+   "author": "minutephysics",
+   "link": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
+   "why": "白板手绘加实拍，和第 10 条同一家，留更新的那条",
+   "cover": "covers/2026-10-29/cut-05.jpg"
+  },
+  {
+   "title": "The Phone Number puzzle",
+   "author": "3Blue1Brown",
+   "link": "https://www.youtube.com/shorts/ausLKMojXaY",
+   "why": "黑底只有算式数字，画面单薄；3Blue1Brown 昨天刚推过",
+   "cover": "covers/2026-10-29/cut-06.jpg"
+  },
+  {
+   "title": "How GPUs Are Printed With Light",
+   "author": "Branch Education",
+   "link": "https://www.youtube.com/shorts/_gbDFq5h9KI",
+   "why": "和昨天推的 Branch Education 光刻短片几乎同一套画面",
+   "cover": "covers/2026-10-29/cut-07.jpg"
+  },
+  {
+   "title": "Bleeding Love",
+   "author": "Ben Marriott",
+   "link": "https://www.youtube.com/shorts/XvFXSxd2zSM",
+   "why": "2025 年情人节小动画，太简单",
+   "cover": "covers/2026-10-29/cut-08.jpg"
+  },
+  {
+   "title": "Easy Animated Brush Strokes",
+   "author": "Ben Marriott",
+   "link": "https://www.youtube.com/shorts/UsANBd_isVk",
+   "why": "AE 教程口播，主要是讲软件操作",
+   "cover": "covers/2026-10-29/cut-09.jpg"
+  },
+  {
+   "title": "Query",
+   "author": "Brent Bonacorso",
+   "link": "https://vimeo.com/1223750139",
+   "why": "实拍剧情短片，剪辑上没有特别可借的转场",
+   "cover": "covers/2026-10-29/cut-10.jpg"
+  },
+  {
+   "title": "Nubivore - DEEP GEO",
+   "author": "Nubivore",
+   "link": "https://vimeo.com/1205819775",
+   "why": "暗调 3D 地形音乐视频，好看但和讲解视频距离远",
+   "cover": "covers/2026-10-29/cut-11.jpg"
+  },
+  {
+   "title": "Humans Can Regrow an Organ",
+   "author": "Kurzgesagt – In a Nutshell",
+   "link": "https://www.youtube.com/shorts/oNTaHYXQ4MM",
+   "why": "Kurzgesagt 昨天刚推过，这条手法和那条一样",
+   "cover": "covers/2026-10-29/cut-12.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "toc": "细拆：Tendril IBM Sovereign Core",
+  "title": "用方块讲清一个看不见的概念",
+  "flag": "【看过视频】（完整看过）",
+  "lede": "52 秒全片完整看过。IBM 要讲的是「数据主权」：你的数据归谁管、谁能看到。这东西看不见摸不着，Tendril 全程只用一堆方块来讲，没有一个人、没有一块真实屏幕",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://vimeo.com/1205673882"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构：8 个镜头，跟着鼓点切",
+    "p": [
+     "全片 8 次硬切（直接切，不加转场效果），平均一个镜头 6.5 秒左右",
+     "几乎每一刀都落在音乐重拍上：0:06、0:11、0:18、0:25、0:31。观众不用看字，靠节奏就知道「下一句来了」"
+    ]
+   },
+   {
+    "h": "逐个镜头",
+    "ol": [
+     "0:00–0:06 斜 45 度俯视一大片凸起的方块，镜头慢慢推、慢慢平移。0:03 有一组 2×2 的方块变成珊瑚红（旁白正好说到「风险和监管」），0:04 又有一排 1×3 变紫",
+     "0:06–0:11 一个深蓝细线框的盒子从上面落下来，罩住一堆白色、粉色的方块，落地后轻轻缩放、转一下才停稳。配一声闷闷的「咚」。旁白：谁在掌控你的数字主权？",
+     "0:11–0:18 浅灰色的空白空间里，蓝色方块飘在线框盒子里，一块块「咔」地跳到新位置。镜头横着慢慢绕。旁白：IBM Sovereign Core 登场",
+     "0:18–0:25 磨砂质感的方块和胶囊形块。一条深蓝细线沿着网格自己画出来，拐角处带小圆点，把其中一组圈起来，这条线就是「边界」。背景是扫描一样的嗡嗡声",
+     "0:25–0:31 改成正上方往下看，一道波浪从挤满的方块里涌过去，镜头朝反方向平移，动感一下变强",
+     "0:31–0:39 一块发紫光的圆角方块往前滑，它压过的台阶状蓝色小路一段段亮成青色（旁白说到「透明」）",
+     "0:39–0:46 紫色方块落地，直接变成界面上的一个按钮；一块白色平面展开，露出标题 IBM Sovereign Core 和一排图标。平面倾斜变成立体，蓝色方块像柱状图一样升起再飘走。配界面点击、滑动的音效",
+     "0:46–0:52 IBM 八条横纹 logo，横纹从每个字母中间往两边拉开，最后一个合成器和弦收尾，logo 一完整，音乐也正好落定"
+    ]
+   },
+   {
+    "h": "动作：镜头慢，物体利落",
+    "ul": [
+     "镜头永远是慢的、匀速的、不停的，没有急推急拉",
+     "物体正相反：一下子冲出去，然后花很长时间慢慢刹住（很重的减速），不回弹、不冲过头",
+     "慢镜头加利落的物体，看着又稳又准。这正好是一家做企业安全的公司想给人的感觉"
+    ]
+   },
+   {
+    "h": "配色（大概取色）",
+    "p": "前半段底色是中蓝，后半段换成柔和的灰白",
+    "chips": [
+     [
+      "#4A85DF",
+      "前半段底色"
+     ],
+     [
+      "#F0F0F0",
+      "后半段底色"
+     ],
+     [
+      "#0033A0",
+      "深蓝方块"
+     ],
+     [
+      "#1743D4",
+      "蓝方块"
+     ],
+     [
+      "#FFFFFF",
+      "白方块"
+     ],
+     [
+      "#85B5F8",
+      "磨砂浅蓝"
+     ],
+     [
+      "#F3F6F9",
+      "磨砂近白"
+     ],
+     [
+      "#001C63",
+      "线框 / 文字深蓝"
+     ],
+     [
+      "#1A1A1A",
+      "文字黑"
+     ]
+    ]
+   },
+   {
+    "h": "一次只亮一种颜色",
+    "p": "满屏蓝白，只有「正在说的那个东西」会发光。每个镜头只用一种高亮色",
+    "chips": [
+     [
+      "#FF574D",
+      "珊瑚红：风险"
+     ],
+     [
+      "#B467FF",
+      "紫：主角方块"
+     ],
+     [
+      "#00E5FF",
+      "青光（亮处）"
+     ],
+     [
+      "#0044FF",
+      "青光渐变到蓝"
+     ]
+    ]
+   },
+   {
+    "h": "质感和光",
+    "ul": [
+     "光很软，像阴天的散射光，没有硬阴影",
+     "方块之间的缝隙里有一圈柔和的暗（行话叫「环境光遮蔽」，就是角落和缝里自然偏暗），立体感主要靠这个",
+     "前面的方块是哑光的，表面有细细的条纹；后面换成磨砂亚克力，像光从里面透出来",
+     "发光的方块会把光晕染到旁边的方块上"
+    ]
+   },
+   {
+    "h": "文字",
+    "p": [
+     "全片前 40 秒一个字都没有，只靠画面和旁白",
+     "文字第一次出现在 0:40 的界面平面里，是平面展开时「露出来」的，不是淡入",
+     "字体看着像 IBM Plex Sans，未确认"
+    ]
+   },
+   {
+    "h": "用 Three.js / Remotion 做一个同款（AI 科普可直接借）",
+    "ol": [
+     "方块阵列：用 `RoundedBoxGeometry` 做圆角方块，用 `InstancedMesh` 一次铺几百个，性能不卡",
+     "磨砂玻璃感：材质用 `MeshPhysicalMaterial`，调高 `transmission`（透光）加中等 `roughness`（粗糙度），就是那种蒙着一层雾的亚克力",
+     "发光：把要强调的那一组单独设 `emissive` 颜色，后期加 `UnrealBloomPass` 让光晕溢到旁边",
+     "边界线：用 `Line` 沿网格画一圈，靠 `drawRange` 或虚线偏移 `dashOffset` 让它一点点「画出来」，拐角放小圆点",
+     "镜头：Remotion 里用 `interpolate()` 做匀速漂移，不加任何缓动",
+     "物体：用 `spring()` 把阻尼 `damping` 调高到不回弹，或者用 `Easing.out(Easing.exp)`，冲出去快、刹车很长",
+     "剪辑：大约 6 秒切一刀，切点对准音乐重拍"
+    ]
+   },
+   {
+    "h": "放到 AI 科普里怎么用",
+    "p": [
+     "一个镜头只亮一种颜色，用来标「现在说的就是它」",
+     "比如讲「模型能看到哪些数据」：满屏蓝白方块代表所有数据，模型能看到的那一组亮紫色，再用一条细线画出边界，观众一眼就懂，不用多解释"
+    ]
+   }
+  ]
+ },
+ "sources": "信源：Vimeo、Stash、Motionographer、YouTube、X。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-10-29",
+ "kind": "daily",
+ "slug": "2026-10-29"
+}
