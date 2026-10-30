@@ -17,7 +17,7 @@
   function ckey(id){return NS+'-c-'+id}
   function lget(id){try{return JSON.parse(localStorage.getItem(CK+id)||'null')}catch(e){return null}}
   function lset(id,v){try{v?localStorage.setItem(CK+id,JSON.stringify(v)):localStorage.removeItem(CK+id)}catch(e){}}
-  function fmt(ts){var d=new Date(ts);if(isNaN(d))return '';var z=function(n){return(n<10?'0':'')+n};return (d.getMonth()+1)+'-'+z(d.getDate())+' '+z(d.getHours())+':'+z(d.getMinutes())}
+  function fmt(ts){var d=new Date(ts);if(isNaN(d))return '';try{return d.toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',month:'numeric',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).replace(/\//g,'-').replace(/\u65e5|\u6708/g,'')}catch(e){};var z=function(n){return(n<10?'0':'')+n};return (d.getMonth()+1)+'-'+z(d.getDate())+' '+z(d.getHours())+':'+z(d.getMinutes())}
   function push(id,v){var b='key='+encodeURIComponent(ckey(id))+'&value='+encodeURIComponent(v&&v.text?JSON.stringify({id:id,text:v.text,ts:v.ts}):'');
     return fetch(CAPI+'/update/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:b,cache:'no-store'}).then(function(r){return r.json()}).then(function(j){if(!j||j.status!==1)throw 0;return j})}
   document.querySelectorAll('.cmt[data-id]').forEach(function(box){
