@@ -1,1 +1,1 @@
-window.AD_CONFIG={"ns": "ysz-aesthetic-daily-l27reyp3", "api": "https://abacus.jasoncameron.dev"};
+window.AD_CONFIG={"ns": "ysz-aesthetic-daily-l27reyp3", "api": "https://abacus.jasoncameron.dev", "capi": "https://api.textdb.online", "cread": "https://textdb.online"};
