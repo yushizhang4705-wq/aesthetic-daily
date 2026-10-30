@@ -761,5 +761,155 @@
    "知识讲解"
   ],
   "cat": "知识讲解 · 手绘"
+ },
+ {
+  "id": "2026-10-30-01",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i1",
+  "title": "How do microSD Cards Store 2 TB in such a TINY space?",
+  "author": "Branch Education",
+  "url": "https://www.youtube.com/watch?v=9kM3mnxrMMM",
+  "embed": "https://www.youtube-nocookie.com/embed/9kM3mnxrMMM?playsinline=1&rel=0",
+  "tags": [
+   "3D质感",
+   "知识讲解"
+  ],
+  "cat": "3D质感 · 知识讲解"
+ },
+ {
+  "id": "2026-10-30-02",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i2",
+  "title": "\"MOTION PLUS DESIGN NEW YORK\" Opening Titles",
+  "author": "Yeti Pictures",
+  "url": "https://vimeo.com/1227820080",
+  "embed": "https://player.vimeo.com/video/1227820080?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾",
+   "剪辑节奏"
+  ],
+  "cat": "片头片尾 · 3D"
+ },
+ {
+  "id": "2026-10-30-03",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i3",
+  "title": "American Horror Story 第 13 季片头（AHS13_MT）",
+  "author": "Prologue Films",
+  "url": "https://vimeo.com/1233091527",
+  "embed": "https://player.vimeo.com/video/1233091527?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾",
+   "字体版式"
+  ],
+  "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-10-30-04",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i4",
+  "title": "Museum of Motion（57 种网页动效合集）",
+  "author": "John Polacek（Codrops）",
+  "url": "https://tympanus.net/codrops/2026/10/26/animating-agents-gsap-animaxxing/",
+  "embed": "none",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-10-30-05",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i5",
+  "title": "Sonicare「Good Night Care」",
+  "author": "MakeMake Design & Animation",
+  "url": "https://vimeo.com/1233119866",
+  "embed": "https://player.vimeo.com/video/1233119866?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "知识讲解"
+  ],
+  "cat": "3D质感 · 微观讲解"
+ },
+ {
+  "id": "2026-10-30-06",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i6",
+  "title": "Plasma 银行卡激活动效",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2115492220233290224",
+  "embed": "https://x.com/60fpsdesign/status/2115492220233290224",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-10-30-07",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i7",
+  "title": "refraction effects（wabi App 折射效果）",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2115044732888105168",
+  "embed": "https://x.com/60fpsdesign/status/2115044732888105168",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-10-30-08",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i8",
+  "title": "Tron: Ares × GMUNK —「Finding Eve」",
+  "author": "GMUNK",
+  "url": "https://vimeo.com/1233817986",
+  "embed": "https://player.vimeo.com/video/1233817986?playsinline=1&dnt=1",
+  "tags": [
+   "UI动效",
+   "剪辑节奏"
+  ],
+  "cat": "UI动效 · 片中图形"
+ },
+ {
+  "id": "2026-10-30-09",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i9",
+  "title": "Meta VR Glasses",
+  "author": "FutureDeluxe",
+  "url": "https://vimeo.com/1231231859",
+  "embed": "https://player.vimeo.com/video/1231231859?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "3D质感 · 产品片"
+ },
+ {
+  "id": "2026-10-30-10",
+  "date": "2026-10-30",
+  "kind": "daily",
+  "report": "reports/2026-10-30.html#i10",
+  "title": "Ouais.",
+  "author": "Della Miranda",
+  "url": "https://vimeo.com/1236790091",
+  "embed": "https://player.vimeo.com/video/1236790091?playsinline=1&dnt=1",
+  "tags": [
+   "实物动画",
+   "剪辑节奏"
+  ],
+  "cat": "实物动画 · 短片"
  }
 ]
