@@ -1,0 +1,448 @@
+{
+ "kicker": "审美日报 · 周六",
+ "title": "2026-10-31 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天 10 条，全部下载后抽帧看过画面；第 1 条 Kurzgesagt 竖屏短片另外完整看过，标【看过视频】，其余标【看过画面（抽帧）】。超过 3 分钟的 4 条只下载、看了前 2 分钟；60fps 旋钮那条只看了 4 段里的第 1 段。今天没有经典旧作。看完剔除 7 条放在后面的折叠栏里",
+ "items": [
+  {
+   "cat": "知识讲解 · MG",
+   "tags": [
+    "知识讲解",
+    "MG",
+    "剪辑节奏"
+   ],
+   "title": "How Does Ketamine Work?（竖屏短片）",
+   "author": "Kurzgesagt",
+   "date": "YouTube 10-29",
+   "flag": "【看过视频】（完整看过）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/shorts/KBfIo9sZbC4"
+    ]
+   ],
+   "good": "71 秒竖屏讲氯胺酮怎么起作用：深紫底上的扁平插画，蓝色神经网络里一串黄点在流动。说到「K Hole」时，像素风大字在暗紫色里像漩涡一样转着放大。讲耐受性时换青绿网格底，一条红折线一点点画出来",
+   "borrow": "竖屏科普可以直接照搬：全片锁定一套深色底加一两种荧光色，5 秒左右换一个镜头，换层级就用镜头穿过去。细拆见文末",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "71 秒全片已下载并完整看过"
+    ]
+   },
+   "id": "2026-10-31-01",
+   "embed": "https://www.youtube-nocookie.com/embed/KBfIo9sZbC4?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/KBfIo9sZbC4",
+   "cover": "covers/2026-10-31/01.jpg"
+  },
+  {
+   "cat": "手绘动画 · 转场",
+   "tags": [
+    "转场",
+    "实物动画"
+   ],
+   "title": "Porsche「The Long Way to \"I Do\"」",
+   "author": "Em Cooper × Tonic DNA（代理 adam&eve\\TBWA）",
+   "date": "Vimeo / Stash 10-30",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://vimeo.com/1241253326"
+    ],
+    [
+     "Stash 介绍 ↗",
+     "https://www.stashmedia.tv/em-cooper-tonic-dna-paint-a-true-romance-for-porsche/"
+    ]
+   ],
+   "good": "35 秒，全片是会动的油画：一对夫妻修好一台 1966 年的蓝色保时捷 912，一路开去旧金山结婚。没有一刀剪辑，海岸大桥、人脸、婚礼蛋糕都是笔触慢慢涂掉、再长出下一幕。蓝色手绘标题卡开场，保时捷 logo 收尾",
+   "borrow": "回忆、时间线这类内容可以不用硬切：上一幕慢慢溶解成颜料或粒子，再聚成下一幕。代码里用噪声溶解加形状变形就能做出近似感觉",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "35 秒全片已下载，抽帧看过"
+    ]
+   },
+   "id": "2026-10-31-02",
+   "embed": "https://player.vimeo.com/video/1241253326?playsinline=1&dnt=1",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1241253326",
+   "cover": "covers/2026-10-31/02.jpg"
+  },
+  {
+   "cat": "代码动画 · 转场",
+   "tags": [
+    "代码动画",
+    "转场",
+    "字体版式"
+   ],
+   "title": "Segue：46 种网页翻页转场",
+   "author": "jhey（jh3yy）",
+   "date": "X 10-29",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2115951140521332909"
+    ],
+    [
+     "在线 Demo ↗",
+     "https://jhey.dev/prototypes/2026/segue/"
+    ]
+   ],
+   "good": "米灰色页面上一句大号衬线字，比如「Quiet, then not.」「Turn the page.」，每翻一页换一种转场：红黄黑竖条像门一样拉开、箭头形色块扫过、一条红线横切。底部一条小控制栏写着「23 / 46 Doors · Splits」，还能调参数、看代码。衬线字体未识别",
+   "borrow": "这 46 种都是 CSS 写的，可以当转场菜单挑：竖条开门、色块扫屏这类在 Remotion 里用几个矩形加错开的时间就能做，章节切换比淡入淡出有劲",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "26 秒全片已下载，抽帧看过"
+    ]
+   },
+   "embed": "https://x.com/jh3yy/status/2115951140521332909",
+   "id": "2026-10-31-03",
+   "embed_type": "none",
+   "url": "https://x.com/jh3yy/status/2115951140521332909",
+   "cover": "covers/2026-10-31/03.jpg"
+  },
+  {
+   "cat": "UI动效",
+   "tags": [
+    "UI动效"
+   ],
+   "title": "These sliders look so polished（旋钮数字）",
+   "author": "60fps",
+   "date": "X 10-30",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2116187572233965702"
+    ]
+   ],
+   "good": "白色手机界面中间一个带细纹的金属圆旋钮，拧动时上方的大数字像老式里程表一样上下滚，滚的时候带一点模糊，停下来变清楚。整屏只有黑白灰",
+   "borrow": "讲数字变化（参数量、价格）时，数字不要直接换，做成一位一位竖着滚、滚动中加一点动态模糊，停住时再清楚，看起来就很精致",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "帖子里有 4 段，只下载并看了第 1 段（26 秒）"
+    ]
+   },
+   "embed": "https://x.com/60fpsdesign/status/2116187572233965702",
+   "id": "2026-10-31-04",
+   "embed_type": "none",
+   "url": "https://x.com/60fpsdesign/status/2116187572233965702",
+   "cover": "covers/2026-10-31/04.jpg"
+  },
+  {
+   "cat": "UI动效",
+   "tags": [
+    "UI动效",
+    "数据可视化"
+   ],
+   "title": "countdown slider island（灵动岛计时）",
+   "author": "60fps",
+   "date": "X 10-29",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2115848102322335811"
+    ]
+   ],
+   "good": "iPhone 灵动岛展开成一条橙色刻度尺，手指左右拖，指针附近的刻度更亮更高，右边的时间从 15:00 跳到 1:13:00 再回到 1:00。黑底只有一种橙色",
+   "borrow": "做数值滑动的画面时，可以让指针附近的刻度变亮变高、远处的变暗，一眼就知道现在指在哪；颜色全片只留一种强调色",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "7.8 秒全片已下载，抽帧看过"
+    ]
+   },
+   "embed": "https://x.com/60fpsdesign/status/2115848102322335811",
+   "id": "2026-10-31-05",
+   "embed_type": "none",
+   "url": "https://x.com/60fpsdesign/status/2115848102322335811",
+   "cover": "covers/2026-10-31/05.jpg"
+  },
+  {
+   "cat": "代码动画 · 字体版式",
+   "tags": [
+    "代码动画",
+    "字体版式"
+   ],
+   "title": "Interaction lab（交互实验室）",
+   "author": "Emil Kowalski",
+   "date": "X 10-29",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/emilkowalski/status/2115789995860517254"
+    ]
+   ],
+   "good": "深灰底，所有界面都是等宽字体，标题写成「[ PALIMPSEST ]」「[ REACTION-DIFFUSION ]」这种方括号。左边一段文字在草稿和定稿之间来回改写，右边点阵组成的斑纹自己生长，还有拉伸变形的「flow」字和一圈旋转的环形文字",
+   "borrow": "讲「AI 在想什么」这类抽象过程，可以借这种终端风：深灰底、等宽字、方括号标题，加一个文字被一点点改写的效果，比套科技蓝光更克制",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "46 秒全片已下载，抽帧看过"
+    ]
+   },
+   "embed": "https://x.com/emilkowalski/status/2115789995860517254",
+   "id": "2026-10-31-06",
+   "embed_type": "none",
+   "url": "https://x.com/emilkowalski/status/2115789995860517254",
+   "cover": "covers/2026-10-31/06.jpg"
+  },
+  {
+   "cat": "知识讲解 · MG",
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "title": "You Will Only Like Half of This Video",
+   "author": "Kurzgesagt",
+   "date": "YouTube 10-20",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=PXbVn-f_wuM"
+    ]
+   ],
+   "good": "Kurzgesagt 招牌扁平插画，小鸟角色当主持；讲网上低质内容时，屏幕上一个红色计数牌写着「>40 BILLION」，旁边是手机聊天界面。结尾突然切到真人的手打开一抽屉卡片",
+   "borrow": "数字冲击可以做成一个贴在画面里的计数牌，配一个固定的小角色反应，比单独放一张数字卡更好记",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "全片 3 分 33 秒，只下载、看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-31-07",
+   "embed": "https://www.youtube-nocookie.com/embed/PXbVn-f_wuM?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
+   "cover": "covers/2026-10-31/07.jpg"
+  },
+  {
+   "cat": "实物动画 · 知识讲解",
+   "tags": [
+    "实物动画",
+    "知识讲解"
+   ],
+   "title": "What if you didn't brush your teeth for a year?",
+   "author": "TED-Ed（导演 Lee Oz、Eliška Oz，Oz Animation）",
+   "date": "YouTube 10-29",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=8RPK5KwYhgA"
+    ]
+   ],
+   "good": "全片是黏土定格动画：蓝底上一支黏土牙刷，紫色和绿色的黏土小细菌在牙上打架，男孩的黏土脸上慢慢长出问题。开头一张白底引言卡。手捏的质感让恶心的话题变得可爱",
+   "borrow": "讲让人不舒服的话题（病毒、细菌、黑客）时，换成手作感的造型能降低抵触；代码里可以用带噪点的材质和每两帧动一次来模仿定格感",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "全片 5 分 30 秒，只下载、看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-31-08",
+   "embed": "https://www.youtube-nocookie.com/embed/8RPK5KwYhgA?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=8RPK5KwYhgA",
+   "cover": "covers/2026-10-31/08.jpg"
+  },
+  {
+   "cat": "知识讲解 · 手绘",
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "title": "What if We Can't Detect Dark Matter?",
+   "author": "minutephysics",
+   "date": "YouTube 10-29",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=QXXqSh5qAuA"
+    ]
+   ],
+   "good": "开头是黑底蓝色粉笔样的「DARK MATTER」，之后全是白纸上用马克笔边画边讲：小标题「Dark Matter Evidence #1」、加号连起来的公式、箭头。只用黑、蓝、红几种笔",
+   "borrow": "讲推理过程时，用「边画边出现」代替整张图直接出：线条按讲话顺序画出来，观众的眼睛自然跟着走；Remotion 里用 SVG 描边动画就能做",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "全片 12 分 44 秒，只下载、看了前 2 分钟"
+    ]
+   },
+   "id": "2026-10-31-09",
+   "embed": "https://www.youtube-nocookie.com/embed/QXXqSh5qAuA?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=QXXqSh5qAuA",
+   "cover": "covers/2026-10-31/09.jpg"
+  },
+  {
+   "cat": "片头片尾 · 3D质感",
+   "tags": [
+    "片头片尾",
+    "3D质感",
+    "字体版式"
+   ],
+   "title": "Scary stories to watch in the dark（合集，第 1 章 The Curse of the Monkey's Paw）",
+   "author": "TED-Ed（第 1 章导演 Kayu Leung）",
+   "date": "YouTube 10-27",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=nXvKDYRvTno"
+    ]
+   ],
+   "good": "34 分钟的 6 个恐怖故事合集，我看的是第 1 章：高反差黑白画面带颗粒，章节标题「CHAPTER I THE CURSE OF THE MONKEY'S PAW」用红色方块感的字靠左摆，是全画面唯一的颜色。字体未识别",
+   "borrow": "系列视频的章节卡可以学这个：画面全黑白，只让章节标题用一种颜色，一眼就知道换章了",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "合集共 34 分钟，只下载、看了前 2 分钟（第 1 章）"
+    ]
+   },
+   "id": "2026-10-31-10",
+   "embed": "https://www.youtube-nocookie.com/embed/nXvKDYRvTno?playsinline=1&rel=0",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=nXvKDYRvTno",
+   "cover": "covers/2026-10-31/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（7 条）",
+ "cut": [
+  {
+   "title": "Sweet Tooth",
+   "author": "Nico van den Brink",
+   "link": "https://vimeo.com/1238017560",
+   "why": "实拍短片，讲故事不是剪辑手法",
+   "cover": "covers/2026-10-31/cut-01.jpg"
+  },
+  {
+   "title": "Galopa",
+   "author": "Meat Dept.",
+   "link": "https://vimeo.com/1227172678",
+   "why": "怪诞玩偶辣酱广告，画面太吵，不克制",
+   "cover": "covers/2026-10-31/cut-02.jpg"
+  },
+  {
+   "title": "Life of Death and the Ensh*ttificator",
+   "author": "Forbrukerrådet",
+   "link": "https://vimeo.com/1226731365",
+   "why": "实拍喜剧广告，没有可借的动效",
+   "cover": "covers/2026-10-31/cut-03.jpg"
+  },
+  {
+   "title": "Vox 婴儿潮话题竖屏",
+   "author": "Vox",
+   "link": "https://www.youtube.com/watch?v=MOu6_QiktKA",
+   "why": "真人口播加黄色名牌，动效很少",
+   "cover": "covers/2026-10-31/cut-04.jpg"
+  },
+  {
+   "title": "emoji picker 球形表情",
+   "author": "jhey",
+   "link": "https://x.com/jh3yy/status/2116321049851908266",
+   "why": "效果小而炫，jhey 今天已经选了翻页那条",
+   "cover": "covers/2026-10-31/cut-05.jpg"
+  },
+  {
+   "title": "CRED cashback 动效",
+   "author": "60fps",
+   "link": "https://x.com/60fpsdesign/status/2116026519089037572",
+   "why": "紫绿撞色太跳，60fps 今天已选 2 条",
+   "cover": "covers/2026-10-31/cut-06.jpg"
+  },
+  {
+   "title": "water physics 健康图标",
+   "author": "60fps",
+   "link": "https://x.com/60fpsdesign/status/2114586302331113498",
+   "why": "图标在水面晃动，效果偏小，UI 类今天已经够了",
+   "cover": "covers/2026-10-31/cut-07.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "toc": "细拆：Kurzgesagt 氯胺酮竖屏",
+  "title": "71 秒竖屏，14 个镜头讲完一种药",
+  "flag": "【看过视频】（完整看过）",
+  "lede": "71 秒全片完整看过。Kurzgesagt 用竖屏讲氯胺酮怎么起作用、有什么风险：一共 14 个镜头，平均 5 秒一个，一个红头发绿衣服的小人从头串到尾，最后一个镜头回到开头，可以循环播放",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://www.youtube.com/shorts/KBfIo9sZbC4"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构：从桌面钻进大脑，再一路掉下去",
+    "ol": [
+     "0:00–0:03 开头：小人低头看桌上的白色粉末和一张蓝卡。标题大字从上往下砸下来，带一下回弹，旁边的小星星转着放大",
+     "0:03–0:07 切到分子尺度：红色小球（氯胺酮）往下滑进绿色的接收口，圆角小标签带回弹地弹出来指着它们",
+     "0:07–0:16 小人侧脸上叠出粉色大脑，镜头直接往前推、穿过大脑，进到蓝色神经网络，黄点沿着线流动；讲完再缩小回粉色大脑图标",
+     "0:16–0:21 大脑上一块亮成绿色，弹出一个圆形放大镜，里面的地图乱跳，最后冒出一个问号",
+     "0:21–0:33 先是亮色梦幻空间里小人漂浮，背景一直往上走，看起来像在往下掉；然后颜色慢慢变暗，进入「K Hole」：像素大字转着放大，小人掉进字母 O 里，O 放大把整个画面吞掉",
+     "0:33–1:05 风险部分：耐受性折线图、膀胱损伤、掉进水里、混用的危险（气泡聚成骷髅）、医院病床，几乎都是硬切",
+     "1:08–1:11 回到和开头一模一样的桌面，镜头只慢慢推向小人的脸，不再出标题，接回开头正好循环"
+    ]
+   },
+   {
+    "h": "节奏",
+    "ul": [
+     "14 个镜头平均 5 秒一个，最短 3 秒。竖屏短片这个速度不会让人想划走",
+     "大部分是硬切。只有换「尺度」时才用镜头穿过去：从人到大脑到神经（0:11），从幻觉掉进黑（0:33）",
+     "情绪变化不靠剪，靠颜色慢慢变：0:21–0:28 从粉紫亮色渐渐变成深紫和黑"
+    ]
+   },
+   {
+    "h": "转场：用画面里的东西当转场",
+    "ul": [
+     "穿过去：镜头往前推，穿过大脑、穿过字母 O，下一幕就在后面",
+     "东西掉出画面当擦除：0:46 前后被剪断的膀胱整个掉出屏幕底部，正好把下一幕露出来",
+     "元素接力：小人沉下去以后气泡留在画面里，下一幕直接用这些气泡聚成骷髅"
+    ]
+   },
+   {
+    "h": "文字",
+    "ul": [
+     "字幕是白色无衬线小字，固定在下方中间，没有动画。字体未识别",
+     "画面里的标签是圆角胶囊，带彩色边框和连线，出现时有一下回弹",
+     "开头标题和「K Hole」是唯二的大字，各自只出现一次"
+    ]
+   },
+   {
+    "h": "颜色和图表",
+    "ul": [
+     "全片底色是深紫，代表「脑子里」；强调色是洋红、青色、荧光绿、黄",
+     "0:33 的耐受性图表没有坐标数字，只有青绿网格和一条红线；线从左往右画出来，每到一个点，点就弹一下。看斜率就懂「越用越没效果」"
+    ]
+   },
+   {
+    "h": "Mika 可以怎么用 Remotion 做（这部分是做法建议，不是原片用的工具）",
+    "ol": [
+     "回弹进场：标题和标签都用 `spring()`，把 damping 调低一点（比如 10 左右）就有过冲回弹；标签按出现顺序各晚 3 到 5 帧",
+     "穿过去转场：当前画面用 `interpolate` 把 scale 在 10 帧左右从 1 拉到 8 以上，同时透明度降到 0；下一幕从 0.6 放大到 1，两段用 `<Sequence>` 叠几帧",
+     "画线图表：用 SVG path 的 `strokeDashoffset` 从总长度动到 0，数据点在线到达那一帧用 `spring()` 弹出来",
+     "循环结尾：最后一个镜头直接复用开头的组件，只去掉标题、加一个慢推（scale 1 到 1.08）"
+    ]
+   },
+   {
+    "h": "放到 AI 科普里怎么用",
+    "p": [
+     "讲「一句话进了大模型以后发生什么」很合适：开头一个小人对着手机打字，镜头穿进屏幕、穿进模型，每一层 5 秒左右讲完；结尾回到小人看手机，做成可以循环的短片",
+     "整片锁一种深色底代表「模型里面」，其他颜色只给正在讲的东西"
+    ]
+   }
+  ]
+ },
+ "sources": "信源：Vimeo、Stash、YouTube、X。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-10-31",
+ "kind": "daily",
+ "slug": "2026-10-31"
+}
