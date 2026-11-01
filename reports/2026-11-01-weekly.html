@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark"><meta name="referrer" content="strict-origin-when-cross-origin">
+<title>2026-11-01 审美周精选</title><link rel="stylesheet" href="../assets/site.css">
+<script src="../assets/config.js"></script></head>
+<body><div class="wrap">
+<div class="top"><a href="../">← 全部日报</a><span>鱼知道 · 审美雷达</span></div>
+<header><p class="kicker">审美周精选 · 10-26 至 10-31</p><h1>2026-11-01 审美周精选</h1><p class="note">从这周 6 份日报（60 条）里挑了 10 条。你 10-30 点过喜欢的两条 60fps UI 动效放在最前面，顺着这个方向又加了 jhey 的转场合集和旋钮数字；其余是片头、3D 讲解、字体和竖屏科普，类型分开。每条标明当时是看过完整视频还是只抽帧看了画面。本周最值得学在文末。喜欢就点心，有想法写在每条下面的「想法」框里</p></header>
+<p class="hint">点封面在页面里播放（Vimeo / YouTube / X 需要代理；Vimeo 若没自动开始，再点一下播放键）。觉得好就点「喜欢」，有想法就写在下面的框里保存，我每天出日报前会读，存进偏好和审美库；会多找同类，但每天仍保持类型分散。</p>
+<details class="toc"><summary>目录</summary><ol><li><a href="#i1"><span>01</span>Plasma 银行卡激活动效</a></li><li><a href="#i2"><span>02</span>refraction effects（wabi App 折射效果）</a></li><li><a href="#i3"><span>03</span>Segue：46 种网页翻页转场</a></li><li><a href="#i4"><span>04</span>These sliders look so polished（旋钮数字）</a></li><li><a href="#i5"><span>05</span>Guess How Far The Sun Is</a></li><li><a href="#i6"><span>06</span>IBM | Sovereign Core</a></li><li><a href="#i7"><span>07</span>WAR — Main Title Sequence</a></li><li><a href="#i8"><span>08</span>Meta Connect 2026 Opening Film</a></li><li><a href="#i9"><span>09</span>Demo 2027 trailer</a></li><li><a href="#i10"><span>10</span>How Does Ketamine Work?（竖屏短片）</a></li><li><a href="#cut"><span>－</span>差一点进的 3 条</a></li><li><a href="#deep"><span>拆</span>本周最值得学：Cleo Abram 太阳有多远</a></li></ol></details>
+<article class="item" id="i1" data-id="2026-11-01-01">
+<div class="tags"><span class="no">01</span><span class="tag">UI动效</span><span class="tag">转场</span></div>
+<h2>Plasma 银行卡激活动效</h2>
+<p class="by">60fps · 10-30 日报 · X 10-28 <span class="flag">【看过画面（抽帧）】</span></p>
+<div class="player r-s" role="button" tabindex="0" aria-label="在页面里打开 X 帖子" data-type="x" data-embed="2115492220233290224"><img src="../covers/2026-11-01-weekly/01.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">X</span></div><p class="clip-note">5.8 秒全片已下载</p>
+<div class="txt"><span class="k">好在哪</span>银色卡片从表单里浮起来，翻到上方变成激活卡面；每输一位数字，卡上多一个格子，输完卡再滑到底部进入下一步。全程灰白，只有金属反光<br><span class="k">可借</span>讲操作流程时，让一个主物体一直留在画面里换位置，不整页切走，步骤就串起来了</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-01" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://x.com/60fpsdesign/status/2115492220233290224" target="_blank" rel="noopener">看原帖 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-01"></div>
+</article><article class="item" id="i2" data-id="2026-11-01-02">
+<div class="tags"><span class="no">02</span><span class="tag">UI动效</span><span class="tag">代码动画</span></div>
+<h2>refraction effects（wabi App 折射效果）</h2>
+<p class="by">60fps · 10-30 日报 · X 10-27 <span class="flag">【看过画面（抽帧）】</span></p>
+<div class="player r-s" role="button" tabindex="0" aria-label="在页面里打开 X 帖子" data-type="x" data-embed="2115044732888105168"><img src="../covers/2026-11-01-weekly/02.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">X</span></div><p class="clip-note">原帖 3 段视频，只下载、看了第 1 段</p>
+<div class="txt"><span class="k">好在哪</span>黑底上两个图标叠着，前面那个像一块玻璃，挪动时后面的图标被扭曲、放大，边缘一圈折射光<br><span class="k">可借</span>讲「两个东西连接」时，让一个元素像玻璃压在另一个上面；Three.js 里 MeshPhysicalMaterial 的 <code>transmission</code> 就能做</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-02" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://x.com/60fpsdesign/status/2115044732888105168" target="_blank" rel="noopener">看原帖 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-02"></div>
+</article><article class="item" id="i3" data-id="2026-11-01-03">
+<div class="tags"><span class="no">03</span><span class="tag">代码动画</span><span class="tag">转场</span><span class="tag">字体版式</span></div>
+<h2>Segue：46 种网页翻页转场</h2>
+<p class="by">jhey（jh3yy） · 10-31 日报 · X 10-29 <span class="flag">【看过画面（抽帧）】</span></p>
+<div class="player r-s" role="button" tabindex="0" aria-label="在页面里打开 X 帖子" data-type="x" data-embed="2115951140521332909"><img src="../covers/2026-11-01-weekly/03.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">X</span></div><p class="clip-note">26 秒全片已下载，抽帧看过</p>
+<div class="txt"><span class="k">好在哪</span>米灰底一句大号衬线字，每翻一页换一种转场：竖条开门、箭头色块扫过、一条红线横切，还能调参数看代码。衬线字体未识别<br><span class="k">可借</span>当转场菜单挑：竖条开门、色块扫屏在 Remotion 里用几个矩形加错开时间就能做，章节切换比淡入淡出有劲</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-03" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://x.com/jh3yy/status/2115951140521332909" target="_blank" rel="noopener">看原帖 ↗</a><a href="https://jhey.dev/prototypes/2026/segue/" target="_blank" rel="noopener">在线 Demo ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-03"></div>
+</article><article class="item" id="i4" data-id="2026-11-01-04">
+<div class="tags"><span class="no">04</span><span class="tag">UI动效</span></div>
+<h2>These sliders look so polished（旋钮数字）</h2>
+<p class="by">60fps · 10-31 日报 · X 10-30 <span class="flag">【看过画面（抽帧）】</span></p>
+<div class="player r-s" role="button" tabindex="0" aria-label="在页面里打开 X 帖子" data-type="x" data-embed="2116187572233965702"><img src="../covers/2026-11-01-weekly/04.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">X</span></div><p class="clip-note">帖子里有 4 段，只下载并看了第 1 段（26 秒）</p>
+<div class="txt"><span class="k">好在哪</span>拧动金属旋钮时，上方大数字像里程表一样一位位上下滚，滚的时候带点模糊，停下变清楚。整屏只有黑白灰<br><span class="k">可借</span>讲参数量、价格这类数字变化时，数字竖着滚、滚动中加动态模糊、停住再清楚，马上显得精致</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-04" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://x.com/60fpsdesign/status/2116187572233965702" target="_blank" rel="noopener">看原帖 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-04"></div>
+</article><article class="item" id="i5" data-id="2026-11-01-05">
+<div class="tags"><span class="no">05</span><span class="tag">数据可视化</span><span class="tag">知识讲解</span></div>
+<h2>Guess How Far The Sun Is</h2>
+<p class="by">Cleo Abram · 10-28 日报 · YouTube Shorts 10-27 <span class="flag">【看过视频】</span></p>
+<div class="player r-v" role="button" tabindex="0" aria-label="在页面里播放" data-type="youtube" data-embed="https://www.youtube-nocookie.com/embed/DcAjv8YRKN8?playsinline=1&amp;rel=0"><img src="../covers/2026-11-01-weekly/05.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">YouTube</span></div><p class="clip-note">38 秒全片已下载</p>
+<div class="txt"><span class="k">好在哪</span>行星叠成一列，镜头沿竖线往上摇，绿箭头跟着变长、倍数跟着往上数，到金星、水星停一下报数，最后冲进太阳、变成篮球，落在「374 TIMES!」<br><span class="k">可借</span>讲「差了多少倍」时，物体排一列、相机往上摇、计数器跟着涨，到关键处停 1 秒。细拆见文末</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-05" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://www.youtube.com/shorts/DcAjv8YRKN8" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-05"></div>
+</article><article class="item" id="i6" data-id="2026-11-01-06">
+<div class="tags"><span class="no">06</span><span class="tag">3D质感</span><span class="tag">知识讲解</span></div>
+<h2>IBM | Sovereign Core</h2>
+<p class="by">Tendril · 10-29 日报 · Vimeo 06-30（超过 30 天） <span class="flag">【看过视频】（完整看过）</span></p>
+<div class="player r-h" role="button" tabindex="0" aria-label="在页面里播放" data-type="vimeo" data-embed="https://player.vimeo.com/video/1205673882?playsinline=1&amp;dnt=1"><img src="../covers/2026-11-01-weekly/06.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">Vimeo</span></div><p class="clip-note">52 秒全片已下载，完整看过</p>
+<div class="txt"><span class="k">好在哪</span>讲「数据主权」这种看不见的概念，全片只用蓝白磨砂方块，正在说的那组才发红或紫光，再用一条细线画出边界。镜头匀速慢、方块冲出去后长长刹住<br><span class="k">可借</span>讲「模型能看到哪些数据」：满屏同色方块，只亮一组，再画一圈边界线；Three.js 里 <code>InstancedMesh</code> 加 <code>emissive</code> 就行</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-06" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://vimeo.com/1205673882" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-06"></div>
+</article><article class="item" id="i7" data-id="2026-11-01-07">
+<div class="tags"><span class="no">07</span><span class="tag">片头片尾</span></div>
+<h2>WAR — Main Title Sequence</h2>
+<p class="by">Imaginary Forces · 10-27 日报 · Vimeo 10-05（超过 7 天） <span class="flag">【看过视频】</span></p>
+<div class="player r-h" role="button" tabindex="0" aria-label="在页面里播放" data-type="vimeo" data-embed="https://player.vimeo.com/video/1233092518?playsinline=1&amp;dnt=1"><img src="../covers/2026-11-01-weekly/07.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">Vimeo</span></div><p class="clip-note">45 秒全片带声音完整看过</p>
+<div class="txt"><span class="k">好在哪</span>黑白画布上只有厚涂笔触，看得到刷毛和布纹，到 0:20 音乐炸开才第一次刷进深红。镜头不动，每刀硬切在弦乐重音上；演职员名是小号细字、大字距。字体未识别<br><span class="k">可借</span>片头只用黑、白加一个留到高潮才出现的强调色，剪辑点卡音乐重音，字幕小、字距大、不动</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-07" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://vimeo.com/1233092518" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-07"></div>
+</article><article class="item" id="i8" data-id="2026-11-01-08">
+<div class="tags"><span class="no">08</span><span class="tag">片头片尾</span><span class="tag">3D质感</span><span class="tag">剪辑节奏</span></div>
+<h2>Meta Connect 2026 Opening Film</h2>
+<p class="by">FutureDeluxe · 10-26 日报 · Vimeo 10-14（超过 7 天） <span class="flag">【看过视频】</span></p>
+<div class="player r-h" role="button" tabindex="0" aria-label="在页面里播放" data-type="vimeo" data-embed="https://player.vimeo.com/video/1235907762?playsinline=1&amp;dnt=1"><img src="../covers/2026-11-01-weekly/08.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">Vimeo</span></div><p class="clip-note">完整看过 31 秒，有声，剪辑卡音乐</p>
+<div class="txt"><span class="k">好在哪</span>同一个无限符号轮流换成针织、苔藓、玻璃、镀铬、木头，全部硬切，节奏慢-快-慢，最后镀铬全景停 7 秒。logo 不转，焦点始终只有它。字体未识别<br><span class="k">可借</span>片头用 Three.js 把「鱼知道」logo 换 3 种材质，特写快扫、全景慢推，剪辑点卡鼓点，结尾回到标准版长停</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-08" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://vimeo.com/1235907762" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-08"></div>
+</article><article class="item" id="i9" data-id="2026-11-01-09">
+<div class="tags"><span class="no">09</span><span class="tag">字体版式</span><span class="tag">剪辑节奏</span></div>
+<h2>Demo 2027 trailer</h2>
+<p class="by">Studio Dumbar/DEPT® · 10-29 日报 · Vimeo 05-05（超过 30 天） <span class="flag">【看过画面（抽帧）】</span></p>
+<div class="player r-h" role="button" tabindex="0" aria-label="在页面里播放" data-type="vimeo" data-embed="https://player.vimeo.com/video/1189394573?playsinline=1&amp;dnt=1"><img src="../covers/2026-11-01-weekly/09.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">Vimeo</span></div><p class="clip-note">68 秒全片已下载</p>
+<div class="txt"><span class="k">好在哪</span>几乎只有黑白：「DEMO」被拉伸压扁撑满整屏，「THE」横向拉成一条，「28」鼓成气球，中间穿插几段实拍。字体未识别（可变宽度展示字体）<br><span class="k">可借</span>标题字不挪位置，只改字宽字高，把一个词撑满画面再缩回；Remotion 里用可变字体 <code>wdth</code> 轴或 scaleX/scaleY</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-09" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://vimeo.com/1189394573" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-09"></div>
+</article><article class="item" id="i10" data-id="2026-11-01-10">
+<div class="tags"><span class="no">10</span><span class="tag">知识讲解</span><span class="tag">MG</span><span class="tag">剪辑节奏</span></div>
+<h2>How Does Ketamine Work?（竖屏短片）</h2>
+<p class="by">Kurzgesagt · 10-31 日报 · YouTube 10-29 <span class="flag">【看过视频】（完整看过）</span></p>
+<div class="player r-v" role="button" tabindex="0" aria-label="在页面里播放" data-type="youtube" data-embed="https://www.youtube-nocookie.com/embed/KBfIo9sZbC4?playsinline=1&amp;rel=0"><img src="../covers/2026-11-01-weekly/10.jpg" alt="" loading="lazy" decoding="async"><span class="btn"></span><span class="src">YouTube</span></div><p class="clip-note">71 秒全片已下载并完整看过</p>
+<div class="txt"><span class="k">好在哪</span>71 秒 14 个镜头，平均 5 秒一个。大多硬切，只有换尺度时镜头穿过去（人→大脑→神经）；情绪变化靠颜色慢慢变暗，结尾回到开头可以循环<br><span class="k">可借</span>讲「一句话进了大模型以后」：镜头穿进屏幕、穿进模型，每层 5 秒，结尾回到开头做成循环</div><button class="more" type="button">展开全文</button>
+<div class="row"><button class="like" type="button" data-id="2026-11-01-10" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"/></svg><span>喜欢</span></button><span class="links"><a href="https://www.youtube.com/shorts/KBfIo9sZbC4" target="_blank" rel="noopener">看原片 ↗</a></span></div>
+<div class="cmt" data-id="2026-11-01-10"></div>
+</article>
+<details class="cut" id="cut"><summary>差一点进的 3 条</summary><div class="cut-item"><a class="thumb" href="https://www.youtube.com/watch?v=9kM3mnxrMMM" target="_blank" rel="noopener"><img src="../covers/2026-11-01-weekly/cut-01.jpg" alt="" loading="lazy"></a>
+<div><h4><a href="https://www.youtube.com/watch?v=9kM3mnxrMMM" target="_blank" rel="noopener">How do microSD Cards Store 2 TB in such a TINY space? ↗</a></h4><p>Branch Education · 10-30 完整看过。一层层拆开芯片的做法很好，但和 IBM、Cleo 同属 3D 讲解，这周这类已经够多</p></div></div><div class="cut-item"><a class="thumb" href="https://vimeo.com/1241253326" target="_blank" rel="noopener"><img src="../covers/2026-11-01-weekly/cut-02.jpg" alt="" loading="lazy"></a>
+<div><h4><a href="https://vimeo.com/1241253326" target="_blank" rel="noopener">Porsche「The Long Way to &quot;I Do&quot;」 ↗</a></h4><p>Em Cooper × Tonic DNA · 10-31 抽帧看过。会动的油画，一幕溶解成下一幕，没有一刀剪辑；手绘油画离代码做法远一点，先放这里</p></div></div><div class="cut-item"><a class="thumb" href="https://x.com/emilkowalski/status/2115789995860517254" target="_blank" rel="noopener"><img src="../covers/2026-11-01-weekly/cut-03.jpg" alt="" loading="lazy"></a>
+<div><h4><a href="https://x.com/emilkowalski/status/2115789995860517254" target="_blank" rel="noopener">Interaction lab（交互实验室） ↗</a></h4><p>Emil Kowalski · 10-31 抽帧看过。等宽字、方括号标题、文字被一点点改写，很适合讲「AI 在想什么」；本周 UI/代码类名额已满</p></div></div></details>
+<section class="deep" id="deep"><p class="kicker">本周最值得学</p><h2>一根箭头、一个计数器，把「倍数」摇出来 <span class="flag" style="font-size:13px">【看过视频】（10-28 完整看过）</span></h2><p>从 10-28 日报的细拆压缩而来。选它是因为它最好直接搬进「鱼知道」：讲 AI 里各种「差了多少倍」，用 Three.js + Remotion 就能做，而且和你点过喜欢的 UI 动效一样，都是「一个东西跟着另一个东西精确地动」</p><h3>好在哪</h3><ul><li>整片只有一个动作：镜头沿竖线往上摇，箭头跟着变长，就是观众的视线引导</li><li>「快速赶路 + 停住报数」交替：路过的行星只出现 0.1–0.2 秒，到目标停 1–1.5 秒</li><li>跨场景靠「同一个位置」接上：太阳原地变篮球，篮球场上的亮点落在上一镜篮球的位置</li><li>强调色只有一种荧光绿（箭头、倍数），其他字全白</li></ul><h3>在 Remotion / Three.js 里怎么做</h3><ol class="steps"><li>物体沿 Y 轴排成一列，每个记下 <code>y</code> 和要显示的倍数；相机只动 <code>position.y</code></li><li>摇镜用 <code>interpolate(frame,[start,end],[yFrom,yTo])</code>，匀速段用 <code>Easing.linear</code>，冲进终点那段换 <code>Easing.in(Easing.cubic)</code></li><li>箭头长度直接用相机 <code>y</code> 算，和镜头用同一个变量驱动，才不会错位</li><li>计数器 <code>Math.round()</code> 只显示整数，停住那一帧用 <code>spring()</code> 放大回弹一下</li><li>重音字的帧号先在配音上标好，画面变化切在那一帧</li></ol><h3>用在「鱼知道」</h3><p>讲「模型参数差了多少倍」「算力涨了多少倍」：几个模型排一列，镜头往上摇、计数器跟着涨，到每个模型停 1 秒报数，最后换成一个生活里的参照物收尾</p><h3>反馈方式</h3><p>喜欢哪条就点那条的心，有想法直接写在每条下面的「想法」框里点保存，下次挑片前我会先读</p><p><span class="links"><a href="https://www.youtube.com/shorts/DcAjv8YRKN8" target="_blank" rel="noopener">看原片 ↗</a><a href="https://yushizhang4705-wq.github.io/aesthetic-daily/reports/2026-10-28.html#deep" target="_blank" rel="noopener">10-28 日报完整细拆 ↗</a></span></p></section>
+<footer>信源：Vimeo、Stash、Codrops、YouTube（Cleo Abram、Kurzgesagt、Branch Education、TED-Ed 等）、X（@60fpsdesign、@jh3yy、@emilkowalski）<br>页面只放原作的官方播放器和链接，视频版权归原作者。</footer>
+</div><script src="../assets/site.js"></script></body></html>

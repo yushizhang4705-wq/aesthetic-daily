@@ -1063,5 +1063,156 @@
    "字体版式"
   ],
   "cat": "片头片尾 · 3D质感"
+ },
+ {
+  "id": "2026-11-01-01",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i1",
+  "title": "Plasma 银行卡激活动效",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2115492220233290224",
+  "embed": "x:2115492220233290224",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场 · 你点过喜欢"
+ },
+ {
+  "id": "2026-11-01-02",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i2",
+  "title": "refraction effects（wabi App 折射效果）",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2115044732888105168",
+  "embed": "x:2115044732888105168",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画 · 你点过喜欢"
+ },
+ {
+  "id": "2026-11-01-03",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i3",
+  "title": "Segue：46 种网页翻页转场",
+  "author": "jhey（jh3yy）",
+  "url": "https://x.com/jh3yy/status/2115951140521332909",
+  "embed": "x:2115951140521332909",
+  "tags": [
+   "代码动画",
+   "转场",
+   "字体版式"
+  ],
+  "cat": "代码动画 · 转场"
+ },
+ {
+  "id": "2026-11-01-04",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i4",
+  "title": "These sliders look so polished（旋钮数字）",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2116187572233965702",
+  "embed": "x:2116187572233965702",
+  "tags": [
+   "UI动效"
+  ],
+  "cat": "UI动效"
+ },
+ {
+  "id": "2026-11-01-05",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i5",
+  "title": "Guess How Far The Sun Is",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/DcAjv8YRKN8",
+  "embed": "https://www.youtube-nocookie.com/embed/DcAjv8YRKN8?playsinline=1&rel=0",
+  "tags": [
+   "数据可视化",
+   "知识讲解"
+  ],
+  "cat": "数据可视化 · 竖屏科普 · 本周最值得学"
+ },
+ {
+  "id": "2026-11-01-06",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i6",
+  "title": "IBM | Sovereign Core",
+  "author": "Tendril",
+  "url": "https://vimeo.com/1205673882",
+  "embed": "https://player.vimeo.com/video/1205673882?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "知识讲解"
+  ],
+  "cat": "3D质感 · 概念讲解"
+ },
+ {
+  "id": "2026-11-01-07",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i7",
+  "title": "WAR — Main Title Sequence",
+  "author": "Imaginary Forces",
+  "url": "https://vimeo.com/1233092518",
+  "embed": "https://player.vimeo.com/video/1233092518?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾"
+  ],
+  "cat": "片头片尾"
+ },
+ {
+  "id": "2026-11-01-08",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i8",
+  "title": "Meta Connect 2026 Opening Film",
+  "author": "FutureDeluxe",
+  "url": "https://vimeo.com/1235907762",
+  "embed": "https://player.vimeo.com/video/1235907762?playsinline=1&dnt=1",
+  "tags": [
+   "片头片尾",
+   "3D质感",
+   "剪辑节奏"
+  ],
+  "cat": "片头 · 3D质感"
+ },
+ {
+  "id": "2026-11-01-09",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i9",
+  "title": "Demo 2027 trailer",
+  "author": "Studio Dumbar/DEPT®",
+  "url": "https://vimeo.com/1189394573",
+  "embed": "https://player.vimeo.com/video/1189394573?playsinline=1&dnt=1",
+  "tags": [
+   "字体版式",
+   "剪辑节奏"
+  ],
+  "cat": "字体版式 · 预告"
+ },
+ {
+  "id": "2026-11-01-10",
+  "date": "2026-11-01",
+  "kind": "weekly",
+  "report": "reports/2026-11-01-weekly.html#i10",
+  "title": "How Does Ketamine Work?（竖屏短片）",
+  "author": "Kurzgesagt",
+  "url": "https://www.youtube.com/shorts/KBfIo9sZbC4",
+  "embed": "https://www.youtube-nocookie.com/embed/KBfIo9sZbC4?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG",
+   "剪辑节奏"
+  ],
+  "cat": "知识讲解 · MG"
  }
 ]
