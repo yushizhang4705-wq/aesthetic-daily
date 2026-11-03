@@ -1364,5 +1364,159 @@
    "字体版式"
   ],
   "cat": "2D动画 · 字体版式"
+ },
+ {
+  "id": "2026-11-03-01",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i1",
+  "title": "New MacBook Pro with PROLED XDR Display",
+  "author": "Apple",
+  "url": "https://www.youtube.com/watch?v=hnZI5uUSdEo",
+  "embed": "https://www.youtube-nocookie.com/embed/hnZI5uUSdEo?playsinline=1&rel=0",
+  "tags": [
+   "实拍剪辑",
+   "剪辑节奏"
+  ],
+  "cat": "实拍剪辑 · 英雄镜头"
+ },
+ {
+  "id": "2026-11-03-02",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i2",
+  "title": "弹簧和缓动曲线的交互演示（动画课新内容）",
+  "author": "Emil Kowalski",
+  "url": "https://x.com/emilkowalski/status/2117240584897548326",
+  "embed": "https://x.com/emilkowalski/status/2117240584897548326",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-03-03",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i3",
+  "title": "Atlas card 开卡引导转场",
+  "author": "60fps（收录 Atlas card 的 App）",
+  "url": "https://x.com/60fpsdesign/status/2117191415277199426",
+  "embed": "https://x.com/60fpsdesign/status/2117191415277199426",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "转场"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-03-04",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i4",
+  "title": "Flora takes flight（Down the Rabbit Hole 音乐节视觉）",
+  "author": "Merijn Hos（Agent Pekka）",
+  "url": "https://vimeo.com/1242433619",
+  "embed": "https://player.vimeo.com/video/1242433619",
+  "tags": [
+   "MG",
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "MG · 字体版式"
+ },
+ {
+  "id": "2026-11-03-05",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i5",
+  "title": "What I've been working on all year（新片预告）",
+  "author": "Johnny Harris",
+  "url": "https://www.youtube.com/watch?v=sOz7gG74OIw",
+  "embed": "https://www.youtube-nocookie.com/embed/sOz7gG74OIw?playsinline=1&rel=0",
+  "tags": [
+   "片头片尾",
+   "实拍剪辑",
+   "剪辑节奏"
+  ],
+  "cat": "片头片尾 · 影像质感"
+ },
+ {
+  "id": "2026-11-03-06",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i6",
+  "title": "We Finally Know More About Humanity's First Civilization",
+  "author": "Kurzgesagt",
+  "url": "https://www.youtube.com/watch?v=_y9JuojAIg0",
+  "embed": "https://www.youtube-nocookie.com/embed/_y9JuojAIg0?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-03-07",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i7",
+  "title": "5 sneaky ways stores get you to spend more",
+  "author": "TED-Ed",
+  "url": "https://www.youtube.com/watch?v=a_4eFB8pPwI",
+  "embed": "https://www.youtube-nocookie.com/embed/a_4eFB8pPwI?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG",
+   "字体版式"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-03-08",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i8",
+  "title": "The new MacBook Pro with M6",
+  "author": "Apple",
+  "url": "https://www.youtube.com/watch?v=vT-o5hh1cVc",
+  "embed": "https://www.youtube-nocookie.com/embed/vT-o5hh1cVc?playsinline=1&rel=0",
+  "tags": [
+   "字体版式",
+   "剪辑节奏"
+  ],
+  "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-11-03-09",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i9",
+  "title": "cycle（四季隧道循环）",
+  "author": "Spline",
+  "url": "https://x.com/splinetool/status/2117383640829313141",
+  "embed": "https://x.com/splinetool/status/2117383640829313141",
+  "tags": [
+   "3D质感",
+   "转场"
+  ],
+  "cat": "3D质感 · 转场"
+ },
+ {
+  "id": "2026-11-03-10",
+  "date": "2026-11-03",
+  "kind": "daily",
+  "report": "reports/2026-11-03.html#i10",
+  "title": "Your Skeleton Is Electric",
+  "author": "Kurzgesagt",
+  "url": "https://www.youtube.com/shorts/RQprZZJIb6Y",
+  "embed": "https://www.youtube-nocookie.com/embed/RQprZZJIb6Y?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "知识讲解 · MG"
  }
 ]
