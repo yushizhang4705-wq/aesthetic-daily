@@ -1,0 +1,65 @@
+[
+ {
+  "id": "2026-11-02-01",
+  "date": "2026-11-02",
+  "kind": "item",
+  "title": "Karpathy 嫌 YouTube 推荐全是夸张缩略图和重复内容，周末让 Claude（Opus 5.5，在 Claude Code 里）把 Hacker News 2007–2026 年的评论全翻一遍，挑出 6454 个被不同的人在不同月份反复推荐的视频，做成不用登录的 hackertube.org，缩略图换成视频中间的一帧，数据包公开可以拿去让 AI 做自己的版本；他说前后约 2 小时，自己只动手建了 API 密钥、开服务器、买域名（他的博客和网站已核对）。",
+  "url": "https://x.com/karpathy/status/2116957135661945283"
+ },
+ {
+  "id": "2026-11-02-02",
+  "date": "2026-11-02",
+  "kind": "item",
+  "title": "GitHub 上 patch-gg 开源了 pixelfx：244 种游戏像素特效（爆炸、闪电、火焰、传送门、魔法阵等），每一种都是一小段代码实时画出来的，网页上能直接预览、改颜色大小，能导出透明背景的精灵图，MIT 协议可商用，还附带一个 Claude Code 技能，让 AI 照你的描述做新特效（GitHub 仓库已核对，10/30 创建，抓取时 2552 星）。",
+  "url": "https://x.com/servasyy_ai/status/2116713757808427419"
+ },
+ {
+  "id": "2026-11-02-03",
+  "date": "2026-11-02",
+  "kind": "item",
+  "title": "简介写着「零技能艺术家，所以我用 AI」的账号 @antrofrog_ 发了一条 47 秒的 AI 短片《Englishman in New York》（英国绅士在纽约排队），X 上这一条抓取时 3295 万浏览、29 万赞；@LinusEkenstam 说片子是用 Midjourney 和 Krea 做的、各平台加起来 36 小时约 2 亿播放，这两点待证。",
+  "url": "https://x.com/LinusEkenstam/status/2116850561832149323"
+ },
+ {
+  "id": "2026-11-02-r01",
+  "date": "2026-11-02",
+  "kind": "reply",
+  "title": "@shao__meng 中文整理 Karpathy 的 HackerTube：中文圈讲 HackerTube 最完整的一条，回复区还不多，补一句普通人看得懂的点。",
+  "url": "https://x.com/shao__meng/status/2116778454200865097"
+ },
+ {
+  "id": "2026-11-02-r02",
+  "date": "2026-11-02",
+  "kind": "reply",
+  "title": "@op7418 微信输入法语音输入比 Typeless 好用：回复区讨论很多，微信输入法是大众天天用的东西，补一条应用商店写明的新功能。",
+  "url": "https://x.com/op7418/status/2116888871057473746"
+ },
+ {
+  "id": "2026-11-02-r03",
+  "date": "2026-11-02",
+  "kind": "reply",
+  "title": "@Gorden_Sun BodyVista 开源 3D 人体解剖：跟主号大众科普定位贴，和昨天的 3D 课件是同一类，能接着聊。",
+  "url": "https://x.com/Gorden_Sun/status/2116732119330250798"
+ },
+ {
+  "id": "2026-11-02-r04",
+  "date": "2026-11-02",
+  "kind": "reply",
+  "title": "@vista8 AI Agent 的下一个瓶颈是人自己：讲一个人同时只能盯 3–5 个 AI 任务，回复区在讨论，主号可以补一个观点。",
+  "url": "https://x.com/vista8/status/2116918131067351427"
+ },
+ {
+  "id": "2026-11-02-v01",
+  "date": "2026-11-02",
+  "kind": "viral",
+  "title": "@thsottiaux（OpenAI Codex 负责人 Tibo）「Banked 1/2」：只有三个词，却是前一天「送两次额度重置」预告的兑现，意思是这次重置可以先存着、想用再用，Codex 用户每天来蹲他的连载，看到就转；晚上又补了一条「Day 28/ Banked 2/2」（赞 2674）。可学的是先预告、再按编号兑现的连载节奏。",
+  "url": "https://x.com/thsottiaux/status/2116692529970311254"
+ },
+ {
+  "id": "2026-11-02-v02",
+  "date": "2026-11-02",
+  "kind": "viral",
+  "title": "@oran_ge 转述赫拉利演讲「AI 已经破解了人类文明底层代码」：借《人类简史》作者的名气，用「语言是合作工具、合作靠信任」这条普通人都能跟上的线讲 AI，收藏接近点赞，说明大家当成「值得存着看」的思考材料。开头「细思恐极」是焦虑钩子，主号别学这个开头，学「借熟悉的人和书讲 AI」。",
+  "url": "https://x.com/oran_ge/status/2116873991432667494"
+ }
+]
