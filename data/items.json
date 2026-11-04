@@ -1518,5 +1518,154 @@
    "MG"
   ],
   "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-04-01",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i1",
+  "title": "The 64 sugar cubes puzzle",
+  "author": "3Blue1Brown",
+  "url": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+  "embed": "https://www.youtube-nocookie.com/embed/6XPlmCDNLNc?playsinline=1&rel=0",
+  "tags": [
+   "代码动画",
+   "知识讲解"
+  ],
+  "cat": "代码动画 · 知识讲解"
+ },
+ {
+  "id": "2026-11-04-02",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i2",
+  "title": "Bass X Machina Opening Titles",
+  "author": "BUCK（Netflix）",
+  "url": "https://www.youtube.com/watch?v=F-TxCbf-D8I",
+  "embed": "https://www.youtube-nocookie.com/embed/F-TxCbf-D8I?playsinline=1&rel=0",
+  "tags": [
+   "片头片尾",
+   "MG"
+  ],
+  "cat": "片头片尾 · MG"
+ },
+ {
+  "id": "2026-11-04-03",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i3",
+  "title": "Text Character Animations with GSAP",
+  "author": "Codrops",
+  "url": "https://x.com/codrops/status/2117557620747690372",
+  "embed": "x:2117557620747690372",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-04-04",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i4",
+  "title": "Cinematic. Period.",
+  "author": "60fps（收录的 App）",
+  "url": "https://x.com/60fpsdesign/status/2117660740240982252",
+  "embed": "x:2117660740240982252",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-04-05",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i5",
+  "title": "how it works（滚动驱动的 emoji 地球）",
+  "author": "jhey",
+  "url": "https://x.com/jh3yy/status/2117701538126962767",
+  "embed": "x:2117701538126962767",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-04-06",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i6",
+  "title": "Your Map Shows Antarctica Wrong",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/ZUirpasicHQ",
+  "embed": "https://www.youtube-nocookie.com/embed/ZUirpasicHQ?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-04-07",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i7",
+  "title": "Levi's — Let's Get Fuzzy",
+  "author": "Blinkink（Stevie Gee & Essy May）",
+  "url": "https://vimeo.com/1242832881",
+  "embed": "https://player.vimeo.com/video/1242832881",
+  "tags": [
+   "实物动画"
+  ],
+  "cat": "实物动画"
+ },
+ {
+  "id": "2026-11-04-08",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i8",
+  "title": "it's just one piece, how hard can it be?",
+  "author": "jhey",
+  "url": "https://x.com/jh3yy/status/2117769322013814826",
+  "embed": "x:2117769322013814826",
+  "tags": [
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-04-09",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i9",
+  "title": "Why are Spiral Escalators so rare?",
+  "author": "Jared Owen",
+  "url": "https://www.youtube.com/shorts/5y2yjd4lSM8",
+  "embed": "https://www.youtube-nocookie.com/embed/5y2yjd4lSM8?playsinline=1&rel=0",
+  "tags": [
+   "3D质感",
+   "知识讲解"
+  ],
+  "cat": "3D质感 · 知识讲解"
+ },
+ {
+  "id": "2026-11-04-10",
+  "date": "2026-11-04",
+  "kind": "daily",
+  "report": "reports/2026-11-04.html#i10",
+  "title": "FIRESTARTER（K/DA 官方 MV）",
+  "author": "Fortiche（League of Legends）",
+  "url": "https://www.youtube.com/watch?v=Mmw-PpWhKFg",
+  "embed": "https://www.youtube-nocookie.com/embed/Mmw-PpWhKFg?playsinline=1&rel=0",
+  "tags": [
+   "MG",
+   "转场"
+  ],
+  "cat": "MG · 转场"
  }
 ]
