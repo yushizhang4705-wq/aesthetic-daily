@@ -3,13 +3,18 @@
   var NS=q.get('ns')||C.ns;var API=C.api||'https://abacus.jasoncameron.dev';
   var LK='ad-like:'+(q.get('ns')?NS+':':'');
   function hit(key){try{return fetch(API+'/hit/'+encodeURIComponent(NS)+'/'+encodeURIComponent(key),{mode:'cors',cache:'no-store'}).then(function(r){return r.json()}).then(function(j){window.__lastHit={key:key,res:j};return j}).catch(function(){})}catch(e){}}
-  // like buttons
+  // like / dislike buttons: mutually exclusive per device (localStorage), Abacus keys <id>-like/-unlike and <id>-dislike/-undislike
+  var DK='ad-dislike:'+(q.get('ns')?NS+':':'');
   document.querySelectorAll('.like').forEach(function(b){
-    var id=b.getAttribute('data-id');var on=false;
-    try{on=localStorage.getItem(LK+id)==='1'}catch(e){}
-    function paint(){b.classList.toggle('on',on);b.setAttribute('aria-pressed',on?'true':'false');b.querySelector('span').textContent=on?'已喜欢':'喜欢'}
+    var id=b.getAttribute('data-id');var d=b.parentNode.querySelector('.dislike');
+    function g(k){try{return localStorage.getItem(k+id)==='1'}catch(e){return false}}
+    function st(k,v){try{v?localStorage.setItem(k+id,'1'):localStorage.removeItem(k+id)}catch(e){}}
+    var on=g(LK),dn=g(DK);if(on&&dn){dn=false;st(DK,false)}
+    function paint(){b.classList.toggle('on',on);b.setAttribute('aria-pressed',on?'true':'false');b.querySelector('span').textContent=on?'已喜欢':'喜欢';
+      if(d){d.classList.toggle('on',dn);d.setAttribute('aria-pressed',dn?'true':'false');d.querySelector('span').textContent=dn?'已踩':'踩'}}
     paint();
-    b.addEventListener('click',function(){on=!on;try{on?localStorage.setItem(LK+id,'1'):localStorage.removeItem(LK+id)}catch(e){}paint();hit(id+(on?'-like':'-unlike'))});
+    b.addEventListener('click',function(){on=!on;st(LK,on);hit(id+(on?'-like':'-unlike'));if(on&&dn){dn=false;st(DK,false);hit(id+'-undislike')}paint()});
+    if(d)d.addEventListener('click',function(){dn=!dn;st(DK,dn);hit(id+(dn?'-dislike':'-undislike'));if(dn&&on){on=false;st(LK,false);hit(id+'-unlike')}paint()});
   });
   // comments: one note per item, stored in TextDB (key <NS>-c-<id>), localStorage copy for instant display / offline retry
   var CAPI=C.capi||'https://api.textdb.online',CREAD=C.cread||'https://textdb.online';

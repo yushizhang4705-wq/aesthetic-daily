@@ -42,10 +42,10 @@ h2{font-size:19px;line-height:1.45;font-weight:600;margin:0 0 4px}
 .more{background:none;border:0;padding:2px 0;color:var(--mute);font-size:13px;cursor:pointer;display:none}
 .more.show{display:inline-block}
 .row{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;margin:12px 0 0}
-.like{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:14px;color:var(--fg);background:transparent;border:1px solid var(--line);border-radius:999px;padding:7px 14px 7px 12px;cursor:pointer;-webkit-tap-highlight-color:transparent}
-.like svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;transition:transform .2s ease-out}
+.like,.dislike{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:14px;color:var(--fg);background:transparent;border:1px solid var(--line);border-radius:999px;padding:7px 14px 7px 12px;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.like svg,.dislike svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;transition:transform .2s ease-out}
 .like.on{color:var(--heart);border-color:var(--heart)}.like.on svg{fill:currentColor}
-.like:active svg{transform:scale(.86)}
+.like:active svg,.dislike:active svg{transform:scale(.86)}
 .links{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
 .links a,.cut a,.deep a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent)}
 details.cut{margin:0 0 40px;border-bottom:1px solid var(--line);padding-bottom:28px}
@@ -94,3 +94,5 @@ footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);font-si
 .cview{border-left:2px solid var(--accent);padding:2px 0 0 12px}
 .ctext{margin:0;font-size:15px;line-height:1.7;white-space:pre-wrap;word-break:break-word}
 .cmt [hidden]{display:none!important}
+.dislike{color:var(--mute);margin-left:8px;padding:7px 14px 7px 11px}.dislike svg{width:14px;height:14px;stroke-width:2.2}
+.dislike.on{color:var(--fg);border-color:var(--fg)}
