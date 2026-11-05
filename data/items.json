@@ -1667,5 +1667,160 @@
    "转场"
   ],
   "cat": "MG · 转场"
+ },
+ {
+  "id": "2026-11-05-01",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i1",
+  "title": "Seam Transitions（十一段滚动接缝）",
+  "author": "Codrops",
+  "url": "https://x.com/codrops/status/2116144602465931717",
+  "embed": "x:2116144602465931717",
+  "tags": [
+   "转场",
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "转场 · 代码动画"
+ },
+ {
+  "id": "2026-11-05-02",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i2",
+  "title": "Travel Map Onboarding（Airbnb）",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2118003258577019336",
+  "embed": "x:2118003258577019336",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-05-03",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i3",
+  "title": "404 concept（Matrix 走廊）",
+  "author": "jhey",
+  "url": "https://x.com/jh3yy/status/2118061573441016256",
+  "embed": "x:2118061573441016256",
+  "tags": [
+   "代码动画",
+   "3D质感",
+   "UI动效"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-05-04",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i4",
+  "title": "Touch lab：点按再交互",
+  "author": "Emil Kowalski",
+  "url": "https://x.com/emilkowalski/status/2117955432438469085",
+  "embed": "x:2117955432438469085",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-05-05",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i5",
+  "title": "Brandon Yasin 作品集（日落金 / 夜橄榄）",
+  "author": "Brandon Yasin × Codrops",
+  "url": "https://x.com/codrops/status/2117997292724584927",
+  "embed": "x:2117997292724584927",
+  "tags": [
+   "字体版式",
+   "转场",
+   "UI动效"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-05-06",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i6",
+  "title": "Lookbook Hover Effects",
+  "author": "Codrops",
+  "url": "https://x.com/codrops/status/2116466349337706878",
+  "embed": "x:2116466349337706878",
+  "tags": [
+   "UI动效",
+   "转场",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-05-07",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i7",
+  "title": "Rive Winamp 致敬（三窗全重建）",
+  "author": "Rive / @PedroAlpera",
+  "url": "https://x.com/rive_app/status/2118018943008817582",
+  "embed": "x:2118018943008817582",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-05-08",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i8",
+  "title": "This Is What a Godlike Civilization Would Look Like",
+  "author": "Kurzgesagt",
+  "url": "https://www.youtube.com/watch?v=QW_jlUn4gA8",
+  "embed": "https://www.youtube-nocookie.com/embed/QW_jlUn4gA8?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-05-09",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i9",
+  "title": "Entry Descent and Landing on Mars",
+  "author": "Jared Owen",
+  "url": "https://www.youtube.com/shorts/QZIdlEXC3Qs",
+  "embed": "https://www.youtube-nocookie.com/embed/QZIdlEXC3Qs?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "3D质感"
+  ],
+  "cat": "知识讲解 · 3D质感"
+ },
+ {
+  "id": "2026-11-05-10",
+  "date": "2026-11-05",
+  "kind": "daily",
+  "report": "reports/2026-11-05.html#i10",
+  "title": "KFC & Doctor Doom（Doom Burger）",
+  "author": "Tom Noakes & Black Kite / KFC UKI",
+  "url": "https://www.youtube.com/watch?v=ff6ZvCfHJrM",
+  "embed": "https://www.youtube-nocookie.com/embed/ff6ZvCfHJrM?playsinline=1&rel=0",
+  "tags": [
+   "剪辑节奏",
+   "实拍剪辑",
+   "MG"
+  ],
+  "cat": "剪辑节奏 · 实拍剪辑"
  }
 ]
