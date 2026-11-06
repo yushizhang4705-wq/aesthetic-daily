@@ -201,5 +201,75 @@
   "kind": "viral",
   "title": "@simonw 用笔记本上的 Qwen 3.8 27B 复现「模型直接读权重」：接着前一天刷屏的 GPT-6 Astra 读权重论文，他说用自己笔记本上的开源小模型跑了 45 分钟以上也做到了，「大家吹的事我在家用小模型也行」这个反差就是传播点；收藏是点赞的一半，说明大家当成要回头看的资料。",
   "url": "https://x.com/simonw/status/2117655816581071203"
+ },
+ {
+  "id": "2026-11-06-01",
+  "date": "2026-11-06",
+  "kind": "item",
+  "title": "Anthropic 11 月 5 日推出 Claude Personal Finance（个人理财）测试版：美国 Pro / Max / Ultra 用户可通过 Plaid 连接自己选择的银行、信用卡等账户，用日常语言问余额、花销、账单；权限只读，不能转账、管理或投资；银行密码在 Plaid 侧登录，Claude 看不到；理财对话不用于训练，可随时断开（claude.com 官方文章与帮助中心已核对）。",
+  "url": "https://x.com/claudeai/status/2118403114890137895"
+ },
+ {
+  "id": "2026-11-06-02",
+  "date": "2026-11-06",
+  "kind": "item",
+  "title": "OpenAI 11 月 4 日上线 ChatGPT Images 2.6：可在对话里直接生成循环 GIF，也能把静图做成动画，可调播放速度和逐帧查看；全球所有订阅档在网页、桌面和手机可用，官方称生成速度大约快 50%；API 另有 GPT-Image-2.6 Flare / Sunburst。@gbroai 随后用它给口播直接出拼贴 B-roll，没再跑视频模型（OpenAI 官方博客已核对）。",
+  "url": "https://x.com/OpenAI/status/2118124944928432327"
+ },
+ {
+  "id": "2026-11-06-03",
+  "date": "2026-11-06",
+  "kind": "item",
+  "title": "Cursor 11 月 5 日 changelog 上线 Build Live Apps：对云端 agent 说清楚要做的工具，它会搭网页、需要时开 Postgres、配 Cursor 登录并托管；发布前跑规则与 agent 安全检查，通过且你点确认后才上线并给出链接；团队可按人/组/全员分享，个人付费档也可公开；需付费计划且开启云 agent（cursor.com/changelog 已核对）。",
+  "url": "https://x.com/cursor_ai/status/2118458629091426304"
+ },
+ {
+  "id": "2026-11-06-04",
+  "date": "2026-11-06",
+  "kind": "item",
+  "title": "OpenAI 公布自主漏洞发现—验证—打补丁流水线，并用即将发布/已发布的安全模型在一次运行里为 Linux 本地提权漏洞验证并生成补丁约 948 个，API 成本约 120 万美元（约合每漏洞一千美元量级）；流程含人工复核后再报维护者。同日推出 GPT‑6 Cyber，面向授权安全研究，经 Daybreak Red 访问（OpenAI 官方两篇博客已核对）。",
+  "url": "https://x.com/OpenAI/status/2118119451401048497"
+ },
+ {
+  "id": "2026-11-06-r01",
+  "date": "2026-11-06",
+  "kind": "reply",
+  "title": "@emollick 说公司里搞 ai 转型的人其实在两股力量里拉扯：回复多、争议大，职场人都听得懂「一拨人觉得天要变、一拨人希望当普通工具」，适合主号补一句现场感。",
+  "url": "https://x.com/emollick/status/2118371656939053117"
+ },
+ {
+  "id": "2026-11-06-r02",
+  "date": "2026-11-06",
+  "kind": "reply",
+  "title": "@steipete 问个人额度上限还有没有意义：用 agent 的人都被额度卡过，回复区不挤，适合接一句普通人立场。",
+  "url": "https://x.com/steipete/status/2118116514700386439"
+ },
+ {
+  "id": "2026-11-06-r03",
+  "date": "2026-11-06",
+  "kind": "reply",
+  "title": "@vista8 拆 TikTok 推荐：端上 25+ 模型、播放前就打好推荐分：收藏高于点赞，算法八卦大众爱看，主号可回一句「被算计」的共鸣。",
+  "url": "https://x.com/vista8/status/2118367210418925840"
+ },
+ {
+  "id": "2026-11-06-r04",
+  "date": "2026-11-06",
+  "kind": "reply",
+  "title": "@gbroai 说 Images 2.6 出 GIF 后口播 B-roll 成本快到 0：收藏爆表的创作者帖，主号可回一句「以前舍不得做的镜头」。",
+  "url": "https://x.com/gbroai/status/2118360718554894395"
+ },
+ {
+  "id": "2026-11-06-v01",
+  "date": "2026-11-06",
+  "kind": "viral",
+  "title": "@minchoi 说一位自学的职场妈妈用 ai 做了 9 分钟奇幻短片，拿下纽约国际电影奖最佳 ai 影片等 4 项：开头直接否定「这还是 ai 渣片吗」，再甩出具体身份（自学、职场妈妈）和 4 个奖项名，故事完整；收藏接近点赞六成，说明大家当成案例存下来，可学的是「反常识结论 + 一个真实人物弧光」。",
+  "url": "https://x.com/minchoi/status/2118374993696575996"
+ },
+ {
+  "id": "2026-11-06-v02",
+  "date": "2026-11-06",
+  "kind": "viral",
+  "title": "@gbroai 用 ChatGPT Images 2.6 直接出拼贴 B-roll，没再跑视频模型：收藏比点赞还多，典型「要回头照着做」；一句「成本快到 0」加四条成片，创作者一眼知道自己也能省哪一步。",
+  "url": "https://x.com/gbroai/status/2118360718554894395"
  }
 ]
