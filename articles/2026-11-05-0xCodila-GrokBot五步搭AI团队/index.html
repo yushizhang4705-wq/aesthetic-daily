@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grok Bot Agents：搭建 24/7 AI Agent 图，自动化你的生活（终极五步指南）</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #0f1419;
+  --muted: #536471;
+  --border: #eff3f4;
+  --code-bg: #f7f9f9;
+  --accent: #1d9bf0;
+  --placeholder: #e7e9ea;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: #F6F4EF;
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+  background: var(--bg);
+  min-height: 100vh;
+  border-left: 1px solid #E2DED6;
+  border-right: 1px solid #E2DED6;
+}
+.cover {
+  width: 100%;
+  display: block;
+  max-height: 420px;
+  object-fit: cover;
+  background: var(--placeholder);
+}
+.cover-wrap { width: 100%; overflow: hidden; background: #000; }
+.pad { padding: 20px 16px 48px; }
+h1.title {
+  font-size: 28px;
+  line-height: 1.25;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 16px;
+}
+.author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 12px;
+}
+.avatar {
+  width: 48px; height: 48px; border-radius: 999px;
+  object-fit: cover; background: var(--placeholder);
+}
+.author-meta { display: flex; flex-direction: column; gap: 2px; }
+.author-name { font-weight: 700; font-size: 15px; }
+.author-handle { color: var(--muted); font-size: 14px; }
+.date { color: var(--muted); font-size: 14px; margin: 0 0 8px; }
+.stats {
+  color: var(--muted); font-size: 14px;
+  padding: 12px 0 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+.stats strong { color: var(--text); font-weight: 700; }
+.content h2 {
+  font-size: 22px; font-weight: 800; margin: 28px 0 12px; line-height: 1.3;
+}
+.content h3 {
+  font-size: 19px; font-weight: 700; margin: 22px 0 10px;
+}
+.content p { margin: 0 0 14px; }
+.content ul, .content ol { margin: 0 0 14px; padding-left: 1.4em; }
+.content li { margin: 0 0 6px; }
+.content blockquote {
+  margin: 0 0 14px; padding: 0 0 0 14px;
+  border-left: 3px solid #cfd9de;
+  color: var(--muted);
+}
+.content hr {
+  border: 0; border-top: 1px solid var(--border);
+  margin: 24px 0;
+}
+.content pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.45;
+  margin: 0 0 8px;
+}
+.content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 0.92em;
+}
+.content p code, .content li code {
+  background: var(--code-bg);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+.pair-label {
+  font-size: 13px; font-weight: 700; color: var(--muted);
+  margin: 12px 0 6px;
+}
+.media-block {
+  margin: 16px 0 20px;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #000;
+}
+.media-block img, .media-block video {
+  display: block; width: 100%; height: auto; max-height: 720px;
+  background: #000;
+}
+.placeholder {
+  margin: 16px 0;
+  padding: 20px 16px;
+  background: var(--placeholder);
+  border-radius: 16px;
+  color: var(--muted);
+  font-size: 14px;
+  text-align: center;
+}
+.placeholder a { color: var(--accent); }
+.tweet-card {
+  margin: 16px 0 20px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  background: #fff;
+}
+.tweet-card:hover { background: #F6F4EF; }
+.tweet-head { display: flex; gap: 10px; align-items: center; margin-bottom: 8px; }
+.tweet-head img { width: 40px; height: 40px; border-radius: 999px; }
+.tweet-head .n { font-weight: 700; font-size: 15px; }
+.tweet-head .h { color: var(--muted); font-size: 14px; }
+.tweet-text { font-size: 15px; white-space: pre-wrap; margin: 0 0 10px; }
+.tweet-thumbs { display: grid; gap: 4px; border-radius: 12px; overflow: hidden; }
+.tweet-thumbs.g1 { grid-template-columns: 1fr; }
+.tweet-thumbs.g2 { grid-template-columns: 1fr 1fr; }
+.tweet-thumbs img { width: 100%; height: 160px; object-fit: cover; display: block; }
+.footer-note {
+  margin-top: 32px; padding-top: 16px;
+  border-top: 1px solid var(--border);
+  color: var(--muted); font-size: 13px;
+}
+.footer-note a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="aesthetic-daily-nav" style="max-width:600px;margin:0 auto;padding:12px 16px 0;font-size:13px;color:#76716A;font-family:-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif">
+<a href="../../index.html" style="color:#76716A;text-decoration:none">鱼知道 · 审美日报</a>
+<span style="margin:0 8px">/</span>
+<a href="../index.html" style="color:#76716A;text-decoration:none">文章</a>
+</div>
+
+<article class="page">
+<div class="cover-wrap"><img class="cover" src="assets/cover_HQGgwrRWoAAeZjo.jpg" alt="cover"></div>
+<div class="pad">
+<h1 class="title">Grok Bot Agents：搭建 24/7 AI Agent 图，自动化你的生活（终极五步指南）</h1>
+<div class="author">
+<img class="avatar" src="assets/avatar_nj8n8Mei_200x200.jpg" alt="">
+<div class="author-meta">
+<div class="author-name">codila</div>
+<div class="author-handle">@0xCodila</div>
+</div>
+</div>
+<div class="date">2026年8月19日</div>
+<div class="stats"><strong>2,299,294</strong> 次观看 · <strong>628</strong> 赞 · <strong>2,202</strong> 收藏</div>
+<div class="content">
+<p>还在犹豫要不要读这篇文章？先看下面。</p>
+<a class="tweet-card" href="https://x.com/i/status/2089388021154283625" target="_blank" rel="noopener"><div class="tweet-head"><img src="assets/tw_2089388021154283625_av_aR-Kjpp4_200x200.jpg" alt=""><div><div class="n">Elon Musk</div><div class="h">@elonmusk</div></div></div><div class="tweet-text">Grok @Bot</div></a>
+<p>我猜你已经没什么问题了 XD  @bot 会实实在在改变你的生活，这篇分步指南会告诉你到底怎么做！alpha 之前——订阅我的 substack 拿更新：<a href="https://substack.com/@0xcodila" target="_blank" rel="noopener">https://substack.com/@0xcodila</a></p>
+<hr>
+<p>按官方 Grok Bot 页面的说法，Bot 可以在自己的电脑上运行，登录你的工具，并行工作，并且在你合上笔记本后继续跑。</p>
+<p>它们也能学习例程，并在彼此之间传递工作。</p>
+<p>也就是说，你可以搭一支团队：</p>
+<ul><li>Chief（总管）协调任务。</li><li>Research（研究）收集证据。</li><li>Strategy（策略）把证据变成计划。</li><li>Execution（执行）产出交付物。</li><li>Reviewer（评审）否决任何达不到标准的结果。</li></ul>
+<a class="tweet-card" href="https://x.com/i/status/2087224798078517251" target="_blank" rel="noopener"><div class="tweet-head"><img src="assets/tw_2087224798078517251_av_KW6C403V_200x200.jpg" alt=""><div><div class="n">Grok Bot</div><div class="h">@bot</div></div></div><div class="tweet-text">Introducing Grok Bot, now in early beta.
+
+Bots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.</div><div class="tweet-thumbs g1"><img src="assets/tw_2087224798078517251_m0_n9OrR6nUrxVZL4oY.jpg" alt=""></div></a>
+<p>你定义结果。</p>
+<p>团队处理工作。</p>
+<p>你只在真正需要你拍板的决定上回来。</p>
+<hr>
+<blockquote><p>到第 2 步，你会有一个能干活的 Chief of Staff。到第 5 步，你会有一张 agent 图：合上笔记本后仍能执行、评审并改进一项任务。</p></blockquote>
+<p>开始前，打开官方 Grok Bot 页面，确认你的套餐是否已开通 Bot 权限。（费用 $200）</p>
+<p>若还没有 Bot 权限，仍可通过 Grok Automations 与 Grok Build 实现本系统的部分能力。</p>
+<div class="media-block"><img src="assets/img_2090064450707468289_HQFmi1YXMAEnLfm.jpg" alt="media 2090064450707468289" loading="lazy"></div>
+<hr>
+<h2>第 1 步：给团队一项任务，而不是一个职位名</h2>
+<p>大多数人这样开头：</p>
+<blockquote><p>「创建一个研究 agent。」</p></blockquote>
+<p>那只是在描述活动。</p>
+<p>它没有描述胜利。</p>
+<p>弱任务长这样：</p>
+<p>每周研究我的竞品。</p>
+<p>可用任务长这样：</p>
+<blockquote><p>每周五下午 4 点，交付一份经核实的竞品报告：包含最重要的五条产品/定价/定位变化、每条主张背后的来源、它们对我们业务的可能影响，以及三条建议行动。</p></blockquote>
+<p>现在团队知道「做完」意味着什么。</p>
+<blockquote><p>你的第一支团队不该自动化你的整个人生。它该拥有一个昂贵、会反复发生的结果。</p></blockquote>
+<p>好任务包括：</p>
+<ul><li>产出每周市场情报报告</li><li>发现并筛选潜在客户</li><li>把研究变成可发布内容</li><li>筛选候选人并准备面试简报</li><li>监控支持工单并起草解决方案</li><li>复盘分析并推荐实验</li></ul>
+<p>选一个。</p>
+<p>然后把它写成任务契约（Mission Contract）。</p>
+<p>契约需要七个字段：</p>
+<ul><li>Outcome（结果）：团队必须达成什么？</li><li>Inputs（输入）：可用哪些来源与账号？</li><li>Output（输出）：要产出什么精确制品？</li><li>Frequency（频率）：何时运行？</li><li>Definition of Done（完成定义）：怎样算可接受？</li><li>Constraints（约束）：什么绝不能发生？</li><li>Approval Gates（审批闸门）：哪些动作需要你？</li></ul>
+<div class="media-block"><img src="assets/img_2090069526171791360_HQFrKQ9WsAApZ1I.jpg" alt="media 2090069526171791360" loading="lazy"></div>
+<p>把这段贴进你的第一次对话：</p>
+<div class="pair-label">原文</div>
+<pre><code>I want an AI team to own this mission: [DESCRIBE THE RESULT].Do not create agents yet.Interview me one question at a time until you understand the output, frequency, sources, tools, quality standard, constraints and approval gates.Then return a one-page Mission Contract containing: Outcome, Inputs, Output, Definition of Done, Schedule, Constraints and Required Approvals.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>我想让一支 AI 团队拥有这项任务：[描述结果]。先不要创建 agent。一次只问我一个问题，直到你理解输出、频率、来源、工具、质量标准、约束与审批闸门。然后返回一页纸的任务契约，包含：Outcome、Inputs、Output、Definition of Done、Schedule、Constraints、Required Approvals。</p>
+<p>不要接受「好」「有用」「专业」这种质量标准。</p>
+<p>换成可检查项：</p>
+<ul><li>每条事实主张必须带来源。</li><li>每个来源必须带发布日期。</li><li>重复发现必须去掉。</li><li>建议必须引用证据。</li><li>最终结果必须低于要求长度。</li><li>未经批准不得发生外部动作。</li></ul>
+<p>这是第一条大规则：</p>
+<blockquote><p>如果终点无法度量，agent 就无法可靠到达。</p></blockquote>
+<hr>
+<h2>第 2 步：先建 Chief，再建团队</h2>
+<p>先别创建五个专家。</p>
+<div class="media-block"><img src="assets/img_2090078080446447616_HQFy8MHXQAAnRKP.png" alt="media 2090078080446447616" loading="lazy"></div>
+<ul><li>创建一个名叫 Chief 的 Bot。</li></ul>
+<p>Chief 不该自己干完每一件事。</p>
+<p>它的工作是：</p>
+<ul><li>守护任务契约</li><li>把任务拆成工作</li><li>选择正确的专家</li><li>保住共享上下文</li><li>检查每一次交接</li><li>只把重要决定上报</li></ul>
+<p>粘贴这份操作章程：</p>
+<div class="pair-label">原文</div>
+<pre><code>You are the Chief of Staff responsible for [MISSION].You own the mission from request to approved result.Convert every request into a plan, assign work to the correct specialist, preserve shared context, inspect every handoff and escalate only decisions that require the user.You may research, plan, delegate, draft and review.You must ask before sending, publishing, spending, deleting, contacting people, signing in to a new account or changing production data.Maintain a decision log. Never allow unsupported claims or unfinished work to reach the user.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>你是负责 [MISSION] 的首席参谋（Chief of Staff）。你从请求拥有到批准结果。把每个请求变成计划，把工作派给正确专家，保住共享上下文，检查每一次交接，只把需要用户的决定上报。你可以研究、规划、委派、起草与评审。发送、发布、花钱、删除、联系真人、登录新账号或改生产数据之前必须先问。维护决策日志。绝不让无支撑主张或未完成工作到达用户。</p>
+<p>现在给 Chief 一个小的上下文包（Context Pack）：</p>
+<ul><li>你做什么</li><li>你当前目标</li><li>你的受众或客户</li><li>你偏好的风格</li><li>优秀作品示例</li><li>团队可用的工具</li><li>团队必须记住的决定</li><li>团队绝不能做的动作</li></ul>
+<p>不要上传你拥有的每一个文件——更多上下文不总是更好的上下文。有用的上下文，是会改变团队行动方式的信息。</p>
+<blockquote><p>接下来，建立三级权限。</p></blockquote>
+<p>GREEN（绿）</p>
+<p>团队可以不问就做：</p>
+<ul><li>搜索</li><li>阅读</li><li>摘要</li><li>比较</li><li>整理</li><li>起草</li><li>计算</li></ul>
+<p>YELLOW（黄）</p>
+<p>只在已批准工具内可做：</p>
+<ul><li>编辑内部文件</li><li>创建交付物</li><li>更新内部数据库</li><li>移动已批准文档</li><li>运行已保存例程</li></ul>
+<p>RED（红）</p>
+<p>必须始终请求批准：</p>
+<ul><li>发送</li><li>发布</li><li>付费购买</li><li>删除</li><li>联系真人</li><li>更改权限</li><li>修改生产系统</li></ul>
+<blockquote><p>自主性应提高执行速度，而不是提高犯错成本。</p></blockquote>
+<p>别让自己批准每一个动作。</p>
+<p>只让自己批准不可逆动作。</p>
+<div class="media-block"><img src="assets/img_2090074104615346176_HQFvUw_XIAA6PbF.jpg" alt="media 2090074104615346176" loading="lazy"></div>
+<p>继续之前，用一条请求测 Chief：</p>
+<div class="pair-label">原文</div>
+<pre><code>Turn the Mission Contract into a plan. Do not execute it. Show me the stages, required specialists, approval gates and possible failure points.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>把任务契约变成计划。不要执行。给我看阶段、所需专家、审批闸门与可能失败点。</p>
+<p>若 Chief 给不出干净计划，就别再造更多 agent——先修好任务。</p>
+<hr>
+<h2>第 3 步：生成最小完整团队</h2>
+<blockquote><p>最大的团队不是最好的团队。</p></blockquote>
+<p>每多一个 agent 就多：</p>
+<ul><li>另一个上下文窗口</li><li>另一次交接</li><li>另一个丢信息的地方</li><li>另一个潜在失败点</li></ul>
+<blockquote><p>只在工作确实需要时才创建专家：</p></blockquote>
+<ul><li>不同工具</li><li>不同上下文</li><li>不同专长</li><li>独立核验</li><li>并行执行</li></ul>
+<p>多数知识工作任务，从四名专家起步。</p>
+<ol><li>Research（研究）</li></ol>
+<p>找证据、记录来源，并把事实与假设分开。</p>
+<ol><li>Strategy（策略）</li></ol>
+<p>把证据变成决策、优先级与计划。</p>
+<ol><li>Execution（执行）</li></ol>
+<p>创建最终报告、文档、活动、分析或应用。</p>
+<ol><li>Reviewer（评审）</li></ol>
+<p>按任务契约测试交付物。</p>
+<p>问 Chief：</p>
+<div class="pair-label">原文</div>
+<pre><code>Design the smallest specialist team capable of completing this mission from start to finish.Create a specialist only when the work requires different context, tools, expertise or independent verification.For every proposed agent, define its Role, Inputs, Actions, Output, Tools, Constraints, Acceptance Criteria and Handoff Destination.Remove any role whose work another agent can perform reliably.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>设计能从头到尾完成此任务的最小专家团队。仅当工作需要不同上下文、工具、专长或独立核验时才创建专家。对每个拟议 agent，定义 Role、Inputs、Actions、Output、Tools、Constraints、Acceptance Criteria 与 Handoff Destination。去掉任何可被另一 agent 可靠完成的角色。</p>
+<p>每个专家都需要一份 Agent Charter（代理章程）：</p>
+<blockquote><p>Role → Input → Action → Output → Acceptance Criteria → Handoff</p></blockquote>
+<p>最重要的字段不是 Role。</p>
+<p>而是 Acceptance Criteria（验收标准）。</p>
+<p>「找有用的来源」太含糊。</p>
+<p>这样才可执行：</p>
+<div class="pair-label">原文</div>
+<pre><code>Return ten non-duplicate sources published within 90 days. Include URL, date, author, key claim and confidence level for every source.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>返回十个 90 天内发布、互不重复的来源。每个来源含 URL、日期、作者、关键主张与置信度。</p>
+<p>交接绝不该意味着：</p>
+<p>「这是我找到的。」</p>
+<p>它该意味着：</p>
+<blockquote><p>这是请求的制品、支撑它的证据、仍不确定的部分，以及下一任 agent 应执行的精确动作。</p></blockquote>
+<p>用这套交接格式：</p>
+<ul><li>Objective（目标）</li><li>Artifact（制品）</li><li>Evidence（证据）</li><li>Status（状态）</li><li>Blockers（阻塞）</li><li>Next Action（下一步）</li></ul>
+<blockquote><p>证据必须随工作一起走。绝不要让下一任 agent 从对话历史里重建它。</p></blockquote>
+<div class="media-block"><img src="assets/img_2090076258105180160_HQFxSHXWQAAxWwm.jpg" alt="media 2090076258105180160" loading="lazy"></div>
+<p>把已接受的 Bot 加进同一工作线程。</p>
+<p>Grok Bot 页面官方「Connect the Bots」一节展示了 Bot 如何在共享对话里彼此传工作。</p>
+<p>在第一版跑通之前，专家不要超过四个。</p>
+<div class="media-block"><img src="assets/img_2090077648214994944_HQFyjB7WsAAio1l.jpg" alt="media 2090077648214994944" loading="lazy"></div>
+<blockquote><p>加 agent 是为了去掉已证实的瓶颈，不是为了让图看起来厉害。</p></blockquote>
+<hr>
+<h2>第 4 步：接入工具，并教会一条真实工作流</h2>
+<div class="media-block"><img src="assets/img_2090074329186807808_HQFvh1lXsAAl68A.jpg" alt="media 2090074329186807808" loading="lazy"></div>
+<p>现在给每位专家只够用的权限。</p>
+<p>Research 可能需要：</p>
+<ul><li>网页访问</li><li>文档</li><li>数据库</li><li>X 搜索</li></ul>
+<p>Execution 可能需要：</p>
+<ul><li>草稿文件夹</li><li>模板</li><li>设计或开发工具</li></ul>
+<p>Reviewer 可能需要：</p>
+<ul><li>任务契约</li><li>源材料</li><li>完成的交付物</li><li>检查清单</li></ul>
+<p>Chief 需要对整项任务可见，但仍须遵守 Red 审批闸门。</p>
+<p>一开始不要接入：</p>
+<ul><li>支付系统</li><li>密码管理器</li><li>客户消息</li><li>生产数据库</li><li>带破坏性权限的账号</li></ul>
+<p>尽可能从只读开始。</p>
+<p>然后通过自己做一遍来教工作流。</p>
+<p>据 SpaceXAI 说法，Grok Bot 可以跟着你完成一次工作流，把观察到的存成例程，下次独立执行。</p>
+<p>用这条指令：</p>
+<div class="pair-label">原文</div>
+<pre><code>Watch me complete this workflow once.Record the sequence, tools, decisions, quality checks, exceptions and approval points.Do not run it autonomously yet.When I finish, convert the demonstration into a reusable routine and show me every step for review.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>看着我完整做一遍这条工作流。记录顺序、工具、决策、质量检查、例外与审批点。先不要自主运行。我做完后，把演示收成可复用例程，并把每一步给我审。</p>
+<p>不要只教完美路径。</p>
+<p>让 Bot 看到这些情况该怎么办：</p>
+<ul><li>来源无法核实</li><li>两份文档冲突</li><li>缺少必要信息</li><li>工具不可用</li><li>Reviewer 否决输出</li><li>任务到达审批闸门</li></ul>
+<p>多数自动化失败，是因为它们只知道预期序列，不知道现实打断时该怎么办。</p>
+<blockquote><p>例外，才是真正的工作流。</p></blockquote>
+<div class="media-block"><img src="assets/img_2090078634589474817_HQFzccdW0AEnIyK.png" alt="media 2090078634589474817" loading="lazy"></div>
+<p>然后让 Bot 把演示收成例程：</p>
+<div class="pair-label">原文</div>
+<pre><code>Return the routine as a numbered checklist.For every step, include the tool, required input, expected output, failure condition and next action.Mark every step that requires human approval.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>把例程写成编号清单。每一步写明工具、所需输入、预期输出、失败条件与下一步。标出每一步是否需要人工批准。</p>
+<p>继续之前，再手动跑一遍例程。</p>
+<p>修正例程本身。</p>
+<div class="media-block"><img src="assets/img_2090078849170030592_HQFzo71WQAAm730.jpg" alt="media 2090078849170030592" loading="lazy"></div>
+<p>不要只修正最终输出。</p>
+<p>如果你修了结果却不改工作流，明天同一失败还会回来。</p>
+<hr>
+<h2>第 5 步：建图，并证明它能跑</h2>
+<p>现在连接 agents：</p>
+<blockquote><p>Mission → Chief → Research → Strategy → Execution → Reviewer → Approval</p></blockquote>
+<p>这是正向路径。</p>
+<p>但生产系统还需要回退路径：</p>
+<blockquote><p>Reviewer → Research 或 Execution → Reviewer</p></blockquote>
+<p>这就是链与图的差别。</p>
+<p>链把工作往前传。</p>
+<p>图能决定下一步工作该去哪。</p>
+<p>给 Reviewer 这条指令：</p>
+<div class="pair-label">原文</div>
+<pre><code>Evaluate every deliverable against the Mission Contract.If it fails, identify the exact failed criterion and return it to the specialist capable of fixing it.Include the problem, supporting evidence, required correction and expected output.Do not rewrite the entire deliverable yourself.Recheck the corrected result.Stop after three failed rounds and escalate with a concise failure report.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>按任务契约评估每一份交付物。若失败，指出精确失败标准，并退回有能力修复的专家。写明问题、支撑证据、所需修正与预期输出。不要自己重写整份交付物。复核修正后的结果。三轮失败后停止，并附简明失败报告上报。</p>
+<p>Reviewer 该保护质量。</p>
+<p>它不该变成另一个 Execution。</p>
+<p>否则每件事都到 Reviewer，Reviewer 重写一切，整张图又长出新瓶颈。</p>
+<blockquote><p>有用的 Reviewer 精确否决。它不默默修好一切。</p></blockquote>
+<div class="media-block"><img src="assets/img_2090079425047961600_HQF0KdJWIAAou-P.jpg" alt="media 2090079425047961600" loading="lazy"></div>
+<p>不要在第一次成功后就排程任务</p>
+<p>跑「三跑证明」（Three-Run Proof）。</p>
+<blockquote><p>第 1 跑：观察</p></blockquote>
+<p>看着整套系统。</p>
+<p>记录：</p>
+<ul><li>哪里丢了上下文</li><li>哪里工作重复了</li><li>哪条指令被误解</li><li>哪次审批意外出现</li><li>哪项质量检查失败</li></ul>
+<p>不要手动修最终结果。</p>
+<p>修造成失败的章程、例程或交接。</p>
+<blockquote><p>第 2 跑：纠正</p></blockquote>
+<p>给团队一项不同但有代表性的任务。</p>
+<p>检查它是否在没有新指令的情况下避开了上次失败。</p>
+<p>若同一错误回来，说明纠正从未写进持久记忆。</p>
+<blockquote><p>第 3 跑：放行</p></blockquote>
+<p>除非以下情况，否则不介入：</p>
+<ul><li>需要 Red 动作</li><li>任务契约含糊</li><li>纠正循环失败三次</li></ul>
+<p>度量五件事：</p>
+<ul><li>完成率（Completion Rate）</li><li>人工介入次数（Human Interventions）</li><li>评审循环次数（Review Loops）</li><li>到可接受结果的时间（Time to Accepted Result）</li><li>每个可接受结果的成本（Cost per Accepted Result）</li></ul>
+<blockquote><p>永远不要自动化第一次成功。自动化连续三次成功。</p></blockquote>
+<div class="media-block"><img src="assets/img_2090081267828043776_HQF11uCWsAAS1UP.jpg" alt="media 2090081267828043776" loading="lazy"></div>
+<p>通过之后，再创建排程或触发器。</p>
+<p>Grok Automations 支持可复用指令、连接器、定时运行、邮件触发与保存的运行历史。</p>
+<div class="media-block"><img src="assets/img_2090079877038809088_HQF0kw8XIAAbhsV.png" alt="media 2090079877038809088" loading="lazy"></div>
+<p>对技术型任务，Grok Build 的 /goal 可以一直工作到任务完成并核实。</p>
+<p>Agent Dashboard 提供并行会话的实时视图，并高亮等待输入的 agent。</p>
+<p>但排程不是最后一步。</p>
+<p>系统还需要改进。</p>
+<p>创建一条每周例程：</p>
+<div class="pair-label">原文</div>
+<pre><code>Review every mission completed this week.Identify repeated corrections, unnecessary handoffs, duplicated work, missing context and decisions the user made more than once.Propose updates to the Agent Charters, shared memory, routines and acceptance criteria.Show every proposed change before applying it.Never change the original Mission Contract without explicit approval.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>复盘本周完成的每一项任务。找出反复出现的纠正、不必要的交接、重复工作、缺失上下文，以及用户做过超过一次的决定。提议更新 Agent Charters、共享记忆、例程与验收标准。应用前先展示每一项拟议改动。未经明确批准，绝不改动原始任务契约。</p>
+<p>这就形成复利闭环：</p>
+<blockquote><p>执行 → 评审 → 纠正 → 记住 → 执行得更好</p></blockquote>
+<hr>
+<h2>你的最终架构</h2>
+<p>最后，系统应看起来像这样：</p>
+<ul><li>你定义任务并批准 Red 动作。</li><li>Chief 规划、委派并保护共享上下文。</li><li>Research 收集经核实的证据。</li><li>Strategy 把证据转成决策。</li><li>Execution 创建制品。</li><li>Reviewer 否决任何低于标准的结果。</li><li>图把工作向前与向后路由。</li><li>记忆把纠正保留到未来运行。</li><li>Automations 按计划启动已批准任务。</li></ul>
+<p>你不该成为在五个 AI 聊天之间搬信息的人工路由器。</p>
+<p>Chief 拥有路由。</p>
+<p>专家拥有执行。</p>
+<p>Reviewer 拥有质量。</p>
+<p>你拥有结果。</p>
+<blockquote><p>目标不是最大自主。目标是可控权限下的可靠自主。</p></blockquote>
+<hr>
+<h2>结尾：</h2>
+<p>我觉得很多人懒得一次性画好一张图，好让 agent 团队始终准确执行所有任务。但 Grok Bot 能操作电脑、使用工具、保留上下文、协调团队——而你仍决定任务、边界与最终批准。别再问「一个 AI 能做什么」。开始设计「一整支 AI 团队能拥有什么」。真正的自动化，从那里开始！  @0xCodila</p>
+<hr>
+<h2>没读到的</h2>
+<ul><li>图片/视频媒体块：12 处（API 未返回可读像素内容）</li><li>嵌入帖：2 处（仅有 tweetId，未拉取嵌帖正文）</li><li>分隔线（DIVIDER）：9 处（无正文）</li><li>文中引用的官方页、费用（如 Bot 权限 $200）、第三方说法（如 SpaceXAI）：按原文转述，未二次核验</li><li>文内截图里的界面文字未 OCR</li></ul>
+</div>
+<div class="footer-note"><a href="../index.html">← 返回文章列表</a> · 离线译文页 · 原文 <a href="https://x.com/0xcodila/status/2090130749768786050" target="_blank" rel="noopener">https://x.com/0xcodila/status/2090130749768786050</a></div>
+</div>
+</article>
+</body>
+</html>

@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Opus 5.5 运动设计：病毒「一句提示」视频藏着什么</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #0f1419;
+  --muted: #536471;
+  --border: #eff3f4;
+  --code-bg: #f7f9f9;
+  --accent: #1d9bf0;
+  --placeholder: #e7e9ea;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: #F6F4EF;
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+  background: var(--bg);
+  min-height: 100vh;
+  border-left: 1px solid #E2DED6;
+  border-right: 1px solid #E2DED6;
+}
+.cover {
+  width: 100%;
+  display: block;
+  max-height: 420px;
+  object-fit: cover;
+  background: var(--placeholder);
+}
+.cover-wrap { width: 100%; overflow: hidden; background: #000; }
+.pad { padding: 20px 16px 48px; }
+h1.title {
+  font-size: 28px;
+  line-height: 1.25;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 16px;
+}
+.author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 12px;
+}
+.avatar {
+  width: 48px; height: 48px; border-radius: 999px;
+  object-fit: cover; background: var(--placeholder);
+}
+.author-meta { display: flex; flex-direction: column; gap: 2px; }
+.author-name { font-weight: 700; font-size: 15px; }
+.author-handle { color: var(--muted); font-size: 14px; }
+.date { color: var(--muted); font-size: 14px; margin: 0 0 8px; }
+.stats {
+  color: var(--muted); font-size: 14px;
+  padding: 12px 0 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+.stats strong { color: var(--text); font-weight: 700; }
+.content h2 {
+  font-size: 22px; font-weight: 800; margin: 28px 0 12px; line-height: 1.3;
+}
+.content h3 {
+  font-size: 19px; font-weight: 700; margin: 22px 0 10px;
+}
+.content p { margin: 0 0 14px; }
+.content ul, .content ol { margin: 0 0 14px; padding-left: 1.4em; }
+.content li { margin: 0 0 6px; }
+.content blockquote {
+  margin: 0 0 14px; padding: 0 0 0 14px;
+  border-left: 3px solid #cfd9de;
+  color: var(--muted);
+}
+.content hr {
+  border: 0; border-top: 1px solid var(--border);
+  margin: 24px 0;
+}
+.content pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.45;
+  margin: 0 0 8px;
+}
+.content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 0.92em;
+}
+.content p code, .content li code {
+  background: var(--code-bg);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+.pair-label {
+  font-size: 13px; font-weight: 700; color: var(--muted);
+  margin: 12px 0 6px;
+}
+.media-block {
+  margin: 16px 0 20px;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #000;
+}
+.media-block img, .media-block video {
+  display: block; width: 100%; height: auto; max-height: 720px;
+  background: #000;
+}
+.placeholder {
+  margin: 16px 0;
+  padding: 20px 16px;
+  background: var(--placeholder);
+  border-radius: 16px;
+  color: var(--muted);
+  font-size: 14px;
+  text-align: center;
+}
+.placeholder a { color: var(--accent); }
+.tweet-card {
+  margin: 16px 0 20px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  background: #fff;
+}
+.tweet-card:hover { background: #F6F4EF; }
+.tweet-head { display: flex; gap: 10px; align-items: center; margin-bottom: 8px; }
+.tweet-head img { width: 40px; height: 40px; border-radius: 999px; }
+.tweet-head .n { font-weight: 700; font-size: 15px; }
+.tweet-head .h { color: var(--muted); font-size: 14px; }
+.tweet-text { font-size: 15px; white-space: pre-wrap; margin: 0 0 10px; }
+.tweet-thumbs { display: grid; gap: 4px; border-radius: 12px; overflow: hidden; }
+.tweet-thumbs.g1 { grid-template-columns: 1fr; }
+.tweet-thumbs.g2 { grid-template-columns: 1fr 1fr; }
+.tweet-thumbs img { width: 100%; height: 160px; object-fit: cover; display: block; }
+.footer-note {
+  margin-top: 32px; padding-top: 16px;
+  border-top: 1px solid var(--border);
+  color: var(--muted); font-size: 13px;
+}
+.footer-note a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="aesthetic-daily-nav" style="max-width:600px;margin:0 auto;padding:12px 16px 0;font-size:13px;color:#76716A;font-family:-apple-system,BlinkMacSystemFont,PingFang SC,sans-serif">
+<a href="../../index.html" style="color:#76716A;text-decoration:none">鱼知道 · 审美日报</a>
+<span style="margin:0 8px">/</span>
+<a href="../index.html" style="color:#76716A;text-decoration:none">文章</a>
+</div>
+
+<article class="page">
+<div class="cover-wrap"><img class="cover" src="assets/cover_HTpW07nXcAA0Gdb.png" alt="cover"></div>
+<div class="pad">
+<h1 class="title">Opus 5.5 运动设计：病毒「一句提示」视频藏着什么</h1>
+<div class="author">
+<img class="avatar" src="assets/avatar_7m5LsQRP_200x200.jpg" alt="">
+<div class="author-meta">
+<div class="author-name">seeco</div>
+<div class="author-handle">@seeconvm</div>
+</div>
+</div>
+<div class="date">2026年10月2日</div>
+<div class="stats"><strong>1,192,684</strong> 次观看 · <strong>1,069</strong> 赞 · <strong>3,716</strong> 收藏</div>
+<div class="content">
+<p>Opus 5.5 在 9 月 22 日上线，几小时内就有人在发发布片、showreel 和完整音乐视频——全是代码渲出来的，配文全是「one prompt」。</p>
+<p>我花了一周把这些视频拆开。有些确实从 30 个词起步。最好的那些，起步却是一份 9500 字符的 brief、一个 skills 文件夹、两把 API key，以及作者睡着后仍跑了 12 小时的任务。</p>
+<p>下面把整套搭建一块块拆开，好让你的第一次尝试，不再长得像大家同一条 demo。</p>
+<hr>
+<h2>一眼看完</h2>
+<ol><li>帧函数：Opus 写代码，浏览器把它变成帧</li><li>机架：Claude Code、ffmpeg 与无头浏览器，十分钟搭好</li><li>Brief：用制作文件代替「感觉」</li><li>参考：借一套视觉语法，跳过默认长相</li><li>状态列表：一个形状贯穿整段故事地变形</li><li>弹簧与声音：有质量的运动，音频走同一时钟</li><li>评审：Opus 给自己的 contact sheet 打分，并修最差的 3 处</li><li>Skill：把管线打包，下一部片子只需一条命令</li></ol>
+<hr>
+<h2>1：帧函数，或为什么 Opus 写的是程序而不是视频</h2>
+<p>Opus 5.5 没法直接输出 MP4。你时间线上的每一段，都是它写的程序，再由别的工具把程序变成画面。</p>
+<p>整套把戏，就是一个只回答一个问题的函数：</p>
+<div class="pair-label">原文</div>
+<pre><code>seek(t) → paint exactly what the screen shows at second t</code></pre>
+<div class="pair-label">中文译文</div>
+<p>seek(t) → 精确画出第 t 秒屏幕上应有的画面</p>
+<p>无头浏览器对 15 秒、60 fps 的片子调用它 900 次，抓每一帧，ffmpeg 再粘成文件。</p>
+<p>没有任何东西跑在定时器上，所以第 240 帧可以单独画，不必重放 0 到 239。标题落地偏早，改一个数字再重渲就行。</p>
+<p>放任不管时，Opus 会走零依赖路线：一个 index.html，Playwright 逐帧捕获，ffmpeg 编码。Tommy Rossi 发现即便装了 Remotion 和 HyperFrames 它也会跳过，所以想用框架就要点名。</p>
+<p>代码会输的地方：照片级场景、复杂角色、有机运动，仍更需要实拍或视频模型。产品片、UI 动效、数据故事、字体排版、发布解说——这些才是 seek(t) 赢的地方。</p>
+<hr>
+<h2>2：机架，或为什么只靠聊天应用只能得到中等货</h2>
+<p>聊天应用能写出动画。只有带 shell 的 agent（比如 Claude Code）才能渲染它、听它，并看自己的帧。</p>
+<p>这条反馈闭环，就是爆款片子和「有点 mid」回复之间的全部差距。</p>
+<div class="pair-label">原文</div>
+<pre><code>brew install node ffmpeg python          # apt on Linux
+pip install numpy librosa soundfile
+mkdir motion-studio &amp;&amp; cd motion-studio &amp;&amp; npm init -y
+npm i -D playwright &amp;&amp; npx playwright install chromium
+npx skills add remotion-dev/skills       # optional, framework route
+npx skills add heygen-com/hyperframes    # optional, framework route
+claude --model claude-opus-5-5</code></pre>
+<div class="pair-label">中文译文</div>
+<p># 安装机架（macOS；Linux 用 apt）<br>brew install node ffmpeg python<br>pip install numpy librosa soundfile<br>mkdir motion-studio &amp;&amp; cd motion-studio &amp;&amp; npm init -y<br>npm i -D playwright &amp;&amp; npx playwright install chromium<br>npx skills add remotion-dev/skills       # 可选，框架路线<br>npx skills add heygen-com/hyperframes    # 可选，框架路线<br>claude --model claude-opus-5-5</p>
+<p>然后在项目根目录放一份 CLAUDE.md。Claude Code 每次运行都会读它，所以你的家规不必反复说。</p>
+<div class="pair-label">原文</div>
+<pre><code>## Render contract
+- window.seek(t) paints frame t, nothing else drives the picture
+- no CSS transitions, setTimeout or requestAnimationFrame in render mode
+- seeded noise only, never Math.random
+
+## Look
+- banned: centered title on gradient, everything fading in, corner labels, glow on UI
+- one display face, one UI face, one accent
+- something new on screen every 2 to 4 seconds
+
+## Sound
+- score and SFX synthesized in code unless a track is supplied, -14 LUFS
+
+## Before you show me anything
+- render one frame per beat as a contact sheet, score it, fix the worst 3</code></pre>
+<div class="pair-label">中文译文</div>
+<h2>渲染契约</h2>
+<ul><li>window.seek(t) 画第 t 帧，画面只由它驱动</li><li>渲染模式禁用 CSS transition、setTimeout、requestAnimationFrame</li><li>只用有种子噪声，禁止 Math.random</li></ul>
+<h2>长相</h2>
+<ul><li>禁用：渐变上的居中标题、一切淡入、角落标签、UI 上的 glow</li><li>一个展示字体、一个 UI 字体、一个强调色</li><li>每 2 到 4 秒屏上出现新东西</li></ul>
+<h2>声音</h2>
+<ul><li>除非提供曲目，否则配乐与音效在代码里合成，-14 LUFS</li></ul>
+<h2>给我看任何东西之前</h2>
+<ul><li>每拍渲一帧做成 contact sheet，打分，修最差的 3 处</li></ul>
+<p>Effort 设置：Opus 5.5 从 medium 起。每一条病毒 one-shot 都跑在 xhigh 或 max 上。Medium 留给小修，新片子用 xhigh，前三秒必须扛住发布时用 max。</p>
+<hr>
+<h2>3：Brief，或为什么「感觉」提示会把每个决定留空</h2>
+<p>你要「一段疯了的产品视频」，模型就会用它知道的最安全默认填满每一个空。居中渐变标题，就是这么来的。</p>
+<p>那句著名的一行提示，仍然有它的用处：</p>
+<div class="pair-label">原文</div>
+<pre><code>make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.</code></pre>
+<div class="pair-label">中文译文</div>
+<p>做一段动感的 15 秒动态图形视频，展示你是多了不起的运动设计师，像是简历用的 showreel。全力以赴。</p>
+<p>「Showreel」等于交给 Opus 一个规则已知的类型。让模型自己当题材，就没有产品可做错。15 秒装得下 6 到 8 个镜头，「go all out」再在 xhigh 之上叠额外努力。</p>
+<p>跑一次用来测机架，然后换题。成百上千人发了同一句，得到彼此押韵的 reel——athemeroy 数据集把这种模式标成 brief contagion（brief 传染）。</p>
+<p>真有东西要卖时，Opus 需要一份制作文件，然后才谈渲染任务。Claude Code 团队的 Thariq 说得很直：帖子写 one-shot，提示却跑到 1 万字符，带着 skills、示例和密钥。</p>
+<div class="pair-label">原文</div>
+<pre><code>FILM      one sentence the viewer keeps, audience, duration, formats
+ASSETS    real logo, real UI screenshots, brand type and colors, audio
+VISUAL    what to keep from the reference, which clichés to avoid
+HARD LINE never invent product screens or metrics
+DELIVER   storyboard, contact sheet, final video, poster frame, source</code></pre>
+<div class="pair-label">中文译文</div>
+<p>FILM      观众记住的一句话、受众、时长、画幅<br>ASSETS    真实 logo、真实 UI 截图、品牌字体与颜色、音频<br>VISUAL    参考里要保留什么、要避开哪些套路<br>HARD LINE 绝不编造产品屏幕或指标<br>DELIVER   分镜、contact sheet、成片、海报帧、源码</p>
+<p>Tony Dinh 的 TypingMind reel：多加三行就成了——产品 URL、要求真实截图/logo/资产、「必须有音乐」。Opus 自己去站上收齐材料，不到 30 分钟收工。一年前类似发布片他大约花了 $1,200。</p>
+<p>Rob Hallam 的跟进：第一支 reel 之后，他在同一会话里要产品广告，出来更快——因为渲染器、音频合成和导出管线已经在了。一个品牌保持一个会话。</p>
+<p>密钥：放进 .env，提示里用名字引用。achxvi 公开的 Pocketsflow 提示用了玩笑占位符，正是为了这个。</p>
+<hr>
+<h2>4：参考，或为什么每条 one-prompt reel 长得一样</h2>
+<p>不给视觉语法，Opus 就带上自己的；互不相关的 reel 开始像兄弟姐妹。</p>
+<p>Rexan Wong 拆过几十条病毒片，反复看到同一件事：点名一种风格，比描述一种风格更管用；一张参考帧或一段参考视频，能一次性交出节奏、字体和转场。</p>
+<p>三种参考最值钱：你喜欢的视频里的单帧；Opus 用 ffmpeg 切的短片；或你自己的旧作文件夹。Pleometric 的 TikTok 信息流作品长自另一条病毒动画的一帧；他的 Donald 风格片指向自己的 PC-98 图库——别人抄不走的库。</p>
+<div class="pair-label">原文</div>
+<pre><code>Reference: ./refs/launch.mp4
+1. Extract a frame every 0.5s with ffmpeg and study them
+2. Write docs/style_guide.md: palette in hex, type, shot lengths, transitions, camera, grain
+3. Write docs/shotlist.md for a [DURATION]s video about [SUBJECT] in that style
+4. Take the grammar, never the subjects, logos or copy
+5. Show me both files and wait for my OK before any code</code></pre>
+<div class="pair-label">中文译文</div>
+<p>参考：./refs/launch.mp4</p>
+<ol><li>用 ffmpeg 每 0.5 秒抽一帧并研究</li><li>写 docs/style_guide.md：十六进制色板、字体、镜头时长、转场、运镜、颗粒</li><li>按该风格为关于 [SUBJECT] 的 [DURATION] 秒视频写 docs/shotlist.md</li><li>只取语法，绝不取题材、logo 或文案</li><li>两份文件都给我看，等我 OK 再写任何代码</li></ol>
+<p>做产品片时，也让 Opus 从线上站点拉真实屏幕，并亲自审这份资产清单。缺了什么，agent 该停下来问，而不是画一张很像真的假货。</p>
+<p>库的选择：Pleometric 建议 p5.js，Opus 却自己写了纸感渲染器。把长相和边界写清，让模型自己选技法。</p>
+<p>去哪挖参考：whatships.com 找发布片，Dribbble motion，以及竞品的发布片。</p>
+<hr>
+<h2>5：状态列表，或为什么一个永不硬切的形状胜过十种特效</h2>
+<p>「推近、变形、加粒子」只是活动清单。分镜说的是：每一秒观众知道什么。</p>
+<div class="pair-label">原文</div>
+<pre><code>00-02s  HOOK     one image that earns attention
+02-05s  PROBLEM  the friction, shown on screen
+05-09s  REVEAL   the product enters through a real interaction
+09-13s  PROOF    one screen or number backs the claim
+13-16s  CLOSE    a clean final state and a readable CTA</code></pre>
+<div class="pair-label">中文译文</div>
+<p>00-02s  HOOK     一幅挣来注意力的图<br>02-05s  PROBLEM  摩擦点，呈现在屏上<br>05-09s  REVEAL   产品经真实交互进入<br>09-13s  PROOF    一屏或一个数字支撑主张<br>13-16s  CLOSE    干净终态与可读 CTA</p>
+<p>发布周收藏最多的提示是一份 XML 规格。@twoclipping 的 UI morph 靠它拿到 90.7 万播放、1.9 万收藏；@verbove 的 MakerMap 片把同一结构用在真实产品上。</p>
+<p>两者背后的想法：单一容器在状态之间变形尺寸、圆角与颜色；光标用真实点击驱动每一次变化；末帧对齐首帧，片子才能循环。</p>
+<div class="pair-label">原文</div>
+<pre><code>logo → CTA button → email field (typed) → loader → success check → dashboard → chart draws itself → tooltip → ⌘K palette → toast → logo</code></pre>
+<div class="pair-label">中文译文</div>
+<p>logo → CTA 按钮 → 邮箱栏（键入）→ 加载器 → 成功勾 → 仪表盘 → 图表自绘 → tooltip → ⌘K 面板 → toast → logo</p>
+<p>每一拍需要进入状态、退出状态，以及存在的理由。如果 agent 说不清第四镜为什么在，第四镜就该剪掉。</p>
+<p>故事版：NFT_Chen 让 Opus 用代码做一个带时间轴、波形和导出按钮的卡通视频编辑器，再把整部片子排进里面。假 UI 就像片场——每个元素都有已知状态。</p>
+<hr>
+<h2>6：弹簧与声音，或为什么廉价运动摸起来廉价</h2>
+<p>固定缓动曲线只是从 A 滑到 B。有质量的运动会加速、轻微过冲，再稳住。</p>
+<p>闭式弹簧给出这种手感，同时又是时间的纯函数，所以 seek(t) 仍可复现。当一个值多次改目标（比如光标或容器宽度），为每次变化叠一根弹簧，而不是整根重启。</p>
+<div class="pair-label">原文</div>
+<pre><code>track(t) = v0 + Σ (v_i − v_(i−1)) × spring(t − t_i)</code></pre>
+<div class="pair-label">中文译文</div>
+<p>track(t) = v0 + Σ (v_i − v_(i−1)) × spring(t − t_i)<br>（中文：目标多次变化时，把每段变化叠成一根弹簧，而不是重启。）</p>
+<p>这样第 812 帧仍可单独渲染，不必仿真 0 到 811。</p>
+<p>给每类对象定自己的规矩。小 UI 快咬合、几乎不过冲；面板稳住；镜头几乎看不见地滑；标题落地要硬、停够人读；吉祥物故意弹。如果样样都过冲，就没有一样显得精确。</p>
+<p>声音与画面走同一时钟。Rob Hallam 以为自己 reel 里的音频是后期加的，其实直接来自代码。@oozn 的乔布斯传记片在 Node 里合成配乐，23 处转场锁在 120 BPM。</p>
+<p>若用自己的曲，先测量再动画：</p>
+<div class="pair-label">原文</div>
+<pre><code>python beats.py song.wav &gt; beats.json   # librosa: bpm, beats, downbeats, hits</code></pre>
+<div class="pair-label">中文译文</div>
+<p>python beats.py song.wav &gt; beats.json   # librosa：bpm、拍点、强拍、hit</p>
+<p>状态切换落在拍上，大时刻落在强拍，click 与 whoosh 落在 hit 上。</p>
+<p>蒙眼测试：闭上眼睛只听片子。若没有画面时音频毫无形状，声音设计就还没做完。</p>
+<hr>
+<h2>7：评审，或为什么 Opus 必须看自己的帧</h2>
+<p>Opus 5.5 能读图，所以能检查自己刚渲出的东西。这个习惯，正是那些爆了的片子的共同点。</p>
+<p>@mablesjoseph 对水彩短片很坦白：163 次模型调用，接近 7 小时。Drew 发布日作品到了 170 万播放，仍看得出清理轮次。</p>
+<p>别把成片完整看十遍。让 ffmpeg 先造证据：</p>
+<div class="pair-label">原文</div>
+<pre><code>contact sheet   2 frames per second, 6 across
+strip           12 consecutive frames around the fastest move
+phone test      frames scaled to 360 px wide
+loop check      the clip played twice back to back
+determinism     render frame 300 twice, the hashes must match</code></pre>
+<div class="pair-label">中文译文</div>
+<p>contact sheet   每秒 2 帧，横排 6 张<br>strip           最快动作附近连续 12 帧<br>phone test      帧缩到宽 360 px<br>loop check      片子首尾相接连播两遍<br>determinism     第 300 帧渲两次，哈希必须一致</p>
+<p>然后给 Opus 一份带牙齿的评审任务：</p>
+<div class="pair-label">原文</div>
+<pre><code>Judge only the rendered frames, ignore what you meant to make
+Score 1-10: hook in 2s, phone readability, motion, variety, sound sync, brand accuracy
+List the 3 worst defects with timestamp, evidence and a local fix
+Patch those seconds, re-render them, repeat until every score is 8+</code></pre>
+<div class="pair-label">中文译文</div>
+<p>只根据已渲帧评判，忽略你「本来想做成什么样」<br>按 1–10 打分：2 秒钩子、手机可读、运动、变化、声画同步、品牌准确<br>列出最差的 3 处缺陷：时间戳、证据、局部修法<br>只补那几秒，重渲，重复直到每项 ≥8</p>
+<p>要猎的东西：文字重叠、该缓动却在滑动的元素、角落标签、模糊放大的字、空拍无事、循环点打嗝。</p>
+<hr>
+<h2>8：Skill，或为什么下一部视频应该是一句话</h2>
+<p>若片子的全部记录只活在聊天里，你只是走运过一次。把决定写进下次运行能读的文件。</p>
+<div class="pair-label">原文</div>
+<pre><code>motion-studio/
+  brief.md         goal and product facts
+  style_guide.md   palette, type, motion, banned defaults
+  shotlist.md      beats, states, timestamps, purpose
+  assets/          approved logos, screens, sound
+  src/             seekable composition and motion code
+  reviews/         contact sheets and defect notes
+  out/             one export per format</code></pre>
+<div class="pair-label">中文译文</div>
+<p>motion-studio/<br>  brief.md         目标与产品事实<br>  style_guide.md   色板、字体、运动、禁用默认<br>  shotlist.md      节拍、状态、时间戳、目的<br>  assets/          已批准的 logo、屏幕、声音<br>  src/             可寻址构图与运动代码<br>  reviews/         contact sheet 与缺陷笔记<br>  out/             每种画幅一份导出</p>
+<p>通宵跑需要闸门。Donald 口述五分钟就去睡，醒来得到 142 秒音乐视频，后来到 210 万播放。他的提示大约 9500 字符；@pradeepXkapoor 的「Pip」机器人片用了 19000 字符 brief。</p>
+<div class="pair-label">原文</div>
+<pre><code>GATE 1  references and product assets approved
+GATE 2  style guide and shot list approved
+GATE 3  stills for every shot, critiqued
+GATE 4  animatic at 960x540 with placeholder audio
+GATE 5  full pass, polish, sound
+GATE 6  formats, loop check, poster frame, README</code></pre>
+<div class="pair-label">中文译文</div>
+<p>GATE 1  参考与产品资产已批准<br>GATE 2  风格指南与分镜表已批准<br>GATE 3  每镜静帧，已评审<br>GATE 4  960×540 动画草片 + 占位音频<br>GATE 5  全片、打磨、声音<br>GATE 6  各画幅、循环检查、海报帧、README</p>
+<p>闸门之间，agent 可以干几小时。缺一张界面截图就是阻塞；参考不清就先提问或渲一帧测试，而不是先出 900 帧精致的错片。</p>
+<p>Generate-then-trace：Donald 的关键招。Seedance 2.5 渲带角色与物理的底片，Opus 再在上面用 JavaScript 重画整部片子，观众只看见代码层。John Heibel 的 PDoom 仓库（1.1K star）展示了子 agent 版：Opus 写 ANIMATION_GUIDE.md，给九章并行工人下 brief。</p>
+<p>画幅：每种比例来自同一时间轴，绝不靠裁切。竖版字更大、元素更少；方版停留更紧；宽版空间语境更多。</p>
+<p>把这一切包进一个 skill，课程就缩成一行：</p>
+<div class="pair-label">原文</div>
+<pre><code>/motion-reel for [URL], 20s, vertical, reference ./refs/frame.png</code></pre>
+<div class="pair-label">中文译文</div>
+<p>/motion-reel for [URL], 20s, vertical, reference ./refs/frame.png</p>
+<p>变成收入：achxvi 现在正好把这当服务卖——配乐、任意风格吉祥物、产品功能、片尾 offer、任意语言、最多 3 次修改。他的 38 秒竖版产品片花了 45 分钟。</p>
+<p>可克隆的仓库：PDoomVideo（音乐视频管线），ClaudeAnimationBase（起步模板）。</p>
+<hr>
+<h2>整座工作室一张表</h2>
+<div class="pair-label">原文</div>
+<pre><code>|  Piece |  What goes wrong without it |  What fixes it |
+| --- | --- | --- |
+|  Frame Function |  renders drift, every edit means starting over |   seek(t), seeded noise, no timers|
+|  The Rig | the model never sees or hears its output  |  Claude Code + Playwright + ffmpeg + CLAUDE.md |
+|  The Brief | safe defaults fill every blank  |  one sentence, real assets, hard lines |
+|  The Reference |  your reel looks like everyone&#x27;s reel |   style_guide.md written from a frame or clip|
+|  State Lists |  effects with no story | beats with entry state, exit state, purpose  |
+|  Springs and Sound |  motion feels cheap, audio floats on top |  closed-form springs, beats.json, synthesized SFX |
+|  The Critic |  the first render ships as final |  contact sheet, scores, fix the worst 3 |
+| The Skill  |  every video starts from zero | studio folder, gates, /motion-reel  |</code></pre>
+<div class="pair-label">中文译文</div>
+<table style="width:100%;border-collapse:collapse;font-size:14px;margin:0 0 14px">
+<thead><tr><th style="text-align:left;border-bottom:1px solid #eff3f4;padding:8px 6px">模块</th><th style="text-align:left;border-bottom:1px solid #eff3f4;padding:8px 6px">缺了会怎样</th><th style="text-align:left;border-bottom:1px solid #eff3f4;padding:8px 6px">用什么修</th></tr></thead><tbody>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">帧函数</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">渲染漂移，每次修改等于重来</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">seek(t)、有种子噪声、无定时器</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">机架</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">模型看不见也听不见自己的输出</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">Claude Code + Playwright + ffmpeg + CLAUDE.md</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">Brief</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">安全默认填满每个空</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">一句话、真实资产、硬线</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">参考</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">你的 reel 像所有人的 reel</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">从帧或短片写出的 style_guide.md</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">状态列表</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">有特效无故事</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">带进入/退出状态与目的的节拍</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">弹簧与声音</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">运动廉价，音频浮在画面上</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">闭式弹簧、beats.json、代码合成音效</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">评审</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">首渲当作成片发出</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">contact sheet、打分、修最差 3 处</td></tr>
+<tr><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">Skill</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">每部片子从零开始</td><td style="border-bottom:1px solid #eff3f4;padding:8px 6px;vertical-align:top">工作室文件夹、闸门、/motion-reel</td></tr>
+</tbody></table>
+<hr>
+<h2>这为什么真的重要</h2>
+<p>一年前找代理大约 $1,200 的发布片，现在一个下午、一个 skill 加评审闭环就能装下。</p>
+<p>第一条 one-prompt 结果来得很快，时间线因此疯了。更大的事是：你的第十部会比第一部更好，因为 brief、渲染器和审片清单会从一次运行带到下一次。</p>
+<p>下次发布，你只换产品 brief 和资产，其余全留。</p>
+<hr>
+<h2>这里真正要紧的是什么</h2>
+<p>提示大约只占结果的十分之一。外面的 harness 干剩下的。</p>
+<p>可寻址（Seekability）是唯一不能弯的规则：任意帧必须能单独渲染，而且每次一样。</p>
+<p>只用真实产品资产。Opus 可以发明运镜，绝不该发明你的仪表盘。</p>
+<p>评审闭环是人们因为「首渲像进展」而跳过的一步，也是每条病毒片都有的一步。</p>
+<p>那么，你的搭建里，哪一块会最先通不过 contact sheet 测试？</p>
+<p>读到这里，你对代码渲染视频的了解，已经超过大多数正在发它的人。</p>
+<p>还有很多：从角色圣经到完整的 generate-then-trace 管线。</p>
+<p>我会继续在 @seeconvm 拆这些。</p>
+<p>未完待续。</p>
+<hr>
+<h2>没读到的</h2>
+<ul><li>图片/视频媒体块：0 处（API 未返回可读像素内容）</li><li>嵌入帖：0 处（仅有 tweetId，未拉取嵌帖正文）</li><li>分隔线（DIVIDER）：12 处（无正文）</li><li>文中引用的站外页面、仓库与费用数字：按原文转述，未二次核验</li></ul>
+</div>
+<div class="footer-note"><a href="../index.html">← 返回文章列表</a> · 离线译文页 · 原文 <a href="https://x.com/seeconvm/status/2106096193235259564" target="_blank" rel="noopener">https://x.com/seeconvm/status/2106096193235259564</a></div>
+</div>
+</article>
+</body>
+</html>
