@@ -1822,5 +1822,162 @@
    "MG"
   ],
   "cat": "剪辑节奏 · 实拍剪辑"
+ },
+ {
+  "id": "2026-11-06-01",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i1",
+  "title": "How to effectively use visuals in your presentation",
+  "author": "TED-Ed",
+  "url": "https://www.youtube.com/watch?v=bw5tzcoEG88",
+  "embed": "https://www.youtube-nocookie.com/embed/bw5tzcoEG88?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "MG",
+   "字体版式"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-06-02",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i2",
+  "title": "morphing popover menu",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2118488118257172710",
+  "embed": "x:2118488118257172710",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-06-03",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i3",
+  "title": "Mathias Adolfsson ’26：Curved Carousel + Barrel Gallery",
+  "author": "Mathias Adolfsson（Codrops）",
+  "url": "https://tympanus.net/codrops/2026/11/05/mathias-adolfsson-portfolio/",
+  "embed": "none",
+  "tags": [
+   "代码动画",
+   "转场",
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 转场"
+ },
+ {
+  "id": "2026-11-06-04",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i4",
+  "title": "Snow globe surprise（Shop gift discovery）",
+  "author": "60fps",
+  "url": "https://x.com/60fpsdesign/status/2118367767728738667",
+  "embed": "x:2118367767728738667",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-06-05",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i5",
+  "title": "Animated icons（Animations / Component Design）",
+  "author": "Emil Kowalski",
+  "url": "https://x.com/emilkowalski/status/2118332860457197788",
+  "embed": "x:2118332860457197788",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 图标动效"
+ },
+ {
+  "id": "2026-11-06-06",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i6",
+  "title": "Shopify Editions：Figma motion → code",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2118400568121250037",
+  "embed": "x:2118400568121250037",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-06-07",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i7",
+  "title": "Hervé studio case clips",
+  "author": "Hervé Studio（Codrops）",
+  "url": "https://tympanus.net/codrops/2026/11/02/herve-studio/",
+  "embed": "none",
+  "tags": [
+   "MG",
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "MG · 字体版式"
+ },
+ {
+  "id": "2026-11-06-08",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i8",
+  "title": "Scroll-Based Layout Animations（update）",
+  "author": "Codrops",
+  "url": "https://x.com/codrops/status/2116473151584436394",
+  "embed": "x:2116473151584436394",
+  "tags": [
+   "转场",
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "转场 · 代码动画"
+ },
+ {
+  "id": "2026-11-06-09",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i9",
+  "title": "Cycle micro-agency reel",
+  "author": "Spline 社区（@splinetool 转发）",
+  "url": "https://x.com/splinetool/status/2118353330908914053",
+  "embed": "x:2118353330908914053",
+  "tags": [
+   "3D质感",
+   "转场",
+   "字体版式"
+  ],
+  "cat": "3D质感 · 网页"
+ },
+ {
+  "id": "2026-11-06-10",
+  "date": "2026-11-06",
+  "kind": "daily",
+  "report": "reports/2026-11-06.html#i10",
+  "title": "Volleyball World – VNL Trailer",
+  "author": "Musclebeaver",
+  "url": "https://motionographer.com/quickie/volleyball-world-vnl-trailer-musclebeaver/",
+  "embed": "https://player.vimeo.com/video/1199448263",
+  "tags": [
+   "MG",
+   "片头片尾",
+   "字体版式"
+  ],
+  "cat": "MG · 片头"
  }
 ]

@@ -1,0 +1,474 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-06 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "周五细拆知识讲解。赞里 UI动效 / jhey 质感 / 代码动画偏多，今天多放了相近的，但仍覆盖转场、片头 MG、网页 3D 和讲解。无新赞踩评论。",
+ "items": [
+  {
+   "cat": "知识讲解 · MG",
+   "tags": [
+    "知识讲解",
+    "MG",
+    "字体版式"
+   ],
+   "title": "How to effectively use visuals in your presentation",
+   "author": "TED-Ed",
+   "date": "2026-11-05",
+   "flag": "【看过视频】（完整看过）",
+   "links": [
+    [
+     "看原片 ↗",
+     "https://www.youtube.com/watch?v=bw5tzcoEG88"
+    ]
+   ],
+   "good": "约 5 分钟：深紫底霓虹线稿讲「演示视觉三件事」。开场几何变形钩子，中段把 2D 对话框翻成 3D 地板、图标从地板里冒出来；后段把一页烂幻灯片拆成三块、文字缩成横线再捏成图标。字体未识别（接近 Montserrat / Proxima Nova）",
+   "borrow": "科普口播里别一上来堆图标：先画一条「思路线」当字幕框，再把板子翻成地板让要点立起来。细拆见文末",
+   "embed": "https://www.youtube-nocookie.com/embed/bw5tzcoEG88?playsinline=1&rel=0",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "全片约 298 秒已下载并用看片工具完整看过；今天的细拆",
+     "主色深紫 #22134E，强调霓虹粉/青/绿；字体未识别"
+    ]
+   },
+   "id": "2026-11-06-01",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=bw5tzcoEG88",
+   "cover": "covers/2026-11-06/01.jpg"
+  },
+  {
+   "cat": "代码动画 · UI动效",
+   "tags": [
+    "代码动画",
+    "UI动效"
+   ],
+   "title": "morphing popover menu",
+   "author": "jhey（@jh3yy）",
+   "date": "X 2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2118488118257172710"
+    ]
+   ],
+   "good": "约 25 秒：三点按钮弹成菜单再胀成卡片，同一容器在变形。拖到边缘时用 @container anchored(fallback) 换位；分层爆炸图拆开 menu / 毛玻璃 / 内容生长 / 固定外框。深色网格 + 手写标注，克制",
+   "borrow": "做设置菜单或「更多」：外框尺寸别跟着内容抖，内容从锚点那一格长出来；贴边就换 fallback 方位，别让菜单出屏",
+   "embed": "x:2118488118257172710",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "25 秒已下载，抽帧看过",
+     "界面字未识别；标注是手写风"
+    ]
+   },
+   "id": "2026-11-06-02",
+   "embed_type": "x",
+   "url": "https://x.com/jh3yy/status/2118488118257172710",
+   "cover": "covers/2026-11-06/02.jpg"
+  },
+  {
+   "cat": "代码动画 · 转场",
+   "tags": [
+    "代码动画",
+    "转场",
+    "UI动效",
+    "3D质感"
+   ],
+   "title": "Mathias Adolfsson ’26：Curved Carousel + Barrel Gallery",
+   "author": "Mathias Adolfsson（Codrops）",
+   "date": "2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看文章 ↗",
+     "https://tympanus.net/codrops/2026/11/05/mathias-adolfsson-portfolio/"
+    ],
+    [
+     "作品集站点 ↗",
+     "https://mathiasadolfsson.dev/"
+    ]
+   ],
+   "good": "Codrops 演示合集：黑底上作品卡弯成筒形画廊，点开再展开成电商 kit / 珠宝网格。畸变有纵深，北欧电商气质干净，不像粒子炫技",
+   "borrow": "竖屏作品集或工具合集：列表别平铺，用轻微筒形/圆弧排布；点进详情时卡片「打开」成网格，比淡入整页更有空间感",
+   "embed": "none",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 演示 mp4 已拼接下载，抽帧看过；站点内嵌播放，页面用封面外链",
+     "字体未识别（几何无衬线）"
+    ]
+   },
+   "id": "2026-11-06-03",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/11/05/mathias-adolfsson-portfolio/",
+   "cover": "covers/2026-11-06/03.jpg"
+  },
+  {
+   "cat": "UI动效 · 转场",
+   "tags": [
+    "UI动效",
+    "转场"
+   ],
+   "title": "Snow globe surprise（Shop gift discovery）",
+   "author": "60fps",
+   "date": "X 2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2118367767728738667"
+    ]
+   ],
+   "good": "约 9 秒礼品发现 App：错落 masonry 卡片、浮层胶囊筛「Surprise me / For me」、紫购物车 CTA。软阴影立体感克制，像已赞的 Plasma / Atlas 开卡引导",
+   "borrow": "竖屏「给你挑一个」：先让筛选胶囊浮在网格上，点选时卡片轻轻让位，别整页刷新",
+   "embed": "x:2118367767728738667",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "9 秒已下载，抽帧看过",
+     "界面字未识别"
+    ]
+   },
+   "id": "2026-11-06-04",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2118367767728738667",
+   "cover": "covers/2026-11-06/04.jpg"
+  },
+  {
+   "cat": "UI动效 · 图标动效",
+   "tags": [
+    "UI动效",
+    "代码动画"
+   ],
+   "title": "Animated icons（Animations / Component Design）",
+   "author": "Emil Kowalski",
+   "date": "X 2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/emilkowalski/status/2118332860457197788"
+    ]
+   ],
+   "good": "约 29 秒深色圆角卡：霓虹青 easing 曲线图标 +「Animations」文案，另一张拼合组件带扫描线。图标动得短、停得稳，商业感强（帖文提了 AI 辅助，看的是成片质感）",
+   "borrow": "功能介绍卡：标题旁放一个 1 秒内播完的微图标（曲线、拼合），循环时中间留停顿，别一直抖",
+   "embed": "x:2118332860457197788",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "29 秒已下载，抽帧看过",
+     "卡片标题字未识别（几何无衬线）"
+    ]
+   },
+   "id": "2026-11-06-05",
+   "embed_type": "x",
+   "url": "https://x.com/emilkowalski/status/2118332860457197788",
+   "cover": "covers/2026-11-06/05.jpg"
+  },
+  {
+   "cat": "代码动画 · UI动效",
+   "tags": [
+    "代码动画",
+    "UI动效"
+   ],
+   "title": "Shopify Editions：Figma motion → code",
+   "author": "jhey（@jh3yy）",
+   "date": "X 2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2118400568121250037"
+    ]
+   ],
+   "good": "约 11 秒：左 Figma 时间轴对右 HTML/CSS @keyframes（scale 0.17→1 + cubic-bezier），手机屏电商 hero。设计到代码的交接一眼能看懂",
+   "borrow": "自己做 Remotion 前：先在设计工具里把曲线定死，再写成同一段 easing；左右分屏对照能当团队里的「运动说明书」",
+   "embed": "x:2118400568121250037",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "11 秒已下载，抽帧看过",
+     "界面字未识别"
+    ]
+   },
+   "id": "2026-11-06-06",
+   "embed_type": "x",
+   "url": "https://x.com/jh3yy/status/2118400568121250037",
+   "cover": "covers/2026-11-06/06.jpg"
+  },
+  {
+   "cat": "MG · 字体版式",
+   "tags": [
+    "MG",
+    "3D质感",
+    "字体版式"
+   ],
+   "title": "Hervé studio case clips",
+   "author": "Hervé Studio（Codrops）",
+   "date": "2026-11-02",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看文章 ↗",
+     "https://tympanus.net/codrops/2026/11/02/herve-studio/"
+    ],
+    [
+     "工作室站点 ↗",
+     "https://herve.paris/"
+    ]
+   ],
+   "good": "工作室片拼接：卢浮宫阿布扎比式白盒子展厅里排字、深棕几何标志轻轻转。光影干净，偏商业精致，不堆粒子",
+   "borrow": "品牌或系列片头：先给一个有体积的「展厅空镜」，字落在建筑面上再出场，比黑底弹标题更有空间",
+   "embed": "none",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "Codrops 演示 clip 已下载，抽帧看过；页面封面外链",
+     "标题字未识别（衬线 + 无衬线混排）"
+    ]
+   },
+   "id": "2026-11-06-07",
+   "embed_type": "none",
+   "url": "https://tympanus.net/codrops/2026/11/02/herve-studio/",
+   "cover": "covers/2026-11-06/07.jpg"
+  },
+  {
+   "cat": "转场 · 代码动画",
+   "tags": [
+    "转场",
+    "代码动画",
+    "UI动效"
+   ],
+   "title": "Scroll-Based Layout Animations（update）",
+   "author": "Codrops",
+   "date": "X 2026-10-31",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2116473151584436394"
+    ],
+    [
+     "在线 Demo ↗",
+     "https://tympanus.net/Development/ScrollBasedLayoutAnimations/"
+    ]
+   ],
+   "good": "约 12 秒：黑底竖卡相册在滚动时用 GSAP Flip 重排成行/网格/堆叠/bento。卡片重叠错位有节奏，更新版修了效果并加新布局",
+   "borrow": "合集页或「本期目录」：滚动时别只淡入，让卡片从错落堆叠翻到整齐网格，观众更清楚「收拢 / 展开」",
+   "embed": "x:2116473151584436394",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "12 秒已下载，抽帧看过",
+     "Demo 字未识别"
+    ]
+   },
+   "id": "2026-11-06-08",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2116473151584436394",
+   "cover": "covers/2026-11-06/08.jpg"
+  },
+  {
+   "cat": "3D质感 · 网页",
+   "tags": [
+    "3D质感",
+    "转场",
+    "字体版式"
+   ],
+   "title": "Cycle micro-agency reel",
+   "author": "Spline 社区（@splinetool 转发）",
+   "date": "X 2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/splinetool/status/2118353330908914053"
+    ]
+   ],
+   "good": "约 21 秒机构站预告：桶形畸变城堡院景 +「Reinvention cycle」字标 + 01/05 进度条。网页 3D 场景干净，不靠霓虹粒子",
+   "borrow": "系列片头：场景轻微桶形透视 + 角落进度「01/05」，比单纯数字角标更像「走进一季内容」",
+   "embed": "x:2118353330908914053",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "21 秒已下载，抽帧看过",
+     "字标未识别"
+    ]
+   },
+   "id": "2026-11-06-09",
+   "embed_type": "x",
+   "url": "https://x.com/splinetool/status/2118353330908914053",
+   "cover": "covers/2026-11-06/09.jpg"
+  },
+  {
+   "cat": "MG · 片头",
+   "tags": [
+    "MG",
+    "片头片尾",
+    "字体版式"
+   ],
+   "title": "Volleyball World – VNL Trailer",
+   "author": "Musclebeaver",
+   "date": "2026-11-05",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看报道 ↗",
+     "https://motionographer.com/quickie/volleyball-world-vnl-trailer-musclebeaver/"
+    ],
+    [
+     "Vimeo ↗",
+     "https://vimeo.com/1199448263"
+    ]
+   ],
+   "good": "高对比矢量体育预告：对角切开画面、夸张透视扣球/垫球、国旗网格、白描边断裂画框。节奏猛但图形清楚",
+   "borrow": "赛事或系列预告：用一条对角分割两景别，前景放大手部动作、后景放信息网格，比来回硬切更有冲击",
+   "embed": "https://player.vimeo.com/video/1199448263",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "已下载，抽帧看过",
+     "VNL 字标为赛事官方体；其余未识别"
+    ]
+   },
+   "id": "2026-11-06-10",
+   "embed_type": "vimeo",
+   "url": "https://motionographer.com/quickie/volleyball-world-vnl-trailer-musclebeaver/",
+   "cover": "covers/2026-11-06/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（9 条）",
+ "cut": [
+  {
+   "title": "Bleed Get Clean（LOLA）",
+   "author": "LOLA MullenLowe / Infinite & Invisible",
+   "link": "https://www.stashmedia.tv/infinte-invisible-bleed-get-clean-with-lola-mullenlowe/",
+   "why": "产品雾气和景深杂物偏满，今天让位给更可偷的 UI/代码片",
+   "cover": "covers/2026-11-06/cut-01.jpg"
+  },
+  {
+   "title": "DENEB",
+   "author": "Jules Guérin",
+   "link": "https://motionographer.com/quickie/deneb-jules-guerin/",
+   "why": "叙事混合媒介，难直接偷到口播/UI",
+   "cover": "covers/2026-11-06/cut-02.jpg"
+  },
+  {
+   "title": "Strings Cut",
+   "author": "Nikita Didenko",
+   "link": "https://motionographer.com/quickie/strings-cut-nikita-didenko/",
+   "why": "隧道追车实拍动作戏，不符合主方向",
+   "cover": "covers/2026-11-06/cut-03.jpg"
+  },
+  {
+   "title": "They Spent 378 Days Locked Inside",
+   "author": "Cleo Abram",
+   "link": "https://www.youtube.com/shorts/HG1fpkGk7Fw",
+   "why": "栖息地实拍加大字幕，可视化弱",
+   "cover": "covers/2026-11-06/cut-04.jpg"
+  },
+  {
+   "title": "Humans Can Regrow an Organ",
+   "author": "Kurzgesagt – In a Nutshell",
+   "link": "https://www.youtube.com/shorts/oNTaHYXQ4MM",
+   "why": "MG 标准参考，但上传约 2026-09-26，略超 30 天优先窗口；作备选",
+   "cover": "covers/2026-11-06/cut-05.jpg"
+  },
+  {
+   "title": "Mineral Collection shaders（Paper）",
+   "author": "Stef Bruce / Codrops",
+   "link": "https://tympanus.net/codrops/2026/11/03/mineral-collection/",
+   "why": "工具调参录屏，不是成片动效",
+   "cover": "covers/2026-11-06/cut-06.jpg"
+  },
+  {
+   "title": "Wallace & Gromit holiday",
+   "author": "Aardman / Stash",
+   "link": "https://www.stashmedia.tv/more-holiday-warmth-and-wit-from-wallace-gromit/",
+   "why": "节日定格趣味向，难迁移到 Remotion/UI",
+   "cover": "covers/2026-11-06/cut-07.jpg"
+  },
+  {
+   "title": "Mathias X 预告短片",
+   "author": "Codrops",
+   "link": "https://tympanus.net/codrops/2026/11/05/mathias-adolfsson-portfolio/",
+   "why": "与入选的 c06 长 reel 同源，不重复推",
+   "cover": "covers/2026-11-06/cut-08.jpg"
+  },
+  {
+   "title": "Apple Watch Activity Rings",
+   "author": "Apple",
+   "link": "https://www.youtube.com/watch?v=nBmS3DOebLc",
+   "why": "yt-dlp bot/429 下不下来；且偏实拍故事"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 第 1 条",
+  "toc": "细拆：TED-Ed 演示视觉三板斧",
+  "title": "5 分钟，把「幻灯片怎么帮口播」画成能复用的组件",
+  "flag": "【看过视频】（完整看过），时间点是大约值",
+  "lede": "TED-Ed 新片讲演示视觉。周五知识讲解档。整段是深紫底霓虹线稿：开场几何钩子，中段三块板（Revelation / Explanatory Power / Aesthetic Appeal）用推镜切换，穿插两段真实 TED 现场。做 Remotion 讲解时，最值得偷的是「对话框翻成地板」和「烂页拆成图标」两段",
+  "links": [
+   [
+    "看原片 ↗",
+    "https://www.youtube.com/watch?v=bw5tzcoEG88"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "画面长什么样",
+    "ul": [
+     "底色几乎一直是深紫 / 海军蓝（约 #22134E），信息全靠霓虹描边发光",
+     "强调色：品红 #FF0077、青 #00E5FF、荧光绿 #00FF44、黄 #FFEA00；字大多纯白",
+     "字体未识别：粗无衬线，接近 Montserrat / Proxima Nova / Helvetica Neue",
+     "立体感不靠真 3D 模型：霓虹外发光 + 把 2D 面 rotateX 成地板 + 偶尔块状投影"
+    ]
+   },
+   {
+    "h": "结构与节奏（完整看片记下的大约秒数）",
+    "ol": [
+     "0–5 秒：白底 Thoreau 语录静帧，冷开场",
+     "5–34 秒：魔杖点红点 → 圆圈扩散 → 粉底聚合 → 眼睛/快门爆发；几何变形钩子，约每 2–4 秒换一态",
+     "34–45 秒：地铁线路画成对话框，再翻成 3D 地板，8 个霓虹图标从地板冒出（略满，像模板清单，但翻转本身可偷）",
+     "45–82 秒：红点=讲者、粉点=听众的顶视图；幻灯片一出现，听众点转向板子——一眼看懂「抢戏」",
+     "82–123 秒：三块霓虹板标题落下；推进第一块 Revelation；星座线画出「难形容的东西」",
+     "约 100–115 秒：切 Edith Widder 现场 + 大王乌贼实拍，节奏放慢透气",
+     "123–161 秒：第二块 Explanatory Power；图标合成半透明脑；乱板示意认知过载",
+     "161–221 秒：柱状图高亮 Feb/Oct；一页长文幻灯片拆成三块，字缩成线再捏成图标；坏段落被短标题「HOW BLACK IS A BLACK HOLE?」瞬间替换",
+     "221–263 秒：第三块 Aesthetic Appeal；块影山景；Hans Rosling 片段；乱字被整齐图标列推走",
+     "263–298 秒：回路线拼出 THROUGHLINE，笑脸点绕回听众阵；彩色点环无限放大擦出片尾"
+    ]
+   },
+   {
+    "h": "转场怎么接",
+    "ul": [
+     "圆形扩张擦除（红瞳孔、蓝圈）当硬切的软版",
+     "同一红点一路匹配：想法 → 瞳孔 → 讲者 → 句号",
+     "推镜进三块板：父级 scale/translate，子板当章节地图",
+     "2D 面对 X 轴旋转成地板，再让图标沿 Y 冒出来"
+    ]
+   },
+   {
+    "h": "Remotion / 代码里怎么做",
+    "ol": [
+     "霓虹描边：SVG path + stroke-dashoffset 画出，再叠一层 filter: drop-shadow",
+     "地板弹出：父容器 perspective + rotateX(60°–70°)，子图标从 y 正值弹到 0 并淡入",
+     "听众环：8 个点绕中心，用 props 控制朝向角（看向讲者或看向幻灯片）",
+     "简化蒙太奇：长文本块 → 宽度动画收成横线 → 再 morph 成简单 SVG 图标，总时长约 10–13 秒",
+     "章节地图：三个板放在同一大画布，用相机式 scale 推进某一块，退出时再拉远"
+    ]
+   },
+   {
+    "h": "放到 AI 科普里怎么用",
+    "p": [
+     "横屏口播讲概念时：先用「红点+听众环」演示注意力被示意图抢走，再切你的正解图。竖屏功能介绍：用「一页字 → 三块 → 图标」把复杂说明压成三个符号，口播只念短标题。一集里三块板推镜只用一次当大纲，别每段都霓虹闪。"
+    ]
+   }
+  ]
+ },
+ "sources": "信源：X（jhey / 60fps / Emil Kowalski / Codrops / Spline）、Codrops、YouTube（TED-Ed）、Motionographer / Vimeo（Musclebeaver）、Stash（仅排查）。全程只读浏览，没有点赞、关注、评论或转发。",
+ "date": "2026-11-06",
+ "kind": "daily",
+ "slug": "2026-11-06"
+}
