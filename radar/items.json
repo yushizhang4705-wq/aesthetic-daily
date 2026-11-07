@@ -271,5 +271,82 @@
   "kind": "viral",
   "title": "@gbroai 用 ChatGPT Images 2.6 直接出拼贴 B-roll，没再跑视频模型：收藏比点赞还多，典型「要回头照着做」；一句「成本快到 0」加四条成片，创作者一眼知道自己也能省哪一步。",
   "url": "https://x.com/gbroai/status/2118360718554894395"
+ },
+ {
+  "id": "2026-11-07-01",
+  "date": "2026-11-07",
+  "kind": "item",
+  "title": "Anthropic 11 月 6 日工程博客《The components of agent memory》讲 Claude 的 agent 记忆：会话里会把重要事写成记忆笔记；空闲时用「dreaming（做梦）」翻旧 transcript 纠错、建可搜索的 wiki、把关键笔记提前塞进下次会话。评测里 wiki 从 2 轮做到 128 轮，25 题得分从 13% 提到 48%；玩 Pokémon 时 dreaming 还能改掉错误地标笔记，让 Claude 重新进洞（anthropic.com 工程博客已核对）。",
+  "url": "https://x.com/AnthropicAI/status/2118814753154064501"
+ },
+ {
+  "id": "2026-11-07-02",
+  "date": "2026-11-07",
+  "kind": "item",
+  "title": "Claude Code 云端会话（Pro / Max / Ultra）现在更容易把仓库跑起来：Claude 会自己摸清依赖、网络访问和 API key 需求，并把环境存下来下次复用；API key 加密保存，Claude 自己看不到（@ClaudeDevs 官方帖；云端会话文档写明 Pro/Max/Ultra 可用）。",
+  "url": "https://x.com/ClaudeDevs/status/2118795192090386454"
+ },
+ {
+  "id": "2026-11-07-03",
+  "date": "2026-11-07",
+  "kind": "item",
+  "title": "Google 11 月 5 日把 Gemini Omni 1.2 Flash 做成正式商用（GA）：单条最长 15 秒带声音（1.1 是 10 秒），720p 每秒 0.07 美元（比 1.1 降约 30%，15 秒约 1 美元），可对同一条视频多轮改背景/产品/横竖屏；开发者走 Gemini API / AI Studio，Google Vids 有账号即可出 15 秒片段，Gemini App 正推给 AI Ultra。@dotey 11 月 6 日整理了定价与入口（Google 官方博客与 Cloud 文档已核对）。",
+  "url": "https://x.com/dotey/status/2118820452038557790"
+ },
+ {
+  "id": "2026-11-07-04",
+  "date": "2026-11-07",
+  "kind": "item",
+  "title": "OpenAI 与 Frontier Model Forum（FMF）及成员公司发布「前沿网络威胁越狱评级框架」1.0：给成功绕过模型防护的 jailbreak 打相对风险分，维度包括能力增益、能力范围、部署难度、发现难度，用来比较严重程度并优先加固；公开征求意见至 2026-12-21（FMF 官方更新与 OpenAI 帖已核对）。",
+  "url": "https://x.com/OpenAI/status/2118795218099253606"
+ },
+ {
+  "id": "2026-11-07-r01",
+  "date": "2026-11-07",
+  "kind": "reply",
+  "title": "@AnthropicAI 讲 Claude 记忆会做梦整理：回复区会吵「记忆到底靠不靠谱」，主号可补一句普通人场景。",
+  "url": "https://x.com/AnthropicAI/status/2118814753154064501"
+ },
+ {
+  "id": "2026-11-07-r02",
+  "date": "2026-11-07",
+  "kind": "reply",
+  "title": "@ClaudeDevs 云端会话自动配环境：用过云端 coding 的人都被环境卡过，适合接一句共鸣。",
+  "url": "https://x.com/ClaudeDevs/status/2118795192090386454"
+ },
+ {
+  "id": "2026-11-07-r03",
+  "date": "2026-11-07",
+  "kind": "reply",
+  "title": "@AIatMeta 把 Muse Wonder 的 Active Memory / Focus 带到 Muse 和 Meta AI：「少重复自己、卡住能换路」人人听得懂，适合主号短回。",
+  "url": "https://x.com/AIatMeta/status/2118768974779634084"
+ },
+ {
+  "id": "2026-11-07-r04",
+  "date": "2026-11-07",
+  "kind": "reply",
+  "title": "@OpenAI 与 FMF 发布越狱评级框架：回复多、话题敏感，适合补一句「不是每个越狱一样危险」。",
+  "url": "https://x.com/OpenAI/status/2118795218099253606"
+ },
+ {
+  "id": "2026-11-07-r05",
+  "date": "2026-11-07",
+  "kind": "reply",
+  "title": "@natolambert 说推理创业公司处境很难：收藏偏高，圈内人都在看推理层怎么活，主号可回一句旁观者感受。",
+  "url": "https://x.com/natolambert/status/2118740587666960677"
+ },
+ {
+  "id": "2026-11-07-v01",
+  "date": "2026-11-07",
+  "kind": "viral",
+  "title": "@AnthropicAI 工程博客讲 Claude 用「做梦」整理记忆：收藏几乎顶到点赞七成，典型「要存下来以后对照」；标题里一个「dreaming」就够反常识，正文又落到纠错、建 wiki、下次预加载，工程向读者会直接收藏。",
+  "url": "https://x.com/AnthropicAI/status/2118814753154064501"
+ },
+ {
+  "id": "2026-11-07-v02",
+  "date": "2026-11-07",
+  "kind": "viral",
+  "title": "@ClaudeDevs 说云端会话会自己摸依赖和密钥需求：产品更新帖能到四千赞，靠的是一句打中痛点的「easier to get your repo running」；密钥「Claude never sees them」又消掉安全顾虑，收藏过千说明很多人当操作备忘存了。",
+  "url": "https://x.com/ClaudeDevs/status/2118795192090386454"
  }
 ]
