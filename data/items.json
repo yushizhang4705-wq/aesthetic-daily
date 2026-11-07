@@ -1979,5 +1979,160 @@
    "字体版式"
   ],
   "cat": "MG · 片头"
+ },
+ {
+  "id": "2026-11-07-01",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i1",
+  "title": "Death By Lightning — Opening Titles",
+  "author": "KING+COUNTRY",
+  "url": "https://motionographer.com/news/kingcountry-engineers-signature-title-sequences-for-netflixs-death-by-lightning/",
+  "embed": "https://player.vimeo.com/video/1151993467",
+  "tags": [
+   "片头片尾",
+   "MG",
+   "3D质感"
+  ],
+  "cat": "片头片尾 · MG"
+ },
+ {
+  "id": "2026-11-07-02",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i2",
+  "title": "stickers + gem refraction（jhey.dev）",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2118801440256975114",
+  "embed": "x:2118801440256975114",
+  "tags": [
+   "代码动画",
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-07-03",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i3",
+  "title": "make the app feel faster（ease-in vs ease-out）",
+  "author": "Emil Kowalski（@emilkowalski）",
+  "url": "https://x.com/emilkowalski/status/2118687605776597482",
+  "embed": "x:2118687605776597482",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-07-04",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i4",
+  "title": "RADAR kinetic type（dot-matrix）",
+  "author": "Jake（@designbyjake_）",
+  "url": "https://x.com/designbyjake_/status/2117575023166955899",
+  "embed": "x:2117575023166955899",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-07-05",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i5",
+  "title": "bitmap studio reel（kinetic type + UI）",
+  "author": "Bitmap Studio（@bitmapstudio）",
+  "url": "https://x.com/bitmapstudio/status/2117644215941534028",
+  "embed": "x:2117644215941534028",
+  "tags": [
+   "字体版式",
+   "UI动效",
+   "MG"
+  ],
+  "cat": "字体版式 · UI动效"
+ },
+ {
+  "id": "2026-11-07-06",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i6",
+  "title": "Playgrounds In Motion — Opening Titles",
+  "author": "Nexus Studios",
+  "url": "https://motionographer.com/news/nexus-studios-unveils-opening-titles-for-playgrounds-in-motion/",
+  "embed": "https://player.vimeo.com/video/1125871143",
+  "tags": [
+   "片头片尾",
+   "字体版式",
+   "MG"
+  ],
+  "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-11-07-07",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i7",
+  "title": "How does Tap to Pay Work?",
+  "author": "Branch Education",
+  "url": "https://www.youtube.com/watch?v=N_6k_jd5pnA",
+  "embed": "https://www.youtube-nocookie.com/embed/N_6k_jd5pnA?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "3D质感"
+  ],
+  "cat": "知识讲解 · 3D质感"
+ },
+ {
+  "id": "2026-11-07-08",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i8",
+  "title": "But what is cross-entropy?",
+  "author": "3Blue1Brown",
+  "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+  "embed": "https://www.youtube-nocookie.com/embed/GlYgs6v2YfU?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "代码动画",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 代码动画"
+ },
+ {
+  "id": "2026-11-07-09",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i9",
+  "title": "The Sun Is Weirder Than You Think",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/watch?v=eNkxTjirY-Q",
+  "embed": "https://www.youtube-nocookie.com/embed/eNkxTjirY-Q?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-07-10",
+  "date": "2026-11-07",
+  "kind": "daily",
+  "report": "reports/2026-11-07.html#i10",
+  "title": ":has() browser process sheets",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2118769965260210494",
+  "embed": "x:2118769965260210494",
+  "tags": [
+   "知识讲解",
+   "代码动画"
+  ],
+  "cat": "知识讲解 · 代码动画"
  }
 ]
