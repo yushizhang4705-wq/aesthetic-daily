@@ -348,5 +348,68 @@
   "kind": "viral",
   "title": "@ClaudeDevs 说云端会话会自己摸依赖和密钥需求：产品更新帖能到四千赞，靠的是一句打中痛点的「easier to get your repo running」；密钥「Claude never sees them」又消掉安全顾虑，收藏过千说明很多人当操作备忘存了。",
   "url": "https://x.com/ClaudeDevs/status/2118795192090386454"
+ },
+ {
+  "id": "2026-11-08-01",
+  "date": "2026-11-08",
+  "kind": "item",
+  "title": "Physical Superintelligence（PSI）11 月 6 日宣布，内部研究系统用未公开的 Anthropic 模型证明了 2008 年提出的 Aaronson-Ambainis 猜想：运行第三天得到完整证明，之后又改进两次，全部通过 Lean 定理证明器校验，论文和 Lean 代码已开源。结论是量子计算机面对没有规律的随机输入，不会比普通电脑快到指数级（PSI 研究页与 GitHub 仓库已核对；人工同行审阅尚未公开，待证）。",
+  "url": "https://x.com/Gorden_Sun/status/2119029485207162997"
+ },
+ {
+  "id": "2026-11-08-02",
+  "date": "2026-11-08",
+  "kind": "item",
+  "title": "World Labs 11 月 5 日放出 Frameboy 研究预览：用优化过的 Atlas 世界模型，从云端 GPU 往浏览器推画面，最高每秒 15 帧，你用 WASD 移动镜头，模型边走边生成你接下来看到的场景；网页 frameboy.worldlabs.ai 直接能玩，有排队，每次约一分钟（World Labs 官方博客已核对）。",
+  "url": "https://x.com/theworldlabs/status/2118424455873741028"
+ },
+ {
+  "id": "2026-11-08-03",
+  "date": "2026-11-08",
+  "kind": "item",
+  "title": "OpenImagingLab 开源的视频超分 FlashVSR+ 有 Turbo 和 Base 两档，项目方称单张 24GB 的 RTX 4090 不切块就能出 4K（GitHub 与论文已核对）。@servasyy_ai 用一张 4090 把三段 10.3 秒视频从 720p 放大到 1440p，耗时从 SeedVR2 的 17 分 58 秒降到 7 分 48 秒，细节更清楚（他本人的对比，待证）。",
+  "url": "https://x.com/servasyy_ai/status/2118921505841303752"
+ },
+ {
+  "id": "2026-11-08-r01",
+  "date": "2026-11-08",
+  "kind": "reply",
+  "title": "@karpathy 的 TristanTube：大号高互动，主号可补一个普通人能抄的用法。",
+  "url": "https://x.com/karpathy/status/2119114537442189652"
+ },
+ {
+  "id": "2026-11-08-r02",
+  "date": "2026-11-08",
+  "kind": "reply",
+  "title": "@emollick 说别太担心 AI 核实事实的错误：观点有争议，回复区会吵，主号可给一个温和的折中说法。",
+  "url": "https://x.com/emollick/status/2119140502746308674"
+ },
+ {
+  "id": "2026-11-08-r03",
+  "date": "2026-11-08",
+  "kind": "reply",
+  "title": "@emollick 说 LLM 让调查报道进入黄金期：正面、不制造焦虑的话题，主号可从普通人角度接一句。",
+  "url": "https://x.com/emollick/status/2119083280381383072"
+ },
+ {
+  "id": "2026-11-08-r04",
+  "date": "2026-11-08",
+  "kind": "reply",
+  "title": "@theworldlabs 发布 Frameboy：官方帖回复不多，早回容易被看到。",
+  "url": "https://x.com/theworldlabs/status/2118424455873741028"
+ },
+ {
+  "id": "2026-11-08-v01",
+  "date": "2026-11-08",
+  "kind": "viral",
+  "title": "@karpathy 3 分钟用 Claude Code 把别人的 YouTube 推荐单做成 TristanTube：收藏比点赞还多，典型「我也想照做」；具体到 47K 个视频、3 分钟、一次写成，还带躺着看的电视模式，门槛低到人人都想抄一个自己的版本。",
+  "url": "https://x.com/karpathy/status/2119114537442189652"
+ },
+ {
+  "id": "2026-11-08-v02",
+  "date": "2026-11-08",
+  "kind": "viral",
+  "title": "@ravisparikh 发布给 AI agent 用的 3D 引擎 Vork：开头一句「Dear Claude」把产品写成写给 AI 的信，够反常识；再配 100 万只鸟 97 秒渲完、Blender 要 31 分钟的硬对比，收藏远超点赞，说明工程向读者当工具清单存了。",
+  "url": "https://x.com/ravisparikh/status/2118744950825275680"
  }
 ]
