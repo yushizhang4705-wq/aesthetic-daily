@@ -411,5 +411,75 @@
   "kind": "viral",
   "title": "@ravisparikh 发布给 AI agent 用的 3D 引擎 Vork：开头一句「Dear Claude」把产品写成写给 AI 的信，够反常识；再配 100 万只鸟 97 秒渲完、Blender 要 31 分钟的硬对比，收藏远超点赞，说明工程向读者当工具清单存了。",
   "url": "https://x.com/ravisparikh/status/2118744950825275680"
+ },
+ {
+  "id": "2026-11-09-01",
+  "date": "2026-11-09",
+  "kind": "item",
+  "title": "OpenAI Codex 负责人 Tibo（@thsottiaux）11 月 8 日澄清 ChatGPT 三档 Pro：Pro 100、Pro 200、Pro 500 都没有 5 小时限额，用量分别是 Plus 的 10 倍、20 倍、50 倍，Pro 500 另含 Ultrafast。三档月费 100 / 200 / 500 美元和 Pro 无 5 小时限额以 OpenAI 帮助中心为准（已核对）；具体倍数目前只有 Tibo 本人帖，帮助中心没写，倍数是否只算 Work 和 Codex 待证。",
+  "url": "https://x.com/thsottiaux/status/2119296267545419987"
+ },
+ {
+  "id": "2026-11-09-02",
+  "date": "2026-11-09",
+  "kind": "item",
+  "title": "OpenAI 官网有个 Verify 检测页：上传一张图或一段音频，它查文件里有没有 C2PA 内容凭证和 SynthID 隐形水印，判断是不是 ChatGPT、OpenAI API 或 Codex 生成的。官方说查到信号基本可靠，查不到也不代表不是 AI 做的（可能被裁剪、转格式，或出自别家模型），暂不支持文字（官网页面已核对；上线日期官网没写，待证）。",
+  "url": "https://x.com/Gorden_Sun/status/2119403952777355715"
+ },
+ {
+  "id": "2026-11-09-03",
+  "date": "2026-11-09",
+  "kind": "item",
+  "title": "DeepSeek Harness 官方号 11 月 8 日发长文：8 月 13 日上线 v0.1，9 月 29 日出桌面版，截至 11 月 4 日日活 154 万（只算官方 API 用户），每天约消耗 92 万亿 token；第三方插件约 3.5 万个，约六成活跃用户做过或装过插件。接下来要做官方插件市场和插件作者扶持计划，细则还没公布（官方长文已核对，数字是官方自报）。",
+  "url": "https://x.com/DeepSeekHarness/status/2119431663642153128"
+ },
+ {
+  "id": "2026-11-09-g01",
+  "date": "2026-11-09",
+  "kind": "infogap",
+  "title": "Viggle Remake：一句话把现成视频里的整组演员换掉",
+  "url": "https://x.com/ViggleAI/status/2118012913793290414"
+ },
+ {
+  "id": "2026-11-09-g02",
+  "date": "2026-11-09",
+  "kind": "infogap",
+  "title": "爸爸和孩子用 AI 做出能玩的 Roblox 游戏，一行代码没写",
+  "url": "https://x.com/minchoi/status/2119468509184901327"
+ },
+ {
+  "id": "2026-11-09-r01",
+  "date": "2026-11-09",
+  "kind": "reply",
+  "title": "@thsottiaux 的 Pro 50 提问：OpenAI Codex 负责人直接征求意见，回复区活跃，主号可以从普通付费用户的角度给具体意见。",
+  "url": "https://x.com/thsottiaux/status/2119305294291612140"
+ },
+ {
+  "id": "2026-11-09-r02",
+  "date": "2026-11-09",
+  "kind": "reply",
+  "title": "@tianyi 讲 DeepSeek Harness 想做 agent 时代的操作系统：中文圈讨论热，帖子用手机系统打比方，主号可以替普通用户问一个实际问题。",
+  "url": "https://x.com/tianyi/status/2119433744671273441"
+ },
+ {
+  "id": "2026-11-09-r03",
+  "date": "2026-11-09",
+  "kind": "reply",
+  "title": "@gdb 说前沿模型正在成为科学发现的引擎：大号观点帖，主号可以补一个大众能听懂的具体例子。",
+  "url": "https://x.com/gdb/status/2119561347805687848"
+ },
+ {
+  "id": "2026-11-09-v01",
+  "date": "2026-11-09",
+  "kind": "viral",
+  "title": "@thsottiaux 问「Pro 50 有没有必要？」：OpenAI Codex 负责人把定价决定直接抛给用户，一句问题加引用自己的价格表，回复数接近点赞的四成，因为每个付费用户都对「要不要更便宜一档」有意见。",
+  "url": "https://x.com/thsottiaux/status/2119305294291612140"
+ },
+ {
+  "id": "2026-11-09-v02",
+  "date": "2026-11-09",
+  "kind": "viral",
+  "title": "@OpenAIDevs 只发了一个词「Tomorrow.」：一个词加一段视频，内容全靠留白，大家自己猜要发什么（@dotey 猜 GPT-6.2，待证），悬念本身带来转发和引用。",
+  "url": "https://x.com/OpenAIDevs/status/2119521359185478140"
  }
 ]
