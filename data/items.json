@@ -2287,5 +2287,163 @@
    "代码动画"
   ],
   "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-09-01",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i1",
+  "title": "globe spin（Zenly 启动页地球）",
+  "author": "60fps（@60fpsdesign）/ Zenly",
+  "url": "https://x.com/60fpsdesign/status/2119661692934381816",
+  "embed": "x:2119661692934381816",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-09-02",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i2",
+  "title": "夜行列车车厢（全用 three.js 写）",
+  "author": "SF Create（@sfc43588）",
+  "url": "https://x.com/sfc43588/status/2118161380952125906",
+  "embed": "x:2118161380952125906",
+  "tags": [
+   "代码动画",
+   "3D质感",
+   "实物动画"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-09-03",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i3",
+  "title": "reeded glass 折射效果（网页）",
+  "author": "neilson（@neilsonks）",
+  "url": "https://x.com/neilsonks/status/2118757539957633115",
+  "embed": "x:2118757539957633115",
+  "tags": [
+   "代码动画",
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-09-04",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i4",
+  "title": "sticker peel OKURI（贴纸撕掉）",
+  "author": "60fps（@60fpsdesign）/ @seek____null",
+  "url": "https://x.com/60fpsdesign/status/2119004659092492469",
+  "embed": "x:2119004659092492469",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-09-05",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i5",
+  "title": "like stack boom（点赞堆叠）",
+  "author": "60fps（@60fpsdesign）/ Divan Raj（@desdivj）",
+  "url": "https://x.com/60fpsdesign/status/2119010032365027383",
+  "embed": "x:2119010032365027383",
+  "tags": [
+   "UI动效",
+   "转场",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-09-06",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i6",
+  "title": "Dwellow 家庭能源动效（Rive）",
+  "author": "Dominik Mészáros（@kcinimoDM）",
+  "url": "https://x.com/kcinimoDM/status/2119403841246675046",
+  "embed": "x:2119403841246675046",
+  "tags": [
+   "MG",
+   "3D质感",
+   "数据可视化"
+  ],
+  "cat": "MG · 3D质感"
+ },
+ {
+  "id": "2026-11-09-07",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i7",
+  "title": "Uber 风格 UI 动效 spec ad",
+  "author": "laze.motion（@loKeyyvc）",
+  "url": "https://x.com/loKeyyvc/status/2119105328373789163",
+  "embed": "x:2119105328373789163",
+  "tags": [
+   "MG",
+   "转场",
+   "UI动效"
+  ],
+  "cat": "MG · 转场"
+ },
+ {
+  "id": "2026-11-09-08",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i8",
+  "title": "Dutton Ranch — Main Titles（2026）",
+  "author": "Imaginary Forces",
+  "url": "https://vimeo.com/1193363964",
+  "embed": "https://player.vimeo.com/video/1193363964",
+  "tags": [
+   "片头片尾",
+   "实拍剪辑"
+  ],
+  "cat": "片头片尾"
+ },
+ {
+  "id": "2026-11-09-09",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i9",
+  "title": "Audi F1 — Leather（2026）",
+  "author": "FutureDeluxe",
+  "url": "https://vimeo.com/1213233271",
+  "embed": "https://player.vimeo.com/video/1213233271",
+  "tags": [
+   "3D质感",
+   "MG",
+   "实物动画"
+  ],
+  "cat": "MG · 3D质感"
+ },
+ {
+  "id": "2026-11-09-10",
+  "date": "2026-11-09",
+  "kind": "daily",
+  "report": "reports/2026-11-09.html#i10",
+  "title": "Robinhood ~ Trade Every Play（2026）",
+  "author": "ManvsMachine",
+  "url": "https://vimeo.com/1183395948",
+  "embed": "https://player.vimeo.com/video/1183395948",
+  "tags": [
+   "剪辑节奏",
+   "转场",
+   "实拍剪辑"
+  ],
+  "cat": "剪辑节奏 · 转场"
  }
 ]
