@@ -2445,5 +2445,163 @@
    "实拍剪辑"
   ],
   "cat": "剪辑节奏 · 转场"
+ },
+ {
+  "id": "2026-11-10-01",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i1",
+  "title": "ZIRKA Interceptor 网站（Awwwards 11-09 SOTD）",
+  "author": "qream（@qream_design）/ Awwwards",
+  "url": "https://x.com/awwwards/status/2119717579837083807",
+  "embed": "x:2119717579837083807",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "数据可视化"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-10-02",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i2",
+  "title": "Knots Made Easy（Stargazer rope）",
+  "author": "baz（@baz7c8，threejs 官方号转发）",
+  "url": "https://x.com/baz7c8/status/2118965768218108392",
+  "embed": "x:2118965768218108392",
+  "tags": [
+   "代码动画",
+   "知识讲解",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 知识讲解"
+ },
+ {
+  "id": "2026-11-10-03",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i3",
+  "title": "Mantras（devouringdetails.com）",
+  "author": "Rauno Freiberg（@raunofreiberg）",
+  "url": "https://x.com/raunofreiberg/status/2119856840003797178",
+  "embed": "x:2119856840003797178",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-10-04",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i4",
+  "title": "年份切换的玻璃放大镜（miskov.ee）",
+  "author": "Ilya Miskov（@ilyamiskov）",
+  "url": "https://x.com/ilyamiskov/status/2119628335206863269",
+  "embed": "x:2119628335206863269",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-10-05",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i5",
+  "title": "WebGL fold experiment（滚动展开的三折信纸）",
+  "author": "Codegrid（@codegridweb）",
+  "url": "https://x.com/codegridweb/status/2119431647003328916",
+  "embed": "x:2119431647003328916",
+  "tags": [
+   "代码动画",
+   "转场",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 转场"
+ },
+ {
+  "id": "2026-11-10-06",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i6",
+  "title": "Sluice 首页主视觉（数据流过闸门）",
+  "author": "Dominik Mészáros（@kcinimoDM）",
+  "url": "https://x.com/kcinimoDM/status/2119792909956661667",
+  "embed": "x:2119792909956661667",
+  "tags": [
+   "数据可视化",
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "数据可视化 · UI动效"
+ },
+ {
+  "id": "2026-11-10-07",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i7",
+  "title": "CARSON TIME（Swatch × David Carson 发布片）",
+  "author": "João Vaz Oliveira",
+  "url": "https://vimeo.com/1245150081",
+  "embed": "https://player.vimeo.com/video/1245150081",
+  "tags": [
+   "字体版式",
+   "MG",
+   "3D质感"
+  ],
+  "cat": "字体版式 · MG"
+ },
+ {
+  "id": "2026-11-10-08",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i8",
+  "title": "Earth Is Eating Itself",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/9zSn_qIS2Fc",
+  "embed": "https://www.youtube-nocookie.com/embed/9zSn_qIS2Fc",
+  "tags": [
+   "知识讲解",
+   "数据可视化",
+   "3D质感"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-10-09",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i9",
+  "title": "Extrafazant 网站（Awwwards 11-08 SOTD）",
+  "author": "Dylan Brouwer / Awwwards",
+  "url": "https://x.com/awwwards/status/2119355045288301007",
+  "embed": "x:2119355045288301007",
+  "tags": [
+   "转场",
+   "字体版式",
+   "UI动效"
+  ],
+  "cat": "转场 · 字体版式"
+ },
+ {
+  "id": "2026-11-10-10",
+  "date": "2026-11-10",
+  "kind": "daily",
+  "report": "reports/2026-11-10.html#i10",
+  "title": "Son Lux「Out Into Us」MV（Vimeo Staff Pick）",
+  "author": "Alex Cook",
+  "url": "https://vimeo.com/1228116196",
+  "embed": "https://player.vimeo.com/video/1228116196",
+  "tags": [
+   "剪辑节奏",
+   "实拍剪辑"
+  ],
+  "cat": "剪辑节奏 · 实拍剪辑"
  }
 ]

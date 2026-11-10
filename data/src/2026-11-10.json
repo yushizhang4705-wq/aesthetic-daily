@@ -1,0 +1,569 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-10 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天细拆换成 Codegrid 的信纸折叠：它是拆解加代码动画，比原定的英雄镜头 ZIRKA 更贴你喜欢的方向，ZIRKA 还留在 10 条里。点赞/评论：已记过的 9 个赞、3 个踩、5 条评论，今天没有新增。你最近喜欢 UI 动效、代码动画和带 3D 质感的东西，今天多放了几条；踩过的知识讲解只留了一条 Cleo Abram（她的两条你都点过赞）。",
+ "sources": "Awwwards SOTD、X（@raunofreiberg、@ilyamiskov、@codegridweb、@kcinimoDM、threejs 转发、@cleoabram）、Stash、Vimeo Staff Picks、Motionographer",
+ "items": [
+  {
+   "cat": "UI动效 · 3D质感",
+   "tags": [
+    "UI动效",
+    "3D质感",
+    "数据可视化"
+   ],
+   "title": "ZIRKA Interceptor 网站（Awwwards 11-09 SOTD）",
+   "author": "qream（@qream_design）/ Awwwards",
+   "date": "X 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2119717579837083807"
+    ],
+    [
+     "Awwwards 页 ↗",
+     "https://www.awwwards.com/sites/zirka-interceptor"
+    ]
+   ],
+   "good": "约 19 秒：笔记本放在一块灰色方台上，背后是橙色渐变墙。屏幕里是黑底的无人机网页，大号橙色数字 246、339、15、5800 依次跳出来，旁边一个白色小标签，再加一圈细线仪表盘。最后切到瞄准框画面",
+   "borrow": "做工具实测的开头：把录屏贴进一台放在台子上的笔记本里，背景只用一种颜色，屏幕上一次只给一个大数字，比直接全屏放录屏更有产品片的感觉",
+   "embed": "x:2119717579837083807",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "19 秒已下载，抽 12 帧看过",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-10-01",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2119717579837083807",
+   "cover": "covers/2026-11-10/01.jpg"
+  },
+  {
+   "cat": "代码动画 · 知识讲解",
+   "tags": [
+    "代码动画",
+    "知识讲解",
+    "3D质感"
+   ],
+   "title": "Knots Made Easy（Stargazer rope）",
+   "author": "baz（@baz7c8，threejs 官方号转发）",
+   "date": "X 2026-11-07",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/baz7c8/status/2118965768218108392"
+    ],
+    [
+     "在线体验 ↗",
+     "https://knots-made-easy.pages.dev/"
+    ]
+   ],
+   "good": "竖屏网页：米色底上只有一根带纹理的 3D 麻绳，按步骤自己打结（单结、称人结），下面一条带分段点的进度条，每段配一句说明，比如「Make a loop」。绳子的捻纹和末端的金属扣都看得清",
+   "borrow": "讲操作步骤时照搬：一个 3D 主体加一条分段进度条，每到一步停住并换一句字幕，竖屏用 Three.js 就能做",
+   "embed": "x:2118965768218108392",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "49 秒已下载，抽 12 帧看过"
+    ]
+   },
+   "id": "2026-11-10-02",
+   "embed_type": "x",
+   "url": "https://x.com/baz7c8/status/2118965768218108392",
+   "cover": "covers/2026-11-10/02.jpg"
+  },
+  {
+   "cat": "字体版式 · 代码动画",
+   "tags": [
+    "字体版式",
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "Mantras（devouringdetails.com）",
+   "author": "Rauno Freiberg（@raunofreiberg）",
+   "date": "X 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/raunofreiberg/status/2119856840003797178"
+    ],
+    [
+     "网站 ↗",
+     "https://devouringdetails.com/mantras"
+    ]
+   ],
+   "good": "约 12 秒：浅灰底上一条斜着的白色长纸带，上面竖排着一列列句子首字母，像一排卡片的边。纸带有厚度和柔和投影，其中一张卡片会被抽出来，露出一句完整的话，比如「Focus means saying no」。画面只有一个橙色小点",
+   "borrow": "做金句或要点合集：把所有句子排成一条 3D 纸带，一次只抽出一张卡片说一句，比一张张字卡平切更有层次",
+   "embed": "x:2119856840003797178",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "12 秒已下载，抽 12 帧看过",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-10-03",
+   "embed_type": "x",
+   "url": "https://x.com/raunofreiberg/status/2119856840003797178",
+   "cover": "covers/2026-11-10/03.jpg"
+  },
+  {
+   "cat": "UI动效 · 转场",
+   "tags": [
+    "UI动效",
+    "转场"
+   ],
+   "title": "年份切换的玻璃放大镜（miskov.ee）",
+   "author": "Ilya Miskov（@ilyamiskov）",
+   "date": "X 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/ilyamiskov/status/2119628335206863269"
+    ]
+   ],
+   "good": "约 19 秒竖屏：黑底个人主页上，2024、2025、2026 三个年份之间滑过一颗玻璃胶囊，经过的字被放大，边缘有一点彩色色散。下面的文章列表跟着淡入淡出，书架里的书一本本换",
+   "borrow": "做时间线或版本对比：用一颗会放大文字的玻璃胶囊在选项间滑动，再让下面的内容跟着淡入淡出，比直接高亮更有质感",
+   "embed": "x:2119628335206863269",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "19 秒已下载，抽 12 帧看过",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-10-04",
+   "embed_type": "x",
+   "url": "https://x.com/ilyamiskov/status/2119628335206863269",
+   "cover": "covers/2026-11-10/04.jpg"
+  },
+  {
+   "cat": "代码动画 · 转场",
+   "tags": [
+    "代码动画",
+    "转场",
+    "3D质感"
+   ],
+   "title": "WebGL fold experiment（滚动展开的三折信纸）",
+   "author": "Codegrid（@codegridweb）",
+   "date": "X 2026-11-08",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codegridweb/status/2119431647003328916"
+    ]
+   ],
+   "good": "约 38 秒网页录屏：深色底中央一行衬线字「A Note Awaits」，往下滚，一张折好的纸从底部进来，像三折信一样一片片翻开，铺成写满字的信，再滚出去换成「Delivered」。往回滚就倒放折回去。折痕、纸面颗粒都是 GLSL 手写",
+   "borrow": "做「信息展开/收起」：一张纸分上下两片错开翻开，翻起的那片给下层投一点影，铺平后留两道折痕。动画进度直接绑在滚动或帧上，Three.js 平面加顶点动画能做",
+   "embed": "x:2119431647003328916",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "38.4 秒完整看过",
+     "字体未识别（衬线体）"
+    ]
+   },
+   "id": "2026-11-10-05",
+   "embed_type": "x",
+   "url": "https://x.com/codegridweb/status/2119431647003328916",
+   "cover": "covers/2026-11-10/05.jpg"
+  },
+  {
+   "cat": "数据可视化 · UI动效",
+   "tags": [
+    "数据可视化",
+    "UI动效",
+    "代码动画"
+   ],
+   "title": "Sluice 首页主视觉（数据流过闸门）",
+   "author": "Dominik Mészáros（@kcinimoDM）",
+   "date": "X 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/kcinimoDM/status/2119792909956661667"
+    ]
+   ],
+   "good": "约 12 秒：黑底上 40 条琥珀色像素数据流从左边涌来，在中间被挤过一道窄门，再散开。下面一行大白字标题，只有「once.」是琥珀色。一张图就把产品讲明白了",
+   "borrow": "讲「很多输入汇成一个出口」这类概念：用一束像素流挤过窄口再散开，强调色只给一个词",
+   "embed": "x:2119792909956661667",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "12 秒已下载，抽 12 帧看过",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-10-06",
+   "embed_type": "x",
+   "url": "https://x.com/kcinimoDM/status/2119792909956661667",
+   "cover": "covers/2026-11-10/06.jpg"
+  },
+  {
+   "cat": "字体版式 · MG",
+   "tags": [
+    "字体版式",
+    "MG",
+    "3D质感"
+   ],
+   "title": "CARSON TIME（Swatch × David Carson 发布片）",
+   "author": "João Vaz Oliveira",
+   "date": "Vimeo / Stash 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1245150081"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira/"
+    ]
+   ],
+   "good": "约 34 秒：白底上 David Carson 的拼贴字和近 100 款表带图案在 C4D 里随机组合，表带一会儿竖排，一会儿绕成一圈数字，最后收在一只表上。前半段慢，后半段切得很碎",
+   "borrow": "做版式片头：把一组图案素材做成同一个 3D 物体（这里是表带），让它们排队、旋转、汇成一个，白底能压住拼贴的乱",
+   "embed": "https://player.vimeo.com/video/1245150081",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "34 秒已下载，抽 12 帧看过",
+     "字体未识别（Carson 手作拼贴字）"
+    ]
+   },
+   "id": "2026-11-10-07",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1245150081",
+   "cover": "covers/2026-11-10/07.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化",
+    "3D质感"
+   ],
+   "title": "Earth Is Eating Itself",
+   "author": "Cleo Abram",
+   "date": "YouTube Shorts / X 2026-11-08",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/shorts/9zSn_qIS2Fc"
+    ],
+    [
+     "X 原帖 ↗",
+     "https://x.com/cleoabram/status/2119444227083870609"
+    ]
+   ],
+   "good": "约 48 秒竖屏：地球、金星、岩石剖面块轮流出现，荧光黄绿的箭头、线和标签直接画在画面上，中间插 Cleo 本人出镜和化石实拍。还是你喜欢过的「地球上画箭头」那套",
+   "borrow": "竖屏讲解：3D 地球或剖面块当底，只用一种荧光色画箭头和标签，口播镜头穿插在中间",
+   "embed": "https://www.youtube-nocookie.com/embed/9zSn_qIS2Fc",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "48 秒已下载，抽 12 帧看过"
+    ]
+   },
+   "id": "2026-11-10-08",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/9zSn_qIS2Fc",
+   "cover": "covers/2026-11-10/08.jpg"
+  },
+  {
+   "cat": "转场 · 字体版式",
+   "tags": [
+    "转场",
+    "字体版式",
+    "UI动效"
+   ],
+   "title": "Extrafazant 网站（Awwwards 11-08 SOTD）",
+   "author": "Dylan Brouwer / Awwwards",
+   "date": "X 2026-11-08",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2119355045288301007"
+    ],
+    [
+     "Awwwards 页 ↗",
+     "https://www.awwwards.com/sites/extrafazant"
+    ]
+   ],
+   "good": "约 10 秒：一块克莱因蓝的圆形色块张开，露出白底上的大号粗体标题「BRENGT JE MERK IN BEWEGING」，鼠标划过时小方块作品图一张张跟着冒出来，最后蓝色块又合上",
+   "borrow": "做开场或收尾：用一块纯色圆形张开露出标题，收尾再合上。标题旁边跟一串小缩略图，就能顺带展示作品",
+   "embed": "x:2119355045288301007",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "10 秒已下载，抽 12 帧看过",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-10-09",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2119355045288301007",
+   "cover": "covers/2026-11-10/09.jpg"
+  },
+  {
+   "cat": "剪辑节奏 · 实拍剪辑",
+   "tags": [
+    "剪辑节奏",
+    "实拍剪辑"
+   ],
+   "title": "Son Lux「Out Into Us」MV（Vimeo Staff Pick）",
+   "author": "Alex Cook",
+   "date": "Vimeo Staff Pick 2026-11-06",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1228116196"
+    ]
+   ],
+   "good": "前 2 分钟抽帧：沙尘暴压向一座木屋，屋里一家人坐在窗边的逆光里，暗调，只有窗户亮。镜头很长，自动切点检测前 2 分钟大约 20 个切点，多数一个镜头停 4–10 秒",
+   "borrow": "想做慢节奏、有情绪的段落时参考：一个镜头停够 5 秒以上，光只从窗户进来，用一个大环境镜头（沙尘）收尾",
+   "embed": "https://player.vimeo.com/video/1228116196",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "5 分 42 秒，只下了前 2 分钟，抽 12 帧看过",
+     "切点是 ffmpeg 场景检测估的，没听音乐"
+    ]
+   },
+   "id": "2026-11-10-10",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1228116196",
+   "cover": "covers/2026-11-10/10.jpg"
+  }
+ ],
+ "cut_title": "看完剔除（19 条）",
+ "cut": [
+  {
+   "title": "Logitech G3 Power Up Campaign",
+   "author": "Laundry",
+   "link": "https://motionographer.com/quickie/logitech-g3-power-up-campaign-laundry/",
+   "why": "霓虹赛博游戏场景，颜色太满，不克制",
+   "cover": "covers/2026-11-10/cut-01.jpg"
+  },
+  {
+   "title": "CoMotion 2026: Energy in Flux",
+   "author": "Anaissa Ruiz Tejada & Cristian Sandoval",
+   "link": "https://vimeo.com/1171175181",
+   "why": "霓虹粒子加故障字，属于要排除的光效炫技",
+   "cover": "covers/2026-11-10/cut-02.jpg"
+  },
+  {
+   "title": "PLUS（短片）",
+   "author": "Renaud Hallée",
+   "link": "https://www.stashmedia.tv/take-a-break-from-festive-feels-and-get-lost-in-renaud-hallees-new-short-film-plus/",
+   "why": "纯扁平几何符号，7 分钟实验短片，没有立体感",
+   "cover": "covers/2026-11-10/cut-03.jpg"
+  },
+  {
+   "title": "Me, Myself and Mary",
+   "author": "John Michell（Vimeo Staff Pick）",
+   "link": "https://vimeo.com/1244470254",
+   "why": "13 分钟扁平卡通叙事短片，颜色浓烈",
+   "cover": "covers/2026-11-10/cut-04.jpg"
+  },
+  {
+   "title": "What the water keeps",
+   "author": "kevin_t_ngo（threejs 转发）",
+   "link": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+   "why": "画面漂亮但每段换一种浓颜色，更像游戏关卡",
+   "cover": "covers/2026-11-10/cut-05.jpg"
+  },
+  {
+   "title": "Chimera 线框头像对口型",
+   "author": "jamesonhodge（threejs 转发）",
+   "link": "https://x.com/jamesonhodge/status/2119085825509954042",
+   "why": "黑底荧光线框 HUD 风，偏炫技",
+   "cover": "covers/2026-11-10/cut-06.jpg"
+  },
+  {
+   "title": "沙漠城市漫游",
+   "author": "javpixel_art（threejs 转发）",
+   "link": "https://x.com/javpixel_art/status/2119232534592590158",
+   "why": "游戏录屏，不是视频手法",
+   "cover": "covers/2026-11-10/cut-07.jpg"
+  },
+  {
+   "title": "吉卜力风景变形",
+   "author": "neilsonks",
+   "link": "https://x.com/neilsonks/status/2119970578413273597",
+   "why": "风景图互相变形，看着像 AI 生成，没有可学的动效",
+   "cover": "covers/2026-11-10/cut-08.jpg"
+  },
+  {
+   "title": "EGO 滑杆木偶（au-rel.io）",
+   "author": "Andrea Aurelio Napoli / Codrops",
+   "link": "https://x.com/codrops/status/2119784510766145638",
+   "why": "线条小人加照片头，偏手作恶搞，不够精致",
+   "cover": "covers/2026-11-10/cut-09.jpg"
+  },
+  {
+   "title": "/gestures skill",
+   "author": "Emil Kowalski",
+   "link": "https://x.com/emilkowalski/status/2119406396160540738",
+   "why": "AI 编程技能推广，画面是灰色线框对比示意",
+   "cover": "covers/2026-11-10/cut-10.jpg"
+  },
+  {
+   "title": "Proto launch video",
+   "author": "Bitmap Studio",
+   "link": "https://x.com/maayanalbert/status/2118872746415509578",
+   "why": "AI IDE 发布片，高饱和撞色加模板化 SaaS 宣传",
+   "cover": "covers/2026-11-10/cut-11.jpg"
+  },
+  {
+   "title": "Hold to upgrade 按钮",
+   "author": "endisaliaj",
+   "link": "https://x.com/endisaliaj/status/2119549850941640840",
+   "why": "超级赛亚人金光特效，属于廉价光效",
+   "cover": "covers/2026-11-10/cut-12.jpg"
+  },
+  {
+   "title": "Lady Gaga Mayhem 舞台预演",
+   "author": "khageesi",
+   "link": "https://x.com/khageesi/status/2119858006808514827",
+   "why": "演唱会舞台预演，不是视频手法",
+   "cover": "covers/2026-11-10/cut-13.jpg"
+  },
+  {
+   "title": "Rive GPU Canvas",
+   "author": "Rive",
+   "link": "https://x.com/rive_app/status/2119825670415024281",
+   "why": "产品发布口播，演示片段是霓虹 shader",
+   "cover": "covers/2026-11-10/cut-14.jpg"
+  },
+  {
+   "title": "Sanction Spirits（Awwwards 10 月 SOTM）",
+   "author": "Active Theory / Plan8",
+   "link": "https://x.com/awwwards/status/2119824460664492381",
+   "why": "大红底加荧光酒瓶，颜色太冲",
+   "cover": "covers/2026-11-10/cut-15.jpg"
+  },
+  {
+   "title": "Loading 新指示器",
+   "author": "Jakub Krehel",
+   "link": "https://x.com/jakubkrehel/status/2119467890407584206",
+   "why": "做得干净，但今天 UI 动效已经 3 条，画面也太小",
+   "cover": "covers/2026-11-10/cut-16.jpg"
+  },
+  {
+   "title": "This huge machine can detect dark matter",
+   "author": "Cleo Abram",
+   "link": "https://x.com/cleoabram/status/2118757036733120632",
+   "why": "同一作者今天只放一条，这条紫绿荧光更重",
+   "cover": "covers/2026-11-10/cut-17.jpg"
+  },
+  {
+   "title": "Alo Handbag（Inhale / Exhale）",
+   "author": "Tendril",
+   "link": "https://tendril.studio/work/alo-handbag/",
+   "why": "Vimeo 403 下不到，没看画面，且是 10 月初的作品",
+   "cover": "covers/2026-11-10/cut-18.jpg"
+  },
+  {
+   "title": "Web Unleashed 2026 片头「Less Perfect」",
+   "author": "Escafandra Studio",
+   "link": "https://www.stashmedia.tv/escafandra-studio-opens-web-unleashed-2026/",
+   "why": "视频在 framerate.tv 播放器里，下载 404，没看画面，不写",
+   "cover": "covers/2026-11-10/cut-19.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 代码动画（替换原定的英雄镜头）",
+  "toc": "细拆：Codegrid 三折信纸",
+  "title": "一张纸、两道折痕：把「信息展开/收起」做成滚动驱动的 3D 翻折",
+  "flag": "【看过视频】完整看了 38.4 秒，下面的秒数按视频写",
+  "lede": "Codegrid 的 WebGL 折纸实验。整段只有一张纸：往下滚，三折信一片片翻开成一封写满字的信；往回滚就原样折回去。机位不动，没有花哨光效，质感全靠阴影、高光、颗粒和折痕。正文说折叠、颗粒、折痕都是 GLSL 手写。",
+  "links": [
+   [
+    "看原帖 ↗",
+    "https://x.com/codegridweb/status/2119431647003328916"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "时间线（按视频秒数）",
+    "ul": [
+     "0–1s：深色背景，中央一行衬线字「A Note Awaits」",
+     "1–5s：往下滚，标题往上移出，折好的纸从底部进来，翻开成写满字的平铺信纸",
+     "5–7s：纸往上移出，「Delivered」从底部进来停在中间",
+     "7–13s：往上滚，整段倒放：纸重新折起，「A Note Awaits」回到中央",
+     "13–38s：来回滚着测试，15–19s 快速展开，23–25s 停在半折状态再退回，结尾纸是平铺的"
+    ]
+   },
+   {
+    "h": "动是怎么动的",
+    "ul": [
+     "全程是滚动驱动的网页录屏，没有光标、没有点击",
+     "动画进度和滚动位置完全绑死（scrub）：滚多少动多少，本身没有额外的 ease-out 或回弹，停滚就冻住",
+     "三折（C-fold）：纸分上中下三等份。展开时上片先沿上折痕翻开 180°，然后下片再往下翻开；折回去是反过来的顺序",
+     "机位一直正面不动，不转也不缩放；纸只做上下位移加原地 3D 翻折"
+    ]
+   },
+   {
+    "h": "质感从哪来",
+    "ul": [
+     "翻起来的那片纸会在下层投一块柔和的接触阴影",
+     "弯折的边缘有一点柔和高光",
+     "纸面有细细的噪点颗粒",
+     "铺平之后仍然留着两道深色折痕线",
+     "纸没有厚度，正反两面都渲染"
+    ]
+   },
+   {
+    "h": "颜色和字体",
+    "chips": [
+     [
+      "#111111",
+      "背景"
+     ],
+     [
+      "#F5F5F5",
+      "纸（米白，略暖）"
+     ],
+     [
+      "#111111",
+      "纸上文字（近黑）"
+     ]
+    ],
+    "after": "右边有一条暗色的自定义滚动条。字体是衬线体，像 Times New Roman / Georgia / Garamond 这一类，具体未识别（衬线体）。"
+   },
+   {
+    "h": "在 Remotion / Three.js 里怎么做（我的做法建议）",
+    "ol": [
+     "进度只用一个数：Remotion 里 `progress = interpolate(frame, [起, 止], [0, 1])`，网页里就用滚动位置算。不要另加缓动，想要原片那种「跟手」感就保持线性；做成片时想柔一点，再自己决定加不加",
+     "纸用一个 PlaneGeometry，分成上中下三段。中段不动，上片绕上折痕转、下片绕下折痕转，各 180°",
+     "两片错开时间：比如 progress 0–0.5 只翻上片，0.5–1 只翻下片；收起时同一个进度反着走，顺序自然就反过来了",
+     "下层阴影跟角度走：翻起的片越接近竖直，压在下面那片上的阴影越深，铺平时阴影消失。shader 里用翻折角度算一个暗度乘到下层颜色上",
+     "边缘高光：在折痕附近加一条很窄的亮带，强度也跟角度变",
+     "纸面：米白底加一层细噪点，铺平后在两道折痕位置画两条深色细线，不要抹掉，这是「被折过」的证据",
+     "材质设成双面（`side: DoubleSide`），镜头正面固定，只让纸做上下位移和翻折"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "做科普里的「信息展开/收起」：比如讲一个概念时，先出一行标题，一张折好的纸进来，翻开就是这段的要点，讲完纸折回去送走，换下一段的标题。",
+     "它和你点过赞、评论过「爆炸拆解可以参考」的 jhey 拆解是同一路：一个物体按顺序拆开再合上，观众看得清先后。区别是这里只有一张纸，更克制，适合文字多的段落。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-10",
+ "kind": "daily",
+ "slug": "2026-11-10"
+}
