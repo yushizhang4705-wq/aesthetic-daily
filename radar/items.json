@@ -481,5 +481,89 @@
   "kind": "viral",
   "title": "@OpenAIDevs 只发了一个词「Tomorrow.」：一个词加一段视频，内容全靠留白，大家自己猜要发什么（@dotey 猜 GPT-6.2，待证），悬念本身带来转发和引用。",
   "url": "https://x.com/OpenAIDevs/status/2119521359185478140"
+ },
+ {
+  "id": "2026-11-10-01",
+  "date": "2026-11-10",
+  "kind": "item",
+  "title": "Anthropic 11 月 9 日发布 Claude Fable 5.2 和 Claude Mythos 5.2：两个是同一个模型，Fable 加了网络安全和生物方面的护栏、对付费用户开放，Mythos 只给通过审核的机构。官方说编程、推理、看图都有提升，输出比 5.1 最多快 30%，API 从每百万 token 10 / 50 美元降到 8 / 40 美元（Anthropic 官网和开发者文档已核对）。订阅方面，Claude 帮助中心写明 Pro 和 Team 标准席位 11 月 9 日到 16 日（太平洋时间）Fable 计入套餐额度、最多占每周一半，另送 1 次重置；Max、Ultra 按订阅时长送 1 到 3 次重置（已核对）。「几乎所有能力都超过 Opus 5.5」「人类最强模型」这类说法来自官方宣传和博主转述，第三方榜单里 Artificial Analysis 智能指数 v5 排第一（65 分），属第三方测试。",
+  "url": "https://x.com/claudeai/status/2119867114450268322"
+ },
+ {
+  "id": "2026-11-10-02",
+  "date": "2026-11-10",
+  "kind": "item",
+  "title": "字节跳动 Seed 团队 11 月 9 日发布图像模型 Seedream 5.5：多轮编辑时没要求改的区域做到像素级保持，同一张图最多可连改 100 轮；能直接生成带透明通道的图（羽毛这类难抠的边缘也保留），省去抠图；写实质感和小字更准。正在即梦、豆包、豆包工作、火山方舟陆续上线（Seed 官方博客已核对）。和 GPT Image 2.5 Sunburst、Nano Banana 2.1 的对比是字节自己做的评测；2K 方图编辑单张约 0.28 元的价格来自 @dotey 转述，官方博客没写，待证。",
+  "url": "https://x.com/dotey/status/2119823986603299193"
+ },
+ {
+  "id": "2026-11-10-03",
+  "date": "2026-11-10",
+  "kind": "item",
+  "title": "OpenAI 在自家周边商店 Supply Co. 上架 ModRetro Chromatic 掌机的 Codex 版，200 美元，含一张可写入的卡带：在 Codex 里装 ModRetro Chromatic 插件，用一句话描述游戏，Codex 在 GB Studio 里做出游戏，输出 ROM，可以在浏览器模拟器里玩、串流到掌机上试，或写进卡带随身玩。商品页现在显示预计 11 月 19 日补货，只发货到美国、加拿大、澳新、日本、英国和欧盟（OpenAI 商品页已核对）。Chromatic 能插原版 Game Boy 和 Game Boy Color 卡带；不买掌机、ChatGPT 免费账号也能用插件做游戏是 @dotey 转述，待证。",
+  "url": "https://x.com/OpenAIDevs/status/2119864571733446774"
+ },
+ {
+  "id": "2026-11-10-04",
+  "date": "2026-11-10",
+  "kind": "item",
+  "title": "Google 11 月 9 日宣布 AI Studio 接入 Google Maps Platform：用一句话描述想做的应用（比如店铺查找、自驾路线规划、3D 城市导览），Gemini 写代码并接好地图、地点、路线、天气、街景等接口。新用户不用绑信用卡，AI Studio 会自动建一个免费项目和地图演示密钥，存在应用的密钥设置里，每个接口每天 100 次调用；要正式上线再绑 Google Cloud 结算账户（Google 开发者博客和 Maps 文档已核对）。",
+  "url": "https://x.com/GoogleAIStudio/status/2119837788937896234"
+ },
+ {
+  "id": "2026-11-10-g01",
+  "date": "2026-11-10",
+  "kind": "infogap",
+  "title": "一个人做的「无限后室」网页游戏，Claude 一直在往里加房间",
+  "url": "https://x.com/apekshik/status/2119517930300076261"
+ },
+ {
+  "id": "2026-11-10-g02",
+  "date": "2026-11-10",
+  "kind": "infogap",
+  "title": "2.5 万个 AI 一起造了 450 个能穿门而过的 3D 世界，最后还搞出了官僚流程",
+  "url": "https://x.com/emollick/status/2119918307457577163"
+ },
+ {
+  "id": "2026-11-10-r01",
+  "date": "2026-11-10",
+  "kind": "reply",
+  "title": "@bcherny 宣布按订阅时长送重置：Anthropic Claude Code 负责人的高互动帖，回复区都是付费用户，主号从普通 Pro 用户角度提一个具体建议容易被看到。",
+  "url": "https://x.com/bcherny/status/2119873095129550880"
+ },
+ {
+  "id": "2026-11-10-r02",
+  "date": "2026-11-10",
+  "kind": "reply",
+  "title": "@emollick 说 Fable 5.2 算是「参差不齐的 AGI」：收藏远高于常态，说明大家当资料存；主号接他文章里最好懂的一点提问。",
+  "url": "https://x.com/emollick/status/2119870150845599972"
+ },
+ {
+  "id": "2026-11-10-r03",
+  "date": "2026-11-10",
+  "kind": "reply",
+  "title": "@OpenAIDevs dot 能连多台电脑：官方号新功能帖，回复区多是问权限和用法的，主号问一个普通人最关心的授权范围问题。",
+  "url": "https://x.com/OpenAIDevs/status/2119883176726409645"
+ },
+ {
+  "id": "2026-11-10-r04",
+  "date": "2026-11-10",
+  "kind": "reply",
+  "title": "@GoogleAIStudio 接入谷歌地图：回复数不多、官方号会看，主号替新手问免费额度够不够用。",
+  "url": "https://x.com/GoogleAIStudio/status/2119837788937896234"
+ },
+ {
+  "id": "2026-11-10-v01",
+  "date": "2026-11-10",
+  "kind": "viral",
+  "title": "@claudeai 发布 Fable 5.2 和 Mythos 5.2：一句话定位「最难的技术难题」加一段视频，后续帖接着放「一段话设计出三个能用的电子设备」这类具体案例，用案例替模型说话，收藏数过万说明大家在存着回头看。",
+  "url": "https://x.com/claudeai/status/2119867114450268322"
+ },
+ {
+  "id": "2026-11-10-v02",
+  "date": "2026-11-10",
+  "kind": "viral",
+  "title": "@bcherny 宣布按订阅时长送 Fable 重置：Anthropic Claude Code 负责人把发布福利说成「给陪我们最久的人多一点」，订阅越久送得越多，每个老用户都会去算自己能拿几次，晒和问的回复一起把帖子顶上去。",
+  "url": "https://x.com/bcherny/status/2119873095129550880"
  }
 ]
