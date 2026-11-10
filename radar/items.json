@@ -565,5 +565,96 @@
   "kind": "viral",
   "title": "@bcherny 宣布按订阅时长送 Fable 重置：Anthropic Claude Code 负责人把发布福利说成「给陪我们最久的人多一点」，订阅越久送得越多，每个老用户都会去算自己能拿几次，晒和问的回复一起把帖子顶上去。",
   "url": "https://x.com/bcherny/status/2119873095129550880"
+ },
+ {
+  "id": "2026-11-11-01",
+  "date": "2026-11-11",
+  "kind": "item",
+  "title": "Anthropic 11 月 10 日给 Claude 加了白板 Claude Whiteboards 和表格 Claude Sheets（测试版，所有付费套餐，网页、桌面和手机都能用），10 月的仪表盘 Claude Dashboards 改名 Claude Data 正式上线。白板能把口头说的计划整理成带负责人和日期的时间线，团队一起改；表格一句话就能生成带分页、公式、格式和下拉框的表，改动会逐条标出，可导出 .xlsx 或 CSV（Claude 官网文章已核对）。同一天还发了 Claude Meetings，只给 Team 和 Enterprise 测试。",
+  "url": "https://x.com/claudeai/status/2120206365759094857"
+ },
+ {
+  "id": "2026-11-11-02",
+  "date": "2026-11-11",
+  "kind": "item",
+  "title": "Google 11 月 10 日正式开放 Gemini 4 Carbon，官方称是目前最强的 Gemini 模型，主打长时间跑的复杂任务、编程和网络安全。开发者付费 API 当天可用，11 月 30 日前引入价每百万 token 输入 2 美元、输出 10 美元，12 月 1 日起 4 美元和 20 美元（Google 官方博客和 AI Studio 开发者指南已核对）；普通用户要订 Google AI Ultra 才能在 Gemini App 和搜索的 AI 模式里用，Ultra 美国价每月 99.99 美元起来自第三方报道和 @dotey 转述，待证。第三方测试方面，Cursor 说它在自家 CursorBench 高档位排第一（60.4%），Perplexity 说在自家评测上和 Claude Fable 5.2 打平、成本约四成，都是各家自己的评测。",
+  "url": "https://x.com/GoogleAIStudio/status/2120187576489222302"
+ },
+ {
+  "id": "2026-11-11-03",
+  "date": "2026-11-11",
+  "kind": "item",
+  "title": "OpenAI 11 月 10 日推出测试版 Businesses in ChatGPT：商家在 Business Hub 认领自己的店，通过电话、企业邮箱、网站域名或 Shopify 验证并做身份核验后，可以改店铺信息、上传带价格和库存的商品清单，看自己在 ChatGPT 里被提到几次、带来多少网站点击；美国有网站的网店和线上服务商家还能做一个 Business Agent 替自己回答顾客问题。官方写明不会把用户的对话或和 Business Agent 的聊天内容给商家看，认领也不保证排名更靠前（OpenAI 官网、帮助中心已核对）。",
+  "url": "https://x.com/OpenAI/status/2120216592395174382"
+ },
+ {
+  "id": "2026-11-11-04",
+  "date": "2026-11-11",
+  "kind": "item",
+  "title": "MiniMax 11 月 10 日发布图像模型 MiniMax H3-Image：官方说 10 秒生成一张 1600 万像素的 4K 图，最多支持 16 张参考图，能按提示词精确改图，模型权重开放下载（Hugging Face），API、MiniMax Code 和海螺 AI 都已上线，发布这周 1600 万像素以上的生成打五折（MiniMax 官方帖）。画质和速度是官方说法；@_akhaliq 已经用它做了 2 步出图的实时编辑演示，属于第三方作品。",
+  "url": "https://x.com/MiniMax_AI/status/2120179737695826420"
+ },
+ {
+  "id": "2026-11-11-g01",
+  "date": "2026-11-11",
+  "kind": "infogap",
+  "title": "以后跟 ChatGPT 或 Claude 说一句，它在你电脑上的 Photoshop 里改图",
+  "url": "https://x.com/LinusEkenstam/status/2120161046073909565"
+ },
+ {
+  "id": "2026-11-11-g02",
+  "date": "2026-11-11",
+  "kind": "infogap",
+  "title": "一句话、8 小时、约 550 美元，AI 自己做出一款浏览器里能玩的射击游戏",
+  "url": "https://x.com/minchoi/status/2120193920189759993"
+ },
+ {
+  "id": "2026-11-11-r01",
+  "date": "2026-11-11",
+  "kind": "reply",
+  "title": "@ClaudeDevs 送全额重置：官方号高互动帖，回复区都是付费用户，主号提一个普通用户关心的具体建议容易被看到。",
+  "url": "https://x.com/ClaudeDevs/status/2120275296637321476"
+ },
+ {
+  "id": "2026-11-11-r02",
+  "date": "2026-11-11",
+  "kind": "reply",
+  "title": "@OpenAI 推出 Businesses in ChatGPT：浏览近 200 万，回复区多是商家在问怎么认领，主号替小店主问一个实际问题。",
+  "url": "https://x.com/OpenAI/status/2120216592395174382"
+ },
+ {
+  "id": "2026-11-11-r03",
+  "date": "2026-11-11",
+  "kind": "reply",
+  "title": "@thsottiaux 问大家有没有小生意：OpenAI Codex 负责人 Tibo 的提问帖，回复近 600 条，直接回答他的问题最自然。",
+  "url": "https://x.com/thsottiaux/status/2120267268517249036"
+ },
+ {
+  "id": "2026-11-11-r04",
+  "date": "2026-11-11",
+  "kind": "reply",
+  "title": "@emollick 说 Carbon 思路和 Claude、GPT 不一样：他提前拿到了 Carbon，回复数不多容易被看到，接他最有意思的观点提问。",
+  "url": "https://x.com/emollick/status/2120198832202125322"
+ },
+ {
+  "id": "2026-11-11-r05",
+  "date": "2026-11-11",
+  "kind": "reply",
+  "title": "@GeminiApp Carbon 先给 Ultra：官方号帖，很多人会关心普通会员什么时候能用，主号替大家问。",
+  "url": "https://x.com/GeminiApp/status/2120186450927038900"
+ },
+ {
+  "id": "2026-11-11-v01",
+  "date": "2026-11-11",
+  "kind": "viral",
+  "title": "@claudeai 发布白板、表格和 Claude Data：一句话说三件上班族天天用的东西（画白板、做表格、讲数据），配一段演示视频，不讲模型参数只讲能干什么，收藏 1.6 万说明大家当成工具存着回头用。",
+  "url": "https://x.com/claudeai/status/2120206365759094857"
+ },
+ {
+  "id": "2026-11-11-v02",
+  "date": "2026-11-11",
+  "kind": "viral",
+  "title": "@ClaudeDevs 给付费用户送一次全额重置：官方主动承认之前有问题多扣了额度，直接给所有付费用户送一次全额重置、12 月 10 日前有效，人人相关又是白送，回复区都在晒和问怎么领，互动一下就上去了。",
+  "url": "https://x.com/ClaudeDevs/status/2120275296637321476"
  }
 ]
