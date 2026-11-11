@@ -656,5 +656,96 @@
   "kind": "viral",
   "title": "@ClaudeDevs 给付费用户送一次全额重置：官方主动承认之前有问题多扣了额度，直接给所有付费用户送一次全额重置、12 月 10 日前有效，人人相关又是白送，回复区都在晒和问怎么领，互动一下就上去了。",
   "url": "https://x.com/ClaudeDevs/status/2120275296637321476"
+ },
+ {
+  "id": "2026-11-12-01",
+  "date": "2026-11-12",
+  "kind": "item",
+  "title": "阿里通义千问团队 11 月 11 日发布 Qwen4 预告，旗舰 Qwen4-Max 先出预览版：千问 APP、QwenStudio、QwenWork、Qoder 里可以抢先用；开发者只能通过 Token Plan 订阅调用，不支持按量计费。预览期是北京时间 11 月 11 日 10:00 到 11 月 25 日 24:00，结束后这个预览模型下线，上下文 1M token（阿里云和千问 AI 平台官方文档已核对）。官方帖说主打知识、编程和智能体任务，但没公布跑分和参数量。",
+  "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315"
+ },
+ {
+  "id": "2026-11-12-02",
+  "date": "2026-11-12",
+  "kind": "item",
+  "title": "Google Labs 11 月 11 日推出实验产品 Tabletop：把链接、文件丢进一个共享空间，拉上朋友家人，对 @tabletop 说一句或选个模板，就生成互动行程、晚饭投票转盘、分账表、比赛对阵表、拖拽排座位表，大家像用 Google 文档一样同时用；目前只对美国 18 岁以上用户开候补名单，每周放一批（Google 官方博客已核对），官方没提价格。",
+  "url": "https://x.com/GoogleLabs/status/2120549258692882702"
+ },
+ {
+  "id": "2026-11-12-03",
+  "date": "2026-11-12",
+  "kind": "item",
+  "title": "Google 11 月 11 日起向全球 iOS 用户推送 Gemini app 的 Apple CarPlay 版：车机屏幕点 Gemini 图标就能用 Gemini Live 语音对话，可以接着手机上的聊天继续，问日程、听邮件摘要、口头回复、练演讲，记录同步回 iPhone（Google 官方博客已核对）。要先更新 app、开麦克风权限、在手机上用过一次 Gemini Live；Daily Brief 等个性化功能未满 18 岁和欧洲经济区用不了。Android Auto 之前已经上线。",
+  "url": "https://x.com/GeminiApp/status/2120626195033473228"
+ },
+ {
+  "id": "2026-11-12-04",
+  "date": "2026-11-12",
+  "kind": "item",
+  "title": "Google DeepMind 11 月 10 日发布 AlphaProof Code：研究员和 AI 一起把 Signal 加密协议的安全目标写成数学规格（每条都经人工审核），再由 Gemini Carbon 驱动的智能体写出约 650 万行 Lean 证明，证明 Signal 官方代码库 libsignal 编译后的机器码满足前向保密、身份认证等关键安全性质，用时四周（DeepMind 官方博客和论文页已核对）。这是 DeepMind 自己的研究结论：只覆盖协议核心代码，不是整个 Signal app，并假设底层加密算法本身可靠；他们把两个已修复的旧漏洞放回去测试，系统能证明有漏洞的版本不安全。证明代码已在 GitHub 公开。",
+  "url": "https://x.com/GoogleDeepMind/status/2120484246401777737"
+ },
+ {
+  "id": "2026-11-12-g01",
+  "date": "2026-11-12",
+  "kind": "infogap",
+  "title": "机器人视频终于不加速了：英伟达的机器人 1 倍速做完一整个化学实验，还自己收拾台面",
+  "url": "https://x.com/DrJimFan/status/2120540201994846253"
+ },
+ {
+  "id": "2026-11-12-g02",
+  "date": "2026-11-12",
+  "kind": "infogap",
+  "title": "GTA 6 会是最后一款纯人工做的大作吗",
+  "url": "https://x.com/emollick/status/2120502534695514279"
+ },
+ {
+  "id": "2026-11-12-r01",
+  "date": "2026-11-12",
+  "kind": "reply",
+  "title": "@Alibaba_Qwen Qwen4-Max 预览：浏览过百万的官方帖，主号替千问 APP 的普通用户问一个实际问题。",
+  "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315"
+ },
+ {
+  "id": "2026-11-12-r02",
+  "date": "2026-11-12",
+  "kind": "reply",
+  "title": "@OfficialLoganK 发布 Gemini Decision 1：Google AI Studio 负责人 Logan 的发布帖，高互动，从普通人能懂的用法提问。",
+  "url": "https://x.com/OfficialLoganK/status/2120581433639198885"
+ },
+ {
+  "id": "2026-11-12-r03",
+  "date": "2026-11-12",
+  "kind": "reply",
+  "title": "@emollick「最后一款人类游戏」：争议帖回复多但多是情绪，接一个具体的区分容易被看到。",
+  "url": "https://x.com/emollick/status/2120502534695514279"
+ },
+ {
+  "id": "2026-11-12-r04",
+  "date": "2026-11-12",
+  "kind": "reply",
+  "title": "@GoogleDeepMind 用 AI 证明 Signal 协议安全：官方帖，普通用户最关心这套方法下一步用在哪，主号替大家问。",
+  "url": "https://x.com/GoogleDeepMind/status/2120484246401777737"
+ },
+ {
+  "id": "2026-11-12-r05",
+  "date": "2026-11-12",
+  "kind": "reply",
+  "title": "@GoogleLabs 推出 Tabletop：回复只有 33 条，容易被看到，问的是大家都关心的开放范围。",
+  "url": "https://x.com/GoogleLabs/status/2120549258692882702"
+ },
+ {
+  "id": "2026-11-12-v01",
+  "date": "2026-11-12",
+  "kind": "viral",
+  "title": "@Alibaba_Qwen 发 Qwen4 预告：第一句「Qwen4 is coming」只给悬念，后面马上给出当天就能用的四个入口，结尾一句「Show us what you build」邀请大家晒作品，引用破千说明很多人拿它去测、去比。",
+  "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315"
+ },
+ {
+  "id": "2026-11-12-v02",
+  "date": "2026-11-12",
+  "kind": "viral",
+  "title": "@emollick 把 GTA 6 叫「最后一款人类游戏」：把 AI 和几乎人人知道的 GTA 6 绑在一起，再用金字塔做比喻，判断下得很满又有争议，赞同的和反驳的都忍不住回，比单讲 AI 进游戏好传很多。",
+  "url": "https://x.com/emollick/status/2120502534695514279"
  }
 ]
