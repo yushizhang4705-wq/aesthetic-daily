@@ -1,0 +1,591 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-11 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周三，原定细拆口播出镜，但口播拆的是布光和机位，和你「不要拍摄技术分析」的规则冲突，所以换成最能直接复用的代码动画：Kernel & Chai 的发动机拼装（零件一件件落下、剖开点火），和你点过的「爆炸拆解」是同一路。点赞接口这次返回 429，没读到新的赞和踩；评论没有新增。你喜欢 UI 动效、代码动画和带材质的 3D，今天这几类放得多，但每类最多 4 条；知识讲解只留一条 Cleo Abram。",
+ "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、threejs 转发、@cleoabram、@kcinimoDM、@emilkowalski、@rive_app、关键词搜索）、Vimeo Staff Picks、Motionographer、Stash、Codrops、YouTube（Apple、Cleo Abram、Kurzgesagt、Vox、Branch Education、3Blue1Brown、Wendover）",
+ "items": [
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "86 个零件拼出一台四缸发动机（three.js）",
+   "author": "Shubham · Kernel & Chai（@KernelChai）",
+   "date": "X 2026-11-09",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/KernelChai/status/2119852955587465604"
+    ]
+   ],
+   "good": "约 26 秒竖屏：深灰渐变底上，凸轮轴、气门弹簧、活塞、曲轴从上方一件件落下归位，左下角一行等宽小字计数「parts in place 2 / 86」一路跳到 86。装好后切成剖面，剖口描一圈细橙线，点火顺序 1-3-4-2 时缸里亮一下",
+   "borrow": "讲任何「系统由哪些部分组成」都能照搬：零件按顺序落下拼成整体，角落放一个计数器，拼完再切剖面讲原理。标题两行，白字说事、橙字给重点",
+   "embed": "x:2119852955587465604",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "26 秒已下载，抽 12 帧加 32 帧密抽看过",
+     "作者说还没上贴图，材质是纯色金属",
+     "字体未识别（标题无衬线，计数是等宽体）"
+    ]
+   },
+   "id": "2026-11-11-01",
+   "embed_type": "x",
+   "url": "https://x.com/KernelChai/status/2119852955587465604",
+   "cover": "covers/2026-11-11/01.jpg"
+  },
+  {
+   "cat": "UI动效 · 代码动画",
+   "tags": [
+    "UI动效",
+    "代码动画"
+   ],
+   "title": "flip to tip v2（按住按钮抛硬币打赏）",
+   "author": "jhey（@jh3yy）",
+   "date": "X 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2120243978679321060"
+    ]
+   ],
+   "good": "约 22 秒：黑底中间一个蓝色「/tip」按钮，按住后一枚金币从按钮里弹出、翻转、落回去。中段打开调试视图，用一串橙色虚线圆画出硬币的抛物线轨迹，旁边手写体注释「到顶点时离你最近，看起来最大」。作者说没用慢放，全靠缓动让硬币在顶点多停一下",
+   "borrow": "想让一个动作的高光被看清，不用整段慢放，只在最高点用缓动多停几帧。讲动画原理时也可以学它的调试视图：把每一帧的位置画成一串圆",
+   "embed": "x:2120243978679321060",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "22 秒已下载，抽 12 帧看过",
+     "注释字体是手写体，未识别"
+    ]
+   },
+   "id": "2026-11-11-02",
+   "embed_type": "x",
+   "url": "https://x.com/jh3yy/status/2120243978679321060",
+   "cover": "covers/2026-11-11/02.jpg"
+  },
+  {
+   "cat": "UI动效 · 3D质感",
+   "tags": [
+    "UI动效",
+    "3D质感"
+   ],
+   "title": "iCloud+ 云朵循环（Apple，60fps 转发）",
+   "author": "Apple / 60fps（@60fpsdesign）",
+   "date": "X 2026-11-11",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2120378957371711839"
+    ]
+   ],
+   "good": "约 4 秒循环：手机网页里一朵蓝色磨砂玻璃云，照片、文件夹、邮件、头像等小图标从四周飞进云里，云被染成彩色、慢慢糊开，再收回成干净的蓝云。下面只有一行大字「It's peace of mind.」",
+   "borrow": "讲「很多东西汇到一个地方」（比如数据进模型）：一个有厚度的玻璃主体，小图标飞进去被吸收，主体颜色跟着变，最后回到原样，正好做成无缝循环",
+   "embed": "x:2120378957371711839",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "4 秒已下载，抽 12 帧看过",
+     "字体看着像 SF Pro，没核实"
+    ]
+   },
+   "id": "2026-11-11-03",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2120378957371711839",
+   "cover": "covers/2026-11-11/03.jpg"
+  },
+  {
+   "cat": "字体版式 · 片头片尾",
+   "tags": [
+    "字体版式",
+    "片头片尾",
+    "转场"
+   ],
+   "title": "Creative Reference Library（Awwwards 11-10 SOTD）",
+   "author": "@bamojk & Josh Bendall / Awwwards",
+   "date": "X 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2120080108761280880"
+    ],
+    [
+     "Awwwards 页 ↗",
+     "https://www.awwwards.com/sites/creative-reference-library"
+    ]
+   ],
+   "good": "约 6 秒：灰绿底上 C、R、L 三个黑字母从两边往中间收拢，拼成「CRL」后突然旋转放大，冲到镜头前变成几块巨大的黑色字形，直接当成首页的版式骨架，再淡入「CRL® /V.01 (2026)」",
+   "borrow": "片头 logo 收尾：字母先排好，再放大到出画，放大后的字母局部直接当下一页的背景构图，比淡出切换更连贯。只用黑和一种灰绿",
+   "embed": "x:2120080108761280880",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "6 秒已下载，抽 12 帧加 2–4 秒密抽看过",
+     "字体未识别（粗体无衬线）"
+    ]
+   },
+   "id": "2026-11-11-04",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2120080108761280880",
+   "cover": "covers/2026-11-11/04.jpg"
+  },
+  {
+   "cat": "转场 · UI动效",
+   "tags": [
+    "转场",
+    "UI动效"
+   ],
+   "title": "INHERITED – ME, MYSELF & SAM 网站（GSAP SOTD）",
+   "author": "Eder Anaya、Adrien Lamy、Alex Boyd / GSAP",
+   "date": "X 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/greensock/status/2120161947324670056"
+    ],
+    [
+     "网站 ↗",
+     "https://mms.inherited.band"
+    ]
+   ],
+   "good": "约 10 秒：一支死核乐队的 EP 网站，做成暗房里的证据墙。开头一张撕碎的素描肖像，碎片带着毛边飞散又拼回去，留下裂缝。之后一束手电筒光圈扫过墙上钉着的照片，红线连着照片，字很小、留大片黑",
+   "borrow": "做「拼凑真相」的段落：一张图撕成几块再拼回去，裂缝留着不抹掉。暗场里只用一个光圈照当前讲的那张图，别的都压暗",
+   "embed": "x:2120161947324670056",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "10 秒已下载，抽 12 帧加前 3 秒密抽看过",
+     "题材是乐队 EP 的调查叙事（证据墙），画面无血腥",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-11-05",
+   "embed_type": "x",
+   "url": "https://x.com/greensock/status/2120161947324670056",
+   "cover": "covers/2026-11-11/05.jpg"
+  },
+  {
+   "cat": "MG · 3D质感",
+   "tags": [
+    "MG",
+    "3D质感"
+   ],
+   "title": "Google Security 品牌片",
+   "author": "Trizz（巴塞罗那）× Across the Pond / Stash",
+   "date": "Stash 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1245443511"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/trizz-reframes-complexity-for-google-security/"
+    ]
+   ],
+   "good": "约 67 秒：浅灰白的抽象工厂里，一个蓝色十字小零件一路穿过毛毡、纸板、散热片、六边形地砖搭成的机关，镜头跟着它走。材质都很实，毛绒、瓦楞、金属都分得清。结尾白底「Safer with Google」",
+   "borrow": "讲看不见的系统（安全、网络、算法）时：选一个颜色最跳的小物件当主角，背景全用低饱和的实物材质，观众只要跟着这个颜色走就不会迷路",
+   "embed": "https://player.vimeo.com/video/1245443511",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "67 秒已下载，抽 12 帧看过",
+     "中段元素偏多，没前后两段克制"
+    ]
+   },
+   "id": "2026-11-11-06",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1245443511",
+   "cover": "covers/2026-11-11/06.jpg"
+  },
+  {
+   "cat": "字体版式 · 代码动画",
+   "tags": [
+    "字体版式",
+    "代码动画"
+   ],
+   "title": "Do not scroll（逐词滚动的动态字教程）",
+   "author": "Antoine Wodniack（@AntoineW）/ Codrops",
+   "date": "X 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2120089205338423328"
+    ],
+    [
+     "教程 ↗",
+     "https://tympanus.net/codrops/2026/11/10/kinetic-typography-gsap/"
+    ]
+   ],
+   "good": "约 5 秒：深紫底上一次只出一个词，「Do」「NOT」「SCROLL」，每个词带着橙粉紫的叠影拖尾滑进来，节奏像念出来一样。最后 SCROLL 的字母被一个个抛起、散落再收回",
+   "borrow": "竖屏金句可以这样：一次一个词，按说话的节奏出，最后一个词的字母抛散收尾。GSAP 教程附代码，Remotion 里用 spring 加错帧也能做",
+   "embed": "x:2120089205338423328",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "5 秒已下载，抽 12 帧看过",
+     "拖尾是三色叠影，不是发光",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-11-07",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2120089205338423328",
+   "cover": "covers/2026-11-11/07.jpg"
+  },
+  {
+   "cat": "剪辑节奏 · 实拍剪辑",
+   "tags": [
+    "剪辑节奏",
+    "实拍剪辑"
+   ],
+   "title": "Apple Pay 广告「The fast, easy, and secure way to pay」",
+   "author": "Apple",
+   "date": "YouTube 2026-11-09",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/watch?v=miUjxZ2ASRs"
+    ],
+    [
+     "X 转发 ↗",
+     "https://x.com/ilyamiskov/status/2120279007547846668"
+    ]
+   ],
+   "good": "65 秒的便利店动作喜剧：主角被一群人追着抢东西，镜头贴着人甩，切得很密（场景检测约 47 个切点，最快不到半秒一刀）。但每到手机付款那一下都给一个干净的特写停住，商品图和卡面看得清",
+   "borrow": "实测视频的节奏可以这样排：前面怎么快都行，到关键操作那一下必须给一个静止特写，让观众看清，然后再接着快",
+   "embed": "https://www.youtube-nocookie.com/embed/miUjxZ2ASRs",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "65 秒已下载，抽 12 帧看过",
+     "切点是 ffmpeg 场景检测估的，没听声音"
+    ]
+   },
+   "id": "2026-11-11-08",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=miUjxZ2ASRs",
+   "cover": "covers/2026-11-11/08.jpg"
+  },
+  {
+   "cat": "知识讲解 · 3D质感",
+   "tags": [
+    "知识讲解",
+    "3D质感"
+   ],
+   "title": "They might drill into King Tut's tomb…",
+   "author": "Cleo Abram",
+   "date": "X 2026-11-10",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/cleoabram/status/2120244182904090783"
+    ]
+   ],
+   "good": "约 52 秒竖屏：米色纸面上一个立体的图坦卡蒙墓剖面模型，斜俯视，墙体有厚度和投影。荧光黄绿的箭头、编号和标签直接写在模型上，中间穿插雷达示意、地层剖面和 Cleo 出镜",
+   "borrow": "讲结构或位置时：做一个斜俯视的立体剖面当「主场景」，每讲一点就回到它，只用一种荧光色标注。和你点过赞的地球箭头是同一套",
+   "embed": "x:2120244182904090783",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "52 秒已下载，抽 12 帧看过",
+     "中间有一段把文字打码的过渡"
+    ]
+   },
+   "id": "2026-11-11-09",
+   "embed_type": "x",
+   "url": "https://x.com/cleoabram/status/2120244182904090783",
+   "cover": "covers/2026-11-11/09.jpg"
+  },
+  {
+   "cat": "转场 · UI动效",
+   "tags": [
+    "转场",
+    "UI动效"
+   ],
+   "title": "Justin Jefferson 官网（Awwwards 11-07 SOTD）",
+   "author": "Cam Duncalfe（@camduncalfe）/ Awwwards",
+   "date": "X 2026-11-07",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2118992611306332176"
+    ],
+    [
+     "Awwwards 页 ↗",
+     "https://www.awwwards.com/sites/justin-jefferson"
+    ]
+   ],
+   "good": "约 10 秒：深紫底上一个白色 logo，一道斜切把画面劈开，后面是球员背影走进灯光隧道的实拍，接两个球场镜头。最后停在浅灰底的人物肖像，旁边签名一笔笔写出来，背景是半透明的大字",
+   "borrow": "开场从 logo 到实拍：用一道斜切直接劈开，比淡入干脆。收尾放一个「签名书写」的动画，适合放作者署名或口号",
+   "embed": "x:2118992611306332176",
+   "media": {
+    "ratio": "w",
+    "notes": [
+     "10 秒已下载，抽 12 帧加前 4.5 秒密抽看过",
+     "发布 4 天，在 7 天内",
+     "字体未识别"
+    ]
+   },
+   "id": "2026-11-11-10",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2118992611306332176",
+   "cover": "covers/2026-11-11/10.jpg"
+  }
+ ],
+ "cut_title": "剔除（21 条，其中 2 条没下载到）",
+ "cut": [
+  {
+   "title": "Sand Racer Physics（沙漠越野车）",
+   "author": "invalid_degen（threejs 转发）",
+   "link": "https://x.com/invalid_degen/status/2120229958505074967",
+   "why": "游戏试玩录屏，不是视频手法",
+   "cover": "covers/2026-11-11/cut-01.jpg"
+  },
+  {
+   "title": "2D plants, 3D perspective",
+   "author": "Rive",
+   "link": "https://x.com/rive_app/status/2120231829324300673",
+   "why": "游戏场景加软件教程，画面暗而杂",
+   "cover": "covers/2026-11-11/cut-02.jpg"
+  },
+  {
+   "title": "Floxy 后台改版",
+   "author": "Dominik Mészáros（@kcinimoDM）",
+   "link": "https://x.com/kcinimoDM/status/2120175181532692639",
+   "why": "扁平后台截图平移，没有动效可学",
+   "cover": "covers/2026-11-11/cut-03.jpg"
+  },
+  {
+   "title": "dimension9.space",
+   "author": "apekshik（threejs 转发）",
+   "link": "https://x.com/apekshik/status/2118847014071120179",
+   "why": "后室风格游戏漫游，第一人称录屏",
+   "cover": "covers/2026-11-11/cut-04.jpg"
+  },
+  {
+   "title": "Viper One One 战役预告",
+   "author": "apekshik（threejs 转发）",
+   "link": "https://x.com/apekshik/status/2118853184827318341",
+   "why": "标题卡衬线字不错，但主体是战机空战游戏，军事题材",
+   "cover": "covers/2026-11-11/cut-05.jpg"
+  },
+  {
+   "title": "Halcyon Fleet",
+   "author": "kerstov（threejs 转发）",
+   "link": "https://x.com/kerstov/status/2118450433207185578",
+   "why": "科幻飞船舰队加彩色调试视图，偏技术炫技",
+   "cover": "covers/2026-11-11/cut-06.jpg"
+  },
+  {
+   "title": "雨夜赛车",
+   "author": "trbdrk（threejs 转发）",
+   "link": "https://x.com/trbdrk/status/2119839282667893167",
+   "why": "赛车游戏录屏",
+   "cover": "covers/2026-11-11/cut-07.jpg"
+  },
+  {
+   "title": "Arrivo 医疗落地页",
+   "author": "Dominik Mészáros（@kcinimoDM）",
+   "link": "https://x.com/kcinimoDM/status/2119801713196765305",
+   "why": "拱门日出配色好看，但它本身就是免费 Framer 模板，模板感重",
+   "cover": "covers/2026-11-11/cut-08.jpg"
+  },
+  {
+   "title": "Cuphead 风片头",
+   "author": "Robeanio2",
+   "link": "https://x.com/Robeanio2/status/2119590053110505735",
+   "why": "复古卡通字卡，粗糙",
+   "cover": "covers/2026-11-11/cut-09.jpg"
+  },
+  {
+   "title": "蜘蛛侠漫画风混剪",
+   "author": "mascatlab",
+   "link": "https://x.com/mascatlab/status/2120182154210554043",
+   "why": "影视二创混剪，不是原作",
+   "cover": "covers/2026-11-11/cut-10.jpg"
+  },
+  {
+   "title": "AI skills docs",
+   "author": "Emil Kowalski",
+   "link": "https://x.com/emilkowalski/status/2120149755967770819",
+   "why": "AI 编程技能文档推广，画面是灰色前后对比",
+   "cover": "covers/2026-11-11/cut-11.jpg"
+  },
+  {
+   "title": "Painterly Cafe",
+   "author": "plantpot_studio",
+   "link": "https://x.com/plantpot_studio/status/2119948674214318346",
+   "why": "水彩质感小镇，偏可爱插画，构图平",
+   "cover": "covers/2026-11-11/cut-12.jpg"
+  },
+  {
+   "title": "Tira le Chat 纹身师网站",
+   "author": "Daniel Kiss / GSAP",
+   "link": "https://x.com/greensock/status/2119766909281505557",
+   "why": "拼贴、贴纸、粉色堆满，不克制",
+   "cover": "covers/2026-11-11/cut-13.jpg"
+  },
+  {
+   "title": "ServiceNow AI Platform",
+   "author": "NotReal / Motionographer",
+   "link": "https://motionographer.com/quickie/servicenow-ai-platform-notreal/",
+   "why": "AI 产品广告，绿紫渐变和玻璃星星堆满",
+   "cover": "covers/2026-11-11/cut-14.jpg"
+  },
+  {
+   "title": "Balming Tiger「Janjan」MV",
+   "author": "Balming Tiger（Vimeo Staff Pick）",
+   "link": "https://vimeo.com/1210405418",
+   "why": "迷幻色彩的怪物定格，太花",
+   "cover": "covers/2026-11-11/cut-15.jpg"
+  },
+  {
+   "title": "PARADAÏZ",
+   "author": "NFB（Vimeo Staff Pick）",
+   "link": "https://vimeo.com/1242836280",
+   "why": "扁平手绘叙事短片，没有立体感",
+   "cover": "covers/2026-11-11/cut-16.jpg"
+  },
+  {
+   "title": "Created live on Mac:「Surrender」",
+   "author": "Apple",
+   "link": "https://www.youtube.com/watch?v=YaPx9scLwfk",
+   "why": "现场录音实拍，30 秒只有 7 个切点，没什么剪辑可学",
+   "cover": "covers/2026-11-11/cut-17.jpg"
+  },
+  {
+   "title": "Lofsöng and the Language That Outlives Us",
+   "author": "Motionographer",
+   "link": "https://motionographer.com/2026/11/10/lofsong-and-the-language-that-outlives-us/",
+   "why": "YouTube 下载被机器人验证拦了，没看到画面，不写",
+   "cover": "covers/2026-11-11/cut-18.jpg"
+  },
+  {
+   "title": "What Actually Happens When You Die?",
+   "author": "Kurzgesagt",
+   "link": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+   "why": "下载卡在 27 秒，停掉了；长篇知识讲解，今天讲解位已有 Cleo",
+   "cover": "covers/2026-11-11/cut-19.jpg"
+  },
+  {
+   "title": "Motion study（复刻 OEMcare logo 动画）",
+   "author": "odkotooi",
+   "link": "https://x.com/odkotooi/status/2120376348095226272",
+   "why": "4 秒，两个白点炸开拼成点阵字再收回，干净但完全扁平，而且是复刻别家的 logo 动画",
+   "cover": "covers/2026-11-11/cut-20.jpg"
+  },
+  {
+   "title": "ViV（Awwwards 11-06 SOTD）",
+   "author": "@lundqvistdallyn / Awwwards",
+   "link": "https://x.com/awwwards/status/2118630399693766679",
+   "why": "2.5 秒的照片网格换图，信息太少，已发布 5 天",
+   "cover": "covers/2026-11-11/cut-21.jpg"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 代码动画（替换原定的口播出镜）",
+  "toc": "细拆：Kernel & Chai 发动机拼装",
+  "title": "零件一件件落下：用计数器和剖面把「一个系统」讲清楚",
+  "flag": "【看过视频】完整看过 26.3 秒（含配乐）",
+  "lede": "Kernel & Chai 第一次用 three.js 做的发动机：86 个零件从上方落下拼成四缸机，然后剖开点火。整片不切镜头，只有一个机位慢慢绕和两次推拉，背景一片深灰，信息全靠零件归位的顺序、一个计数器和两行字。作者说还没上贴图，下一步才去 Blender 调金属和灯光。",
+  "links": [
+   [
+    "看原帖 ↗",
+    "https://x.com/KernelChai/status/2119852955587465604"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（完整看过，秒数是大约值）",
+    "ul": [
+     "0–11 秒 拼装：零件从上方竖着落下，越过一点再弹回到位，每秒大约落 7、8 件，好几件同时在空中；标题「A car engine, / piece by piece.」和左下角计数「parts in place N / 86」（数字是橙色）一直在",
+     "11–16 秒 运转：计数到 86 的那一刻标题和计数器一起消失，正面外壳直接去掉变成剖面，切口描橙线；「Then it runs. / Firing order 1-3-4-2.」，缸里蓝色进气、橙色点火、灰色排气",
+     "16–22 秒 特写：镜头快速钻进一个气缸，停住后出「Spark, flame, / then the exhaust.」，左气门进蓝色颗粒，火花塞白闪一下变橙色火焰，右气门把烟排走",
+     "22–26 秒 收尾：镜头快速拉回同一个斜侧全景，出「2 crank turns. / Every cylinder fires once.」，发动机继续转着结束",
+     "底部一行小灰字署名全程不动"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "拼装段 11 秒占了快一半，零件密集落下，配乐是一串很快的拨弦合成器音，基本一件一个音；计数到 86 时重低音和鼓点进来，画面同时剖开开始运转，音乐换挡和画面换段在同一帧",
+     "后面三段每段 5、6 秒，节奏一样：镜头先动、停稳后约 1 秒再出字，字留到下一次镜头动之前"
+    ]
+   },
+   {
+    "h": "转场",
+    "ul": [
+     "整片不切镜头，同一个模型换状态：散件 → 拼好 → 剖面 → 气缸特写 → 全景",
+     "拼装时镜头一直慢慢向右绕、略往下压，停在斜侧角度；之后两次转场都是镜头快速推进和拉回，回到的是同一个机位",
+     "文字全是硬切，没有淡入淡出；标题总在镜头运动时消失、停稳后出现"
+    ]
+   },
+   {
+    "h": "颜色和字体（抽帧取色，近似值）",
+    "chips": [
+     [
+      "#45464A",
+      "背景上部"
+     ],
+     [
+      "#111113",
+      "背景底部"
+     ],
+     [
+      "#D89840",
+      "强调橙（第二行字、剖口描线）"
+     ],
+     [
+      "#F2F2F2",
+      "标题白字、金属高光"
+     ]
+    ],
+    "after": "标题是无衬线体，计数和署名是等宽体，具体都未识别。"
+   },
+   {
+    "h": "立体感从哪来",
+    "ul": [
+     "上亮下暗的竖向渐变背景，零件下方有一块柔和的接触阴影",
+     "零件是纯色金属材质（作者说没贴图），靠环境反射出白色高光，曲轴和弹簧的圆弧最明显",
+     "剖面：外壳切开一半，切口描一圈细橙线，里外层次一下分开",
+     "点火时只在燃烧室里放一个橙色点光，周围零件被照亮一圈"
+    ]
+   },
+   {
+    "h": "在 Three.js / Remotion 里怎么做（我的做法建议）",
+    "ol": [
+     "模型按装配顺序给每个零件编号，存一份「终点位置」和一个「起始高度」",
+     "Remotion 里每个零件 `delay = i * 间隔`，用 `spring({frame: frame - delay, config: {damping: 20}})` 从起始高度落到终点；计数器就是已经落完的零件数",
+     "背景用竖向渐变平面，地面放一张 ShadowMaterial 或烘焙好的接触阴影贴图",
+     "材质用 MeshStandardMaterial，metalness 0.9、roughness 0.3 左右，配一张 HDRI 环境贴图出高光",
+     "剖面用 `material.clippingPlanes` 切开外壳，切口的橙线可以另外画一圈 Line 或用 stencil 填色",
+     "点火：每个缸里放一个 PointLight，按 1-3-4-2 顺序把强度从 0 拉起再落下",
+     "镜头可以先固定，只做一点缓慢推近，别转来转去"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "讲 AI 产品或模型结构时，比如「一个大模型由哪几块组成」：每一块做成一个立体模块，按顺序落下拼成整体，角落计数「模块 3 / 7」，拼完剖开，用一个橙色亮点沿着数据流动的顺序走一遍。",
+     "它就是你评论过的「爆炸拆解可以参考」那一路，反过来做（从散件拼成整体），而且只用一种强调色，比 jhey 的拼图更克制。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-11",
+ "kind": "daily",
+ "slug": "2026-11-11"
+}

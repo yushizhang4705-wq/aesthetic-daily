@@ -2603,5 +2603,156 @@
    "实拍剪辑"
   ],
   "cat": "剪辑节奏 · 实拍剪辑"
+ },
+ {
+  "id": "2026-11-11-01",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i1",
+  "title": "86 个零件拼出一台四缸发动机（three.js）",
+  "author": "Shubham · Kernel & Chai（@KernelChai）",
+  "url": "https://x.com/KernelChai/status/2119852955587465604",
+  "embed": "x:2119852955587465604",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-11-02",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i2",
+  "title": "flip to tip v2（按住按钮抛硬币打赏）",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2120243978679321060",
+  "embed": "x:2120243978679321060",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-11-03",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i3",
+  "title": "iCloud+ 云朵循环（Apple，60fps 转发）",
+  "author": "Apple / 60fps（@60fpsdesign）",
+  "url": "https://x.com/60fpsdesign/status/2120378957371711839",
+  "embed": "x:2120378957371711839",
+  "tags": [
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-11-04",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i4",
+  "title": "Creative Reference Library（Awwwards 11-10 SOTD）",
+  "author": "@bamojk & Josh Bendall / Awwwards",
+  "url": "https://x.com/awwwards/status/2120080108761280880",
+  "embed": "x:2120080108761280880",
+  "tags": [
+   "字体版式",
+   "片头片尾",
+   "转场"
+  ],
+  "cat": "字体版式 · 片头片尾"
+ },
+ {
+  "id": "2026-11-11-05",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i5",
+  "title": "INHERITED – ME, MYSELF & SAM 网站（GSAP SOTD）",
+  "author": "Eder Anaya、Adrien Lamy、Alex Boyd / GSAP",
+  "url": "https://x.com/greensock/status/2120161947324670056",
+  "embed": "x:2120161947324670056",
+  "tags": [
+   "转场",
+   "UI动效"
+  ],
+  "cat": "转场 · UI动效"
+ },
+ {
+  "id": "2026-11-11-06",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i6",
+  "title": "Google Security 品牌片",
+  "author": "Trizz（巴塞罗那）× Across the Pond / Stash",
+  "url": "https://vimeo.com/1245443511",
+  "embed": "https://player.vimeo.com/video/1245443511",
+  "tags": [
+   "MG",
+   "3D质感"
+  ],
+  "cat": "MG · 3D质感"
+ },
+ {
+  "id": "2026-11-11-07",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i7",
+  "title": "Do not scroll（逐词滚动的动态字教程）",
+  "author": "Antoine Wodniack（@AntoineW）/ Codrops",
+  "url": "https://x.com/codrops/status/2120089205338423328",
+  "embed": "x:2120089205338423328",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-11-08",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i8",
+  "title": "Apple Pay 广告「The fast, easy, and secure way to pay」",
+  "author": "Apple",
+  "url": "https://www.youtube.com/watch?v=miUjxZ2ASRs",
+  "embed": "https://www.youtube-nocookie.com/embed/miUjxZ2ASRs",
+  "tags": [
+   "剪辑节奏",
+   "实拍剪辑"
+  ],
+  "cat": "剪辑节奏 · 实拍剪辑"
+ },
+ {
+  "id": "2026-11-11-09",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i9",
+  "title": "They might drill into King Tut's tomb…",
+  "author": "Cleo Abram",
+  "url": "https://x.com/cleoabram/status/2120244182904090783",
+  "embed": "x:2120244182904090783",
+  "tags": [
+   "知识讲解",
+   "3D质感"
+  ],
+  "cat": "知识讲解 · 3D质感"
+ },
+ {
+  "id": "2026-11-11-10",
+  "date": "2026-11-11",
+  "kind": "daily",
+  "report": "reports/2026-11-11.html#i10",
+  "title": "Justin Jefferson 官网（Awwwards 11-07 SOTD）",
+  "author": "Cam Duncalfe（@camduncalfe）/ Awwwards",
+  "url": "https://x.com/awwwards/status/2118992611306332176",
+  "embed": "x:2118992611306332176",
+  "tags": [
+   "转场",
+   "UI动效"
+  ],
+  "cat": "转场 · UI动效"
  }
 ]
