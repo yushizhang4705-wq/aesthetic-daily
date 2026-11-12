@@ -2754,5 +2754,159 @@
    "UI动效"
   ],
   "cat": "转场 · UI动效"
+ },
+ {
+  "id": "2026-11-12-01",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i1",
+  "title": "Beauty in Sequence（60 部电影拼成一分钟，补课 2025）",
+  "author": "Nikita Didenko / Tak Ostro",
+  "url": "https://www.youtube.com/watch?v=zc2FmxxT-a4",
+  "embed": "https://www.youtube-nocookie.com/embed/zc2FmxxT-a4",
+  "tags": [
+   "剪辑节奏",
+   "转场"
+  ],
+  "cat": "剪辑节奏 · 转场"
+ },
+ {
+  "id": "2026-11-12-02",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i2",
+  "title": "Loading states don't have to be boring（粒子拼出银行卡）",
+  "author": "Vedant Lad（@Vedantdzn），60fps 转发",
+  "url": "https://x.com/Vedantdzn/status/2120222960397275621",
+  "embed": "x:2120222960397275621",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-12-03",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i3",
+  "title": "Astrantia 花开（Houdini 习作）",
+  "author": "Glendon Chua（新加坡），Houdini School 转发",
+  "url": "https://x.com/HoudiniSchool/status/2119837427061907673",
+  "embed": "x:2119837427061907673",
+  "tags": [
+   "3D质感",
+   "MG"
+  ],
+  "cat": "3D质感 · MG"
+ },
+ {
+  "id": "2026-11-12-04",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i4",
+  "title": "Lake Sessions（切片字海报动效）",
+  "author": "WrongNebula（@WrongNebula）",
+  "url": "https://x.com/WrongNebula/status/2119781400845205970",
+  "embed": "x:2119781400845205970",
+  "tags": [
+   "字体版式",
+   "MG"
+  ],
+  "cat": "字体版式 · MG"
+ },
+ {
+  "id": "2026-11-12-05",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i5",
+  "title": "Butter 官网（GSAP 本周最佳网站）",
+  "author": "ToyFight（@toy_fight）/ GSAP",
+  "url": "https://x.com/greensock/status/2120510075433595358",
+  "embed": "x:2120510075433595358",
+  "tags": [
+   "转场",
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "转场 · UI动效"
+ },
+ {
+  "id": "2026-11-12-06",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i6",
+  "title": "浏览器里的雨林星球（three.js）",
+  "author": "Karim Beyrouti（@KarimBeyrouti），threejs 转发",
+  "url": "https://x.com/KarimBeyrouti/status/2120580114303906043",
+  "embed": "x:2120580114303906043",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-12-07",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i7",
+  "title": "雨夜高速 26 秒（全部用代码做）",
+  "author": "SF Create（@sfc43588），threejs 转发",
+  "url": "https://x.com/sfc43588/status/2120698094027235776",
+  "embed": "x:2120698094027235776",
+  "tags": [
+   "代码动画",
+   "剪辑节奏",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 剪辑节奏"
+ },
+ {
+  "id": "2026-11-12-08",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i8",
+  "title": "Down the Rabbit Hole 2026 音乐节动态视觉",
+  "author": "Merijn Hos（艺术指导）/ Stash",
+  "url": "https://vimeo.com/1242433619",
+  "embed": "https://player.vimeo.com/video/1242433619",
+  "tags": [
+   "片头片尾",
+   "字体版式",
+   "3D质感"
+  ],
+  "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-11-12-09",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i9",
+  "title": "Netflix 广告：鱼缸里的美西螈",
+  "author": "导演 Vania & Muggia（Iconoclast）· Mother London · 特效 ETC",
+  "url": "https://vimeo.com/1245792412",
+  "embed": "https://player.vimeo.com/video/1245792412",
+  "tags": [
+   "实拍剪辑",
+   "剪辑节奏"
+  ],
+  "cat": "实拍剪辑 · 自由位"
+ },
+ {
+  "id": "2026-11-12-10",
+  "date": "2026-11-12",
+  "kind": "daily",
+  "report": "reports/2026-11-12.html#i10",
+  "title": "FITC Toronto 2026 开场片头（补课 2026-04）",
+  "author": "Escafandra（Julieta Tobon、Luis Mejia）/ Stash",
+  "url": "https://vimeo.com/1186749984",
+  "embed": "https://player.vimeo.com/video/1186749984",
+  "tags": [
+   "片头片尾",
+   "字体版式",
+   "MG"
+  ],
+  "cat": "片头片尾 · 字体版式"
  }
 ]
