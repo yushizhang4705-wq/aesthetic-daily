@@ -747,5 +747,89 @@
   "kind": "viral",
   "title": "@emollick 把 GTA 6 叫「最后一款人类游戏」：把 AI 和几乎人人知道的 GTA 6 绑在一起，再用金字塔做比喻，判断下得很满又有争议，赞同的和反驳的都忍不住回，比单讲 AI 进游戏好传很多。",
   "url": "https://x.com/emollick/status/2120502534695514279"
+ },
+ {
+  "id": "2026-11-13-01",
+  "date": "2026-11-13",
+  "kind": "item",
+  "title": "Anthropic 11 月 12 日开始灰度 Claude Meetings（测试版）：在 Claude 里连上 Google 日历，选一场 Google Meet 会议点「Add Claude」，Claude 会作为一个看得见的参会者进会，记笔记、在会议聊天里回答问题，有人说「Claude, make a doc」就当场做文档、白板、幻灯片，散会后自动发纪要邮件，会议页里有转写、聊天和它做的所有东西。目前只给 Team 和 Enterprise 版，只支持 Google Meet，其他会议平台官方说「即将支持」；它只存文字转写和摘要，不存录音；默认不进有外部嘉宾的会，外人中途加入就自动离开（管理员可放开）；用会议里某人连接的工具（比如发 Slack 消息）要先经过那个人同意。以上功能说明 Claude 帮助中心已核对；有第三方报道说测试期内笔记、转写和会内回答不额外收费，会中做的文档白板免费到 2027 年 2 月 10 日（官方页没核到，待证）。",
+  "url": "https://x.com/claudeai/status/2120973994191094179"
+ },
+ {
+  "id": "2026-11-13-02",
+  "date": "2026-11-13",
+  "kind": "item",
+  "title": "Google 11 月 12 日发布 Gemini 4 Hydrogen，定位是 Gemini 4 家族里又快又便宜、给所有人日常用的模型：Gemini app 的模型下拉菜单里可以选，免费用户在「自动选模型」时会用到，谷歌搜索所有用户也在用；官方说任务完成速度是上一代 3.8 Flash 的 2.5 倍，在第三方机构 Artificial Analysis 的智力指数上默认档 51 分，略高于自家 Gemini 4 Argon 的 50 分（Google 官方博客已核对）。开发者 API 每百万输入 token 1.5 美元、输出 7.5 美元（Google AI Studio 定价页已核对）。有第三方报道说 Gemini app 的免费用户暂时还用不上，和官方说法不一致，以官方为准（待证）。",
+  "url": "https://x.com/GeminiApp/status/2120940601319260164"
+ },
+ {
+  "id": "2026-11-13-03",
+  "date": "2026-11-13",
+  "kind": "item",
+  "title": "Google 11 月 12 日开放 Gemini 智能眼镜预订：和 Warby Parker、Gentle Monster、三星合作，戴着说「Hey Gemini」就能问眼前看到的东西、实时翻译、跟着 Google 地图导航、查日程、拍照听歌，手机可以一直放兜里。Warby Parker 款 395 美元起，Gentle Monster 款 449 到 489 美元，12 月 10 日到店开卖；约 41 克，续航最长 9 小时，充电盒能再充 7 次，1200 万像素摄像头拍摄时有 LED 灯提示周围人（Google 官方博客、三星官网已核对）。目前只支持美国和韩国的 Google 账号，要 18 岁以上，配 Pixel 7 及以上、部分三星手机或 iPhone 13 Pro 及以上。",
+  "url": "https://x.com/GeminiApp/status/2120901953505177996"
+ },
+ {
+  "id": "2026-11-13-04",
+  "date": "2026-11-13",
+  "kind": "item",
+  "title": "Anthropic 11 月 12 日在 X 上发了首次公开募股（IPO）的官方页面：计划在纳斯达克挂牌，代码 ANT，发行 8.25 亿股 A 类普通股，每股预计 70 到 78 美元，11 月 10 日已开始路演；注册文件已提交美国证监会但还没生效，生效前不能买（Anthropic 官网公告、美国证监会文件已核对）。具体定价和开始交易的日期官方页面以外的说法待证。",
+  "url": "https://x.com/AnthropicAI/status/2120841731302154708"
+ },
+ {
+  "id": "2026-11-13-g01",
+  "date": "2026-11-13",
+  "kind": "infogap",
+  "title": "老师讲一遍课，AI 就做出给学生玩的模拟练习",
+  "url": "https://x.com/emollick/status/2121001056637431873"
+ },
+ {
+  "id": "2026-11-13-g02",
+  "date": "2026-11-13",
+  "kind": "infogap",
+  "title": "让 AI 大模型亲手操作机械臂考试：倒饮料、量盒子、写 hello world",
+  "url": "https://x.com/ArtificialAnlys/status/2120698177016005029"
+ },
+ {
+  "id": "2026-11-13-r01",
+  "date": "2026-11-13",
+  "kind": "reply",
+  "title": "@claudeai Claude Meetings：浏览 200 万的官方帖，替不用 Google Meet 的大多数人问平台和中文支持。",
+  "url": "https://x.com/claudeai/status/2120973994191094179"
+ },
+ {
+  "id": "2026-11-13-r02",
+  "date": "2026-11-13",
+  "kind": "reply",
+  "title": "@OfficialLoganK 发布 Gemini 4 Hydrogen：Google AI Studio 负责人 Logan 的发布帖，从普通用户的角度问一个实际问题。",
+  "url": "https://x.com/OfficialLoganK/status/2120940951292268640"
+ },
+ {
+  "id": "2026-11-13-r03",
+  "date": "2026-11-13",
+  "kind": "reply",
+  "title": "@GeminiApp 智能眼镜预订：回复不多容易被看到，问的是大家最关心的隐私问题。",
+  "url": "https://x.com/GeminiApp/status/2120901953505177996"
+ },
+ {
+  "id": "2026-11-13-r04",
+  "date": "2026-11-13",
+  "kind": "reply",
+  "title": "@emollick 发布 Primer：刚发不久回复少，教育方向和主号科普定位贴合。",
+  "url": "https://x.com/emollick/status/2121001056637431873"
+ },
+ {
+  "id": "2026-11-13-v01",
+  "date": "2026-11-13",
+  "kind": "viral",
+  "title": "@claudeai 发 Claude Meetings：一句话说清「把 Claude 拉进视频会议，你们还在聊它就把文档白板做出来了」，配演示视频，几乎人人开会都有这个痛点，收藏 9000 说明很多人想留着以后用。",
+  "url": "https://x.com/claudeai/status/2120973994191094179"
+ },
+ {
+  "id": "2026-11-13-v02",
+  "date": "2026-11-13",
+  "kind": "viral",
+  "title": "@op7418 用 Fable 5.2 一下午做 3D 动作游戏：「我去！」开头加一串具体数字（一下午、45 亿 token、30 兆的 HTML 文件），附上能直接点开玩的链接，读者看完就能自己去验证，回复里很多人在聊花了多少钱。",
+  "url": "https://x.com/op7418/status/2120694045299327187"
  }
 ]
