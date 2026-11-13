@@ -831,5 +831,96 @@
   "kind": "viral",
   "title": "@op7418 用 Fable 5.2 一下午做 3D 动作游戏：「我去！」开头加一串具体数字（一下午、45 亿 token、30 兆的 HTML 文件），附上能直接点开玩的链接，读者看完就能自己去验证，回复里很多人在聊花了多少钱。",
   "url": "https://x.com/op7418/status/2120694045299327187"
+ },
+ {
+  "id": "2026-11-14-01",
+  "date": "2026-11-14",
+  "kind": "item",
+  "title": "OpenAI 11 月 13 日上线 ChatGPT Wallet：美国的 ChatGPT Pro 用户（须满 18 岁）可以让自己的 Dot 助手完成下单，每笔都要先核对商品、金额和所用卡，再用面容或指纹确认；支付网络会发一个替代卡号，真卡号不会交给商家和这个助手，原卡的积分和符合条件的争议保护还在。官方博客写明与 American Express、Mastercard、Visa 合作，帮助中心还写了符合条件的美国发行 Chase 卡（须是主卡持卡人）也可以绑定；目前只在 Dot 对话里可用，Chat、Work 和单独的 Codex 线程里不能用。官方说以后可能允许按金额、类别或时间预先授权，目前还做不到。以上 OpenAI 官方博客和帮助中心已核对。",
+  "url": "https://x.com/ChatGPT/status/2121283151729496235"
+ },
+ {
+  "id": "2026-11-14-02",
+  "date": "2026-11-14",
+  "kind": "item",
+  "title": "DeepSeek 11 月 13 日宣布，自家 App 里的能力可通过 API 调用：在 V4.1-Flash（deepseek-flash）上用几项参数打开网页搜索、深度思考搜索、文件解析（PDF、Office、图片等）、链接读取和安全检查，也可以单独调用搜索、抓取、OCR、语音识别和语音合成。官方还开源了前端演示，支持导入 DeepSeek 聊天记录。面向公众的应用必须打开安全检查，开发者仍要自己做内容审核、模型备案和 AI 生成内容标识；这些扩展能力会在模型 token 费用之外另收工具使用费。以上 DeepSeek API 文档（news261113）已核对。",
+  "url": "https://x.com/deepseek_ai/status/2121247896918253875"
+ },
+ {
+  "id": "2026-11-14-03",
+  "date": "2026-11-14",
+  "kind": "item",
+  "title": "Suno 11 月 13 日发布 Bridge 测试版：这是一个独立的 Mac 应用，和 Ableton Live 12 同时打开后，会把你选中的工程上传到 Suno 账号，再按曲子的调、速度和律动生成乐器或人声音轨，直接放到时间线上。应用本身免费下载，但要用必须开 Suno Premier，生成会扣积分，和在 Suno Studio 里创作一样。目前只支持 Mac 上的 Ableton Live 12 或更高版本，官方说以后会扩展到更多系统和宿主，但没给时间。官方说明上传的音频会过版权过滤，被识别为权利人作品的文件不会入库；Bridge 是 Suno 自己做的，不是 Ableton 官方集成。以上 Suno 官方博客和 Bridge 页面已核对。",
+  "url": "https://x.com/suno/status/2121244247147880770"
+ },
+ {
+  "id": "2026-11-14-04",
+  "date": "2026-11-14",
+  "kind": "item",
+  "title": "@ClaudeDevs 11 月 13 日说 Claude Code 的 Projects 有较大更新：项目里由一个协调助手分配并行线程，这个协调助手现在会更主动地在项目聊天里回答问题，并汇报正在进行的线程进展。官方文档写明 Projects 目前是公开测试，面向 Pro、Max 和 Ultra，逐步开放，还没向 Team 和企业版提供；线程多半在云端跑，也可以通过 Remote Control 让某个线程在用户自己的电脑上跑（在用户授权下访问该任务所需的本地环境），云端线程合上笔记本电脑也会继续。这不是 9 月那次 Projects 重做的重复发布，而是官方今天公布的协调助手更新。Claude Code 文档已核对。",
+  "url": "https://x.com/ClaudeDevs/status/2121375309287301360"
+ },
+ {
+  "id": "2026-11-14-g01",
+  "date": "2026-11-14",
+  "kind": "infogap",
+  "title": "AI 可以帮你下单，但每笔都要你按一下指纹",
+  "url": "https://x.com/ChatGPT/status/2121283151729496235"
+ },
+ {
+  "id": "2026-11-14-g02",
+  "date": "2026-11-14",
+  "kind": "infogap",
+  "title": "AI 做的旋律，直接进你正在用的编曲软件",
+  "url": "https://x.com/suno/status/2121244247147880770"
+ },
+ {
+  "id": "2026-11-14-r01",
+  "date": "2026-11-14",
+  "kind": "reply",
+  "title": "@thsottiaux 问 Codex 怎么改进：产品负责人亲自要意见，浏览近 200 万、回复过万，用一个具体卡点回复，比空泛夸一句更容易被看到。",
+  "url": "https://x.com/thsottiaux/status/2121062974161092792"
+ },
+ {
+  "id": "2026-11-14-r02",
+  "date": "2026-11-14",
+  "kind": "reply",
+  "title": "@OfficialLoganK 问接下来做什么：Google AI Studio 负责人在征求下一步，适合从不会写代码的人怎么用这些小工具来提一个具体需求。",
+  "url": "https://x.com/OfficialLoganK/status/2121115028447531353"
+ },
+ {
+  "id": "2026-11-14-r03",
+  "date": "2026-11-14",
+  "kind": "reply",
+  "title": "@ChatGPT 发布 ChatGPT Wallet：官方发布帖，回复里很多人在问地区、信任和买错了怎么办，适合替普通用户问清楚边界。",
+  "url": "https://x.com/ChatGPT/status/2121283151729496235"
+ },
+ {
+  "id": "2026-11-14-r04",
+  "date": "2026-11-14",
+  "kind": "reply",
+  "title": "@deepseek_ai 开放 App 能力 API：官方高互动发布帖，评论里已经有人在算搜索和读网页会不会把输入 token 抬得很贵，值得把计费问清楚。",
+  "url": "https://x.com/deepseek_ai/status/2121247896918253875"
+ },
+ {
+  "id": "2026-11-14-r05",
+  "date": "2026-11-14",
+  "kind": "reply",
+  "title": "@suno 发布 Bridge 测试版：回复不多，更容易被看到，问的是评论区已经在提的会员档位和其他宿主支持。",
+  "url": "https://x.com/suno/status/2121244247147880770"
+ },
+ {
+  "id": "2026-11-14-v01",
+  "date": "2026-11-14",
+  "kind": "viral",
+  "title": "@thsottiaux 问 Codex 还能怎么改进：OpenAI Codex 负责人只问了一句短问题，还加了「别只说换模型」，等于把话筒交给用户，回复量被抬到 1.2 万，很多人是来提具体卡点的。",
+  "url": "https://x.com/thsottiaux/status/2121062974161092792"
+ },
+ {
+  "id": "2026-11-14-v02",
+  "date": "2026-11-14",
+  "kind": "viral",
+  "title": "@OfficialLoganK 问接下来该做什么：Google AI Studio 负责人同样用一句开放式提问收意见，门槛低、又让人觉得自己的需求可能被听到，所以回复也到了 2400 多条。",
+  "url": "https://x.com/OfficialLoganK/status/2121115028447531353"
  }
 ]
