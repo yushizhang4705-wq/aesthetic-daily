@@ -3057,5 +3057,154 @@
    "代码动画"
   ],
   "cat": "3D质感 · 代码动画"
+ },
+ {
+  "id": "2026-11-14-01",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i1",
+  "title": "Fluo 发布片（Write messy. Send perfect.）",
+  "author": "Dominik Mészáros（@kcinimoDM）",
+  "url": "https://x.com/kcinimoDM/status/2120790742390169896",
+  "embed": "x:2120790742390169896",
+  "tags": [
+   "字体版式",
+   "UI动效"
+  ],
+  "cat": "字体版式 · UI动效"
+ },
+ {
+  "id": "2026-11-14-02",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i2",
+  "title": "Manta 椅子发布片（Fursys）",
+  "author": "Reframe Studio（首尔）",
+  "url": "https://vimeo.com/1240694152",
+  "embed": "https://player.vimeo.com/video/1240694152",
+  "tags": [
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "3D质感 · 字体版式"
+ },
+ {
+  "id": "2026-11-14-03",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i3",
+  "title": "HP 限量版 Scuderia Ferrari AI PC",
+  "author": "HP Studio × Estupido.Estudio",
+  "url": "https://vimeo.com/1202615778",
+  "embed": "https://player.vimeo.com/video/1202615778",
+  "tags": [
+   "3D质感",
+   "MG"
+  ],
+  "cat": "3D质感 · MG"
+ },
+ {
+  "id": "2026-11-14-04",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i4",
+  "title": "Delta Cafés 网站（Awwwards 11-13 当日最佳）",
+  "author": "Burocratik / Awwwards",
+  "url": "https://x.com/awwwards/status/2121167173678669926",
+  "embed": "x:2121167173678669926",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-14-05",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i5",
+  "title": "They Are Coming（投影在木头方块上的 WebGL 视觉）",
+  "author": "Pat Heintzmann（@PatHeintzmann）/ Codrops",
+  "url": "https://x.com/codrops/status/2121245834658357321",
+  "embed": "x:2121245834658357321",
+  "tags": [
+   "代码动画",
+   "剪辑节奏"
+  ],
+  "cat": "代码动画 · 剪辑节奏"
+ },
+ {
+  "id": "2026-11-14-06",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i6",
+  "title": "Gooey Sticky Menu（会拉丝的液体菜单）",
+  "author": "Codrops",
+  "url": "https://x.com/codrops/status/2121227055073230916",
+  "embed": "x:2121227055073230916",
+  "tags": [
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "代码动画 · UI动效"
+ },
+ {
+  "id": "2026-11-14-07",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i7",
+  "title": "线香花火 30 秒（全部用代码写）",
+  "author": "SF Create（@sfc43588）",
+  "url": "https://x.com/sfc43588/status/2121422874032693290",
+  "embed": "x:2121422874032693290",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-14-08",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i8",
+  "title": "the impossible toggle",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2121374199709052991",
+  "embed": "x:2121374199709052991",
+  "tags": [
+   "UI动效"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-14-09",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i9",
+  "title": "How Quiet Are the World's Quietest Rooms?",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/yXJFIm-VBVU",
+  "embed": "https://www.youtube-nocookie.com/embed/yXJFIm-VBVU",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-14-10",
+  "date": "2026-11-14",
+  "kind": "daily",
+  "report": "reports/2026-11-14.html#i10",
+  "title": "PLUS（个人短片）",
+  "author": "Renaud Hallée（蒙特利尔）",
+  "url": "https://vimeo.com/1243482011",
+  "embed": "https://player.vimeo.com/video/1243482011",
+  "tags": [
+   "MG",
+   "剪辑节奏"
+  ],
+  "cat": "MG · 剪辑节奏"
  }
 ]
