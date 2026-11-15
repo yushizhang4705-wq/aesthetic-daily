@@ -3206,5 +3206,156 @@
    "剪辑节奏"
   ],
   "cat": "MG · 剪辑节奏"
+ },
+ {
+  "id": "2026-11-15-01",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i1",
+  "title": "sticker peel OKURI（贴纸撕掉）",
+  "author": "60fps（@60fpsdesign）/ @seek____null",
+  "url": "https://x.com/60fpsdesign/status/2119004659092492469",
+  "embed": "x:2119004659092492469",
+  "tags": [
+   "UI动效",
+   "转场"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-15-02",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i2",
+  "title": "WebGL fold experiment（滚动展开的三折信纸）",
+  "author": "Codegrid（@codegridweb）",
+  "url": "https://x.com/codegridweb/status/2119431647003328916",
+  "embed": "x:2119431647003328916",
+  "tags": [
+   "代码动画",
+   "转场",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 转场"
+ },
+ {
+  "id": "2026-11-15-03",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i3",
+  "title": "86 个零件拼出一台四缸发动机（three.js）",
+  "author": "Shubham · Kernel & Chai（@KernelChai）",
+  "url": "https://x.com/KernelChai/status/2119852955587465604",
+  "embed": "x:2119852955587465604",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-15-04",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i4",
+  "title": "Fluo 发布片（Write messy. Send perfect.）",
+  "author": "Dominik Mészáros（@kcinimoDM）",
+  "url": "https://x.com/kcinimoDM/status/2120790742390169896",
+  "embed": "x:2120790742390169896",
+  "tags": [
+   "字体版式",
+   "UI动效"
+  ],
+  "cat": "字体版式 · UI动效"
+ },
+ {
+  "id": "2026-11-15-05",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i5",
+  "title": "Beauty in Sequence（60 部电影拼成一分钟，补课 2025）",
+  "author": "Nikita Didenko / Tak Ostro",
+  "url": "https://www.youtube.com/watch?v=zc2FmxxT-a4",
+  "embed": "https://www.youtube-nocookie.com/embed/zc2FmxxT-a4",
+  "tags": [
+   "剪辑节奏",
+   "转场"
+  ],
+  "cat": "剪辑节奏 · 转场"
+ },
+ {
+  "id": "2026-11-15-06",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i6",
+  "title": "flip to tip v2（按住按钮抛硬币打赏）",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2120243978679321060",
+  "embed": "x:2120243978679321060",
+  "tags": [
+   "UI动效",
+   "代码动画"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-15-07",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i7",
+  "title": "iCloud+ 云朵循环（Apple，60fps 转发）",
+  "author": "Apple / 60fps（@60fpsdesign）",
+  "url": "https://x.com/60fpsdesign/status/2120378957371711839",
+  "embed": "x:2120378957371711839",
+  "tags": [
+   "UI动效",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-15-08",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i8",
+  "title": "How Quiet Are the World's Quietest Rooms?",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/yXJFIm-VBVU",
+  "embed": "https://www.youtube-nocookie.com/embed/yXJFIm-VBVU",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-15-09",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i9",
+  "title": "Apple Pay 广告「The fast, easy, and secure way to pay」",
+  "author": "Apple",
+  "url": "https://www.youtube.com/watch?v=miUjxZ2ASRs",
+  "embed": "https://www.youtube-nocookie.com/embed/miUjxZ2ASRs",
+  "tags": [
+   "剪辑节奏",
+   "实拍剪辑"
+  ],
+  "cat": "剪辑节奏 · 实拍剪辑"
+ },
+ {
+  "id": "2026-11-15-10",
+  "date": "2026-11-15",
+  "kind": "weekly",
+  "report": "reports/2026-11-15-weekly.html#i10",
+  "title": "Delta Cafés 网站（Awwwards 11-13 当日最佳）",
+  "author": "Burocratik / Awwwards",
+  "url": "https://x.com/awwwards/status/2121167173678669926",
+  "embed": "x:2121167173678669926",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 转场"
  }
 ]
