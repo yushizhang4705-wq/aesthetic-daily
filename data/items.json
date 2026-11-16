@@ -3357,5 +3357,141 @@
    "转场"
   ],
   "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-16-01",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i1",
+  "title": "雪国のローカル線（冬沢）",
+  "author": "SF Create（@sfc43588）",
+  "url": "https://x.com/sfc43588/status/2122147649709392329",
+  "embed": "x:2122147649709392329",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-16-02",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i2",
+  "title": "make it pop: 003 glazed",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2122118204667670621",
+  "embed": "x:2122118204667670621",
+  "tags": [
+   "代码动画",
+   "字体版式",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 字体版式"
+ },
+ {
+  "id": "2026-11-16-03",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i3",
+  "title": "upcoming trip animation",
+  "author": "jonasnaimark / 60fps（@60fpsdesign）",
+  "url": "https://x.com/60fpsdesign/status/2122198472590066059",
+  "embed": "x:2122198472590066059",
+  "tags": [
+   "UI动效"
+  ],
+  "cat": "UI动效"
+ },
+ {
+  "id": "2026-11-16-04",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i4",
+  "title": "SANTAL（Awwwards 11-15 当日最佳）",
+  "author": "The First The Last / Awwwards",
+  "url": "https://x.com/awwwards/status/2121891815955534239",
+  "embed": "x:2121891815955534239",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-16-05",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i5",
+  "title": "Preymaker（Awwwards 11-14 当日最佳）",
+  "author": "DashDigital、Mathis Humbert / Awwwards",
+  "url": "https://x.com/awwwards/status/2121529403347743212",
+  "embed": "x:2121529403347743212",
+  "tags": [
+   "转场",
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "转场 · 3D质感"
+ },
+ {
+  "id": "2026-11-16-06",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i6",
+  "title": "There's something weird inside Mars",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/lG4atCDzv0E",
+  "embed": "youtube:lG4atCDzv0E",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-16-07",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i7",
+  "title": "Letters trading weight",
+  "author": "Codegrid（@codegridweb）",
+  "url": "https://x.com/codegridweb/status/2121566341790576707",
+  "embed": "x:2121566341790576707",
+  "tags": [
+   "字体版式",
+   "代码动画"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-16-08",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i8",
+  "title": "Etsy Motion Identity",
+  "author": "Vucko",
+  "url": "https://vucko.co/work/etsy-motion-identity",
+  "embed": "none",
+  "tags": [
+   "UI动效",
+   "字体版式"
+  ],
+  "cat": "UI动效 · 字体版式"
+ },
+ {
+  "id": "2026-11-16-09",
+  "date": "2026-11-16",
+  "kind": "daily",
+  "report": "reports/2026-11-16.html#i9",
+  "title": "Tidal Motion Branding",
+  "author": "Vucko（@motionimo 转发）",
+  "url": "https://x.com/motionimo/status/2121287185949192472",
+  "embed": "x:2121287185949192472",
+  "tags": [
+   "MG",
+   "字体版式"
+  ],
+  "cat": "MG · 字体版式"
  }
 ]
