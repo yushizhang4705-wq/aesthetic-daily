@@ -1013,5 +1013,89 @@
   "kind": "viral",
   "title": "@GoogleAIStudio 问周末在 vibe coding 什么：周末只问了一句很短的开放问题，门槛低，又正好让人展示自己在做的东西，所以回复量被抬到了 250 条。",
   "url": "https://x.com/GoogleAIStudio/status/2121680044451872811"
+ },
+ {
+  "id": "2026-11-16-01",
+  "date": "2026-11-16",
+  "kind": "item",
+  "title": "OpenAI 11 月 16 日 00:23Z（北京时间 8:23）发帖，宣布科学博客上线，第一篇是物理学家 Nathaniel Craig 的客座文章《A step toward defining the Standard Model on a lattice》。Craig 是加州大学圣塔芭芭拉分校粒子理论组负责人、该校卡夫利理论物理研究所常任成员，也是 OpenAI 访问科学家。他在文中说，10 月的预印本里提出了一个把标准模型放到时空网格（格点）上的候选非微扰定义；自己原有思路，但没能证明它覆盖所有需要的情形，GPT-6 Astra 帮助把这套思路做成构造，并主导完成了详细证明。官方文章和 X 帖都把结果写成候选定义，并写明后续还有工作：它目前更接近原则上的答案，还不能直接用于现实格点模拟，有限格距上是否满足 reflection positivity（反射正性，关系到概率是否守恒）仍待查，连续时空中的相互作用理论如何定义也仍开放。以上 OpenAI 官方帖和官网已核对。文中出现的 GPT-6 Astra 是作者使用的模型，官方这篇不是面向公众发布新模型的公告。",
+  "url": "https://x.com/OpenAI/status/2122123437141553630"
+ },
+ {
+  "id": "2026-11-16-02",
+  "date": "2026-11-16",
+  "kind": "item",
+  "title": "监控名单里的 @minchoi 11 月 15 日发帖解释 Amazon Prime 360：球场四周一圈同步高清摄像机先把比赛建成 3D 场景，再用扩散模型逐帧补出传统机位没有的视角，Amazon 称跑在自研 Trainium 芯片上，延迟降低超过 40%，因而能用在直播里。他写明这项功能 10 月已经上线，周五晚上因尼克斯对步行者的一条回放在网上火了，很多人第一眼以为是 NBA 2K；它只出现在部分 NBA on Prime 转播及赛前、中场、赛后拆解里，Amazon 没有公布摄像机数量和一条回放要做多久。亚马逊 10 月 14 日新闻稿已核对其上线时间和「AI 驱动的 Prime 360 集锦」表述；@NBAonPrime 11 月 14 日（略早于本窗口）发过 Kelly Oubre 盖帽的 Prime 360 片段。以上是官方已发布功能的说明和一条热传回放，不是今天的新品发布。",
+  "url": "https://x.com/minchoi/status/2121960172541055468"
+ },
+ {
+  "id": "2026-11-16-03",
+  "date": "2026-11-16",
+  "kind": "item",
+  "title": "@sashikantsingh_ 11 月 15 日分享了一个用 Fable 5.2 做出的可游泳海底网页，称整个项目是一个约 97KB 的 HTML 文件。监控名单里的 @LinusEkenstam 引用这条演示，称这是当天最惊人的 97KB，并说游戏可能会再迎来一波热潮。公开仓库名为 Abyssal Garden，GitHub 账号是 Noniv，在线地址为 https://noniv.github.io/abyssal-garden/ ；仓库说明写的是：海带林、沉船、蝠鲼等画面都在加载时用 WebGPU 由代码生成，单文件约 97KB，不含图片、模型、音频和第三方库。英文报道还提到 Reddit 用户 Any-Reputation8118 展示过同一项目，这些账号是否为同一人待证。评论区有人质疑 97KB 只算了 HTML、库没有算进去，是否与仓库说明完全相符，仍以打开文件核对为准，待证。这是一次作品演示，不是 Fable 的官方新功能发布。",
+  "url": "https://x.com/LinusEkenstam/status/2121962692185592126"
+ },
+ {
+  "id": "2026-11-16-04",
+  "date": "2026-11-16",
+  "kind": "item",
+  "title": "监控名单里的 @servasyy_ai 11 月 15 日宣布，他把两周里试 MiniMax H3 打戏的经验做成开源 Skill「h3-fight」（GitHub：https://github.com/huangserva/h3-fight ）。他写道，打戏本不是 H3 的强项，常见问题是打得像流水账、机位死板、刀插进身体、两人打着打着换边；他在本地 4090 48G 上对比过社区底模和多种 LoRA 后，选用 BUNNY 的打斗 LoRA，并把出过好片的提示词拆成 188 个镜头块，加上招式表、踩坑表和提交前检查脚本。按他的说法，装进 Claude Code 或 Codex 后，说一句「帮我写一段打戏」，它会自己挑镜头、拼接并先检查一遍；出片仍要另行配好 ComfyUI 和 H3 环境。他自述在仙侠、日漫、真人古装喜剧里试过，最长一条两分半，自我打分从 70 涨到 90，这是作者自述，不是第三方评测。@lxfater 随后也转发介绍了这个 Skill。",
+  "url": "https://x.com/servasyy_ai/status/2121945482838880421"
+ },
+ {
+  "id": "2026-11-16-g01",
+  "date": "2026-11-16",
+  "kind": "infogap",
+  "title": "NBA 回放突然变得像游戏机位，其实是把真比赛重建了",
+  "url": "https://x.com/minchoi/status/2121960172541055468"
+ },
+ {
+  "id": "2026-11-16-g02",
+  "date": "2026-11-16",
+  "kind": "infogap",
+  "title": "一句话让 AI 去找星舰回收视频，再做成能转视角的 3D",
+  "url": "https://x.com/emollick/status/2122036763468214711"
+ },
+ {
+  "id": "2026-11-16-r01",
+  "date": "2026-11-16",
+  "kind": "reply",
+  "title": "@thsottiaux 为 Daybreak 公开征集反馈：官方相关负责人在公开要反馈，互动已经非常高。评论区里反复出现的是开通难、权限和文档不清楚，适合回一句具体缺口，不必假装自己已经在用。",
+  "url": "https://x.com/thsottiaux/status/2121845965997101118"
+ },
+ {
+  "id": "2026-11-16-r02",
+  "date": "2026-11-16",
+  "kind": "reply",
+  "title": "@minchoi 解说 Prime 360：大众话题，评论区已经从「好看」转到「能不能用来判断犯规」，回这一点既接得上，也帮看球的人把重建画面和真实机位分开。",
+  "url": "https://x.com/minchoi/status/2121960172541055468"
+ },
+ {
+  "id": "2026-11-16-r03",
+  "date": "2026-11-16",
+  "kind": "reply",
+  "title": "@emollick 演示把星舰回收做成可转视角的 3D：演示本身好看，评论区真正在问的是和原片对得准不准，回这一点比只说「太厉害了」更有用。",
+  "url": "https://x.com/emollick/status/2122036763468214711"
+ },
+ {
+  "id": "2026-11-16-r04",
+  "date": "2026-11-16",
+  "kind": "reply",
+  "title": "@dotey 整理 Lauren Tan 演讲要点：中文区这篇整理收藏已经过千，适合只钉一句最能带走的方法，不必把八条规则再复述一遍。",
+  "url": "https://x.com/dotey/status/2121835140850602200"
+ },
+ {
+  "id": "2026-11-16-v01",
+  "date": "2026-11-16",
+  "kind": "viral",
+  "title": "@thsottiaux 为 Daybreak 公开征集反馈：OpenAI Codex 负责人只问了一句很短的「哪里能做得更好」，谁都能提一嘴，回复被抬到两千多；产品本身 11 月已经发布过，这条火的是征集，不是新发布。",
+  "url": "https://x.com/thsottiaux/status/2121845965997101118"
+ },
+ {
+  "id": "2026-11-16-v02",
+  "date": "2026-11-16",
+  "kind": "viral",
+  "title": "@dotey 整理 Lauren Tan《All Code Is Slop (Except Mine)》要点：把一场大会演讲收成能对照着用的几条规则，尤其是「纠正一次就写成会报错的检查，少往说明里堆话」，程序员可以马上对照自己的用法，所以收藏特别高。",
+  "url": "https://x.com/dotey/status/2121835140850602200"
  }
 ]
