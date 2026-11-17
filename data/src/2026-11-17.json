@@ -1,0 +1,495 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-17 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周二，按轮换本该细拆英雄镜头或 B-roll，但新作里没有以剪辑转场为主的合格实拍，改拆 Imaginary Forces 的《Imperfect Women》片头（看片工具完整看完 50.2 秒）。这是 2026 年春天的作品，今天特效作者把完整成片又发了一次，按补课收录。点赞和评论接口这次都超时，没读到新的赞、踩和评论。合格新作加这条补课一共 10 条。标签覆盖片头、字体版式、3D 质感、MG、转场、UI 动效、知识讲解和代码动画。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@codrops、@motionimo、@myshli_com、@sfc43588、@dom_meszaros、@cleoabram、@jh3yy、@awwwards、@greensock、@threejs、@KernelChai、@emilkowalski、关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、It's Nice That、YouTube（Cleo Abram、Kurzgesagt、TED-Ed、Vox、Apple 等）、Imaginary Forces 案例页",
+ "items": [
+  {
+   "cat": "片头片尾 · 字体版式",
+   "tags": [
+    "片头片尾",
+    "字体版式",
+    "转场"
+   ],
+   "title": "Imperfect Women Opening Titles（补课，2026）",
+   "author": "Imaginary Forces（创意指导 Karin Fong；FX 研发 Danil Krivoruchko）",
+   "date": "补课，2026 年春；X 2026-11-16 再发完整成片",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看完整片头 ↗",
+     "https://x.com/myshli_com/status/2122330143423160694"
+    ],
+    [
+     "工作室案例 ↗",
+     "https://imaginaryforces.com/project/imperfect-women"
+    ]
+   ],
+   "good": "50 秒片头。瓷白和亚光黑的人像、手、肩膀被裂缝切开，金色像金缮一样从缝里流过去。裂口后面是洛杉矶的桥、棕榈和海浪。字是细衬线全大写，写在瓷面上，不悬在空中。全片几乎都是硬切，只有片名字卡用了叠化",
+   "borrow": "讲「表面完整、里面有裂」时，用一道快速裂痕当转场，金线填上，下一句写在裂开的那一块上。下面有细拆",
+   "embed": "x:2122330143423160694",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "50.2 秒全片完整看过（看片工具），下面有细拆",
+     "官方成片发表于 2026 年春，今天按补课收录",
+     "字体未识别（细衬线、全大写、字距很开）"
+    ]
+   },
+   "id": "2026-11-17-01",
+   "embed_type": "x",
+   "url": "https://x.com/myshli_com/status/2122330143423160694",
+   "cover": "covers/2026-11-17/01.jpg"
+  },
+  {
+   "cat": "3D质感 · MG",
+   "tags": [
+    "3D质感",
+    "MG"
+   ],
+   "title": "TIME TIMER",
+   "author": "Jaehee Wang（@motionimo 转发）",
+   "date": "X 2026-11-11",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2120381253035688234"
+    ]
+   ],
+   "good": "60 秒，红白两色。先是空荡的白办公室，墙上一个膨胀的红色数字钟；镜头贴近，数字像软橡胶；再切到计时盘上的刻度 25、30、35，红指针扫过。后面把同一套红白搬进会议室和白板",
+   "borrow": "讲一个小工具时，先在空房间里只放这一件产品，用特写把刻度和材质看清楚，再把它放回真实使用的桌子上，颜色全片不要超过两种",
+   "embed": "x:2120381253035688234",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（60 秒成片）",
+     "字体未识别",
+     "片尾锁定 TIME TIMER 标志"
+    ]
+   },
+   "id": "2026-11-17-02",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2120381253035688234",
+   "cover": "covers/2026-11-17/02.jpg"
+  },
+  {
+   "cat": "字体版式 · 转场",
+   "tags": [
+    "字体版式",
+    "转场"
+   ],
+   "title": "Serotoninn 时装网店",
+   "author": "BL/S® blacklead.studio（开发 Artycoders）",
+   "date": "X / Codrops 2026-11-16",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2122323878059872510"
+    ],
+    [
+     "品牌官网 ↗",
+     "https://serotoninn.com/"
+    ]
+   ],
+   "good": "16 秒网站预告。白底时装大片，分类词 SALE、TIPS、NEW DROP 叠在模特旁边；中间有一次撕纸，露出下一组造型。结尾大字 WHERE GLAM MEETS GRUNGE，一只红唇图形反复出现",
+   "borrow": "栏目菜单不必每栏都是静图。每个分类配一段短视频，中间用撕开的纸边把下一栏揭出来，比淡入淡出更有材质",
+   "embed": "x:2122323878059872510",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "看的是 16 秒预告片，不是整站逐页浏览",
+     "字体未识别（细无衬线标题 + 手写感的红字）",
+     "站点是真实可买的网店"
+    ]
+   },
+   "id": "2026-11-17-03",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2122323878059872510",
+   "cover": "covers/2026-11-17/03.jpg"
+  },
+  {
+   "cat": "UI动效",
+   "tags": [
+    "UI动效"
+   ],
+   "title": "custom emojis preview animation on threads",
+   "author": "60fps（@60fpsdesign）",
+   "date": "X 2026-11-17",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2122561246310609164"
+    ]
+   ],
+   "good": "约 5 秒。Threads 发帖预览里，点赞的红心炸开成一朵雏菊，再收回成心。深色界面、就这一个动作，周围按钮都没动",
+   "borrow": "表情或状态切换不要做一整屏特效。让图标自己变形（心变成花、再变回去），大约半秒，停在新图标上",
+   "embed": "x:2122561246310609164",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "抽了 12 帧（4.9 秒）",
+     "界面字体未识别（像 SF Pro 一类）",
+     "原帖没有另标作者，按 60fps 收录帖来记"
+    ]
+   },
+   "id": "2026-11-17-04",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2122561246310609164",
+   "cover": "covers/2026-11-17/04.jpg"
+  },
+  {
+   "cat": "MG · 字体版式",
+   "tags": [
+    "MG",
+    "字体版式"
+   ],
+   "title": "Eventbrite Rebrand",
+   "author": "BUCK（@buck_design；@motionimo 转发）",
+   "date": "X 2026-11-13",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2121105886496125352"
+    ]
+   ],
+   "good": "53 秒品牌片。logo 和「GLOW BRITE」字卡之后，大字 TO A PLACE TO DISCOVER、WE'VE GOT WHAT YOU LIKE 压在色块上。中间夹手机界面和活动照片拼贴，片尾 SEE YOU OUT THERE",
+   "borrow": "栏目包装可以学它：一句短标语用色块托住，中间只切两三张真实界面，全片反复同一句语气，不要每段换新口号",
+   "embed": "x:2121105886496125352",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（53 秒成片）",
+     "字体未识别（粗无衬线标题）"
+    ]
+   },
+   "id": "2026-11-17-05",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2121105886496125352",
+   "cover": "covers/2026-11-17/05.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化"
+   ],
+   "title": "Saturn’s Rings Are Disappearing",
+   "author": "Cleo Abram",
+   "date": "YouTube / X 2026-11-15",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/shorts/rkPSB5WjL5o"
+    ],
+    [
+     "看原帖 ↗",
+     "https://x.com/cleoabram/status/2122010493883748567"
+    ]
+   ],
+   "good": "54 秒竖屏。土星和光环占满画面，荧光绿数字标出「约 45 亿年」和「只有 1 亿到 4 亿年」。冰块带电、轨道被拉弯，都用线和箭头直接画在星球旁边",
+   "borrow": "讲「比想象的更年轻 / 更大」时，把数字叠在对象上，再用一条弯曲的箭头画出运动方向，不必切走画面",
+   "embed": "https://www.youtube-nocookie.com/embed/rkPSB5WjL5o?playsinline=1&rel=0",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（54 秒竖屏）",
+     "字体未识别（粗无衬线 + 荧光绿数字）"
+    ]
+   },
+   "id": "2026-11-17-06",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/rkPSB5WjL5o",
+   "cover": "covers/2026-11-17/06.jpg"
+  },
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "水槽の灯りだけ灯る夜中",
+   "author": "SF Create（@sfc43588）",
+   "date": "X 2026-11-11",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/sfc43588/status/2120335712071680441"
+    ]
+   ],
+   "good": "18 秒，three.js。夜里只亮一盏水槽灯。先从暗房间看到整缸，再推近水草、石头和成群的小鱼，玻璃上有灯和植物的倒影。没有字，也没有切镜头",
+   "borrow": "做一段「环境还在运转」的空镜时，只留一盏有方向的灯，让玻璃或桌面反出这盏灯，比到处打亮更像夜里",
+   "embed": "x:2120335712071680441",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（18 秒）",
+     "作者标签写了 #threejs",
+     "没有后期字幕"
+    ]
+   },
+   "id": "2026-11-17-07",
+   "embed_type": "x",
+   "url": "https://x.com/sfc43588/status/2120335712071680441",
+   "cover": "covers/2026-11-17/07.jpg"
+  },
+  {
+   "cat": "3D质感 · 字体版式",
+   "tags": [
+    "3D质感",
+    "字体版式"
+   ],
+   "title": "Lenskart | Bitz Series",
+   "author": "Gavin Sew（@GavinSew；@motionimo 转发）",
+   "date": "X 2026-11-12",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2120924687697866800"
+    ]
+   ],
+   "good": "39 秒。眼镜在干净色底上旋转，樱桃、宝石、爪印小饰件从空中落下来，咔哒一声卡进镜腿，旁边出一行小字 Snap。结尾镜头拉开，一副副眼镜带着不同饰件",
+   "borrow": "讲配件或模块组合时，让零件从画面外落下来，对准卡口停住，配一个很短的「咔」和一行 Snap 这样的动词，比分步解说更清楚",
+   "embed": "x:2120924687697866800",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（39 秒成片）",
+     "字体未识别（细衬线小字 Snap）"
+    ]
+   },
+   "id": "2026-11-17-08",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2120924687697866800",
+   "cover": "covers/2026-11-17/08.jpg"
+  },
+  {
+   "cat": "UI动效 · 转场",
+   "tags": [
+    "UI动效",
+    "转场"
+   ],
+   "title": "Dozy 起床屏",
+   "author": "Dominik Mészáros（@dom_meszaros）",
+   "date": "X 2026-11-14",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/dom_meszaros/status/2121656676659200175"
+    ]
+   ],
+   "good": "13 秒。夜间锁屏只有时间和一只睡觉的树懒，底部写 Slide to wake up。手指一滑，整屏从深紫洗成晨光渐变，正中出现 Good morning，再回到夜间",
+   "borrow": "应用或视频里的「从休息到开始」不要用按钮跳切。用一次滑动，让底色从暗慢慢洗成亮，中间只留一句问候",
+   "embed": "x:2121656676659200175",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（13 秒）",
+     "界面字体未识别（像 SF Pro 一类）",
+     "作者说明这是自己做的睡眠应用 Dozy"
+    ]
+   },
+   "id": "2026-11-17-09",
+   "embed_type": "x",
+   "url": "https://x.com/dom_meszaros/status/2121656676659200175",
+   "cover": "covers/2026-11-17/09.jpg"
+  },
+  {
+   "cat": "知识讲解 · 手绘动画",
+   "tags": [
+    "知识讲解",
+    "MG"
+   ],
+   "title": "Why is pepper such a popular spice?",
+   "author": "TED-Ed（撰稿 Carolyn Beans）",
+   "date": "YouTube 2026-11-12",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/watch?v=aDblEBU41nA"
+    ]
+   ],
+   "good": "横版讲解（片长超过 3 分钟，只看了前 2 分钟）。帆船剪影、胡椒粒撒进火焰、人物剪影和水彩叶子交替出现，最后落到一张标了路线的亚洲地图。颜色克制，材料感来自剪纸和水彩",
+   "borrow": "讲贸易或传播路径时，先用实物或剪影把东西本身给人看（一捧胡椒），再切到地图上的路线，比一开始就出地图更记得住",
+   "embed": "https://www.youtube-nocookie.com/embed/aDblEBU41nA?playsinline=1&rel=0",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "超过 3 分钟，按规则只取了前 2 分钟来抽帧",
+     "字体未识别",
+     "撰稿署名 Carolyn Beans"
+    ]
+   },
+   "id": "2026-11-17-10",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=aDblEBU41nA",
+   "cover": "covers/2026-11-17/10.jpg"
+  }
+ ],
+ "cut_title": "剔除（看过画面后没过）",
+ "cut": [
+  {
+   "title": "Google Gemini — Visual Design & Motion",
+   "author": "BUCK（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2121833871041777859",
+   "why": "成片质感很好，但是 AI 产品宣传片，按规则不推"
+  },
+  {
+   "title": "Chime — Brand Sizzle",
+   "author": "jkr Global（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2122012638506869198",
+   "why": "主要是品牌系统和插画展示，动效和剪辑手法不够突出"
+  },
+  {
+   "title": "Merrell SpeedARC – Directors Cut",
+   "author": "FutureDeluxe（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2120562559686180945",
+   "why": "更偏产品英雄镜头和拍法，剪辑转场不够当作今天的学习点"
+  },
+  {
+   "title": "Bulletproof（Awwwards 11-16 当日最佳）",
+   "author": "Niccolò Miranda、Chirag Grover、Stabondar / Awwwards",
+   "link": "https://x.com/awwwards/status/2122254410742972682",
+   "why": "画面元素堆得较满，不够克制"
+  },
+  {
+   "title": "Sweet Tape（Awwwards 11-17 当日最佳）",
+   "author": "bikebear",
+   "link": "https://www.awwwards.com/sites/sweet-tape",
+   "why": "荧光黄绿过浓，不符合克制、不要浓烈的标准"
+  },
+  {
+   "title": "ONE:DAY — Motion Identity Brand Film",
+   "author": "WeNeverSitStill（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2122374432656118096",
+   "why": "演唱会实拍偏多，图形和字卡段不够完整"
+  },
+  {
+   "title": "Cool Down Your Room... With a FRIDGE?",
+   "author": "Kurzgesagt",
+   "link": "https://www.youtube.com/shorts/NKeZ_HRk_O8",
+   "why": "今天已有 Cleo 和 TED-Ed 两条知识讲解，这条偏扁平、颜色也更浓"
+  },
+  {
+   "title": "Is there a black hole hiding at the edge of our solar system?",
+   "author": "Vox",
+   "link": "https://www.youtube.com/shorts/JbD5kXOxK4I",
+   "why": "基本是对谈口播，动效和剪辑手法不够"
+  },
+  {
+   "title": "Something in the Air",
+   "author": "Creative Control",
+   "link": "https://vimeo.com/1247356784",
+   "why": "精修卡通角色短片，不是可迁移的做片手法"
+  },
+  {
+   "title": "Quorum",
+   "author": "Colors And The Kids",
+   "link": "https://vimeo.com/1247356781",
+   "why": "颜色和颜料爆炸偏炫，不够克制"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 片头片尾（周二改拆）",
+  "toc": "细拆：裂痕当转场、金线填缝、字写在瓷面上",
+  "title": "50 秒、17 个镜头：用一道裂缝把两幅画面接起来",
+  "flag": "【看过视频】",
+  "lede": "Imaginary Forces 为 Apple TV+ 剧集《Imperfect Women》做的片头，创意指导 Karin Fong。特效作者 Danil Krivoruchko 今天在 X 把 50.2 秒完整成片又发了一次。官方作品是 2026 年春天发布的，今天按补课来拆。看片工具完整看完了全片。好学的不是「做成陶瓷质感」，而是三种接法：裂缝自己爬过去、裂口当遮罩露出下一张图、字写在瓷板上而不是悬在空中。",
+  "links": [
+   [
+    "看完整片头 ↗",
+    "https://x.com/myshli_com/status/2122330143423160694"
+   ],
+   [
+    "工作室案例 ↗",
+    "https://imaginaryforces.com/project/imperfect-women"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（50.2 秒）",
+    "ul": [
+     "0:00–0:02 已经裂开的白瓷特写，两条人名分别写在裂缝两边，镜头极慢前推",
+     "0:02–0:04 白瓷下缘是撕开的毛边，后面露出雾蒙蒙的洛杉矶天际线，字写在前景瓷面上，背景有轻微视差",
+     "0:04–0:08 白手搭在黑肩膀上，一道暗缝从左边快速划过手指；下一镜白瓷上又裂出两道分叉。字等裂缝走完才淡入",
+     "0:08–0:14 黑白两张侧脸被一道横缝切开，缝边有金粉，还没灌金。然后撕口后面换成桥和棕榈",
+     "0:14–0:19 竖缝里，液态金从画面上方慢慢流下来把缝填满，人名写在缝的两侧",
+     "0:19–0:27 金边裂口反复当窗口：侧脸、山丘、棕榈从开口后面露出来。0:21 一道新的暗缝从已有的金线里炸出去",
+     "0:27–0:38 黑前景的金边裂口里是正在拍打的海浪（背景是真的在动的实拍）。手、手臂、对剖的脸，金线有的填满、有的走到黑面上就停成未修好的暗缝",
+     "0:38–0:41 片名字卡：黑、白、米色三张侧脸被金边竖缝隔开，IMPERFECT / WOMEN 写在最左边的白瓷上，这是全片唯一用叠化离开的镜头",
+     "0:41–0:50 半透明玻璃面上映着棕榈和山影，最后的职员表写在这层玻璃上，淡出到黑"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "大约 17 个镜头，多数 2 到 4 秒，没有快剪。最长的是灌金那一段（约 5 秒）和片尾职员表（约 9 秒）。短的是 0:21 那道新裂缝，几乎只有 1 秒。",
+     "慢的是镜头本身（静帧或极慢的推、摇）；快的只有裂缝生长，和周围的慢形成对比。人名都是淡入、停住、淡出，不等它飞进来。"
+    ]
+   },
+   {
+    "h": "转场（三种接法）",
+    "ul": [
+     "硬切：全片主体。每切一次都换一块「瓷板」，靠材质和裂口形状把前后镜头认成同一套世界",
+     "裂口当遮罩：前景瓷板撕开或裂开，后面的风景从开口里露出来。前景几乎不动，背景略有视差，海浪那一段背景还在自己动",
+     "裂缝生长：暗缝从一边快速爬到另一边，走完之后字才出现。0:21 是从已修好的金线里再裂出一道新缝",
+     "全片只有片名字卡离开时用了叠化，没有淡入淡出铺在中间"
+    ]
+   },
+   {
+    "h": "字写在哪里",
+    "ul": [
+     "字是细衬线、全大写、字距很开，看起来印在或压在最前面那层瓷面上，不悬在空中，也不钻到裂缝后面",
+     "字会避开裂缝，待在一块完整的「瓷板」上。人名等裂缝走完才淡入",
+     "字体未识别"
+    ]
+   },
+   {
+    "h": "光、材质和颜色",
+    "p": [
+     "前景几乎只有瓷白（亮、有釉光）、亚光黑和一点米色。强调色只有金属金。背景是去饱和的洛杉矶蓝灰，雾和棕榈都压得很暗。",
+     "金有两种状态：0:14–0:19 是还在流的液体，往下淌、把竖缝填满；后半段是已经凝固、带厚度的金边，贴在裂口上。有的缝只撒了金粉，没有填满，像还没修完。",
+     "手和脸是雕塑，不是真皮肤。白的一面反光更亮，黑的一面是哑光。海浪那一段能看出前景是静的模型、后面是实拍，前后两层分得很清。"
+    ]
+   },
+   {
+    "h": "对照动效实现规则",
+    "ul": [
+     "转场：默认硬切，符合规则第 4 节。全片只在片名字卡离开时用了一次叠化，没有再加擦拭、闪光或转场插件",
+     "镜头：静帧或极慢推摇，没有突然起停，符合第 5 节「镜头运动也要缓动」",
+     "裂缝生长：是一下子划过去的，不是慢慢描。对应「小元素可以更快」，这里快是为了跟周围的慢镜头对比",
+     "灌金：是一条往下淌的流体，再变成凝固的金边。对应第 5 节里用物理做出流动，再收成确定的动画",
+     "颜色：一个主色系统（白、黑、米）加一个强调色（金），符合第 6 节。没有再加一套霓虹"
+    ]
+   },
+   {
+    "h": "在 Remotion / 代码里怎么做（我的做法建议）",
+    "ul": [
+     "一层前景「瓷板」（一张有釉面高光的贴图或简单置换），用一条手绘折线做遮罩。裂缝生长就是这条折线的 trim，大约 8 到 12 帧画完，不要缓出拖太长",
+     "金线沿同一条路径做描边：先用很亮的金属材质顺着路径往前流（灌金段可以拉到 3、4 秒），再变成固定宽度的厚边",
+     "字淡入写在前景层上，给 8 到 12 帧的透明度，不要位移或缩放。等 trim 走完再开始淡入",
+     "背景放在遮罩后面，做很慢的水平视差（整段只移动几个百分点）。如果有实拍（水、树），让它自己动，前景保持不动",
+     "镜头用很浅的 push-in，4 秒里只推进一点点。切镜全部硬切"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "讲一个概念的「表面看起来完整、里面有裂」——比如模型输出改稿前后。先给一张干净画面，裂痕从一边快速划过，金线填上，改好的字写在裂开的那一块上。下一段不要淡入淡出，就用裂口当遮罩，把下一张图从开口里露出来。全片只用白、黑和一条金线，不要再加别的强调色。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-17",
+ "kind": "daily",
+ "slug": "2026-11-17"
+}
