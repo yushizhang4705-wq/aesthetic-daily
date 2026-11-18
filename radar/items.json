@@ -1181,5 +1181,89 @@
   "kind": "viral",
   "title": "@ClaudeDevs 分享 Claude Code 团队如何看待验证：收藏远高于点赞，说明很多人不是只看热闹，而是把「让模型自己跑测试、交出可检查的证据」当成能对照着用的方法存下来。",
   "url": "https://x.com/ClaudeDevs/status/2122457608963395586"
+ },
+ {
+  "id": "2026-11-18-01",
+  "date": "2026-11-18",
+  "kind": "item",
+  "title": "OpenAI 于 11 月 17 日宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 正式上线。官网介绍，Astra 是用于更难项目的旗舰模型，接替 GPT-6 Astra；Sol 是日常工作的主力，接替 GPT-6.1 Sol，并写明两者在同样任务上用更少的输出 token。定价与可用性已核官网新闻稿：Plus、Pro、Enterprise 和 Edu 用户可在 ChatGPT Work 和 Codex 使用；Pro 500 订阅者可对两款模型使用 Ultrafast，Pro 200 首次可对 GPT-6.2 Sol 使用 Ultrafast；企业与 Edu 需工作区管理员开启。开发者可通过 API 使用 gpt-6.2-astra 和 gpt-6.2-sol，发布时两款都提供 Ultrafast。Astra 的 API 标准价为每百万 token 输入 8 美元、缓存输入 0.40 美元、输出 40 美元，官网写明输入和输出比 GPT-6 Astra 便宜 20%，缓存输入再打 60% 折扣；Sol 沿用 GPT-6.1 Sol 的每百万 token 输入 2 美元、缓存输入 0.10 美元、输出 10 美元。官网没有写免费档可用，也没有列出中国或香港是否可在 ChatGPT 里使用。OpenAI 自己的评测数字（如 Agents’ Last Exam、Terminal-Bench-Science）是官方研究和演示结论，不是第三方复核后的唯一标准。@sama 和 OpenAI Codex 负责人 @thsottiaux（Tibo）也发了上线帖，后者提到已把 Sol 的 Ultrafast 扩到 Pro 200，与官网一致。",
+  "url": "https://x.com/OpenAI/status/2122750124543926515"
+ },
+ {
+  "id": "2026-11-18-02",
+  "date": "2026-11-18",
+  "kind": "item",
+  "title": "Google 官方账号 @GeminiApp 和 Gemini 应用博客（副总裁 Josh Woodward，11 月 17 日）宣布，Gemini 中的 Tasks（任务）从当天起对符合条件的数亿用户免费开放，使用 Gemini 4 Hydrogen，先从美国、日本、韩国、加拿大、澳大利亚和印度开始。使用方式是打开 Gemini，把首页从 Chat 切换到 Task。官方把 Chat 定位为来回问答，Tasks 用于更长的项目和按日程重复的差事。一套更高级的能力（代打电话、用 Google Pay 下单、用密码管理器登录、把邮件转发到 gemini@google.com 或给 Gemini 发短信）写明先从美国推出；代打电话在印第安纳、路易斯安那、明尼苏达、蒙大拿、内布拉斯加暂不可用，短信需要美国手机号。博客还写了会在付款等关键步骤前征求确认，任务跑在为该账户单独隔离的虚拟机里。官网没有写中国大陆何时开放，评论区已有中文用户在问。以上均来自官方帖和官网博客，不是独立使用验证。",
+  "url": "https://x.com/GeminiApp/status/2122737596971503885"
+ },
+ {
+  "id": "2026-11-18-03",
+  "date": "2026-11-18",
+  "kind": "item",
+  "title": "Suno 官方账号 11 月 17 日宣布上线 Visuals：可以把歌曲做成短视频、歌词视频，或围绕音乐生成画面。产品博客（首席产品官 Jack Brody）写明，当天在网页、iOS 和 Android 同步上线；把曲库里的歌拖进 Visuals 标签，可做最长 15 秒的片段，之后能延长、编辑或重新写提示词。画面额度与做歌额度分开，需在官网 Visuals 定价页另行购买。官方 X 帖还写了，付费订阅用户可在限时活动中免费用第一次 Visual。帮助中心写了 Fast（480p）和 Standard（720p）两种模式。评论区有人提到延长片段时被内容安全策略拦下，也有人觉得额度单独计费偏贵。视频效果和审核尺度未做独立验证。",
+  "url": "https://x.com/suno/status/2122717327464747307"
+ },
+ {
+  "id": "2026-11-18-04",
+  "date": "2026-11-18",
+  "kind": "item",
+  "title": "快手可灵官方账号 @Kling_ai 宣布上线图像模型 Kling Image 4.0。官网博客写明，已在 Kling Creative Studio 上线，并向企业和开发者提供 API，所有用户都可使用。官方介绍的三项升级是：更接近实拍的质感和原生 8K；单图最多可排 2000 个字符，并提供 70 多种商用字体，支持简体中文、繁体中文、英语、日语、韩语、西班牙语和葡萄牙语；一次提示最多生成 10 张风格统一的组图，也支持电商详情页和网页设计用的长图。这些是官方功能和规格说明，实际生成质量因提示词和场景而异，本文未做对比测试。",
+  "url": "https://x.com/Kling_ai/status/2122707362603794601"
+ },
+ {
+  "id": "2026-11-18-g01",
+  "date": "2026-11-18",
+  "kind": "infogap",
+  "title": "给自己的歌做 15 秒画面，但额度和审核规则还不太清楚",
+  "url": "https://x.com/suno/status/2122717327464747307"
+ },
+ {
+  "id": "2026-11-18-g02",
+  "date": "2026-11-18",
+  "kind": "infogap",
+  "title": "Gemini 任务功能免费了，但中国还不在开放名单里",
+  "url": "https://x.com/GeminiApp/status/2122737596971503885"
+ },
+ {
+  "id": "2026-11-18-r01",
+  "date": "2026-11-18",
+  "kind": "reply",
+  "title": "@OpenAI 宣布 GPT-6.2 Astra 和 Sol 上线：热度已经非常高，评论区并不只是叫好，已经有人说额度很快用完。回这一点能接上「更省用量」的官方说法，也不必假装自己已经用过。",
+  "url": "https://x.com/OpenAI/status/2122750124543926515"
+ },
+ {
+  "id": "2026-11-18-r02",
+  "date": "2026-11-18",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布 Tasks 对部分地区免费：中文评论已经在问中国何时开放，把官方地区名单复述清楚，比再夸一次「免费」更有用。",
+  "url": "https://x.com/GeminiApp/status/2122737596971503885"
+ },
+ {
+  "id": "2026-11-18-r03",
+  "date": "2026-11-18",
+  "kind": "reply",
+  "title": "@suno 宣布上线 Visuals：评论区的焦点已经从「能做画面」转到额度和审核。回分开计费这一点，正好也是大众会卡住的地方。",
+  "url": "https://x.com/suno/status/2122717327464747307"
+ },
+ {
+  "id": "2026-11-18-r04",
+  "date": "2026-11-18",
+  "kind": "reply",
+  "title": "@ClaudeDevs 介绍实验功能 Code Mode：收藏很高，评论区在问脚本中途出错怎么办、能不能串接更多工具。回一个具体缺口，比复述开启命令更有用。",
+  "url": "https://x.com/ClaudeDevs/status/2122801681939234950"
+ },
+ {
+  "id": "2026-11-18-v01",
+  "date": "2026-11-18",
+  "kind": "viral",
+  "title": "@OpenAI 宣布 GPT-6.2 Astra 和 Sol 上线：等了很久的版本号一出来，用过的人会立刻去对档位、额度和价格；帖子本身几乎没讲细节，把人推向官网，转发和引用都被抬得很高。",
+  "url": "https://x.com/OpenAI/status/2122750124543926515"
+ },
+ {
+  "id": "2026-11-18-v02",
+  "date": "2026-11-18",
+  "kind": "viral",
+  "title": "@ClaudeDevs 介绍 Claude Code 实验功能 Code Mode：收藏几乎追上点赞，说明很多人不是只看热闹，而是把开启方式和「长命令跑着也能先回话」存下来准备试；火的是这个可照着做的开关，不是一篇新模型发布。",
+  "url": "https://x.com/ClaudeDevs/status/2122801681939234950"
  }
 ]
