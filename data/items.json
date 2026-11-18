@@ -3643,5 +3643,98 @@
    "MG"
   ],
   "cat": "知识讲解 · 手绘动画"
+ },
+ {
+  "id": "2026-11-18-01",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i1",
+  "title": "Design Details（Good ideas travel / Clackety Clack）",
+  "author": "Josh Miller（@joshm；60fps 转发）",
+  "url": "https://x.com/60fpsdesign/status/2122660570080104572",
+  "embed": "x:2122660570080104572",
+  "tags": [
+   "UI动效",
+   "转场",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-18-02",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i2",
+  "title": "editions scrapbook: searching for joy in the shapes of typography",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2122855858854150197",
+  "embed": "x:2122855858854150197",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-18-03",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i3",
+  "title": "An Infinite Carousel of Cloth Posters",
+  "author": "Jesper Landberg（@jesper_alpacka）/ Codrops",
+  "url": "https://x.com/codrops/status/2122647273280610553",
+  "embed": "x:2122647273280610553",
+  "tags": [
+   "代码动画",
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-18-04",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i4",
+  "title": "The Biggest Asteroid That Ever Hit Earth",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/Jt7gjSnGWvM",
+  "embed": "https://www.youtube-nocookie.com/embed/Jt7gjSnGWvM",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-18-05",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i5",
+  "title": "Barbour Christmas Film 2025（补课，2025）",
+  "author": "Aardman（导演 Steve Harding-Hill；Wallace & Gromit）",
+  "url": "https://www.youtube.com/watch?v=1jqcO5kRnUo",
+  "embed": "https://www.youtube-nocookie.com/embed/1jqcO5kRnUo",
+  "tags": [
+   "实物动画",
+   "剪辑节奏"
+  ],
+  "cat": "实物动画 · 剪辑节奏"
+ },
+ {
+  "id": "2026-11-18-06",
+  "date": "2026-11-18",
+  "kind": "daily",
+  "report": "reports/2026-11-18.html#i6",
+  "title": "Guava Island Opening Titles（补课，2019）",
+  "author": "Six Point Harness（导演 Hiro Murai；New Regency）",
+  "url": "https://x.com/ani_obsessive/status/2122884300404056338",
+  "embed": "x:2122884300404056338",
+  "tags": [
+   "片头片尾",
+   "字体版式"
+  ],
+  "cat": "片头片尾 · 字体版式"
  }
 ]
