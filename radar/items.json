@@ -1265,5 +1265,96 @@
   "kind": "viral",
   "title": "@ClaudeDevs 介绍 Claude Code 实验功能 Code Mode：收藏几乎追上点赞，说明很多人不是只看热闹，而是把开启方式和「长命令跑着也能先回话」存下来准备试；火的是这个可照着做的开关，不是一篇新模型发布。",
   "url": "https://x.com/ClaudeDevs/status/2122801681939234950"
+ },
+ {
+  "id": "2026-11-19-01",
+  "date": "2026-11-19",
+  "kind": "item",
+  "title": "Google DeepMind 于 11 月 18 日宣布上线 Gemini 4 Neon。官网博客（高级副总裁兼首席 AI 架构师 Koray Kavukcuoglu）写明，Neon 夹在 Carbon 和 Hydrogen 中间：Carbon 对付最难、周期更长的项目，Hydrogen 负责日常快速执行，Neon 要同时照顾推理深度和速度。API 定价已核官网：每百万 token 输入 3 美元、缓存输入 0.15 美元（官网写明 95% 折扣）、输出 15 美元，上下文窗口 100 万 token。可用性已核官网和 @GeminiApp、@GoogleAIStudio 官方帖：当天起在 Google AI Studio 的 Gemini API 付费档、Gemini for business，以及付费的 Google AI Pro 和 Ultra 用户可在 Google Antigravity 和 Gemini 应用的模型列表里使用。官网没有写免费档可用，也没有列出中国或香港是否可在 Gemini 应用里选用。官网引用的 Artificial Analysis Intelligence Index（xhigh 档 61 分、总分第 3）以及 @ArtificialAnlys、@cursor_ai 各自发布的评测数字，属于官方转引或第三方/厂商评测，不是独立复核后的唯一标准。",
+  "url": "https://x.com/GoogleDeepMind/status/2123167884411077030"
+ },
+ {
+  "id": "2026-11-19-02",
+  "date": "2026-11-19",
+  "kind": "item",
+  "title": "Google DeepMind 和 Google Labs 于 11 月 18 日宣布，Genie 4 已放入 Project Genie。官网博客写明，这是一次面向符合条件的 Google AI Ultra 订阅用户的更新：可首次使用 Genie 4，并附带 Project Genie 智能体和社区画廊；也可在模型列表里继续用 Genie 3。Genie 4 支持在探索过程中继续输入提示，实时改天气、加入物或改剧情，并首次搭配随场景变化的实时原生音频（环境声和角色对白）。帮助中心写明：Project Genie 在 Google AI Ultra 已开放的地区提供给 Ultra 用户；Pro 用户可在同一页排队，开通会按名额逐步放；须年满 18 岁，使用个人 Google 账号登录 labs.google/fx/projectgenie；有每日用量上限。帮助中心还提示，作为早期研究原型，生成世界目前不消耗 AI credits。以上是官方功能和资格说明，官网也写了延迟、物理互动和场景保持仍在研究中，本文未做使用验证。",
+  "url": "https://x.com/GoogleDeepMind/status/2123117733709586849"
+ },
+ {
+  "id": "2026-11-19-03",
+  "date": "2026-11-19",
+  "kind": "item",
+  "title": "Suno 官方账号 11 月 18 日宣布，Suno MCP 已对所有人开放，可在 ChatGPT、Claude 等对话里做歌和做画面。官网说明页和 11 月 18 日更新的帮助中心写明：把 https://api.suno.com/mcp 加成自定义连接器，登录并授权 Suno 账号即可，不需要 API 密钥；支持 Claude、ChatGPT、Gemini、Claude Code 和 Cursor。帮助中心 FAQ 写明，Suno MCP 适用于所有 Suno 方案，包括免费档，做歌会消耗当前方案的积分，作品存进自己的 Suno 曲库。官网同时写了，给歌曲做画面和循环视觉「Available on paid plans」；部分功能可能需要付费方案；有的 AI 应用只允许特定付费档添加连接器。以上为官方说明，连接是否顺利因助手而异，本文未做逐一验证。",
+  "url": "https://x.com/suno/status/2123119383996457469"
+ },
+ {
+  "id": "2026-11-19-04",
+  "date": "2026-11-19",
+  "kind": "item",
+  "title": "Google 官方账号 @GeminiApp 和 Gemini 应用博客（Angus Logan，11 月 18 日）宣布，Gemini 应用已面向内存较小的安卓设备开放，包括符合条件的 Android（Go edition）手机。官方帮助中心写明：适用于 2GB 内存及以上的 Android Go 设备；在 Go 设备上可通过 Google 搜索应用使用 Gemini，也可以在 Play 商店下载 Gemini 应用；支持的手机可长按主页键或电源键开始对话。官网博客还写了可用 45 种以上语言进行 Gemini Live 对话、用摄像头看笔记或表格并翻译，以及用 Nano Banana 做图。帮助中心同时写了限制：Android Go 不支持用「Hey Google」和「Ask about this screen」唤起 Gemini；覆盖范围是 Gemini 已经开放的语言和国家。博客提到，后续部分传音（Transsion）等合作伙伴的新机可能预装。以上为官方说明，具体机型名单官网没有逐一列出，本文未做真机验证。",
+  "url": "https://x.com/GeminiApp/status/2123100943604707606"
+ },
+ {
+  "id": "2026-11-19-g01",
+  "date": "2026-11-19",
+  "kind": "infogap",
+  "title": "能像片场一样拖演员、开口导戏，但现在还不对个人开放",
+  "url": "https://x.com/pika_labs/status/2123127584342921652"
+ },
+ {
+  "id": "2026-11-19-g02",
+  "date": "2026-11-19",
+  "kind": "infogap",
+  "title": "能走进去的世界今天对 Ultra 开放了，和早先「只给测试者」不是同一句话",
+  "url": "https://x.com/GoogleDeepMind/status/2123117733709586849"
+ },
+ {
+  "id": "2026-11-19-r01",
+  "date": "2026-11-19",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布 Gemini 4 Neon 对 Pro 和 Ultra 开放：评论里已经在比较 Neon、Carbon、Argon，也有人注意到付费档才开放。把官方档位和定位复述清楚，比再夸一版「更强更快」更有用。",
+  "url": "https://x.com/GeminiApp/status/2123168704662012079"
+ },
+ {
+  "id": "2026-11-19-r02",
+  "date": "2026-11-19",
+  "kind": "reply",
+  "title": "@GoogleDeepMind 宣布 Genie 4 进入 Project Genie：评论区的焦点已经落到谁能用、这和普通 AI 视频有何不同。把 Ultra 和 Pro 排队讲清楚，正好也是大众会先问的问题。",
+  "url": "https://x.com/GoogleDeepMind/status/2123117733709586849"
+ },
+ {
+  "id": "2026-11-19-r03",
+  "date": "2026-11-19",
+  "kind": "reply",
+  "title": "@suno 宣布 MCP 对所有人开放：官方帖写得很短，评论里容易只听到「所有人都能用」。把免费能接、积分照扣、画面要付费档分开说，更有用。",
+  "url": "https://x.com/suno/status/2123119383996457469"
+ },
+ {
+  "id": "2026-11-19-r04",
+  "date": "2026-11-19",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布低内存安卓也能用 Gemini：评论里有人问 Live 有没有被砍掉、是不是只在美国。用官方帮助中心把范围和限制讲清楚，比重复「更多人能用」更扎实。",
+  "url": "https://x.com/GeminiApp/status/2123100943604707606"
+ },
+ {
+  "id": "2026-11-19-r05",
+  "date": "2026-11-19",
+  "kind": "reply",
+  "title": "@pika_labs 发布 Enact 研究预览：评论里已经有独立创作者在问怎么申请，不只要企业方案。把「研究预览、不对个人开放」说清楚，能挡住误以为马上能用的预期。",
+  "url": "https://x.com/pika_labs/status/2123127584342921652"
+ },
+ {
+  "id": "2026-11-19-v01",
+  "date": "2026-11-19",
+  "kind": "viral",
+  "title": "@GoogleDeepMind 宣布 Gemini 4 Neon 上线：新名字一出来，用过 Gemini 的人会立刻去对：自己能不能从列表里选、它跟 Carbon 和 Hydrogen 怎么分工；帖子本身几乎不讲细节，把人推向官网和后续长帖，引用和转发都被抬起来。",
+  "url": "https://x.com/GoogleDeepMind/status/2123167884411077030"
+ },
+ {
+  "id": "2026-11-19-v02",
+  "date": "2026-11-19",
+  "kind": "viral",
+  "title": "@pika_labs 发布 Enact 研究预览：收藏和引用相对点赞偏高，说明很多人不是只看热闹，而是把「像在片场里导戏」这个新交互存下来；火的是演示本身，即使官方已经写了个人还不能用。",
+  "url": "https://x.com/pika_labs/status/2123127584342921652"
  }
 ]
