@@ -3736,5 +3736,131 @@
    "字体版式"
   ],
   "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-11-19-01",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i1",
+  "title": "Autopilot（Site of the Week）",
+  "author": "OFF+BRAND（@itsoffbrand）/ GSAP",
+  "url": "https://x.com/greensock/status/2123092966709366857",
+  "embed": "x:2123092966709366857",
+  "tags": [
+   "转场",
+   "UI动效",
+   "字体版式"
+  ],
+  "cat": "转场 · UI动效"
+ },
+ {
+  "id": "2026-11-19-02",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i2",
+  "title": "3d Cover Flow Eleven Reader",
+  "author": "60fps（@60fpsdesign）",
+  "url": "https://x.com/60fpsdesign/status/2123088384407339153",
+  "embed": "x:2123088384407339153",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "转场"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-19-03",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i3",
+  "title": "Bicycle cards in three.js",
+  "author": "vinny（@vinicius2prg）",
+  "url": "https://x.com/vinicius2prg/status/2122748893889016015",
+  "embed": "x:2122748893889016015",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-19-04",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i4",
+  "title": "Google Gemini — Visual Design & Motion",
+  "author": "BUCK（@buck_design）；Motionimo 转发",
+  "url": "https://x.com/motionimo/status/2121833871041777859",
+  "embed": "x:2121833871041777859",
+  "tags": [
+   "MG",
+   "字体版式",
+   "3D质感"
+  ],
+  "cat": "MG · 字体版式"
+ },
+ {
+  "id": "2026-11-19-05",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i5",
+  "title": "editions scrapbook: a peek at the world below",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2123244172778119490",
+  "embed": "x:2123244172778119490",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "转场"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-19-06",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i6",
+  "title": "The Cutest Dancing Smart Speaker That Never Was（Raven R）",
+  "author": "Peter Pongó / Stash",
+  "url": "https://vimeo.com/1245070857",
+  "embed": "https://player.vimeo.com/video/1245070857",
+  "tags": [
+   "3D质感",
+   "MG",
+   "字体版式"
+  ],
+  "cat": "3D质感 · MG"
+ },
+ {
+  "id": "2026-11-19-07",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i7",
+  "title": "PSP Production（Awwwards 11-18 当日最佳）",
+  "author": "Lynksen Digital / Awwwards",
+  "url": "https://x.com/awwwards/status/2122979212520718614",
+  "embed": "x:2122979212520718614",
+  "tags": [
+   "字体版式",
+   "转场",
+   "UI动效"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-19-08",
+  "date": "2026-11-19",
+  "kind": "daily",
+  "report": "reports/2026-11-19.html#i8",
+  "title": "NASA's Voyager 1 Just Hit A Big Milestone",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/gzYBSy_2bxU",
+  "embed": "https://www.youtube-nocookie.com/embed/gzYBSy_2bxU",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
  }
 ]

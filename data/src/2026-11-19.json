@@ -1,0 +1,447 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-19 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周四，细拆剪辑节奏与转场：OFF+BRAND 给 Autopilot 做的网站展示片。看片工具完整看完 20.0 秒。值得学的不是「加了像素特效」，而是转场时字和画面分成两层：画面用大方块像素糊过去，字只做透明度切换，导航一直不动。国外信源扫过之后，合格新作 8 条，不够 10 条，不硬凑。点赞接口这次超时，评论都是以前记过的，偏好文件没有改。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@jh3yy、@sfc43588、@codegridweb、@motionimo、@awwwards、@codrops、@greensock、@threejs、@buck_design、@KernelChai、关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、YouTube（Cleo Abram、Kurzgesagt、Vox、TED-Ed、Apple、Wendover、Bloomberg、Jared Owen、Animagraffs、MKBHD、Johnny Harris）",
+ "items": [
+  {
+   "cat": "转场 · UI动效",
+   "tags": [
+    "转场",
+    "UI动效",
+    "字体版式"
+   ],
+   "title": "Autopilot（Site of the Week）",
+   "author": "OFF+BRAND（@itsoffbrand）/ GSAP",
+   "date": "X 2026-11-18",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/greensock/status/2123092966709366857"
+    ],
+    [
+     "打开网站 ↗",
+     "https://launch.joinautopilot.com/"
+    ]
+   ],
+   "good": "20 秒。整片坐在一层模糊的草地风景上，中间是一块深色圆角卡片。卡片里先是一个人加几块半透明的股票图在他头边转；点一下，画面突然变成大方块像素，再清楚成「拿着手机选股票」。后面两段同样接法，分别写成「Users invest.」和「Monetize your strategy.」。字和导航从来不跟着像素化，只在像素最糊的那一下换文案",
+   "borrow": "讲三步流程时，不要整屏一起淡入淡出。画面用大方块像素糊一下再清楚，标题单独做透明度切换，顶栏一直不动。下面有细拆",
+   "embed": "x:2123092966709366857",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "20.0 秒成片，完整看过（看片工具）",
+     "字体未识别（几何无衬线，标题比说明更粗）",
+     "全片无声"
+    ]
+   },
+   "id": "2026-11-19-01",
+   "embed_type": "x",
+   "url": "https://x.com/greensock/status/2123092966709366857",
+   "cover": "covers/2026-11-19/01.jpg"
+  },
+  {
+   "cat": "UI动效 · 3D质感",
+   "tags": [
+    "UI动效",
+    "3D质感",
+    "转场"
+   ],
+   "title": "3d Cover Flow Eleven Reader",
+   "author": "60fps（@60fpsdesign）",
+   "date": "X 2026-11-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2123088384407339153"
+    ]
+   ],
+   "good": "三条合计约 27 秒，是同一套交互的浅色、近景和深色版本。白底或黑底手机里，书架上的书像真的封面那样立体排开，中间一本正对镜头，两边的书只露出书脊和侧面。左右滑的时候，书会带着厚度转过去，底下有一层很软的影子。界面下半截的 Eleven Reader 和按钮全程不动",
+   "borrow": "要展示一组封面、卡片或产品时，不要做成扁平滑动。让中间一件正面朝向观众，两边只露厚度，滑动时带着书脊转。界面其他文字不要跟着晃",
+   "embed": "x:2123088384407339153",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "抽了 12 帧（三条分别 9.8、9.8、7.6 秒，三条都抽过）",
+     "字体未识别（界面无衬线，像手机系统字；书封是各书自己的字体）",
+     "全片无声"
+    ]
+   },
+   "id": "2026-11-19-02",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2123088384407339153",
+   "cover": "covers/2026-11-19/02.jpg"
+  },
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "Bicycle cards in three.js",
+   "author": "vinny（@vinicius2prg）",
+   "date": "X 2026-11-17",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/vinicius2prg/status/2122748893889016015"
+    ],
+    [
+     "打开演示 ↗",
+     "https://bicycle-cards.vercel.app/"
+    ]
+   ],
+   "good": "约 25 秒。绿色桌面上，一副红背花纹的扑克牌自己发、翻、摊开。牌会像纸一样翘边，落下时有很短的影子。作者写了：牌面、牌背和翻牌的声音全部用代码生成，没有用现成图片和音效。最后一屏黑底白字：「Every texture and sound is generated in code.」",
+   "borrow": "讲「这是用代码做的」时，不要加粒子。一张有厚度的纸、一次翘边、一下轻响，比贴一张图再旋转更有说服力。边缘和阴影要做干净",
+   "embed": "x:2122748893889016015",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（25.4 秒成片）",
+     "字体未识别（结束句是细的无衬线；牌面是扑克常规字体）",
+     "有声音（翻牌轻响）"
+    ]
+   },
+   "id": "2026-11-19-03",
+   "embed_type": "x",
+   "url": "https://x.com/vinicius2prg/status/2122748893889016015",
+   "cover": "covers/2026-11-19/03.jpg"
+  },
+  {
+   "cat": "MG · 字体版式",
+   "tags": [
+    "MG",
+    "字体版式",
+    "3D质感"
+   ],
+   "title": "Google Gemini — Visual Design & Motion",
+   "author": "BUCK（@buck_design）；Motionimo 转发",
+   "date": "X 2026-11-15",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2121833871041777859"
+    ]
+   ],
+   "good": "约 35 秒。黑底上先出现一颗很小的彩色四角星，再到手机上的「Discover what Gemini can do for you」。后面几乎每次只放一个东西：一条光、一个圈、一排彩色圆点、一条渐变、一颗胶囊按钮。颜色都围着那颗星的蓝绿彩虹转，没有第三套装饰",
+   "borrow": "讲一个产品的视觉识别，不要一次摆很多图标。每次只让一个形状出现，颜色从同一个主符号里取。黑底、留白、字少，会比堆功能列表更清楚",
+   "embed": "x:2121833871041777859",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（35.3 秒成片）",
+     "字体未识别（无衬线，标题比说明更粗）",
+     "有声音"
+    ]
+   },
+   "id": "2026-11-19-04",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2121833871041777859",
+   "cover": "covers/2026-11-19/04.jpg"
+  },
+  {
+   "cat": "字体版式 · 代码动画",
+   "tags": [
+    "字体版式",
+    "代码动画",
+    "转场"
+   ],
+   "title": "editions scrapbook: a peek at the world below",
+   "author": "jhey（@jh3yy）",
+   "date": "X 2026-11-19",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2123244172778119490"
+    ]
+   ],
+   "good": "约 15 秒。先是一整张蓝底的 Shopify Editions 页面，左边竖着超大的白字「Exponential」。字和画面被切成小方块、充上电，然后整页像地面裂开，镜头掉进页面下面：浏览器地址栏变成 a.world.below，原来的版面变成脚下的地面，字变成立在地里的立体招牌",
+   "borrow": "介绍一个关键词时，可以把这个词做成整页主标题，再让观众「掉进字的下面」去看细节。注意这条约 15 秒信息偏多，自己用的时候把花边粒子去掉，只留「字充电 → 掉下去 → 字变成立体物」这一下",
+   "embed": "x:2123244172778119490",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "抽了 12 帧（15.4 秒成片）",
+     "字体未识别（超大无衬线斜体主标题；页面里还有较小的无衬线目录）",
+     "有声音"
+    ]
+   },
+   "id": "2026-11-19-05",
+   "embed_type": "x",
+   "url": "https://x.com/jh3yy/status/2123244172778119490",
+   "cover": "covers/2026-11-19/05.jpg"
+  },
+  {
+   "cat": "3D质感 · MG",
+   "tags": [
+    "3D质感",
+    "MG",
+    "字体版式"
+   ],
+   "title": "The Cutest Dancing Smart Speaker That Never Was（Raven R）",
+   "author": "Peter Pongó / Stash",
+   "date": "Stash / Vimeo 近作（原型 2018）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1245070857"
+    ],
+    [
+     "看报道 ↗",
+     "https://www.stashmedia.tv/the-cutest-dancing-smart-speaker-that-never-was/"
+    ]
+   ],
+   "good": "约 37 秒。一只红色小音箱站在木桌和窗边，头是带灯点的方格子，身体会跟着节奏扭。阳光从侧面进来，它的影子清清楚楚打在墙上和桌面上。字很少，只在后段出现「raven」「time to boogie」，结尾是作者名",
+   "borrow": "给产品做一段短展示，不一定要围着它转圈。把东西放在真实的桌子和窗户前面，让侧面阳光投下完整的影子，再配一两句小字。影子比额外的光效更重要",
+   "embed": "https://player.vimeo.com/video/1245070857",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（36.7 秒成片）",
+     "字体未识别（无衬线小写标题；结尾署名偏衬线）",
+     "有声音"
+    ]
+   },
+   "id": "2026-11-19-06",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1245070857",
+   "cover": "covers/2026-11-19/06.jpg"
+  },
+  {
+   "cat": "字体版式 · 转场",
+   "tags": [
+    "字体版式",
+    "转场",
+    "UI动效"
+   ],
+   "title": "PSP Production（Awwwards 11-18 当日最佳）",
+   "author": "Lynksen Digital / Awwwards",
+   "date": "X 2026-11-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2122979212520718614"
+    ],
+    [
+     "打开网站 ↗",
+     "https://www.awwwards.com/sites/psp-production"
+    ]
+   ],
+   "good": "约 18 秒。灰白页面上先刷出大字「TRUSTED BY FORWARD-THINKING FILMMAKERS WORLDWIDE」，再切到酒红底，人像和标题叠在一起，「BEHIND EVERY PRODUCTION」被裁在画面边上，不是完整摆正。最后一句「SKIP THE HESITATION, COME SAY HI」单独占一屏",
+   "borrow": "做工作室介绍页，大标题可以故意被裁掉一部分，让人感觉字比屏幕更大。颜色不要一次换好几种，这一段就是灰白配一块酒红",
+   "embed": "x:2122979212520718614",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（17.5 秒成片）",
+     "字体未识别（大标题无衬线，偏紧、偏重）",
+     "全片无声"
+    ]
+   },
+   "id": "2026-11-19-07",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2122979212520718614",
+   "cover": "covers/2026-11-19/07.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化"
+   ],
+   "title": "NASA's Voyager 1 Just Hit A Big Milestone",
+   "author": "Cleo Abram",
+   "date": "YouTube 2026-11-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看视频 ↗",
+     "https://www.youtube.com/shorts/gzYBSy_2bxU"
+    ]
+   ],
+   "good": "约 47 秒竖版。先用一颗海王星把「光要走多远」说清楚，再画太阳周围的圈，用一条很亮的黄绿箭头标出 22 小时、4.5 倍这种比例。字是荧光黄和蓝色，对比很强。中间夹了一下订阅按钮，后段才切到探测器和金唱片的实拍",
+   "borrow": "讲距离或倍数，用一条箭头压在轨道图上，直接写出「22 小时」「4.5 倍」。自己用的时候把颜色收一档，订阅按钮不要插在讲解中间",
+   "embed": "https://www.youtube-nocookie.com/embed/gzYBSy_2bxU",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（47.2 秒成片）",
+     "字体未识别（粗无衬线标题，说明是更细的白字，标注是荧光黄块）",
+     "有声音（口播）"
+    ]
+   },
+   "id": "2026-11-19-08",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/gzYBSy_2bxU",
+   "cover": "covers/2026-11-19/08.jpg"
+  }
+ ],
+ "cut_title": "剔除（看过画面后没过）",
+ "cut": [
+  {
+   "title": "Back Market — Brand & Motion Identity",
+   "author": "Vucko（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2123099086739915088",
+   "why": "紫、荧光绿和棋盘格铺满，太浓烈"
+  },
+  {
+   "title": "Base — Brand Identity Film",
+   "author": "Mouthwash Studio（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2122985795711565868",
+   "why": "偏品牌识别样片，运动少，对视频手法帮助有限"
+  },
+  {
+   "title": "Chime — Brand Sizzle",
+   "author": "jkr Global（@motionimo 转发）",
+   "link": "https://x.com/motionimo/status/2122012638506869198",
+   "why": "插画品牌片，讲解和动效手法不多"
+  },
+  {
+   "title": "Yannice Berthault — Portfolio",
+   "author": "Yannice Berthault / GSAP",
+   "link": "https://x.com/greensock/status/2123091858985246928",
+   "why": "照片漂浮的作品集，手法一般"
+  },
+  {
+   "title": "Bucks Sauce",
+   "author": "Buzzworthy Studio、Juraj Molnár / GSAP",
+   "link": "https://x.com/greensock/status/2122706850294505472",
+   "why": "营销站点，字和配色偏吵"
+  },
+  {
+   "title": "Bulletproof（Awwwards 11-16 当日最佳）",
+   "author": "Bulletproof、Niccolo Miranda 等 / Awwwards",
+   "link": "https://x.com/awwwards/status/2122254410742972682",
+   "why": "画面和字堆叠太多，不够克制"
+  },
+  {
+   "title": "this is threejs. it's running in the browser.",
+   "author": "Blendi（@BlendiByl）",
+   "link": "https://x.com/BlendiByl/status/2123000842848793034",
+   "why": "第一人称射击游戏演示，不是视频制作手法"
+  },
+  {
+   "title": "AMIX GAMES pixel demo",
+   "author": "トミナガハルキ（@asobodesign）",
+   "link": "https://x.com/asobodesign/status/2123010331459109368",
+   "why": "像素风游戏场景，不是视频制作"
+  },
+  {
+   "title": "A small light in an empty room",
+   "author": "mitkow1（@MariuszMitkow）",
+   "link": "https://x.com/MariuszMitkow/status/2123124432805740705",
+   "why": "粒子加雾加景深，接近要排除的粒子炫技和滥用虚化"
+  },
+  {
+   "title": "Eeny, Meeny, Miny, Moe!",
+   "author": "Andrea Salseccova / Motionographer",
+   "link": "https://vimeo.com/1247961137",
+   "why": "角色叙事短片，不好直接借到讲解视频"
+  },
+  {
+   "title": "DISC",
+   "author": "Vimeo Staff Pick",
+   "link": "https://vimeo.com/1247772037",
+   "why": "叙事剧情短片，看不出可直接借的转场或剪辑手法"
+  },
+  {
+   "title": "SuperBlimp | Captain Itch（Advantage）",
+   "author": "SuperBlimp / Motionographer",
+   "link": "https://www.youtube.com/watch?v=tPkw0UCGckU",
+   "why": "精修 3D 卡通角色广告，属于已知不要"
+  },
+  {
+   "title": "Where Did My Diamond Go?",
+   "author": "Marie Lavis / Motionographer",
+   "link": "https://www.youtube.com/watch?v=E2BfhoLtkyQ",
+   "why": "手绘线稿，独立手作感偏粗，和要的精致商业感不符"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 剪辑节奏与转场",
+  "toc": "细拆：大方块像素糊一下，字单独换，导航不动",
+  "title": "20 秒：像素块一糊，字先换，画面再清楚",
+  "flag": "【看过视频】",
+  "lede": "OFF+BRAND（@itsoffbrand）给 Autopilot 做的网站展示片，今天被 GSAP 选成一周最佳网站。看片工具完整看完 20.0 秒。全片无声。好学的不是「加一层马赛克」，而是三件事：转场只作用在中间那块卡片画面上，外面的风景和导航不动；字在像素最糊的那一下用透明度换成下一句，自己不跟着糊；三段停留的时间差不多，让人读完再切。",
+  "links": [
+   [
+    "看原帖 ↗",
+    "https://x.com/greensock/status/2123092966709366857"
+   ],
+   [
+    "打开网站 ↗",
+    "https://launch.joinautopilot.com/"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（20.0 秒）",
+    "ul": [
+     "全程有一层模糊的草地风景在后面轻轻动，中间是一块深色圆角卡片，像一个悬浮的播放窗口。顶栏左边是 Menu，右边是一句很小的说明和 Launch a Fund 按钮，这一栏到结束都在",
+     "0:00–0:01.5 卡片里是一个男人抬头看向右侧，几块半透明的股票图在他头边慢慢转。左下是很大的 Autopilot，上面有一句 Instant access to the world's capital. 鼠标点一下",
+     "0:01.5–0:02 卡片里的画面突然变成大方块像素，大约一拍，再清楚成下一段。左下的字在像素最糊时换成 Step 01 / Pick your stocks.",
+     "0:02–0:08 男人侧脸拿着手机，拇指点屏幕。手机周围浮着 AMZN、PLTR 和搜索框，点到 AAPL 时这张卡片会往手机靠近一点",
+     "0:08–0:09 同样的像素转场。字换成 Step 02 / Users invest.",
+     "0:09–0:14 手机上出现一条从左往右画出来的绿色折线，标着 +30.3%。周围是 public、coinbase、Webull 这类小标签，轻轻上下浮",
+     "0:14–0:16 第三次像素转场。这一次在清楚之前，画面先闪成高对比的黑白网点，再回到彩色。字换成 Step 03 / Monetize your strategy.",
+     "0:16–0:20 改到车里往外看：方向盘、车窗和后视镜，窗外的山在往后走。车窗上停着 You can earn / ~$100,000 /yr 和一粒 + With 800 subscribers。停住，视频结束"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "开头只停约 1.5 秒，用来把点击变成「开始」。后面三段分别大约 6.5 秒、5 秒、4 秒，一段比一段略短，但都够把那一句标题读完。像素转场本身只有大约 0.5 到 1 秒，很快，真正的时间花在看清楚之后的停顿上。",
+     "全片无声，节奏完全靠转场和停顿，不靠鼓点。"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": [
+     "不是淡入淡出，也不是左右擦除。中间那层画面先变成大方块像素（每个方块大约占画面宽的百分之一到一点五），在最糊的时候叠到下一段同样被像素化的画面，再把方块收掉，下一段清楚出来。",
+     "字和顶栏完全不进这层效果。标题用很短的透明度切换，正好卡在像素最糊的那一帧。最后一段在彩色像素之外，多闪了一下黑白网点，等于把同一种转场略微加了一档，但没有再换第二种手法。"
+    ]
+   },
+   {
+    "h": "字、光和颜色",
+    "ul": [
+     "字体未识别。是几何无衬线：标题更粗、更白，说明是中灰，字距比较紧",
+     "卡片内部几乎是纯黑，字是白和灰，折线是很亮的绿。后面的草地只是一层很虚的底，不抢中间的卡片",
+     "手机界面是深色，绿色用来表示涨，没有再加霓虹和光斑"
+    ]
+   },
+   {
+    "h": "对照动效实现规则",
+    "ul": [
+     "转场约 0.5 到 1 秒，落在常见的 24–30 帧附近，没有拖长",
+     "同一时刻的主角是卡片里的画面，字只负责换句，顶栏完全停住，符合「一个主角」",
+     "默认没有用淡入淡出。像素块是一种很短的遮罩，全片只用这一种转场，最后一段加黑白网点也不算另起一套",
+     "三段停留时间接近，没有忽快忽慢"
+    ]
+   },
+   {
+    "h": "在 Remotion / 代码里怎么做",
+    "p": [
+     "把画面和字分成两层。画面层在切点前后各大约 8 到 12 帧，用一个 pixelSize 从 1 加到很大再回到 1；在像素最大的那一帧，把下一张画面叠进去。字层只做透明度，不要套同一个像素滤镜。",
+     "顶栏和背景风景单独放，全程不参与转场。难点是像素方块要够大、时间要短；方块太小或时间太长，就会看起来像普通的画质损坏，而不是一次干脆的换场。"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "比如讲一个工具的三步用法：每一步用一句短标题加一个界面特写。步和步之间不要淡入，用大方块像素糊大约半秒，标题在最糊的时候换成下一步。上面的节目标题或小logo一直留着，不要跟着闪。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-19",
+ "kind": "daily",
+ "slug": "2026-11-19"
+}
