@@ -1356,5 +1356,82 @@
   "kind": "viral",
   "title": "@pika_labs 发布 Enact 研究预览：收藏和引用相对点赞偏高，说明很多人不是只看热闹，而是把「像在片场里导戏」这个新交互存下来；火的是演示本身，即使官方已经写了个人还不能用。",
   "url": "https://x.com/pika_labs/status/2123127584342921652"
+ },
+ {
+  "id": "2026-11-20-01",
+  "date": "2026-11-20",
+  "kind": "item",
+  "title": "Google 于 11 月 19 日在官网博客宣布，Mac 版 Gemini 应用上线 computer use：你描述任务后，Gemini 会在单独的后台窗口里替你点选、打字、点菜单和填表，聊天里能看实时预览，主屏幕和鼠标仍归你。官方写明，目前仅在美国以英文滚动开放，须年满 18 岁的个人 Google 账号，且订了 Google AI Plus、Pro 或 Ultra，电脑须是苹果芯片、系统为 macOS Sequoia 15.0 及以上；下载地址是 gemini.google/mac。博客还写明，你可以选择它能进入哪些应用，随时暂停，关键操作要先经你同意。（Google 官方博客已核）",
+  "url": "https://x.com/GeminiApp/status/2123513203745538423"
+ },
+ {
+  "id": "2026-11-20-02",
+  "date": "2026-11-20",
+  "kind": "item",
+  "title": "OpenAI Codex 负责人 @thsottiaux 11 月 19 日发帖说，开始向一小部分 ChatGPT Plus 用户测试 dots，并让 dots 对 ChatGPT Business Standard 用户开放，滚动从当天开始；同时在做新的 ChatGPT 手机界面，先给已经有 dot、或符合开通条件的 Pro 用户，dot 会单独占一个标签，可以把 Codex、Projects、Images 等钉在底栏，部分人会默认看到，也可在设置里的 New ChatGPT Design 随时开关。OpenAI 官方帮助中心同日更新：dots 是一直在线、有自己云电脑的助手；面向 18 岁以上的 Pro 和部分 Plus，但排除欧洲经济区、瑞士和英国；Plus 和 Business Premium 仍逐步开放，客服不能手动开通，重装应用也不会提前获得；美国符合条件的 Business Standard 成员可在工作区创建一个个人 dot，有用量限制。中国内地是否在支持地区，该帮助页没有写明，待证。",
+  "url": "https://x.com/thsottiaux/status/2123556256392847657"
+ },
+ {
+  "id": "2026-11-20-03",
+  "date": "2026-11-20",
+  "kind": "item",
+  "title": "Google 于 11 月 19 日在官网博客宣布，继前一天把 Genie 4 放入 Project Genie 之后，开发者现可通过 Gemini API（Interactions API）和 Google AI Studio 调用 Genie 4：用文字提示、16:9 参考图或两者生成可实时操控的世界，带同步原生音频。@OfficialLoganK 和 @GoogleAIStudio 同日发帖。Gemini API 定价页写明仅付费档可用，没有免费档；输入每百万 token 1.50 美元（文字/参考图），文字输出 9.00 美元，视频输出 17.50 美元（含音频），按官方换算大约 0.10 美元一秒、约 6.05 美元一分钟；须调用 complete() 结束会话才停止计费。",
+  "url": "https://x.com/OfficialLoganK/status/2123467449257623770"
+ },
+ {
+  "id": "2026-11-20-g01",
+  "date": "2026-11-20",
+  "kind": "infogap",
+  "title": "Mac 上的 Gemini 能在后台替你点鼠标了，但现在只给美国付费用户",
+  "url": "https://x.com/GeminiApp/status/2123513203745538423"
+ },
+ {
+  "id": "2026-11-20-g02",
+  "date": "2026-11-20",
+  "kind": "infogap",
+  "title": "ChatGPT 的 dot 开始向部分 Plus 和美国商务标准档开放，欧洲还没有",
+  "url": "https://x.com/thsottiaux/status/2123556256392847657"
+ },
+ {
+  "id": "2026-11-20-r01",
+  "date": "2026-11-20",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布 Mac 版 computer use：评论里已经在对范围和会不会误操作，把官方门槛、后台窗口和关键步骤要你同意讲清楚，比再夸一遍「能替你点电脑」更有用。",
+  "url": "https://x.com/GeminiApp/status/2123513203745538423"
+ },
+ {
+  "id": "2026-11-20-r02",
+  "date": "2026-11-20",
+  "kind": "reply",
+  "title": "@thsottiaux 宣布向部分 Plus 测试 dots：Plus 用户和欧洲用户都在问自己能不能用。用官方帮助中心把逐步开放和地区限制说清楚，能挡住「全员已开」的误读。",
+  "url": "https://x.com/thsottiaux/status/2123556256392847657"
+ },
+ {
+  "id": "2026-11-20-r03",
+  "date": "2026-11-20",
+  "kind": "reply",
+  "title": "@thsottiaux 宣布新的 ChatGPT 手机界面：有人已经找不到开关，也有人在问适用范围。把「先给有 dot 的 Pro 用户」和设置里的开关复述清楚更实用。",
+  "url": "https://x.com/thsottiaux/status/2123557171321561133"
+ },
+ {
+  "id": "2026-11-20-r04",
+  "date": "2026-11-20",
+  "kind": "reply",
+  "title": "@OfficialLoganK 宣布 Genie 4 进入 Gemini API：容易和昨天的 Project Genie 消费者试用混在一起。把「付费 API、按秒计费、没有免费档」分开说，更有用。",
+  "url": "https://x.com/OfficialLoganK/status/2123467449257623770"
+ },
+ {
+  "id": "2026-11-20-v01",
+  "date": "2026-11-20",
+  "kind": "viral",
+  "title": "@AnthropicAI 发布上市影像：官方几乎没配文字，只放了一段上市影像，互动是被「Claude 背后的公司今天进了股市」这件事本身推起来的，不是新功能。",
+  "url": "https://x.com/AnthropicAI/status/2123431689934291083"
+ },
+ {
+  "id": "2026-11-20-v02",
+  "date": "2026-11-20",
+  "kind": "viral",
+  "title": "@GeminiApp 宣布 Mac 版 computer use：大家会先担心「它会不会抢走我的鼠标」；官方演示偏偏强调屏幕和光标还是你的、操作发生在后台窗口，这个反差让人把帖子留下来看怎么用。",
+  "url": "https://x.com/GeminiApp/status/2123513203745538423"
  }
 ]
