@@ -3862,5 +3862,115 @@
    "数据可视化"
   ],
   "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-20-01",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i1",
+  "title": "How Many People Can You Feed with a Dollar?",
+  "author": "Kurzgesagt – In a Nutshell",
+  "url": "https://www.youtube.com/shorts/39Hc0MZtE4w",
+  "embed": "https://www.youtube-nocookie.com/embed/39Hc0MZtE4w",
+  "tags": [
+   "知识讲解",
+   "MG",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · MG"
+ },
+ {
+  "id": "2026-11-20-02",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i2",
+  "title": "activate card interaction",
+  "author": "60fps（@60fpsdesign）× Plasma",
+  "url": "https://x.com/60fpsdesign/status/2123416923530788921",
+  "embed": "x:2123416923530788921",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "转场"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-20-03",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i3",
+  "title": "Davesocozy（Awwwards 当日最佳）",
+  "author": "David Bara（@davesocozy）/ GSAP",
+  "url": "https://x.com/greensock/status/2123416037983162722",
+  "embed": "x:2123416037983162722",
+  "tags": [
+   "代码动画",
+   "3D质感",
+   "转场"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-20-04",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i4",
+  "title": "Sequential Momentum（TCM IDs）",
+  "author": "MAMMAL",
+  "url": "https://vimeo.com/1189138403",
+  "embed": "https://player.vimeo.com/video/1189138403",
+  "tags": [
+   "转场",
+   "片头片尾",
+   "剪辑节奏"
+  ],
+  "cat": "转场 · 片头片尾"
+ },
+ {
+  "id": "2026-11-20-05",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i5",
+  "title": "林间小路",
+  "author": "nomoreluca（@nomoreluca）",
+  "url": "https://x.com/nomoreluca/status/2123381030362952178",
+  "embed": "x:2123381030362952178",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-20-06",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i6",
+  "title": "197 Historias Ilustradas",
+  "author": "++hellohello",
+  "url": "https://www.197historiasilustradas.com/",
+  "embed": "none",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-20-07",
+  "date": "2026-11-20",
+  "kind": "daily",
+  "report": "reports/2026-11-20.html#i7",
+  "title": "Food Forest – Ketelbroek（补课，2026）",
+  "author": "Freek Freriks（音乐 Wouter Messelink）",
+  "url": "https://vimeo.com/1200030245",
+  "embed": "https://player.vimeo.com/video/1200030245",
+  "tags": [
+   "3D质感",
+   "知识讲解",
+   "MG"
+  ],
+  "cat": "3D质感 · 知识讲解"
  }
 ]
