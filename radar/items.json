@@ -1433,5 +1433,75 @@
   "kind": "viral",
   "title": "@GeminiApp 宣布 Mac 版 computer use：大家会先担心「它会不会抢走我的鼠标」；官方演示偏偏强调屏幕和光标还是你的、操作发生在后台窗口，这个反差让人把帖子留下来看怎么用。",
   "url": "https://x.com/GeminiApp/status/2123513203745538423"
+ },
+ {
+  "id": "2026-11-21-01",
+  "date": "2026-11-21",
+  "kind": "item",
+  "title": "OpenAI 官方账号 @ChatGPT 11 月 20 日宣布，Space 开始向 Plus 用户开放：可以和别人一起、在 ChatGPT 协助下做可互动的页面、幻灯片和站点，并可由 ChatGPT 按你接入的应用和工具自动更新；同时支持在手机上编辑，官方称 Space 更顺、更稳。OpenAI 官方帮助中心和更新说明同日写明：即日起向全球年满 18 岁的 Plus 用户滚动开通；Space 取代资料库（Library），可在网页、桌面应用和 iOS、Android 上创建和编辑页面；打开别人分享的页面须登录已开通 Space 的 Plus、Pro、Business 或 Enterprise 账号，免费账号打不开，也没有公开链接；若桌面应用里还看不到，先升级到最新版，仍没有则该账号可能尚未开通。OpenAI 的 Andrew Ambrosino（@ajambrosino，简介写 Codex & ChatGPT @OpenAI）同日补充，应用整体视觉更简单、性能有提升，并请用户升级桌面应用；OpenAI Codex 负责人 @thsottiaux 也转发说桌面应用更快、更简单、更好用。（OpenAI 官方帮助中心和更新说明已核）",
+  "url": "https://x.com/ChatGPT/status/2123850912867471807"
+ },
+ {
+  "id": "2026-11-21-02",
+  "date": "2026-11-21",
+  "kind": "item",
+  "title": "@GeminiApp 11 月 20 日宣布，Gemini 应用可制作 GIF，使用最新视频模型 Gemini Omni 1.2 Flash，从循环照片效果到趣味表情都能做，并称动作更顺、每帧质量更稳。Google 官方帮助中心写明：可用文字、图片和/或视频做出约 3 秒的循环 GIF，支持复制粘贴或下载为 .gif 文件；个人账号须有 Google AI 套餐，须年满 18 岁并登录 Gemini 应用；制作 GIF 目前仅限澳大利亚、加拿大、法国、德国、日本、韩国、英国和美国，且在陆续开放，不一定马上能看到。中国内地不在上述名单中。帮助中心还写明，上传的图片须有使用权，不要用来欺骗、骚扰或伤害他人。（Google 官方帮助中心已核）",
+  "url": "https://x.com/GeminiApp/status/2123813017855103449"
+ },
+ {
+  "id": "2026-11-21-03",
+  "date": "2026-11-21",
+  "kind": "item",
+  "title": "Google Gemini 订阅产品负责人 @vikaskansalHQ（简介写 Product lead, Gemini AI subscriptions @google）11 月 20 日发帖说，黑五优惠从当天起提前给现有的 AI 和存储订阅用户：即日起至 11 月 26 日，Google AI Plus 和年度 Pro 最高可享 50% 折扣，以便试用包括 Gemini 4 Hydrogen 在内的最新模型，并附上 one.google.com/ai。配图文字为 Google AI Plans Black Friday，并标明 Early Access、Member Exclusive、Up to 50% off。未登录的官网活动页无法核对该折扣的具体地区、各档实际折扣和新用户是否适用；评论里已有 Plus/Pro 用户反馈看不到优惠，也有人问尚未订阅、年费续订或 Ultra 是否包含。以上以该官方身份帖和配图为准，账号里看不看得到、能打几折，待证，须以登录后的页面显示为准。",
+  "url": "https://x.com/vikaskansalHQ/status/2123833450297995624"
+ },
+ {
+  "id": "2026-11-21-g01",
+  "date": "2026-11-21",
+  "kind": "infogap",
+  "title": "ChatGPT Space 开始向 Plus 开放，免费账号打不开别人分享的页面",
+  "url": "https://x.com/ChatGPT/status/2123850912867471807"
+ },
+ {
+  "id": "2026-11-21-g02",
+  "date": "2026-11-21",
+  "kind": "infogap",
+  "title": "Gemini 能做 GIF 了，但目前只在名单里的国家，还要有 Google AI 套餐",
+  "url": "https://x.com/GeminiApp/status/2123813017855103449"
+ },
+ {
+  "id": "2026-11-21-r01",
+  "date": "2026-11-21",
+  "kind": "reply",
+  "title": "@ChatGPT 宣布 Space 向 Plus 开放：评论里已经在问入口和是不是真的能一起改。用官方帮助中心把滚动开通、升级桌面应用和免费账号打不开分享页讲清楚，比再夸一遍「能协作」更有用。",
+  "url": "https://x.com/ChatGPT/status/2123850912867471807"
+ },
+ {
+  "id": "2026-11-21-r02",
+  "date": "2026-11-21",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布 Gemini 可制作 GIF：评论和转发里已经出现「是不是免费也能用」的说法，和官方帮助中心并不完全一致。把国家和套餐限制复述清楚，能挡住误读。",
+  "url": "https://x.com/GeminiApp/status/2123813017855103449"
+ },
+ {
+  "id": "2026-11-21-r03",
+  "date": "2026-11-21",
+  "kind": "reply",
+  "title": "@vikaskansalHQ 宣布黑五会员提前五折：评论里已有人订阅了却看不到优惠，也有人在问 Ultra 和新用户。把「现有订阅用户、最高五折、以登录后页面为准」讲清楚，比直接说「已经五折了」更稳。",
+  "url": "https://x.com/vikaskansalHQ/status/2123833450297995624"
+ },
+ {
+  "id": "2026-11-21-v01",
+  "date": "2026-11-21",
+  "kind": "viral",
+  "title": "@vikaskansalHQ 宣布黑五会员提前五折：收藏数明显高于常见比例，大家是在把一份限时、还得看自己账号的折扣存下来，不是在讨论新模型本身。",
+  "url": "https://x.com/vikaskansalHQ/status/2123833450297995624"
+ },
+ {
+  "id": "2026-11-21-v02",
+  "date": "2026-11-21",
+  "kind": "viral",
+  "title": "@GeminiApp 宣布 Gemini 可制作 GIF：从「不用再翻表情包库」这个熟悉动作切入，演示短、结果能直接发出去，所以比一条模型发布更容易被人留下和转发。",
+  "url": "https://x.com/GeminiApp/status/2123813017855103449"
  }
 ]
