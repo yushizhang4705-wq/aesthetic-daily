@@ -1,0 +1,346 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-21 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周六，细拆字体版式：Propagande 工作室作品集片子。看片工具完整看完 65.0 秒。片子中间切得很快，借的时候放慢，留下三招：篮球抛起来的弧线直接接到一本 3D 书、散开的字母自己吸成一句话、一块玻璃把后面的字扭弯。国外信源扫过之后，合格新作 5 条，另补 1 条 2026 年 7 月的旧作，不够 10 条，不硬凑。点赞接口这次返回 500，评论没有新增，偏好文件没有改。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、@motionimo、@sfc43588、@threejs、@dom_meszaros、@codegridweb、关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、Art of the Title、YouTube（Cleo Abram、Kurzgesagt、Vox、Apple、Wendover、Bloomberg、Jared Owen、Animagraffs、MKBHD、Johnny Harris、TED）",
+ "items": [
+  {
+   "cat": "字体版式 · 代码动画",
+   "tags": [
+    "字体版式",
+    "代码动画",
+    "转场"
+   ],
+   "title": "Propagande Showreel",
+   "author": "Propagande（Henri Heymans、Benjamin Robinet、Nam Hai）/ Codrops",
+   "date": "X / Codrops 2026-11-20",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2123777207260553548"
+    ],
+    [
+     "打开作品集 ↗",
+     "https://propagande.studio/"
+    ],
+    [
+     "Codrops 访谈 ↗",
+     "https://tympanus.net/codrops/2026/11/20/further-together-inside-propagande/"
+    ]
+   ],
+   "good": "65 秒作品集。开头黑底上，「PROPAGANDE」几个字母先扭一下，再变清楚。4 秒时，一只篮球抛上去的弧线，直接接到一本灰色 3D 书转出来。中间有一排图片先平铺，再卷成一个环，收成一枚盾牌。后段一块透明玻璃在衬线字前面轻轻晃，把后面的字扭弯。结尾字慢慢裂开，停在一个暗的抽象形体上大约 5 秒",
+   "borrow": "段落切换时，让前一个物体的动作把下一个接住，不要淡入淡出。标题可以先打散，再一起吸回原位。玻璃折射留给需要强调的那一行字。整段节奏很快，用的时候放慢。下面有细拆",
+   "embed": "x:2123777207260553548",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "65.0 秒成片，完整看过（看片工具）",
+     "字体未识别（标题是很粗的扩展无衬线；Savoir Faire 一段用高对比衬线）",
+     "主色黑白，短暂出现亮柠绿、海蓝和橙黄。全片铺了一层胶片颗粒"
+    ]
+   },
+   "id": "2026-11-21-01",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2123777207260553548",
+   "cover": "covers/2026-11-21/01.jpg"
+  },
+  {
+   "cat": "知识讲解 · 3D质感",
+   "tags": [
+    "知识讲解",
+    "3D质感"
+   ],
+   "title": "Why Robots Suck At Hands",
+   "author": "Cleo Abram",
+   "date": "YouTube 2026-11-20",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/shorts/UlBFeDhGzx0"
+    ],
+    [
+     "横屏同一条 ↗",
+     "https://www.youtube.com/watch?v=UlBFeDhGzx0"
+    ]
+   ],
+   "good": "64 秒竖版。Cleo 举起自己的手提出问题，马上切到一只手骨模型，黄绿字写着 27 BONES PER HAND。接着给肌腱让出路的蓝色线条，再切到一只需要自己电机的机械手。中间插了电影和动画片里「手」的镜头，用来对照人为什么能那样握",
+   "borrow": "讲结构时，先出口播里的那只手，再切到同一姿势的模型。关键结构只用一条颜色标出来，不要把整只手涂满注解",
+   "embed": "https://www.youtube-nocookie.com/embed/UlBFeDhGzx0",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（64.3 秒成片）",
+     "字体未识别（说明字是带描边的无衬线粗体，接近 Impact / 压缩无衬线，不能确定）",
+     "封面用的是手骨模型，不是口播出镜"
+    ]
+   },
+   "id": "2026-11-21-02",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/UlBFeDhGzx0",
+   "cover": "covers/2026-11-21/02.jpg"
+  },
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "Membrane（Codevember Day 9）",
+   "author": "grgrdvrt（@grgrdvrt）",
+   "date": "X 2026-11-20",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/grgrdvrt/status/2123708110942650431"
+    ]
+   ],
+   "good": "29 秒。显微镜下的浅灰底上，一颗紫红色的细胞在慢慢变形：周围一圈纤毛，中间核仁清楚，膜会鼓出一个包再收回去。没有字幕，也没有装饰光效。three.js 官方转发",
+   "borrow": "做细胞或微观结构时，把膜、核、纤毛分三层，让外形自己慢慢挤和收，比加雾和粒子更像在看真的标本",
+   "embed": "x:2123708110942650431",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（29.2 秒成片）",
+     "无字。作者显示名就是 grgrdvrt",
+     "原帖只有视频，没有演示链接"
+    ]
+   },
+   "id": "2026-11-21-03",
+   "embed_type": "x",
+   "url": "https://x.com/grgrdvrt/status/2123708110942650431",
+   "cover": "covers/2026-11-21/03.jpg"
+  },
+  {
+   "cat": "知识讲解 · 3D质感",
+   "tags": [
+    "知识讲解",
+    "3D质感",
+    "数据可视化"
+   ],
+   "title": "Dwellow 房屋能量动画",
+   "author": "Dominik Mészáros（@dom_meszaros）",
+   "date": "X 2026-11-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/dom_meszaros/status/2123049116515397697"
+    ]
+   ],
+   "good": "11 秒。黑底上放着一座切开的房子：屋里灯是暖的，屋顶是光伏板，车库里有车在充电。绿线把光伏、电池、电杆和充电桩连起来，旁边标着 1.0 kW、94% 这些数。左上角的状态从 Charging 换成 Exporting、SolarActive，线跟着亮和暗",
+   "borrow": "讲家里的电或数据流向时，用一座切开的房子加几条会亮的线就够了。状态写在角落，数字贴在对应的那根线上，不要另做一张图表",
+   "embed": "x:2123049116515397697",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（11.4 秒成片）",
+     "字体未识别（界面无衬线，很小）",
+     "原帖说这是为家庭能源应用 Dwellow 做的讲解动画"
+    ]
+   },
+   "id": "2026-11-21-04",
+   "embed_type": "x",
+   "url": "https://x.com/dom_meszaros/status/2123049116515397697",
+   "cover": "covers/2026-11-21/04.jpg"
+  },
+  {
+   "cat": "UI动效 · 数据可视化",
+   "tags": [
+    "UI动效",
+    "数据可视化",
+    "字体版式"
+   ],
+   "title": "Meridian（概念站）",
+   "author": "Dominik Mészáros（@dom_meszaros）",
+   "date": "X 2026-11-19",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/dom_meszaros/status/2123435416254906729"
+    ]
+   ],
+   "good": "12 秒概念站。蓝底上先写 Your app, 40 ms from everyone on Earth.，下面是一个由点构成的地球在慢慢转。接着整屏换成各区域的响应时间，12 ms、31 ms 这些数字直接排在白底上，地球还留在下一屏的上沿",
+   "borrow": "讲「有多快、离用户有多近」时，把这句话压在一个会动的地球上面，数字单独一屏，不要和地球抢。这是概念稿，不是已上线的网站",
+   "embed": "x:2123435416254906729",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（12.1 秒成片）",
+     "字体未识别（标题是偏细的无衬线，接近几何无衬线）",
+     "主色约 #1A36E8 的纯蓝，字和地球是白的"
+    ]
+   },
+   "id": "2026-11-21-05",
+   "embed_type": "x",
+   "url": "https://x.com/dom_meszaros/status/2123435416254906729",
+   "cover": "covers/2026-11-21/05.jpg"
+  },
+  {
+   "cat": "MG · 字体版式",
+   "tags": [
+    "MG",
+    "字体版式"
+   ],
+   "title": "Birkenstock India's Journey（补课，2026）",
+   "author": "AH&Co. Studio（动画 Esha Agarwal；音乐 Captain Fuse）",
+   "date": "Vimeo 2026-07-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1210996405"
+    ],
+    [
+     "Motionographer ↗",
+     "https://motionographer.com/quickie/ahandco-studio-birkenstock-indias-journey/"
+    ]
+   ],
+   "good": "21 秒竖版。水彩蓝的印度门、桥和雪景从画面里走过，人物是简单的色块，脚上那双凉鞋却画得很清楚。人走过印度门、踩过桥面，最后落到一张地图和一行字：A WALK ACROSS INDIA",
+   "borrow": "讲「一路走过来」时，让同一双鞋踩过几个场景，场景换成水彩背景即可，人不用做复杂。结尾用一行字和一张地图收住",
+   "embed": "https://player.vimeo.com/video/1210996405",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（21.3 秒成片）",
+     "字体未识别（片尾是无衬线，BIRKENSTOCK 是品牌字）",
+     "2026 年 7 月作品，本周新作不够 10 条，作补课收入"
+    ]
+   },
+   "id": "2026-11-21-06",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1210996405",
+   "cover": "covers/2026-11-21/06.jpg"
+  }
+ ],
+ "cut_title": "剔除（看过画面后没过）",
+ "cut": [
+  {
+   "title": "The Divide / La Fracture",
+   "author": "Thomas Bertrand、Mathematic / Change（Les Restos du Cœur）",
+   "link": "https://www.youtube.com/watch?v=Zxu2mh-QKiM",
+   "why": "YouTube 显示 This video is not available，没有找到可看的备用地址，不能在没看画面的情况下收入"
+  },
+  {
+   "title": "Yachty Fan Site（GSAP 当日最佳）",
+   "author": "Ayo Niyi（@ayochills）/ GSAP",
+   "link": "https://x.com/greensock/status/2123819125822603337",
+   "why": "做旧的字和橙色字母雨铺得很满，不够克制"
+  },
+  {
+   "title": "Hear It Before You Read It: DKTON",
+   "author": "Barry Baris Dogan / Codrops",
+   "link": "https://tympanus.net/codrops/2026/11/12/dkton/",
+   "why": "是 11-13 已经推过的 Dominik Kostolnik 声音设计师网站的制作记，不重复收"
+  },
+  {
+   "title": "will it SPOM?（毛发与水面）",
+   "author": "Ash Thornton（@ashthornton）",
+   "link": "https://x.com/ashthornton/status/2123072108385435740",
+   "why": "带调试面板的材质技术演示，不是完整的视频作品，可学的剪辑和动效编排有限"
+  },
+  {
+   "title": "Shredder from ski tracker to dating app",
+   "author": "Dominik Mészáros（@dom_meszaros）",
+   "link": "https://x.com/dom_meszaros/status/2123764327824212193",
+   "why": "偏产品发布页，手机在紫底上滑动，模板感较强，对视频手法帮助有限"
+  },
+  {
+   "title": "Codevember 16",
+   "author": "Jaume Sanchez Elias（@thespite）",
+   "link": "https://x.com/thespite/status/2122764513015431280",
+   "why": "抽象块体加体积雾和粒子，接近要排除的粒子炫技和滥用虚化"
+  },
+  {
+   "title": "Codevember 2026 / 15 Mirage",
+   "author": "Ricardo Cabello（@mrdoob）",
+   "link": "https://x.com/mrdoob/status/2122281036684067202",
+   "why": "沙漠里开机器人车的游戏场景演示，不是视频制作手法"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 字体版式",
+  "toc": "细拆：Propagande 作品集——动作接住下一场、字母自己归位、玻璃扭弯后面的字",
+  "title": "65 秒：用一个动作把 2D 切进 3D，再让字母自己站好",
+  "flag": "【看过视频】",
+  "lede": "Propagande 是三个人的创意开发工作室，作品集本周上线。Codrops 发的这条片子，看片工具完整看完 65.0 秒。中间切得很快，大约 1 到 2 秒换一次画面，颜色也有一两处很亮的柠绿和橙黄。借的时候把节奏放慢、把饱和度压低就好。真正值得学的是三招：用前一个物体的动作把下一场接住，让打散的字母自己吸成一句话，再用一块玻璃去扭后面的字。",
+  "links": [
+   [
+    "看原帖 ↗",
+    "https://x.com/codrops/status/2123777207260553548"
+   ],
+   [
+    "打开作品集 ↗",
+    "https://propagande.studio/"
+   ],
+   [
+    "Codrops 访谈 ↗",
+    "https://tympanus.net/codrops/2026/11/20/further-together-inside-propagande/"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（65.0 秒）",
+    "ul": [
+     "0:00–0:03 黑底。白色字母先扭成一团，缺的笔画补上，再变清楚，成为 PROPAGANDE。上面有一层很重的胶片颗粒。硬切成白底黑字的同一行标题",
+     "0:04–0:15 实拍里一只篮球向上抛。球走到弧线最高点时，切成一本灰色的 3D 书（YARD BOOK）顺着同一条弧线转出来。书打开、快速翻页，变成一排能横滑的图片，这排图片再卷成一个环，收成一枚蓝灰色金属盾牌",
+     "0:16–0:23 界面小图快速切过。一辆 3D 卡车向右开，一道扫描线从车上扫过，实体变成点状线框，再切到绿字黑底的界面",
+     "0:24–0:37 散开的字母 Y、O、S 吸到格子里。很粗的字 rejoice、UCHATEAU 从遮罩后面滑出来。一列客户名往上滚。蓝色的碎字收成 we / ove making cool stuffs。硬切到一个 3D 地球，再推到一艘船的俯视，两侧滑进栏",
+     "0:38–0:53 建筑照片和品牌快速切。一颗蓝骰子滚向镜头。白底星爆切到柠绿底上的黑星爆。一块会晃的透明玻璃停在衬线字前面，把后面的字扭弯。一个立方体的六个面在放不同片段，网点把画面擦掉",
+     "0:54–1:05 一小段橙黄的数字液体。回到开头那种调性：白字 PROPAGANDE 压在有颗粒的暗底上，字裂开、散掉。最后大约 5 秒，一个暗的抽象形体慢慢转，淡出到黑"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "开头 3 秒和结尾 5 秒是慢的，用来把名字看清楚。中间大约从 0:04 到 0:55，画面或镜头大约每 1 到 2 秒就变一次，跟着节奏硬切，几乎不用淡入淡出。",
+     "真正要停下来看的只有两处：开头字变清楚的那一下，和结尾形体转完再淡出的 5 秒。中间那些作品展示是在带过，不是让你看完每一个项目。"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": [
+     "最干净的一招在 0:04：篮球抛上去的弧线，和 3D 书转出来的弧线是接上的。切点选在动作最高处，观众会觉得是同一个动作走进下一场，而不是两段硬拼。",
+     "0:11 把本来平铺的图片卷成一个立体环，再收成一个物体，是把界面变成道具。0:21 卡车被扫描线改材质，是用一条扫过的线换状态，不是另切一刀。其余大多是踩点硬切。"
+    ]
+   },
+   {
+    "h": "字、颜色和立体感",
+    "ul": [
+     "字体未识别。标题 PROPAGANDE 是很粗的扩展无衬线大写；Savoir Faire 那一段是高对比的衬线。认不出来具体是哪一套",
+     "主色是纯黑和纯白，灰用作中间层。短暂出现亮柠绿（约 #CFFF04）、海蓝（约 #0B1B36）和橙黄（约 #FFB000）。借的时候这些亮色可以少用或降低饱和",
+     "立体感主要靠真的 3D 物体：书、卡车、盾牌、骰子、玻璃。玻璃有厚度，会把后面的字扭弯。全片铺了一层胶片颗粒，把 2D、3D 和实拍稍微统一在一个质感里"
+    ]
+   },
+   {
+    "h": "对照动效实现规则",
+    "ul": [
+     "转场跟物体的运动方向走：球的弧线把书接住，扫描线把卡车的材质带走，不用默认淡入淡出",
+     "同一时刻尽量只有一个焦点。字母吸附时，其他东西停住；玻璃出现时，后面的字不再自己动",
+     "结尾有明确的停住：字散掉之后，形体慢转大约 5 秒再淡出，而不是在高潮处直接掐断"
+    ]
+   },
+   {
+    "h": "在 Remotion / 代码里怎么做",
+    "p": [
+     "先做「字母吸附」。把标题拆成单个字母，给每个字母一个随机的起始位置和旋转，再用一次 spring 或 power3.out，让它们同时回到 x: 0、rotation: 0。错开大约 1 到 2 帧即可，不要一个一个淡入。",
+     "再做「动作接力」。在切点前记下 2D 画面里那个运动物体的屏幕坐标和方向，切进来的 3D 物体从同一个位置、顺着同一个弧线出现。GSAP 里用很短的一段把缩放和旋转送到画面中间。",
+     "玻璃折射可以后做。用 Three.js 的 MeshPhysicalMaterial，打开 transmission 和 thickness，后面的字先画到一张贴图上，再让玻璃的顶点用一点噪声轻轻晃。难点是玻璃只扭字，不要把整个背景扭花。"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "比如讲「一个概念怎么变成可运行的东西」。开头把标题几个字打散再吸回去。中间用一只手把一张草图抛起来，弧线最高处切成同一个角度的 3D 模型转出来。需要强调一句结论时，在这行字前面放一块会轻轻晃的玻璃，只扭这一行。整段不要切得像作品集这么快，每个动作停到能看清再走。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-21",
+ "kind": "daily",
+ "slug": "2026-11-21"
+}

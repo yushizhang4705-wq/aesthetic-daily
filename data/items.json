@@ -3972,5 +3972,98 @@
    "MG"
   ],
   "cat": "3D质感 · 知识讲解"
+ },
+ {
+  "id": "2026-11-21-01",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i1",
+  "title": "Propagande Showreel",
+  "author": "Propagande（Henri Heymans、Benjamin Robinet、Nam Hai）/ Codrops",
+  "url": "https://x.com/codrops/status/2123777207260553548",
+  "embed": "x:2123777207260553548",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "转场"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-21-02",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i2",
+  "title": "Why Robots Suck At Hands",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/UlBFeDhGzx0",
+  "embed": "https://www.youtube-nocookie.com/embed/UlBFeDhGzx0",
+  "tags": [
+   "知识讲解",
+   "3D质感"
+  ],
+  "cat": "知识讲解 · 3D质感"
+ },
+ {
+  "id": "2026-11-21-03",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i3",
+  "title": "Membrane（Codevember Day 9）",
+  "author": "grgrdvrt（@grgrdvrt）",
+  "url": "https://x.com/grgrdvrt/status/2123708110942650431",
+  "embed": "x:2123708110942650431",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-21-04",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i4",
+  "title": "Dwellow 房屋能量动画",
+  "author": "Dominik Mészáros（@dom_meszaros）",
+  "url": "https://x.com/dom_meszaros/status/2123049116515397697",
+  "embed": "x:2123049116515397697",
+  "tags": [
+   "知识讲解",
+   "3D质感",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 3D质感"
+ },
+ {
+  "id": "2026-11-21-05",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i5",
+  "title": "Meridian（概念站）",
+  "author": "Dominik Mészáros（@dom_meszaros）",
+  "url": "https://x.com/dom_meszaros/status/2123435416254906729",
+  "embed": "x:2123435416254906729",
+  "tags": [
+   "UI动效",
+   "数据可视化",
+   "字体版式"
+  ],
+  "cat": "UI动效 · 数据可视化"
+ },
+ {
+  "id": "2026-11-21-06",
+  "date": "2026-11-21",
+  "kind": "daily",
+  "report": "reports/2026-11-21.html#i6",
+  "title": "Birkenstock India's Journey（补课，2026）",
+  "author": "AH&Co. Studio（动画 Esha Agarwal；音乐 Captain Fuse）",
+  "url": "https://vimeo.com/1210996405",
+  "embed": "https://player.vimeo.com/video/1210996405",
+  "tags": [
+   "MG",
+   "字体版式"
+  ],
+  "cat": "MG · 字体版式"
  }
 ]
