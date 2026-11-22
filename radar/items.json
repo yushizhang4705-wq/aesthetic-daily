@@ -1503,5 +1503,75 @@
   "kind": "viral",
   "title": "@GeminiApp 宣布 Gemini 可制作 GIF：从「不用再翻表情包库」这个熟悉动作切入，演示短、结果能直接发出去，所以比一条模型发布更容易被人留下和转发。",
   "url": "https://x.com/GeminiApp/status/2123813017855103449"
+ },
+ {
+  "id": "2026-11-22-01",
+  "date": "2026-11-22",
+  "kind": "item",
+  "title": "OpenAI 开发者体验负责人 @romainhuet（简介写 Head of Developer Experience @OpenAI）11 月 20 日晚（北京时间 11 月 21 日早）发帖并配上车内视频称，现在可以在 Apple CarPlay 里呼叫自己的 ChatGPT Dot，开车时只靠说话就能继续手头的事。OpenAI 总裁兼联合创始人 @gdb 随后转发了这条。OpenAI 官方帮助中心《Using ChatGPT in CarPlay》写明：在支持的 iPhone（须运行 iOS 26.4 或更高）、最新版 ChatGPT 应用，以及支持 Apple CarPlay 的车上，可以打开 ChatGPT 开始或继续语音对话，该功能对全球所有 ChatGPT 套餐开放；CarPlay 里不能访问地图、车辆信息或实时位置，也不能操控车辆或其他应用。但该帮助页和官方 Dot 说明（帮助中心《Getting started with your dot》、ChatGPT Learn《Meet dots》）截至抓取时都尚未写明「在 CarPlay 里呼叫 Dot」这一入口。官方帮助中心同时写明：Dot 面向 18 岁以上的 Pro，以及选定的 Plus 用户滚动开放，欧洲经济区（含欧盟）、英国和瑞士暂无；不是所有符合条件的 Plus 已经开通，客服也无法手动开通；Business Standard 仅向美国符合条件的成员滚动开放。中国内地是否支持 Dot 待证。自己车里看不看得到这次入口，须以登录后的 CarPlay 界面为准，待证。（OpenAI 官方帮助中心和 Dot 说明页已核）",
+  "url": "https://x.com/romainhuet/status/2123924316110966824"
+ },
+ {
+  "id": "2026-11-22-02",
+  "date": "2026-11-22",
+  "kind": "item",
+  "title": "中文博主 @lxfater（铁锤人）11 月 21 日介绍，谷歌实验室开源了一套设计技能包 stitch-skills，最近连续多天出现在 GitHub 热榜。官方仓库 google-labs-code/stitch-skills 写明：这是一套遵循 Agent Skills 开放标准、配合 Google Stitch MCP 服务使用的技能和插件，可用于 Codex、Antigravity、Gemini CLI、Claude Code、Cursor 等编程工具；安装前须在代理环境中配置并运行 Stitch MCP 服务，并设置相应的环境变量和凭据。网页搜索显示该仓库约 1.13 万星（精确数字待证）。Stitch 是谷歌的 AI 界面生成工具，可用文字或参考图出网页和 App 界面；这套技能包的作用是把画界面、管设计规范和转代码接到编程工具里，而不是只把技能包装上就能离线出图。（官方 GitHub 仓库说明已核）",
+  "url": "https://x.com/lxfater/status/2124133258027728994"
+ },
+ {
+  "id": "2026-11-22-03",
+  "date": "2026-11-22",
+  "kind": "item",
+  "title": "开发者 @realWeZZard 11 月 21 日开源 Antigravity 插件 antigravity-flow，官方仓库说明是用 Antigravity 自带的浏览器去操作谷歌的 AI 视频工具 Google Flow。安装方式为其帖中所写：agy plugin install 加上仓库地址。监控名单中的 @Gorden_Sun 随后转发介绍，称可把从剧本分镜到角色创建、视频生成与剪辑接到编辑器里。评论里有不同看法：@DecodeX_Jack 认为 Antigravity 本就自带浏览器，可直接调用 Flow，不一定再装插件；也有人觉得等智能体在页面上逐一点击，还不如自己在 Flow 网页里操作快。该插件不是谷歌官方发布，使用前须登录 Flow，积分确认和付费墙仍要自己处理。（GitHub 仓库说明已核；插件效果因人而异，待证）",
+  "url": "https://x.com/realWeZZard/status/2124001226144804993"
+ },
+ {
+  "id": "2026-11-22-g01",
+  "date": "2026-11-22",
+  "kind": "infogap",
+  "title": "能在 Apple CarPlay 里呼叫 ChatGPT Dot 了？官方说明页还没写上",
+  "url": "https://x.com/romainhuet/status/2123924316110966824"
+ },
+ {
+  "id": "2026-11-22-g02",
+  "date": "2026-11-22",
+  "kind": "infogap",
+  "title": "谷歌实验室开源的 stitch-skills，先要接上 Stitch 的服务",
+  "url": "https://x.com/lxfater/status/2124133258027728994"
+ },
+ {
+  "id": "2026-11-22-r01",
+  "date": "2026-11-22",
+  "kind": "reply",
+  "title": "@romainhuet 称可在 CarPlay 里呼叫 Dot：评论里已经在问欧洲能不能用、Android Auto 有没有。把官方已经写明的 CarPlay 限制、Dot 的套餐和地区门槛，以及说明页还没写上这次入口讲清楚，比再夸一遍「车上也能用」更有用。",
+  "url": "https://x.com/romainhuet/status/2123924316110966824"
+ },
+ {
+  "id": "2026-11-22-r02",
+  "date": "2026-11-22",
+  "kind": "reply",
+  "title": "@lxfater 介绍 stitch-skills：评论里在问装上能不能直接出图、会不会很费额度。把官方「须先接上 Stitch 的 MCP 服务并配好凭据」复述清楚，能挡住「下下来就能用」的误读。",
+  "url": "https://x.com/lxfater/status/2124133258027728994"
+ },
+ {
+  "id": "2026-11-22-r03",
+  "date": "2026-11-22",
+  "kind": "reply",
+  "title": "@realWeZZard 开源 Antigravity Flow 插件：评论里已经出现「编辑器自带浏览器，不一定要再装」和「等它点还不如自己点」的不同看法。把插件是第三方、仍要登录 Flow、积分和付费墙不会被绕过讲清楚，比较稳。",
+  "url": "https://x.com/realWeZZard/status/2124001226144804993"
+ },
+ {
+  "id": "2026-11-22-v01",
+  "date": "2026-11-22",
+  "kind": "viral",
+  "title": "@thsottiaux 发内部「太好玩了」却不说是什么：OpenAI Codex 负责人只丢一句「内部好玩到大家都不干活了」，又不说出是什么产品，这种没讲完的内部彩蛋最容易让人留下、追问和转发；抓取时仍看不到官方说明，所以只放对标，不进正选。",
+  "url": "https://x.com/thsottiaux/status/2123997735326232775"
+ },
+ {
+  "id": "2026-11-22-v02",
+  "date": "2026-11-22",
+  "kind": "viral",
+  "title": "@realWeZZard 开源 Antigravity 操作 Google Flow 的插件：收藏数接近赞数的两倍，明显高于常见比例，大家是在把一条能直接装上、少在网页里来回点的工作流存下来，不是在讨论新模型本身。",
+  "url": "https://x.com/realWeZZard/status/2124001226144804993"
  }
 ]
