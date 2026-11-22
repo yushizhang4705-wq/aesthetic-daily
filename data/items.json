@@ -4065,5 +4065,162 @@
    "字体版式"
   ],
   "cat": "MG · 字体版式"
+ },
+ {
+  "id": "2026-11-22-01",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i1",
+  "title": "Design Details（Good ideas travel / Clackety Clack）",
+  "author": "Josh Miller（@joshm；60fps 转发）",
+  "url": "https://x.com/60fpsdesign/status/2122660570080104572",
+  "embed": "x:2122660570080104572",
+  "tags": [
+   "UI动效",
+   "转场",
+   "3D质感"
+  ],
+  "cat": "UI动效 · 转场"
+ },
+ {
+  "id": "2026-11-22-02",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i2",
+  "title": "activate card interaction",
+  "author": "60fps（@60fpsdesign）× Plasma",
+  "url": "https://x.com/60fpsdesign/status/2123416923530788921",
+  "embed": "x:2123416923530788921",
+  "tags": [
+   "UI动效",
+   "3D质感",
+   "转场"
+  ],
+  "cat": "UI动效 · 3D质感"
+ },
+ {
+  "id": "2026-11-22-03",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i3",
+  "title": "make it pop: 003 glazed",
+  "author": "jhey（@jh3yy）",
+  "url": "https://x.com/jh3yy/status/2122118204667670621",
+  "embed": "x:2122118204667670621",
+  "tags": [
+   "代码动画",
+   "字体版式",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 字体版式"
+ },
+ {
+  "id": "2026-11-22-04",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i4",
+  "title": "Propagande Showreel",
+  "author": "Propagande（Henri Heymans、Benjamin Robinet、Nam Hai）/ Codrops",
+  "url": "https://x.com/codrops/status/2123777207260553548",
+  "embed": "x:2123777207260553548",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "转场"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-22-05",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i5",
+  "title": "Imperfect Women Opening Titles（补课，2026）",
+  "author": "Imaginary Forces（创意指导 Karin Fong；FX 研发 Danil Krivoruchko）",
+  "url": "https://x.com/myshli_com/status/2122330143423160694",
+  "embed": "x:2122330143423160694",
+  "tags": [
+   "片头片尾",
+   "字体版式",
+   "转场"
+  ],
+  "cat": "片头片尾 · 字体版式"
+ },
+ {
+  "id": "2026-11-22-06",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i6",
+  "title": "雪国のローカル線（冬沢）",
+  "author": "SF Create（@sfc43588）",
+  "url": "https://x.com/sfc43588/status/2122147649709392329",
+  "embed": "x:2122147649709392329",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-22-07",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i7",
+  "title": "Bicycle cards in three.js",
+  "author": "vinny（@vinicius2prg）",
+  "url": "https://x.com/vinicius2prg/status/2122748893889016015",
+  "embed": "x:2122748893889016015",
+  "tags": [
+   "代码动画",
+   "3D质感"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-22-08",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i8",
+  "title": "Autopilot（Site of the Week）",
+  "author": "OFF+BRAND（@itsoffbrand）/ GSAP",
+  "url": "https://x.com/greensock/status/2123092966709366857",
+  "embed": "x:2123092966709366857",
+  "tags": [
+   "转场",
+   "UI动效",
+   "字体版式"
+  ],
+  "cat": "转场 · UI动效"
+ },
+ {
+  "id": "2026-11-22-09",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i9",
+  "title": "There's something weird inside Mars",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/shorts/lG4atCDzv0E",
+  "embed": "youtube:lG4atCDzv0E",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-22-10",
+  "date": "2026-11-22",
+  "kind": "weekly",
+  "report": "reports/2026-11-22-weekly.html#i10",
+  "title": "Sequential Momentum（TCM IDs）",
+  "author": "MAMMAL",
+  "url": "https://vimeo.com/1189138403",
+  "embed": "https://player.vimeo.com/video/1189138403",
+  "tags": [
+   "转场",
+   "片头片尾",
+   "剪辑节奏"
+  ],
+  "cat": "转场 · 片头片尾"
  }
 ]
