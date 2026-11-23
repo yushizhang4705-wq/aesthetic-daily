@@ -1573,5 +1573,89 @@
   "kind": "viral",
   "title": "@realWeZZard 开源 Antigravity 操作 Google Flow 的插件：收藏数接近赞数的两倍，明显高于常见比例，大家是在把一条能直接装上、少在网页里来回点的工作流存下来，不是在讨论新模型本身。",
   "url": "https://x.com/realWeZZard/status/2124001226144804993"
+ },
+ {
+  "id": "2026-11-23-01",
+  "date": "2026-11-23",
+  "kind": "item",
+  "title": "OpenAI 首席科学家 Jakub Pachocki（@merettm，官网署名 Chief Scientist at OpenAI）11 月 22 日在官网发表《Perplexity and Intelligence》，公开了公司内部的预训练进度（用 log-perplexity，也就是交叉熵损失来衡量），并提议行业约定共同上限：在理解和监控模型行为达到具体里程碑（文中举例是思维链监控器的后继技术）之前，开发者承诺不越过这条线。文中举例：在他们当前主评估集上，GPT-3.5 约 0.99、GPT-4 约 0.91；损失降到 0.8 以下后，他们看到网络安全和数学领域出现新能力；预计进入约 0.68–0.7 区间时还会出现新的重大能力，但作者写明自己也不知道会是什么。这是倡议，不是已经生效的行业规定。@sama 转发称这是 OpenAI 近来最重要的一篇公开文章，希望行业能约定共同上限；OpenAI 总裁兼联合创始人 @gdb 也转发，并引用了文中关于安全进度未必跟得上预训练潜在加速的判断。（OpenAI 官网已核）",
+  "url": "https://x.com/merettm/status/2124549218995949967"
+ },
+ {
+  "id": "2026-11-23-02",
+  "date": "2026-11-23",
+  "kind": "item",
+  "title": "OpenAI 官方帮助中心 11 月 20 日更新说明写明：ChatGPT Space 开始向全球年满 18 岁的 Plus 用户分批开放，可与同样开通 Space 的人一起创建和编辑互动页面、演示文稿，也可让页面和幻灯片随已连接的应用自动更新；可在网页、桌面应用以及 iOS 和 Android 上使用，侧栏入口将替换 Library。免费用户打不开别人分享的页面，也没有公开链接。若桌面版看不到 Space，须先更新到最新版；更新后仍没有，则可能是该账号尚未轮到。不在监控名单里的 OpenAI 员工 @ajambrosino（简介写 Codex & ChatGPT @OpenAI）11 月 20 日另发帖列出这轮桌面版变化，包括更简洁的视觉设计、重建的对话线程、更快的页面和幻灯片、可在手机上编辑页面，以及更可靠的 Codex Remote。OpenAI Codex 负责人 @thsottiaux 11 月 22 日引用该帖，询问这轮 ChatGPT/Codex 桌面版更新用得怎么样，并说团队已在准备下一轮更大更新。桌面版其余变化以官方帮助中心和登录后的界面为准，待证。（OpenAI 官方帮助中心已核 Space 向 Plus 分批开放；@ajambrosino 所述其余桌面改动未在帮助中心该条下逐句核对）",
+  "url": "https://x.com/thsottiaux/status/2124322968499282388"
+ },
+ {
+  "id": "2026-11-23-03",
+  "date": "2026-11-23",
+  "kind": "item",
+  "title": "中文博主 @vista8（向阳乔木）11 月 22 日介绍，朋友今年做了 20 多部 AI 短剧，有个在红果播放超 5000 万，工作流里用了「漫剧老李 AIGC 创作全流程 Skill」，他说分镜做得不错，抽卡成功率提升不少。该播放量和提升幅度是朋友转述，待证。官方仓库 lixiaoxiao9888-create/manju-laoli-skill 写明：这是测试版，二次修改整合开源内容，本身不持有图片、也不直接出成片，产出是可投喂 Seedance 2.5 / 2.0 或 MiniMax H3 的提示词组；@vista8 写目前 star 两千多，网页搜索亦显示约 2385，但当场抓取 GitHub 页面未返回可靠星标数，星标数待证。",
+  "url": "https://x.com/vista8/status/2124527741613830190"
+ },
+ {
+  "id": "2026-11-23-04",
+  "date": "2026-11-23",
+  "kind": "item",
+  "title": "开发者 @Gorden_Sun 11 月 22 日介绍 pi-H3，称在 Hugging Face 的 Demo 上生成 15 秒视频大约需要 1 分钟，效果整体还可以，只有少量帧有逻辑问题。这是他的观察，不是官方基准。Hugging Face 模型页 Lakonik/pi-H3 写明：作者为斯坦福大学的 Hansheng Chen、Shengqu Cai、Gordon Wetzstein、Leonidas Guibas 等人（部分工作在 Luma AI 实习或任职期间完成），这是 MiniMax H3 的 2 步和 4 步加速插件，可生成带同步音频的视频，并介绍这是目前生成 MiniMax H3 带同步音频视频更快的办法；推荐跳过 VAE 解码的 DWD 版本，支持文字、首帧和尾帧条件。在线演示在 Hugging Face Spaces（Lakonik/pi-H3）。（Hugging Face 模型页已核）",
+  "url": "https://x.com/Gorden_Sun/status/2124429073523052704"
+ },
+ {
+  "id": "2026-11-23-g01",
+  "date": "2026-11-23",
+  "kind": "infogap",
+  "title": "ChatGPT Space 向 Plus 分批开放，桌面版要先更新",
+  "url": "https://x.com/thsottiaux/status/2124322968499282388"
+ },
+ {
+  "id": "2026-11-23-g02",
+  "date": "2026-11-23",
+  "kind": "infogap",
+  "title": "pi-H3：MiniMax H3 的 2 到 4 步加速，演示更快但还有逻辑问题",
+  "url": "https://x.com/Gorden_Sun/status/2124429073523052704"
+ },
+ {
+  "id": "2026-11-23-r01",
+  "date": "2026-11-23",
+  "kind": "reply",
+  "title": "@merettm 发表《Perplexity and Intelligence》：引用和讨论里已经在问：这是给自己踩刹车，还是在给同行出题，其他公司会不会跟。把「这是倡议，不是已经生效的规定」讲清楚，比再渲染一次训练曲线更有用。",
+  "url": "https://x.com/merettm/status/2124549218995949967"
+ },
+ {
+  "id": "2026-11-23-r02",
+  "date": "2026-11-23",
+  "kind": "reply",
+  "title": "@thsottiaux 询问 ChatGPT/Codex 桌面版更新：评论里已经在问 Plus 为什么还没有 Space、更新后语音对话是不是出了问题。把官方已经写明的分批开放、免费用户限制，以及「先更新桌面版」复述清楚，能挡住「所有 Plus 已经都能用」的误读。",
+  "url": "https://x.com/thsottiaux/status/2124322968499282388"
+ },
+ {
+  "id": "2026-11-23-r03",
+  "date": "2026-11-23",
+  "kind": "reply",
+  "title": "@vista8 介绍漫剧老李 Skill：评论里在问分镜能不能少烧额度、一集要抽多少次、公开的流程会不会人人用了就没用了。把「这是测试版提示词工具，不出成片，5000 万播放是朋友转述」讲清楚，比只转发播放数字更稳。",
+  "url": "https://x.com/vista8/status/2124527741613830190"
+ },
+ {
+  "id": "2026-11-23-r04",
+  "date": "2026-11-23",
+  "kind": "reply",
+  "title": "@Gorden_Sun 介绍 pi-H3 演示：评论里已经在问坏帧能不能单独重做，也有人注意到演示里出现了不合逻辑的脚。把官方 2 到 4 步说明，和「1 分钟出片是他的观察、不是官方基准」分开写，避免被理解成已经能稳定出成品。",
+  "url": "https://x.com/Gorden_Sun/status/2124429073523052704"
+ },
+ {
+  "id": "2026-11-23-v01",
+  "date": "2026-11-23",
+  "kind": "viral",
+  "title": "@sama 称 Pachocki 这篇文章是 OpenAI 近来最重要的公开内容：OpenAI 首席执行官亲自说「这是近来最重要的一篇」，又配上训练进度图和「希望全行业一起设限」，权威背书加上还没落地的行业规则，最容易让人留下、追问和转发。",
+  "url": "https://x.com/sama/status/2124551594691932405"
+ },
+ {
+  "id": "2026-11-23-v02",
+  "date": "2026-11-23",
+  "kind": "viral",
+  "title": "@thsottiaux 公开询问这轮桌面版哪里还不行：Codex 负责人自己发问「更新之后哪里还不行」，又预告下一轮更大更新，回复区会变成反馈箱，互动会被问题本身推高；抓取时回复数已超过 1900。",
+  "url": "https://x.com/thsottiaux/status/2124322968499282388"
  }
 ]
