@@ -1,0 +1,412 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-23 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周一，细拆代码动画和转场：Artemii Lebedev 作品集网站片子。看片工具完整看完 26.5 秒。值得学的是三招：全屏主画面缩小成目录里的一张卡片、上层字和色块不动只硬切底下的画面、章节连同底色一起往上推走。jhey 的釉面字也完整看过，类型对，但字几乎不动、主要是材质循环，细拆改走编排更完整的这条。国外信源扫过之后，合格新作 5 条，另补 2 条 2024 年的品牌动态视觉旧作，不够 10 条，不硬凑。点赞接口超时，评论有 1 条新留言（周精选里 Plasma 开卡：「动画是好的，但是重复了，之前已经看过了」），已原样记进偏好，今天不再收同类。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、@motionimo、@dom_meszaros、@buck_design、@sfc43588、@ani_obsessive，以及 motion design / Three.js / kinetic typography / explainer 关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、YouTube（Cleo Abram、Kurzgesagt、Vox、Apple、Wendover、Bloomberg、Jared Owen、Animagraffs、MKBHD、Johnny Harris、TED-Ed）",
+ "items": [
+  {
+   "cat": "转场 · 代码动画",
+   "tags": [
+    "转场",
+    "代码动画",
+    "字体版式"
+   ],
+   "title": "Artemii Lebedev",
+   "author": "Artemii Lebedev（@ArtemiuLebedev）/ Awwwards",
+   "date": "Awwwards / X 2026-11-22",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2124428590615806160"
+    ],
+    [
+     "打开作品集 ↗",
+     "https://artemiilebedev.com/"
+    ],
+    [
+     "Awwwards 页面 ↗",
+     "https://www.awwwards.com/sites/artemii-lebedev-1"
+    ]
+   ],
+   "good": "26.5 秒作品集片子。开头全屏底片在换，左上角一块白底信息卡和旁边的小字名单一直钉在原地。点一下右下角的格子，全屏画面缩小、收进一条横向卡片里，底变成纯黑。后段一个项目连同它的底色，整块往上把前一个顶走。食物菜单那一段突然密起来，还滑出一块黄面板，没有前半段干净",
+   "borrow": "开头先给一个有冲击力的全屏画面，再把它缩小成目录里的一张卡片。切画面时，让标题和角落的色块不要动，只换底下的图。章节切换时，连同底色一起推走，不要淡入淡出。下面有细拆",
+   "embed": "x:2124428590615806160",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "26.5 秒成片，完整看过（看片工具）",
+     "字体未识别（界面是极小的全大写无衬线，接近 Helvetica / Inter，不能确定）",
+     "UI 层是黑、白、深灰；颜色和质感都在底层的实拍和 3D 素材里"
+    ]
+   },
+   "id": "2026-11-23-01",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2124428590615806160",
+   "cover": "covers/2026-11-23/01.jpg"
+  },
+  {
+   "cat": "代码动画 · 字体版式",
+   "tags": [
+    "代码动画",
+    "字体版式",
+    "3D质感"
+   ],
+   "title": "make it pop: 003 glazed",
+   "author": "jhey（@jh3yy）",
+   "date": "X 2026-11-16",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/jh3yy/status/2122118204667670621"
+    ]
+   ],
+   "good": "21.5 秒方画面。黑底上两行很粗的字：make it 是纯白的，pop 里装着一层会流动的粉色糖霜，上面有白糖浆和青、橙黄的糖针。开头大约 1 秒，糖霜从左到右把 pop 填满。一只鼠标从右边划过，5 秒后停在字下面。字本身不再动，糖霜一直慢慢转",
+   "borrow": "标题里只要强调一个词，就把流动的材质裁进这几个字母里，旁边的字保持纯色。字可以完全不动，让材质自己慢转。鼠标划过如果没有反馈，不如拿掉",
+   "embed": "x:2122118204667670621",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "21.5 秒成片，完整看过（看片工具）",
+     "字体未识别（很粗的几何无衬线，接近 Inter Black / Helvetica Now Display Black，不能确定）",
+     "黑底；pop 是泡泡糖粉，带一层粉红外发光；糖针有青和橙黄"
+    ]
+   },
+   "id": "2026-11-23-02",
+   "embed_type": "x",
+   "url": "https://x.com/jh3yy/status/2122118204667670621",
+   "cover": "covers/2026-11-23/02.jpg"
+  },
+  {
+   "cat": "字体版式 · 代码动画",
+   "tags": [
+    "字体版式",
+    "代码动画",
+    "转场"
+   ],
+   "title": "Yannice Berthault — Portfolio",
+   "author": "Yannice Berthault / GSAP",
+   "date": "GSAP / X 2026-11-18",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/greensock/status/2123091858985246928"
+    ],
+    [
+     "打开作品集 ↗",
+     "https://www.yanniceberthault.com/"
+    ]
+   ],
+   "good": "12 秒。白底上散着一组黑白照片，照片自己换位置、让出中间的名字。后半段收成一页介绍：左边是字，右边是一张人像，脚边有一只足球。没有花的转场，也没有装饰光",
+   "borrow": "做个人介绍或作品目录时，先让几张图在白底上自己让开，再落到「字 + 一张人像」的静页。颜色可以只留黑白，转场不要加淡入淡出",
+   "embed": "x:2123091858985246928",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（12.0 秒成片）",
+     "字体未识别（细的无衬线，不能确定）",
+     "主色就是白底黑白照片，几乎没有其他颜色"
+    ]
+   },
+   "id": "2026-11-23-03",
+   "embed_type": "x",
+   "url": "https://x.com/greensock/status/2123091858985246928",
+   "cover": "covers/2026-11-23/03.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化"
+   ],
+   "title": "When Did the FIRST Animals Appear?",
+   "author": "Cleo Abram",
+   "date": "YouTube 2026-11-22",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Shorts ↗",
+     "https://www.youtube.com/shorts/1IpZG78mmCw"
+    ],
+    [
+     "YouTube ↗",
+     "https://www.youtube.com/watch?v=1IpZG78mmCw"
+    ]
+   ],
+   "good": "49 秒竖版。先抛问题，马上竖起一条时间轴：现在、最早的人类、恐龙灭绝、最早的动物。中间用一张「变异数量相对时间」的图，顺着箭头往回推。后又切开地层，再把今天的地球和「雪球地球」并排",
+   "borrow": "讲「这件事有多早」时，先竖一条时间轴，把几个已知的点标上，未知的那一段只用一个问号。对比两个状态，直接把两个地球并排放，不要再加装饰",
+   "embed": "https://www.youtube-nocookie.com/embed/1IpZG78mmCw",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（49.4 秒成片）",
+     "字体未识别（说明字是无衬线粗体，部分带黄绿底）",
+     "时间轴和标注常用亮黄绿；地球和地层是写实的"
+    ]
+   },
+   "id": "2026-11-23-04",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/shorts/1IpZG78mmCw",
+   "cover": "covers/2026-11-23/04.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化"
+   ],
+   "title": "The Airport Lounge Race",
+   "author": "Wendover Productions",
+   "date": "YouTube 2026-11-21",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "YouTube ↗",
+     "https://www.youtube.com/watch?v=HDfFSvCD8j0"
+    ]
+   ],
+   "good": "全片约 19 分钟，这次只完整看了前 2 分钟。深蓝底上先画出机场航站楼的简化平面图，再在各条廊桥上标出休息室。随后相同的图上多出价格标签。中间穿插航站楼和休息室的实拍，图始终还在",
+   "borrow": "讲一个地方里有哪些点和各自的价格时，先画一张极简平面图，图标和数字直接贴在对应位置上，不要先做一张单独的表。图可以反复出现，只换上面的标注",
+   "embed": "https://www.youtube-nocookie.com/embed/HDfFSvCD8j0",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "全片约 19.1 分钟，下载并看过前 120 秒（超过 3 分钟只取前 2 分钟）",
+     "字体未识别（平面图上的标签是细无衬线）",
+     "示意图是深蓝底、浅色航站楼轮廓，价格和名称用白或浅红的小标签"
+    ]
+   },
+   "id": "2026-11-23-05",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=HDfFSvCD8j0",
+   "cover": "covers/2026-11-23/05.jpg"
+  },
+  {
+   "cat": "字体版式 · 片头片尾",
+   "tags": [
+    "字体版式",
+    "片头片尾",
+    "MG"
+   ],
+   "title": "Olympic Museum Brand Identity（补课，2024）",
+   "author": "Studio Blackburn",
+   "date": "补课 2024；X 转发 2026-11-22",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2124551073876623811"
+    ],
+    [
+     "工作室项目页 ↗",
+     "https://www.studioblackburn.com/work/olympic-museum"
+    ]
+   ],
+   "good": "43 秒品牌片子。标志和「OLYMPIC MUSEUM」几个字在黑、白、绿、蓝底上重组，M 的三竖像柱子。中间切到洛桑、瑞士，再变成一排海报：同一套字，换底色和馆藏照片。颜色就是奥运五环那几块，没有额外的光效",
+   "borrow": "一套字要在多种语言和尺寸里用时，先规定好字和色块怎么拼，再只换照片和底色。片头里让几个字自己排好，比加三维旋转更清楚",
+   "embed": "x:2124551073876623811",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（43.3 秒成片）",
+     "标题是定制无衬线。公开资料里这套叫 Olympic Headline，片中其他字重未逐一核对，不能把所有字都算成这一套",
+     "2024 年品牌更新片子，今天新作不够 10 条，作补课收入"
+    ]
+   },
+   "id": "2026-11-23-06",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2124551073876623811",
+   "cover": "covers/2026-11-23/06.jpg"
+  },
+  {
+   "cat": "字体版式 · 转场",
+   "tags": [
+    "字体版式",
+    "转场",
+    "MG"
+   ],
+   "title": "Taiwan — Waves of Wonder（补课，2024）",
+   "author": "Bito（@bitostudio）",
+   "date": "补课 2024；X 转发 2026-11-19",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2123515987286708336"
+    ],
+    [
+     "工作室 ↗",
+     "https://bito.tv/"
+    ]
+   ],
+   "good": "70 秒品牌片子。一条细红线先写成 WAVES OF WONDER，再变成浪、山的折线，爬上户外大屏和照片边缘，最后绕过一座佛像。中间给色票、识别证和一组把 TAIWAN 扭成彩虹体积的字。整条片子几乎都靠这一条线在走",
+   "borrow": "做系列片头时，先定一条会变形的线：它可以变成字、变成图标，也可以贴在实拍画面的边缘。同一条线反复出现，比每段换一套花纹更容易记住",
+   "embed": "x:2123515987286708336",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（70.1 秒成片）",
+     "字体未识别（TAIWAN 是品牌字；说明字是无衬线）",
+     "主色是红、蓝、绿和黑白；2024 年台湾观光品牌 3.0 的动态视觉，今天新作不够 10 条，作补课收入"
+    ]
+   },
+   "id": "2026-11-23-07",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2123515987286708336",
+   "cover": "covers/2026-11-23/07.jpg"
+  }
+ ],
+ "cut_title": "剔除（看过画面后没过）",
+ "cut": [
+  {
+   "title": "remote connected animation",
+   "author": "60fps（@60fpsdesign）× Claude",
+   "link": "https://x.com/60fpsdesign/status/2124095751928353232",
+   "why": "5.7 秒的 Claude 远程连接界面小动效。动画清楚，但是 AI 产品界面，而且刚被指出 Plasma 开卡这类 UI 微交互重复了，今天不收"
+  },
+  {
+   "title": "upcoming trip animation",
+   "author": "60fps（@60fpsdesign）× Jonas Naimark",
+   "link": "https://x.com/60fpsdesign/status/2122198472590066059",
+   "why": "只有 2.8 秒，日历翻页的界面微动效，可学的编排太薄"
+  },
+  {
+   "title": "Carter Ogunsola",
+   "author": "Carter Ogunsola / Awwwards",
+   "link": "https://x.com/awwwards/status/2123341416700998073",
+   "why": "只有 4.6 秒的作品集片段，黑底上飘着几张卡片，看不完整"
+  },
+  {
+   "title": "Bucks Sauce",
+   "author": "Buzzworthy Studio、Juraj Molnár / GSAP",
+   "link": "https://x.com/greensock/status/2122706850294505472",
+   "why": "色彩和标题都很冲，不符合克制标准"
+  },
+  {
+   "title": "Back Market — Brand & Motion Identity",
+   "author": "Vucko",
+   "link": "https://x.com/motionimo/status/2123099086739915088",
+   "why": "霓虹黄紫和网格图案铺得很满，不够克制"
+  },
+  {
+   "title": "The CW — New Brand Identity（2024）",
+   "author": "DixonBaxi",
+   "link": "https://x.com/motionimo/status/2123654642278043812",
+   "why": "2024 年 1 月的品牌片，橙色括弧图形有可学的地方，但今天已补两张同年的品牌动态视觉，不再多补"
+  },
+  {
+   "title": "Base — Brand Identity Film（2025）",
+   "author": "Mouthwash Studio",
+   "link": "https://x.com/motionimo/status/2122985795711565868",
+   "why": "蓝白方块系统清楚，但是 2025 年旧作，和今天已收的字体系统片重叠，先放下"
+  },
+  {
+   "title": "Murray's Supercut（2023）",
+   "author": "Base Design",
+   "link": "https://x.com/motionimo/status/2124381771772899416",
+   "why": "2023 年奶酪品牌片子，图形干净，但偏品牌识别汇总，而且更旧"
+  },
+  {
+   "title": "Give the Gift of Closeness",
+   "author": "Postoffice Amsterdam / Swiss Brands United",
+   "link": "https://www.stashmedia.tv/postoffice-amsterdam-give-the-gift-of-closeness-for-swiss-brands-united/",
+   "why": "精修 3D 美西螈角色，而且 11-12 刚推过另一支美西螈广告，题材重复"
+  },
+  {
+   "title": "Cloud9 Chair for W. Schillig",
+   "author": "FrameScale",
+   "link": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
+   "why": "实拍材质和 AI 生成的悬浮镜头混在一起，转场和节奏没有特别可学的点"
+  },
+  {
+   "title": "FIAT 工业用水循环讲解",
+   "author": "romuloadr",
+   "link": "https://x.com/romuloadr/status/2124550309951529272",
+   "why": "等距小场景把流程讲清楚了，但模型和配色偏示意图，精致度不够"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 代码动画",
+  "toc": "细拆：Artemii Lebedev 作品集——全屏缩小成卡片、上层钉住只切底下、整块底色推走下一章",
+  "title": "26.5 秒：让全屏自己收成一张卡片，字和色块先不要动",
+  "flag": "【看过视频】",
+  "lede": "Artemii Lebedev 是贝尔格莱德的艺术指导，作品集在 11 月 22 日拿到 Awwwards 当日最佳。这条 26.5 秒的介绍片子，看片工具完整看完。它是网页，但有三招可以直接搬进讲解视频：全屏主画面缩小成目录里的一张卡片；切画面时，让标题和角落的色块钉在原地，只换底下的图；换章节时，连同底色一起往上推走。中间食物菜单那一段突然变密，还滑出一块黄面板，这一段不要学。",
+  "links": [
+   [
+    "看原帖 ↗",
+    "https://x.com/awwwards/status/2124428590615806160"
+   ],
+   [
+    "打开作品集 ↗",
+    "https://artemiilebedev.com/"
+   ],
+   [
+    "Awwwards 页面 ↗",
+    "https://www.awwwards.com/sites/artemii-lebedev-1"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（26.5 秒）",
+    "ul": [
+     "0:00–0:04 全屏底片在换。左上角一块白底信息卡一直钉着，旁边是很小的项目名。光标在名单上往下移，底层画面硬切成对应项目，上层的字和白块完全不动",
+     "0:04–0:12 点右下角的格子图标。正在放的全屏画面缩小、平移，收进一条横向卡片里，背景变成纯黑。视口再平滑横滑，每张卡片里自己在放一段视频",
+     "0:12–0:15 点其中一张卡片。它放大，占到屏幕右边大约三分之二；左边变成深灰，滑进一列字。原来的项目名单又叠回右图上面",
+     "0:16–0:23 换成整页项目的纵向推扫：显示器和植物（大地色）、黑白雕塑（灰黑底）、食物照片网格、合成器微距。0:21 光标停在菜单上，左侧一度变糊，右边滑出一块黄色字板",
+     "0:24–0:26 硬切回前面那种左右分屏，继续演示：上层不动，只换底下的画面"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "空间移动（缩小成卡片、横向滑、整块上推）用得干脆：起得快，停的时候再稍微收一下，没有弹簧或果冻感。",
+     "名单上的底片切换是瞬间硬切，没有淡入淡出。真正让人看清结构的，是 0:04 那一下全屏收成卡片，和后段一次一次把整页推走。"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": [
+     "最值得学的一刀在 0:04：当前这张全屏画面不是被切掉，而是作为同一层缩小、移到网格里。观众能看见「刚才那张图变成了目录的一部分」。",
+     "0:00 到 0:04、以及结尾 0:24 到 0:26，是另一种切法：信息层完全不动，只硬切底层素材。速度快，但画面重心还在。",
+     "0:16 起的纵向推扫，不是只切中间的物体，而是把「整页底色 + 中间的东西」打成一块，从下面把前一页顶出去。"
+    ]
+   },
+   {
+    "h": "字、颜色和立体感",
+    "ul": [
+     "字体未识别。界面是极小的全大写无衬线，接近 Helvetica 或 Inter，认不出来具体是哪一套。字在这里更像界面的纹理，不承担长文阅读",
+     "UI 层只有黑、白、深灰。左上角那块白底是固定的视觉钉子，前半段一直在",
+     "立体感和材质都在底层素材里：3D、微距实拍、雕塑。上层是平的。0:20 附近的食物网格和 0:21 的黄面板突然变满，和前面的留白不统一，借的时候丢掉这一段"
+    ]
+   },
+   {
+    "h": "对照动效实现规则",
+    "ul": [
+     "同一时刻尽量只有一个焦点：切底层画面时，字和色块停住；缩小成卡片时，让观众只盯着这一张在收",
+     "转场跟着空间走：全屏收进网格、整页连底色推走，不用默认淡入淡出",
+     "固定一个不动的锚点（角落的色块或小标题），画面切得再快也不散"
+    ]
+   },
+   {
+    "h": "在 Remotion / 代码里怎么做",
+    "p": [
+     "先做「钉住的上层」。标题、色块、小名单放在单独一层，全程不参与转场。底下的画面用硬切或瞬时换源，不要给这一层加淡入。",
+     "再做「全屏收成卡片」。把当前全屏片段放进一个容器，用一次快速的缓出（比如 power3.out 或短 spring），同时改 scale 和 x、y，让它落到网格里的目标位置。其他卡片从旁边滑进来。关键是容器里的视频继续放，不要换成静帧。",
+     "章节切换用整页容器：每一章是「满屏底色 + 中间内容」，下一章从 y: 100% 推到 0，把上一章顶走。难点是速度要干脆，停住的时候对齐到整页，不要弹。"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "比如讲一个概念的三步。开头先给一个有冲击力的全屏画面，停大约两秒，再把它缩小成时间轴上的第一张卡片，另外两步从旁边滑进来。换到下一步时，连同这一页的底色一起往上推走。左上角放一个始终不动的小标题或色块。中间不要做成密密的网格，也不要突然滑出一块大色板挡住主体。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-23",
+ "kind": "daily",
+ "slug": "2026-11-23"
+}
