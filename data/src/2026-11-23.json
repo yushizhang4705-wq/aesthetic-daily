@@ -2,7 +2,7 @@
  "kicker": "审美日报",
  "title": "2026-11-23 审美日报",
  "flag": "【看过画面（抽帧）】",
- "note": "今天周一，细拆代码动画和转场：Artemii Lebedev 作品集网站片子。看片工具完整看完 26.5 秒。值得学的是三招：全屏主画面缩小成目录里的一张卡片、上层字和色块不动只硬切底下的画面、章节连同底色一起往上推走。jhey 的釉面字也完整看过，类型对，但字几乎不动、主要是材质循环，细拆改走编排更完整的这条。国外信源扫过之后，合格新作 5 条，另补 2 条 2024 年的品牌动态视觉旧作，不够 10 条，不硬凑。点赞接口超时，评论有 1 条新留言（周精选里 Plasma 开卡：「动画是好的，但是重复了，之前已经看过了」），已原样记进偏好，今天不再收同类。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "note": "今天周一，细拆代码动画和转场：Artemii Lebedev 作品集网站片子。看片工具完整看完 26.5 秒。值得学的是三招：全屏主画面缩小成目录里的一张卡片、上层字和色块不动只硬切底下的画面、章节连同底色一起往上推走。国外信源扫过之后，合格新作 4 条，另补 2 条 2024 年的品牌动态视觉旧作，不够 10 条，不硬凑。点赞接口超时，评论有 1 条新留言（周精选里 Plasma 开卡：「动画是好的，但是重复了，之前已经看过了」），已原样记进偏好，今天不再收同类。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
  "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、@motionimo、@dom_meszaros、@buck_design、@sfc43588、@ani_obsessive，以及 motion design / Three.js / kinetic typography / explainer 关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、YouTube（Cleo Abram、Kurzgesagt、Vox、Apple、Wendover、Bloomberg、Jared Owen、Animagraffs、MKBHD、Johnny Harris、TED-Ed）",
  "items": [
   {
@@ -47,39 +47,6 @@
    "cover": "covers/2026-11-23/01.jpg"
   },
   {
-   "cat": "代码动画 · 字体版式",
-   "tags": [
-    "代码动画",
-    "字体版式",
-    "3D质感"
-   ],
-   "title": "make it pop: 003 glazed",
-   "author": "jhey（@jh3yy）",
-   "date": "X 2026-11-16",
-   "flag": "【看过视频】",
-   "links": [
-    [
-     "看原帖 ↗",
-     "https://x.com/jh3yy/status/2122118204667670621"
-    ]
-   ],
-   "good": "21.5 秒方画面。黑底上两行很粗的字：make it 是纯白的，pop 里装着一层会流动的粉色糖霜，上面有白糖浆和青、橙黄的糖针。开头大约 1 秒，糖霜从左到右把 pop 填满。一只鼠标从右边划过，5 秒后停在字下面。字本身不再动，糖霜一直慢慢转",
-   "borrow": "标题里只要强调一个词，就把流动的材质裁进这几个字母里，旁边的字保持纯色。字可以完全不动，让材质自己慢转。鼠标划过如果没有反馈，不如拿掉",
-   "embed": "x:2122118204667670621",
-   "media": {
-    "ratio": "s",
-    "notes": [
-     "21.5 秒成片，完整看过（看片工具）",
-     "字体未识别（很粗的几何无衬线，接近 Inter Black / Helvetica Now Display Black，不能确定）",
-     "黑底；pop 是泡泡糖粉，带一层粉红外发光；糖针有青和橙黄"
-    ]
-   },
-   "id": "2026-11-23-02",
-   "embed_type": "x",
-   "url": "https://x.com/jh3yy/status/2122118204667670621",
-   "cover": "covers/2026-11-23/02.jpg"
-  },
-  {
    "cat": "字体版式 · 代码动画",
    "tags": [
     "字体版式",
@@ -111,10 +78,10 @@
      "主色就是白底黑白照片，几乎没有其他颜色"
     ]
    },
-   "id": "2026-11-23-03",
+   "id": "2026-11-23-02",
    "embed_type": "x",
    "url": "https://x.com/greensock/status/2123091858985246928",
-   "cover": "covers/2026-11-23/03.jpg"
+   "cover": "covers/2026-11-23/02.jpg"
   },
   {
    "cat": "知识讲解 · 数据可视化",
@@ -147,10 +114,10 @@
      "时间轴和标注常用亮黄绿；地球和地层是写实的"
     ]
    },
-   "id": "2026-11-23-04",
+   "id": "2026-11-23-03",
    "embed_type": "youtube",
    "url": "https://www.youtube.com/shorts/1IpZG78mmCw",
-   "cover": "covers/2026-11-23/04.jpg"
+   "cover": "covers/2026-11-23/03.jpg"
   },
   {
    "cat": "知识讲解 · 数据可视化",
@@ -179,10 +146,10 @@
      "示意图是深蓝底、浅色航站楼轮廓，价格和名称用白或浅红的小标签"
     ]
    },
-   "id": "2026-11-23-05",
+   "id": "2026-11-23-04",
    "embed_type": "youtube",
    "url": "https://www.youtube.com/watch?v=HDfFSvCD8j0",
-   "cover": "covers/2026-11-23/05.jpg"
+   "cover": "covers/2026-11-23/04.jpg"
   },
   {
    "cat": "字体版式 · 片头片尾",
@@ -216,10 +183,10 @@
      "2024 年品牌更新片子，今天新作不够 10 条，作补课收入"
     ]
    },
-   "id": "2026-11-23-06",
+   "id": "2026-11-23-05",
    "embed_type": "x",
    "url": "https://x.com/motionimo/status/2124551073876623811",
-   "cover": "covers/2026-11-23/06.jpg"
+   "cover": "covers/2026-11-23/05.jpg"
   },
   {
    "cat": "字体版式 · 转场",
@@ -253,14 +220,20 @@
      "主色是红、蓝、绿和黑白；2024 年台湾观光品牌 3.0 的动态视觉，今天新作不够 10 条，作补课收入"
     ]
    },
-   "id": "2026-11-23-07",
+   "id": "2026-11-23-06",
    "embed_type": "x",
    "url": "https://x.com/motionimo/status/2123515987286708336",
-   "cover": "covers/2026-11-23/07.jpg"
+   "cover": "covers/2026-11-23/06.jpg"
   }
  ],
  "cut_title": "剔除（看过画面后没过）",
  "cut": [
+  {
+   "title": "make it pop: 003 glazed",
+   "author": "jhey（@jh3yy）",
+   "link": "https://x.com/jh3yy/status/2122118204667670621",
+   "why": "11-16 日报已经推过同一条，30 天内去重，不重复收"
+  },
   {
    "title": "remote connected animation",
    "author": "60fps（@60fpsdesign）× Claude",
