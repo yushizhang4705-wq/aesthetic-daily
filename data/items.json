@@ -4316,5 +4316,83 @@
    "MG"
   ],
   "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-24-01",
+  "date": "2026-11-24",
+  "kind": "daily",
+  "report": "reports/2026-11-24.html#i1",
+  "title": "Hood Summit '26 Opening Titles — Engines of Creation",
+  "author": "ManvsMachine（Client: Robinhood）",
+  "url": "https://www.stashmedia.tv/manvsmachine-opens-hood-summit-26-for-robinhood/",
+  "embed": "https://player.vimeo.com/video/1248682179",
+  "tags": [
+   "片头片尾",
+   "3D质感",
+   "字体版式"
+  ],
+  "cat": "片头片尾 · 3D质感"
+ },
+ {
+  "id": "2026-11-24-02",
+  "date": "2026-11-24",
+  "kind": "daily",
+  "report": "reports/2026-11-24.html#i2",
+  "title": "Decoding interfaces",
+  "author": "Emil Kowalski（@emilkowalski）",
+  "url": "https://x.com/emilkowalski/status/2124903277036745191",
+  "embed": "x:2124903277036745191",
+  "tags": [
+   "UI动效",
+   "代码动画",
+   "转场"
+  ],
+  "cat": "UI动效 · 代码动画"
+ },
+ {
+  "id": "2026-11-24-03",
+  "date": "2026-11-24",
+  "kind": "daily",
+  "report": "reports/2026-11-24.html#i3",
+  "title": "We Saw Alien Weather (First Time Ever)",
+  "author": "Cleo Abram",
+  "url": "https://www.youtube.com/watch?v=d4wwK7OsF9I",
+  "embed": "https://www.youtube-nocookie.com/embed/d4wwK7OsF9I",
+  "tags": [
+   "知识讲解",
+   "数据可视化"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-24-04",
+  "date": "2026-11-24",
+  "kind": "daily",
+  "report": "reports/2026-11-24.html#i4",
+  "title": "TTM — Templates That Move",
+  "author": "Mees Verberne、Ronald de Groot / GSAP",
+  "url": "https://x.com/greensock/status/2124876802451488875",
+  "embed": "x:2124876802451488875",
+  "tags": [
+   "字体版式",
+   "代码动画",
+   "UI动效"
+  ],
+  "cat": "字体版式 · 代码动画"
+ },
+ {
+  "id": "2026-11-24-05",
+  "date": "2026-11-24",
+  "kind": "daily",
+  "report": "reports/2026-11-24.html#i5",
+  "title": "ExitLiquidity landing",
+  "author": "Dominik Mészáros（@dom_meszaros）",
+  "url": "https://x.com/dom_meszaros/status/2124824309265039737",
+  "embed": "x:2124824309265039737",
+  "tags": [
+   "字体版式",
+   "UI动效"
+  ],
+  "cat": "字体版式 · UI动效"
  }
 ]
