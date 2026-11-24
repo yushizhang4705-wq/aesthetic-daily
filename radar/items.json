@@ -1657,5 +1657,96 @@
   "kind": "viral",
   "title": "@thsottiaux 公开询问这轮桌面版哪里还不行：Codex 负责人自己发问「更新之后哪里还不行」，又预告下一轮更大更新，回复区会变成反馈箱，互动会被问题本身推高；抓取时回复数已超过 1900。",
   "url": "https://x.com/thsottiaux/status/2124322968499282388"
+ },
+ {
+  "id": "2026-11-24-01",
+  "date": "2026-11-24",
+  "kind": "item",
+  "title": "OpenAI 官方账号 @ChatGPT 11 月 23 日宣布，面向日常对话优化的 GPT-6.2 Sol 开始在聊天标签页分批开放。官方帖写明：它更擅长处理复杂请求，尤其是在给出详细指令或让它上网查找信息时；日常聊天里可能注意到的变化包括：更能看清照片上的细部（例如标签上的字、路牌上的符号），在网上比较选择时更能按你在意的条件（如价格、地点）缩小范围，也更知道什么时候该追问（例如要不要在降价时提醒你）。该版本向 Plus、Pro、Business 和 Enterprise 用户分批开放。OpenAI Codex 负责人 @thsottiaux 引用该帖称，轮到自己账号后应能明显感到回答质量提升，并提到他们还在简化应用、加快速度，以及合并聊天和工作，希望到年底能明显改善日常体验。官方帮助中心同期更新写明，Chat 里的 GPT-6.2 正按 Instant 和 Thinking 分批开放；帮助中心的套餐表也写明 Free 和 Go 不包含这些思考档，默认仍是 GPT-5.6 Luna。这不是 GPT-6.2 的首次发布（11 月 17–18 日已在 Work、Codex 和 API 上线），而是日常聊天标签页开始用上面向对话优化的 Sol 版本。中国内地是否开放，帮助中心该条未单列地区，待证。（@ChatGPT 官方帖和 OpenAI 官方帮助中心已核）",
+  "url": "https://x.com/ChatGPT/status/2124942186425069836"
+ },
+ {
+  "id": "2026-11-24-02",
+  "date": "2026-11-24",
+  "kind": "item",
+  "title": "Anthropic 官方账号 @claudeai 11 月 23 日宣布，连接器（connectors）和 skill 合并为插件（plugins），现在可以用同一种方式把工具接到 Claude，或教它一套新技能，或两者一起做。官方帖写明：Free、Pro、Max 和 Ultra 已可用，Team 和 Enterprise 即将开放；可在 claude.ai/plugins 浏览，官方称已有 10,000 多个插件。官方文档写明：在 claude.ai 或桌面应用的「自定义 > 插件」页添加，插件会存到账号，之后在 Cowork 和 Claude Code 里无需再装一遍；目录里上架的插件会经过自动校验、安全扫描，新上架还会有人工审，但这不覆盖你从外部市场地址自行添加的插件。插件里的 skill 和命令是给 Claude 的说明，连接器会在你授权下访问外部服务；文档还提醒，卸掉一个同时打包了 skill 和连接器的插件，并不等于断开那个连接器，需要再单独断开。（@claudeai 官方帖和 claude.com/docs/plugins/overview 已核）",
+  "url": "https://x.com/claudeai/status/2124970294523945328"
+ },
+ {
+  "id": "2026-11-24-03",
+  "date": "2026-11-24",
+  "kind": "item",
+  "title": "智谱官方账号 @Zai_org 11 月 23 日发布 GLM-5.4，称之为首款采用 Loop Transformer 的旗舰模型，并加入视觉能力，把编程拓展到视频、游戏、三维着色器和 CAD 建模。官方技术博客和开放平台文档写明：已向 GLM Coding Plan 全量用户开放，可在 Z.ai Chat（chat.z.ai）、ZCode 和 Coding Plan 常用工具中使用；有周限额的用户使用 GLM-5.4 时，该模型可用额度提升至 GLM-5.3 的 1.5 倍；模型 API 将在完成安全评估后开放；权重计划在完成必要的安全加固后负责任地开源，目前尚未放出。文档写明输入可以是视频、图像、文本和文件，输出是文本；在支持工具调用的环境中，开发者可以给出分镜、参考图或设计要求，让模型编写代码、调用专业软件，并根据运行结果继续修改。官方也写到，模型有时会进入偏长的思考循环。博客中关于达到 2–3T 级模型智能水平、以及 200 个内部实战评测的表述，是官方自己的评估，不是第三方基准。（@Zai_org 官方帖、z.ai/blog/glm-5.4 与 docs.bigmodel.cn 已核）",
+  "url": "https://x.com/Zai_org/status/2124811995912286352"
+ },
+ {
+  "id": "2026-11-24-04",
+  "date": "2026-11-24",
+  "kind": "item",
+  "title": "Anthropic 官方账号 @ClaudeDevs 11 月 23 日发布 Claude Ship 测试版：Claude 可以审查拉取请求（pull request）、处理修改，并批准团队政策允许的请求。Claude Code 负责人 @bcherny（Boris Cherny）引用该帖说明，目前面向 Team 和 Enterprise，并称自己已在日常使用。官网和文档写明：目前面向使用 GitHub 的 Team 和 Enterprise；由已正式可用的 Code Review，以及测试版的 PR Steward、Claude Approvals 组成；开发者可在 Claude Code 里对属于自己的拉取请求使用 /ship 命令。PR Steward 设计上不负责批准或合并；Claude Approvals 按仓库里的政策文件判断，官方建议先在只观察模式使用。各组件按组织的用量额度单独计费，不含在套餐自带额度里；已开启零数据保留（ZDR）、HIPAA 配置或客户托管加密密钥的组织不可用。符合条件的 Enterprise 组织可在 2027 年 1 月 15 日前申领至少 1 万美元的 Claude Ship 额度，需在领取后 30 天内用完，以条款为准。文档也提醒：若同时使用 GitHub 自动合并，且政策不要求人工批准，改动可能在无人操作的情况下被合并。（@ClaudeDevs、@bcherny 官方帖，以及 claude.com 介绍页、产品页和文档已核）",
+  "url": "https://x.com/ClaudeDevs/status/2124959436640858475"
+ },
+ {
+  "id": "2026-11-24-g01",
+  "date": "2026-11-24",
+  "kind": "infogap",
+  "title": "OpenAI 出资请人教美国小店用 AI，但目前只开放美国独立经营的小企业",
+  "url": "https://x.com/OpenAI/status/2124922133545714160"
+ },
+ {
+  "id": "2026-11-24-g02",
+  "date": "2026-11-24",
+  "kind": "infogap",
+  "title": "ChatGPT 日常聊天开始用 GPT-6.2 Sol，但免费没有，还容易和 Work 入口搞混",
+  "url": "https://x.com/ChatGPT/status/2124942186425069836"
+ },
+ {
+  "id": "2026-11-24-r01",
+  "date": "2026-11-24",
+  "kind": "reply",
+  "title": "@ChatGPT 宣布聊天标签页上线 GPT-6.2 Sol：评论里已经在问是哪个聊天窗口、Pro 聊天到底用 Sol 还是 Astra、自己的账号何时能看到。把「聊天标签页、付费套餐、还在分批」讲清楚，比再夸一遍更好用更有用。",
+  "url": "https://x.com/ChatGPT/status/2124942186425069836"
+ },
+ {
+  "id": "2026-11-24-r02",
+  "date": "2026-11-24",
+  "kind": "reply",
+  "title": "@ClaudeDevs 发布 Claude Ship 测试版：评论里已经抓住「团队政策允许」和灰色地带怎么批。把套餐范围、GitHub 限制，以及自动合并可能带来的风险讲清楚，能挡住误读。",
+  "url": "https://x.com/ClaudeDevs/status/2124959436640858475"
+ },
+ {
+  "id": "2026-11-24-r03",
+  "date": "2026-11-24",
+  "kind": "reply",
+  "title": "@claudeai 宣布连接器和 skill 合并为插件：评论里在问一万多个插件是否都经过审查，以及卸掉插件后连接器会不会还留着。把免费套餐可用、目录审查范围和断开方式讲清楚，比只说「更方便」更稳。",
+  "url": "https://x.com/claudeai/status/2124970294523945328"
+ },
+ {
+  "id": "2026-11-24-r04",
+  "date": "2026-11-24",
+  "kind": "reply",
+  "title": "@Zai_org 发布 GLM-5.4：评论里已经在问权重何时放出、循环层能不能关掉。先讲清 Coding Plan 现在能用、API 和权重都还没放、输出仍是文本，能减少「已经能本地部署或直接出视频」的误读。",
+  "url": "https://x.com/Zai_org/status/2124811995912286352"
+ },
+ {
+  "id": "2026-11-24-r05",
+  "date": "2026-11-24",
+  "kind": "reply",
+  "title": "@OpenAI 宣布 OpenWorks：评论里已经在问是不是只有美国、欧洲和印度何时有。把官网写明的美国独立经营小企业试点讲清楚，比让人空欢喜一场更有用。",
+  "url": "https://x.com/OpenAI/status/2124922133545714160"
+ },
+ {
+  "id": "2026-11-24-v01",
+  "date": "2026-11-24",
+  "kind": "viral",
+  "title": "@ClaudeDevs 发布 Claude Ship 测试版：收藏数明显高于常见比例。大家是在把「写完还要等人审、改检查、再点通过」收成一套能按团队规则跑起来的流程，而不只是在讨论又一个模型名字。",
+  "url": "https://x.com/ClaudeDevs/status/2124959436640858475"
+ },
+ {
+  "id": "2026-11-24-v02",
+  "date": "2026-11-24",
+  "kind": "viral",
+  "title": "@OpenAI 宣布 OpenWorks：收藏已经高过点赞。大家更像是在把一份「谁能报名、是否免费、自己所在地区有没有」的计划存下来，稍后再核对条件，而不是只看一条企业新闻。",
+  "url": "https://x.com/OpenAI/status/2124922133545714160"
  }
 ]
