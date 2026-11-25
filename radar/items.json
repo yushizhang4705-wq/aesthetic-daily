@@ -1748,5 +1748,75 @@
   "kind": "viral",
   "title": "@OpenAI 宣布 OpenWorks：收藏已经高过点赞。大家更像是在把一份「谁能报名、是否免费、自己所在地区有没有」的计划存下来，稍后再核对条件，而不是只看一条企业新闻。",
   "url": "https://x.com/OpenAI/status/2124922133545714160"
+ },
+ {
+  "id": "2026-11-25-01",
+  "date": "2026-11-25",
+  "kind": "item",
+  "title": "Anthropic 官方账号 @ClaudeDevs 11 月 24 日宣布，可以把 Claude 做好的成果物（artifact）安装成 Mac 和 Windows 上的桌面应用：在对话里让它做一个小工具，点 “Install as app”，就会有自己的图标和窗口，可像普通软件一样打开。官方帖写明，它能使用你已接好的连接器；如果你允许，还可以发通知，或在菜单栏（Mac）/ 托盘（Windows）放一个图标。Anthropic 官网文章和帮助中心写明：该功能正在 Free、Pro、Max、Ultra、Team 和 Enterprise 套餐以测试版分批开放，需要 Claude 桌面版 6.28899.0 或更高；打开应用时必须在线并登录 Claude 桌面版；应用对 Claude 的调用计入套餐用量；改了原来的成果物，已安装的应用会跟着变。帮助中心还写明：Linux、网页版和手机不能装；用文档、幻灯片、表格模板做出来的成果物，以及旧版和 Cowork 里的 live artifact，不能安装；HIPAA 就绪的组织不可用。发通知、全局快捷键、浮窗、菜单栏/托盘，以及“完全访问这台电脑”（可运行程序，读写或删除文件），都要你先点允许；Anthropic 不会在你安装前审查这些应用，完全访问只建议给你信任的、由你或所在组织做的应用。中国内地是否开放，帮助中心该条未单列地区，待证。（@ClaudeDevs 官方帖、claude.com/resources/articles/install-as-app 与 support.claude.com 帮助中心已核）",
+  "url": "https://x.com/ClaudeDevs/status/2125315491522650299"
+ },
+ {
+  "id": "2026-11-25-02",
+  "date": "2026-11-25",
+  "kind": "item",
+  "title": "OpenAI Codex 负责人 @thsottiaux（Tibo）11 月 24 日发帖称，合并后的 Chat 和 Work 体验开始向一小部分 Pro 用户开放，先收集反馈再扩大范围。这不是全员更新。OpenAI 官方帮助中心《Understanding ChatGPT and Codex usage limits》写明：从 12 月起，Plus、Pro 和 Business 会把 ChatGPT 和 Codex 的用量放到一起计算，原因是把 Work 的智能体能力并进主界面；即时聊天（Instant chat）不消耗这份额度；可在设置里的用量页查看剩余量和重置时间；一小部分用户可能在 12 月前先看到用量变化，以便收集早期反馈。帮助中心仍把 Chat 和 Work 写成两种用法：Chat 负责日常问答，Work 负责更长的多步骤任务和成品，Codex 仍是独立的编程入口。评论区有不少人担心日常聊天会变难用、额度会被做事的任务占掉；帮助中心已写明即时聊天不扣这份额度，但合并后的界面具体长什么样，要以账号里实际看到的为准。中国内地是否开放，该页未单列地区，待证。（@thsottiaux 官方帖和 OpenAI 官方帮助中心已核）",
+  "url": "https://x.com/thsottiaux/status/2125284868414394550"
+ },
+ {
+  "id": "2026-11-25-03",
+  "date": "2026-11-25",
+  "kind": "item",
+  "title": "Midjourney 官方账号 @midjourney 11 月 24 日宣布 Niji V8 上线，称之为最新的动漫模型，并提到更精准的提示词、角色一致性、画面连贯性，以及专用的编辑模型。Niji 官方博客（nijijourney.com/blog/niji-8，日期 2026-11-24）写明：在 Discord 提示词后加 --niji 8，或在网页版提示词栏右侧设置里的 Version 下拉菜单选择 “Niji 8”；官方称这是目前最快、最连贯的 Niji 模型，并推荐尝试高清（HD）。角色一致性方面，博客写明 Niji 6 的 cref 由新的编辑功能替代，可以把角色放到不同背景里并尽量保持样子；同时提醒，Niji 8 不会再像 Niji 7 那样，同一句提示词就自动画出同一个角色，而会给出更多变化，要锁住样子需要用编辑，以及风格参考、情绪板等。截至抓取时，Midjourney 文档站的 Version 页仍只写到 Niji 7，参数细节以当天官方帖和 Niji 博客为准。套餐档位该博客未单列，沿用 Midjourney 现有订阅，具体能否使用待证。（@midjourney 官方帖和 nijijourney.com/blog/niji-8 已核）",
+  "url": "https://x.com/midjourney/status/2125328040624521639"
+ },
+ {
+  "id": "2026-11-25-g01",
+  "date": "2026-11-25",
+  "kind": "infogap",
+  "title": "Claude 做好的小工具能装到电脑桌面，但要联网，也还没看到抖音专题",
+  "url": "https://x.com/ClaudeDevs/status/2125315491522650299"
+ },
+ {
+  "id": "2026-11-25-g02",
+  "date": "2026-11-25",
+  "kind": "infogap",
+  "title": "Midjourney 动漫模型 Niji 8 上线，旧提示词不再自动锁角色",
+  "url": "https://x.com/midjourney/status/2125328040624521639"
+ },
+ {
+  "id": "2026-11-25-r01",
+  "date": "2026-11-25",
+  "kind": "reply",
+  "title": "@ClaudeDevs 宣布可把成果物装成桌面应用：热度和收藏都很高，评论里已经在问能不能分享、改完会不会同步、算不算套餐用量。把帮助中心已经写清的范围补一句，比再夸一遍更好用更有用。",
+  "url": "https://x.com/ClaudeDevs/status/2125315491522650299"
+ },
+ {
+  "id": "2026-11-25-r02",
+  "date": "2026-11-25",
+  "kind": "reply",
+  "title": "@thsottiaux 宣布合并后的 Chat 和 Work 开始向一小部分 Pro 用户开放：两千多条回复里很多是在担心聊天变难用、额度被做事占掉。帮助中心其实写了即时聊天不扣这份额度，而且现在只是 Pro 小范围。把范围讲清楚，比加入争吵更有用。",
+  "url": "https://x.com/thsottiaux/status/2125284868414394550"
+ },
+ {
+  "id": "2026-11-25-r03",
+  "date": "2026-11-25",
+  "kind": "reply",
+  "title": "@midjourney 宣布 Niji 8 上线：评论里有人把宣传视频当成视频生成模型，也有人在问怎么继续保持角色一致。把“这是画图模型、锁角色要用新编辑”讲清楚，正好接上这些疑问。",
+  "url": "https://x.com/midjourney/status/2125328040624521639"
+ },
+ {
+  "id": "2026-11-25-v01",
+  "date": "2026-11-25",
+  "kind": "viral",
+  "title": "@ClaudeDevs 宣布可把成果物装成桌面应用：收藏已经接近点赞的六成。大家更像是在收藏一个「自己做的小工具终于能放到桌面上」的用法，而不只是在看一条产品发布。",
+  "url": "https://x.com/ClaudeDevs/status/2125315491522650299"
+ },
+ {
+  "id": "2026-11-25-v02",
+  "date": "2026-11-25",
+  "kind": "viral",
+  "title": "@thsottiaux 宣布合并后的 Chat 和 Work 开始向一小部分 Pro 用户开放：回复数远高于常见比例，很多是在说不想把闲聊和做事合在一起，也担心额度被占用。帖子能火，是因为这件事直接碰到了日常聊天怎么用，而不只是一次功能更名。",
+  "url": "https://x.com/thsottiaux/status/2125284868414394550"
  }
 ]
