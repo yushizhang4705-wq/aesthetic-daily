@@ -1818,5 +1818,75 @@
   "kind": "viral",
   "title": "@thsottiaux 宣布合并后的 Chat 和 Work 开始向一小部分 Pro 用户开放：回复数远高于常见比例，很多是在说不想把闲聊和做事合在一起，也担心额度被占用。帖子能火，是因为这件事直接碰到了日常聊天怎么用，而不只是一次功能更名。",
   "url": "https://x.com/thsottiaux/status/2125284868414394550"
+ },
+ {
+  "id": "2026-11-26-01",
+  "date": "2026-11-26",
+  "kind": "item",
+  "title": "谷歌 Gemini 官方账号 @GeminiApp 11 月 25 日宣布，Gemini Live 里的 Guided Vision 现已可在 iOS 上使用：打开 Live，把镜头对准眼前的东西，就能在屏幕上获得实时引导。官方 10 月 1 日的博客写明，该功能先在符合条件的安卓设备上线，是与视障和低视力用户一起做的，可用于读食品包装上的小字、找掉在地上的耳机、辨认颜色和了解周围环境；镜头没对准时，它会用口语提示你往哪转、往哪倾或往后退。官方帮助中心写明：功能仍在分批开放，可能出错，不能当作医疗设备、助行工具或安全出行向导，也不应用于导航或障碍物探测。帮助中心的开关步骤目前仍按安卓写，iOS 具体入口待证。Gemini 应用帮助中心写明须年满 13 岁（或当地适用年龄），iPhone 和 iPad 需 iOS 16 及以上；这次未能完整抓到国家列表，中国内地个人账号能不能用，待证。",
+  "url": "https://x.com/GeminiApp/status/2125685936344236471"
+ },
+ {
+  "id": "2026-11-26-02",
+  "date": "2026-11-26",
+  "kind": "item",
+  "title": "OpenAI 首席执行官 Sam Altman（@sama）11 月 25 日发帖称，作为 OpenAI Private Intelligence 的最新一项，Private Inference 已开始与一小部分客户测试，希望更严的隐私保护能让前沿 AI 用于更多工作。OpenAI 官网 Private Intelligence 页面把它标为 Alpha，并写明采用机密计算和严格、可验证的控制，在模型处理过程中保护提示与回复，同时标了 API Preview。页面还提到，符合条件的工作流可使用零数据保留（ZDR）和 Private Inference。这不是个人套餐的全员更新。官网尚未公布价格、支持的模型、开放时间表和覆盖地区，这些待证。",
+  "url": "https://x.com/sama/status/2125638790593274259"
+ },
+ {
+  "id": "2026-11-26-03",
+  "date": "2026-11-26",
+  "kind": "item",
+  "title": "Anthropic 官方账号 @AnthropicAI 11 月 25 日发帖，并发布工程博客《Migrating our Messages API to Rust》。Messages API 是客户以及 Claude Code、Cowork 等自家应用调用 Claude 的主要接口。博客写明：Claude 用大约一周写出了核心请求路径的第一版，他们把原有的线上服务当作对照，用生产流量检查新旧版本是否一致，再由多组 Claude 代理追踪并修复差异。官方自己的表述是：迁到 Rust 后，每笔请求大约少用 70% 的 CPU，等到第一个字出现的中位数时间大约缩短 20%，过程中没有停服，也没有冻结功能开发。以上数字来自官方博客，不是第三方测评。",
+  "url": "https://x.com/AnthropicAI/status/2125627317263466739"
+ },
+ {
+  "id": "2026-11-26-g01",
+  "date": "2026-11-26",
+  "kind": "infogap",
+  "title": "手机对着东西边看边问，Guided Vision 到了 iOS，抖音上还没看到专题",
+  "url": "https://x.com/GeminiApp/status/2125685936344236471"
+ },
+ {
+  "id": "2026-11-26-g02",
+  "date": "2026-11-26",
+  "kind": "infogap",
+  "title": "OpenAI 开始小范围测试更严的企业推理隐私，抖音上还没看到专题",
+  "url": "https://x.com/sama/status/2125638790593274259"
+ },
+ {
+  "id": "2026-11-26-r01",
+  "date": "2026-11-26",
+  "kind": "reply",
+  "title": "@GeminiApp 宣布 Guided Vision 登陆 iOS：这是今天最贴近大众使用场景的官方更新，评论里已经在问组装家具、低端机和弱网、两个相似按钮时怎么指认。把官方已经写明的限制补一句，比再夸一遍更好用。",
+  "url": "https://x.com/GeminiApp/status/2125685936344236471"
+ },
+ {
+  "id": "2026-11-26-r02",
+  "date": "2026-11-26",
+  "kind": "reply",
+  "title": "@sama 宣布 Private Inference 小范围测试：热度高，而且评论区正好卡在「这是不是全员功能、能不能验证」。用官网已写明的 Alpha 和企业范围回一句，避免被理解成个人隐私升级。",
+  "url": "https://x.com/sama/status/2125638790593274259"
+ },
+ {
+  "id": "2026-11-26-r03",
+  "date": "2026-11-26",
+  "kind": "reply",
+  "title": "@AnthropicAI 发布 Messages API 迁至 Rust 的工程博客：互动和收藏都很高，适合把官方数字和「这是官方自述」交代清楚，避免和第三方文章里不同的百分比搅在一起。",
+  "url": "https://x.com/AnthropicAI/status/2125627317263466739"
+ },
+ {
+  "id": "2026-11-26-v01",
+  "date": "2026-11-26",
+  "kind": "viral",
+  "title": "@AnthropicAI 发布 Messages API 迁至 Rust 的工程博客：收藏已经接近点赞的一半。大家更像是在保存一个具体案例：不是又换了编程语言，而是官方把「验证比生成更难」写清楚，并给出每请求约少用 70% CPU、首字中位数约快 20% 的自述数字。",
+  "url": "https://x.com/AnthropicAI/status/2125627317263466739"
+ },
+ {
+  "id": "2026-11-26-v02",
+  "date": "2026-11-26",
+  "kind": "viral",
+  "title": "@sama 宣布 Private Inference 小范围测试：回复数高于转发，评论里反复在问「这和承诺不看有什么不一样、先覆盖哪些模型、智能体调用算不算」。高互动来自企业对数据能不能出门的关注，而不只是一条产品预告。",
+  "url": "https://x.com/sama/status/2125638790593274259"
  }
 ]
