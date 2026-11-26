@@ -1,0 +1,423 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-26 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周四，细拆剪辑节奏与转场。看片工具完整看完 Panic 为 Yelp 做的 30 秒广告 It Takes a Village。值得学的是：颜色只留灰、白和一种红，积木小镇的外墙拆开变成房间剖面，三个问题用硬切，修好之后拉远，红色评价卡出现在很多屋顶上。国外信源扫过之后，合格新作 7 条，不够 10 条，不硬凑。点赞接口超时，评论没有新条目，偏好未改。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、@motionimo、@dom_meszaros、@emilkowalski、@grgrdvrt、@ffmfed、@orpetron、@nomoreluca、@sfc43588、@buck_design，以及 motion design / Three.js / kinetic typography / opening titles 关键词搜索）、Codrops、Awwwards、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、YouTube（Cleo Abram、Kurzgesagt、Vox、Apple、Wendover、Bloomberg、Jared Owen、Animagraffs、MKBHD、Johnny Harris、3Blue1Brown）",
+ "items": [
+  {
+   "cat": "剪辑节奏 · MG",
+   "tags": [
+    "剪辑节奏",
+    "转场",
+    "MG"
+   ],
+   "title": "It Takes a Village",
+   "author": "Panic（导演 Gints Gutmanis；客户 Yelp）",
+   "date": "Stash 2026-11-25",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1244245195"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/been-there-hired-that-new-yelp-campaign-film-by-panic/"
+    ]
+   ],
+   "good": "30 秒。先是一座灰白色的积木小镇，镜头推进时一栋房子的外墙裂成方块散开，露出里面的厨房、浴室和房间。厨房橱柜要掉、浴室在涨水、院子里草齐腰深，每次切到一个麻烦，再切到一只红手点开 Yelp，然后弹出一张红色五星评价卡，修理的人就出现，问题马上被收掉。最后镜头拉远，许多屋顶上接连冒出红卡，整座小镇往下滑走，白底上留下一句 With millions of neighbors you can trust, get it done with Yelp. 再拼出标志。颜色只有灰、白、黑和一种红",
+   "borrow": "讲口碑或社区帮忙，不必先列功能。先搭一座只涂灰和白的小剖面，设三四个具体麻烦，每次硬切一间屋子，用一张红色评价卡当「解决」的信号。动作可以做成略微一顿一顿的，像 12 帧的定格。下面有细拆",
+   "embed": "https://player.vimeo.com/video/1244245195?playsinline=1&dnt=1",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "30.0 秒成片，完整看过（看片工具）",
+     "字体未识别（评价卡和结尾标语都是干净的无衬线；标志是 Yelp 品牌字）",
+     "颜色只留浅灰、白、近黑和品牌红（评价卡片取样约 #C82030）",
+     "导演说按 12 帧来做，积木既是房子也是转场"
+    ]
+   },
+   "id": "2026-11-26-01",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1244245195",
+   "cover": "covers/2026-11-26/01.jpg"
+  },
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感"
+   ],
+   "title": "Brice Deguigne ’26（bricelab.dev）",
+   "author": "Brice Deguigne（@brice_deg）/ Codrops",
+   "date": "Codrops 2026-11-25",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2125603009518579978"
+    ],
+    [
+     "打开作品集 ↗",
+     "https://www.bricelab.dev/"
+    ],
+    [
+     "阅读制作说明 ↗",
+     "https://tympanus.net/codrops/2026/11/25/brice-deguigne-3d-portfolio/"
+    ]
+   ],
+   "good": "14.8 秒。黑暗的混凝土房间里先下雨，地面有浅浅的格子。梁和柱接着被光自己勾出来，一侧墙面上出现蓝色的结构线。雨里的柱廊下聚起一团会翻卷的白雾，旁边有很小的项目标签，白雾散开变成更亮的光。镜头几乎不切，空间一直分得出前、中、后",
+   "borrow": "作品集不必一上来就摆缩略图。可以先建一个有顶光和地面的空房间，每个项目以一团会聚起来的粒子或雾出现，看完再散掉。背景保持暗，只让这一团是亮的",
+   "embed": "x:2125603009518579978",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（14.8 秒成片）",
+     "项目标签字很小，字体未识别",
+     "主色是近黑的混凝土、冷白的雨和雾、一点结构蓝"
+    ]
+   },
+   "id": "2026-11-26-02",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2125603009518579978",
+   "cover": "covers/2026-11-26/02.jpg"
+  },
+  {
+   "cat": "字体版式 · 3D质感",
+   "tags": [
+    "字体版式",
+    "3D质感",
+    "转场"
+   ],
+   "title": "Polpharma Biologics",
+   "author": "widehue / widelab",
+   "date": "Awwwards 当日最佳 2026-11-25",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2125516470553657662"
+    ],
+    [
+     "打开网站 ↗",
+     "https://www.polpharmabiologics.com/"
+    ]
+   ],
+   "good": "9.4 秒。浅薄荷色底。先出现两行深绿字 We align on your program, design the right model together, and deliver. 下面一束白管子从画面底部升高，慢慢拧成一根双螺旋，管头带着一点粉。字随后退去，螺旋转到左边，右边出现 Alignment 和几条短说明。整段几乎只有薄荷底、深绿字、白和一点粉，没有多余装饰",
+   "borrow": "讲两套东西要对齐，或一套流程怎样咬合，不必上真实的分子模型。一束管子拧成螺旋，字只留一句，其余留白。颜色先锁死两三种",
+   "embed": "x:2125516470553657662",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（9.4 秒成片）",
+     "字体未识别（有站点资料写成 Concrette 和 Season Sans，我从画面里不能自行确认）",
+     "浅薄荷底和深绿字接近 Awwwards 色板 #C6ECEB / #005453，管头另有一点粉"
+    ]
+   },
+   "id": "2026-11-26-03",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2125516470553657662",
+   "cover": "covers/2026-11-26/03.jpg"
+  },
+  {
+   "cat": "字体版式 · 转场",
+   "tags": [
+    "字体版式",
+    "转场"
+   ],
+   "title": "FORMAT",
+   "author": "Obys Agency",
+   "date": "GSAP Site of the Week 2026-11-25",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/greensock/status/2125589026262692212"
+    ],
+    [
+     "打开网站 ↗",
+     "https://format.obys.agency/"
+    ]
+   ],
+   "good": "12 秒，全程黑白。超大的紧缩无衬线字母 FORMAT 占住上半边，下面是小的作品卡片、几何圆，以及一块像时钟的圆。版面在黑底上挪位置、放大、叠层，像一本刊物的内页在重新排，但没有做成仿真翻页",
+   "borrow": "作品集或刊物品头可以只用黑白和一种超大标题字。底部的卡片和圆随标题一起改位置，不要另加彩色装饰",
+   "embed": "x:2125589026262692212",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（11.9 秒成片）",
+     "字体未识别（超大紧缩无衬线标题，正文是较小的无衬线）",
+     "只有黑和白"
+    ]
+   },
+   "id": "2026-11-26-04",
+   "embed_type": "x",
+   "url": "https://x.com/greensock/status/2125589026262692212",
+   "cover": "covers/2026-11-26/04.jpg"
+  },
+  {
+   "cat": "MG · 转场",
+   "tags": [
+    "MG",
+    "转场",
+    "字体版式"
+   ],
+   "title": "Lovable promo",
+   "author": "Jordan Archives（@jordanarchivess）",
+   "date": "X 2026-11-25（Motionimo 转发）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2125535582478541110"
+    ]
+   ],
+   "good": "30 秒。前半很克制：深蓝或黑底上一次只出现一件东西——红框眼镜、一只尺码不对的红鞋、一杯咖啡上贴着 skinny / mocha / maple / mint 的小纸片、一支被线框圈住的甜筒——每件配半句短字。随后切到一个正在打字的对话框，再落到 Build something Lovable 的产品界面和一排小窗口。结尾是一个很小的爱心标",
+   "borrow": "讲「它能按你的喜好来」，先不要出界面。用三到四件日常物品，每件只改一个细节（镜框、尺码、贴纸口味），再切到产品。颜色深底加一两件红色物件就够。这是产品宣传片，只借前半的物件比喻，不讨论工具本身",
+   "embed": "x:2125535582478541110",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "抽了 12 帧（30.1 秒成片）",
+     "字体未识别（细的无衬线短句，后段界面里是常规无衬线）",
+     "前半是深蓝或黑底，物件以红、白为主"
+    ]
+   },
+   "id": "2026-11-26-05",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2125535582478541110",
+   "cover": "covers/2026-11-26/05.jpg"
+  },
+  {
+   "cat": "字体版式 · 3D质感",
+   "tags": [
+    "字体版式",
+    "3D质感"
+   ],
+   "title": "Humo",
+   "author": "Backdoor Studio",
+   "date": "Orpetron 当日最佳 2026-11-23",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/orpetron/status/2124819299965567132"
+    ]
+   ],
+   "good": "30 秒方幅。奶油色底、橙色大字 HUMO，玻璃瓶在画面里转动或入画，后面跟上短句、橙色贴纸和一道波浪形色块，最后满屏橙色大字。颜色只锁奶油和橙。这条是颁奖转发片段，四周有 SOTD 水印和角标",
+   "borrow": "介绍一种新产品，颜色只留底色和一种品牌色。先让瓶子作为唯一主体，字后出，最后用满屏色块落一句主张",
+   "embed": "x:2124819299965567132",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "抽了 12 帧（30.1 秒方幅成片，Orpetron 转发片段带 SOTD 水印和角标）",
+     "字体未识别（粗的无衬线品牌字 HUMO，说明是较小的无衬线）",
+     "奶油底加橙色品牌色"
+    ]
+   },
+   "id": "2026-11-26-06",
+   "embed_type": "x",
+   "url": "https://x.com/orpetron/status/2124819299965567132",
+   "cover": "covers/2026-11-26/06.jpg"
+  },
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化"
+   ],
+   "title": "How a Microinverter Turns Sunlight Into Wall Power",
+   "author": "Bloomberg Originals（Bloomberg Primer）",
+   "date": "YouTube 2026-11-24",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/watch?v=3H3FnYclX8A"
+    ],
+    [
+     "竖版入口 ↗",
+     "https://www.youtube.com/shorts/3H3FnYclX8A"
+    ]
+   ],
+   "good": "99 秒竖屏。前半是采访和实拍：拆包装、太阳能板、墙上的板、一只黑色的微逆变换器。后半切到黑底白线的示意图：阳光打在板上产生直流电，家里墙插是交流电；一个大数字 6 出现，再一步步画出「把板插到墙上、那个小盒子就是微逆变换器、它负责把电转换后送进插座」。结尾是 Bloomberg PRIMER",
+   "borrow": "讲一个配件在系统里做什么，前半可以短短看一眼实物，后半把世界关掉，只留黑底和白线。每一步一个图，电流方向要画清楚。步骤数字可以单独放大",
+   "embed": "https://www.youtube-nocookie.com/embed/3H3FnYclX8A?playsinline=1&rel=0",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "抽了 12 帧（98.9 秒竖屏成片）",
+     "字体未识别（示意图里的说明是细的无衬线，结尾是 Bloomberg PRIMER）",
+     "后半是黑底、白线和白字"
+    ]
+   },
+   "id": "2026-11-26-07",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=3H3FnYclX8A",
+   "cover": "covers/2026-11-26/07.jpg"
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Better Call Quang — Portfolio Ver.02",
+   "author": "Quang Nguyen",
+   "link": "https://x.com/greensock/status/2125567393414189415",
+   "poster": "media/04_quang.jpg",
+   "why": "颜色和元素太满，复古综艺感过浓，不符合克制标准"
+  },
+  {
+   "title": "iSend landing（paper plane）",
+   "author": "Dominik Mészáros（@dom_meszaros）",
+   "link": "https://x.com/dom_meszaros/status/2125559142274441670",
+   "poster": "media/06_isend.jpg",
+   "why": "纸飞机带走页面的想法清楚，但转场过程中标题叠字、画面发虚，精致度不够"
+  },
+  {
+   "title": "Magma（Codevember Day 23）",
+   "author": "grgrdvrt（@grgrdvrt）",
+   "link": "https://x.com/grgrdvrt/status/2125625300876923276",
+   "poster": "media/07_magma.jpg",
+   "why": "地球剖面本身做得很好，但昨天刚推过同一作者的 Bolt 和 Tension，今天再推容易重复"
+  },
+  {
+   "title": "IKEA Ördenology",
+   "author": "MRM Tribal",
+   "link": "https://x.com/orpetron/status/2125487027856503277",
+   "poster": "media/08_ikea.jpg",
+   "why": "颁奖站点录屏，带 OWDA 水印和角标，动效主要是问卷翻页，手法不够突出"
+  },
+  {
+   "title": "D.A.D. · Digital Artisan Dude",
+   "author": "D.A.D.",
+   "link": "https://x.com/orpetron/status/2125228743060844919",
+   "poster": "media/09_dad.jpg",
+   "why": "Orpetron 转发带 SOTD 水印和角标；水墨手作感偏重，和要的精致商业感有距离"
+  },
+  {
+   "title": "Blade Runner 2099 series opening（Iridescent Airlock）",
+   "author": "Antibody（Patrick Clair、Raoul Marks）",
+   "link": "https://www.stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series/",
+   "poster": "media/11_blade.jpg",
+   "why": "片头质感高，但霓虹品红过浓、抽象光效多，接近排除项里的霓虹风，也不太容易搬到讲解视频"
+  },
+  {
+   "title": "What’s In This Giant Hole?",
+   "author": "Cleo Abram",
+   "link": "https://www.youtube.com/watch?v=R4viO9hnz8U",
+   "poster": "media/13_cleo.jpg",
+   "why": "质量合格，比例和箭头的讲法也清楚，但本周已推过 11-23、11-24 两条 Cleo，今天改收 Bloomberg Primer 的线图讲解，避免同一作者占满知识位"
+  },
+  {
+   "title": "The plane seat upgrade we didn’t know we needed",
+   "author": "Vox",
+   "link": "https://www.youtube.com/watch?v=Bj6r2bqCnQg",
+   "poster": "media/15_vox.jpg",
+   "why": "几乎全是口播对谈，没有值得学的动效、转场或讲解动画"
+  }
+ ],
+ "deep": {
+  "kicker": "今日细拆 · 剪辑节奏 / 转场",
+  "toc": "细拆：Panic 为 Yelp 做的 30 秒广告 It Takes a Village——灰白积木小镇拆开成房间剖面，三个麻烦用硬切，红色评价卡一出现问题就被收掉",
+  "title": "30 秒：颜色只留灰和一种红，积木既是房子也是转场，三张评价卡把「邻居帮得上忙」讲完",
+  "flag": "【看过视频】",
+  "lede": "今天周四，按轮换拆剪辑节奏与转场。Stash 11 月 25 日刊出这条片子，导演是 Panic 的 Gints Gutmanis，客户是 Yelp，系列报道名是 Been There, Hired That，成片名是 It Takes a Village。看片工具完整看完 30 秒。整座小镇只有灰、白、黑和一种红。镜头推进时外墙裂成方块，露出剖面；三个麻烦用硬切，每次先弹出红色评价卡，再出现修理的人。最后拉远，红卡出现在很多屋顶上，小镇往下滑走，落到一句短标语和标志。导演说按 12 帧来做，让动作带一点定格的顿挫，积木既是房子也是转场。",
+  "links": [
+   [
+    "看 Vimeo ↗",
+    "https://vimeo.com/1244245195"
+   ],
+   [
+    "Stash 报道 ↗",
+    "https://www.stashmedia.tv/been-there-hired-that-new-yelp-campaign-film-by-panic/"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（30 秒）",
+    "ul": [
+     "0:00–0:01 灰白色积木小镇全景。镜头往中间一栋房子推，外墙裂成悬浮方块散开，露出内部剖面：厨房、浴室和其他房间同时能看见",
+     "0:01.5–0:04 聚焦厨房。男子烦躁地捂头，一只黑猫推开橱柜门跳出来，柜子看起来要掉",
+     "0:04.5–0:05.5 硬切到浴室。洗手池和浴缸在溢水，女子在水线附近做游泳的动作",
+     "0:05.5–0:07 硬切到院子。一家三口站在齐腰深的草里，猫坐在石头上",
+     "0:07–0:08 硬切到俯视：一只红色的手拿着手机，拇指点开 Yelp 图标",
+     "0:08–0:12 切回厨房。男子滑动手机，左上方弹出红色评价卡：Patty J.，五颗星，Just like the reviews said. 一名女修理工进入画面，橱柜门马上被修好，男子和猫表情转成放松",
+     "0:12.5–0:17 硬切回浴室。女子看手机，右上方弹出红色评价卡：Dave T.，五颗星，Top-notch work! 水管工出现，积水排空，两人竖起大拇指",
+     "0:17–0:22 硬切回院子。一家人看手机，弹出红色评价卡：Tom M.，五颗星，Did exactly what they said. 绿化的人出现，高草降下去，露出庭院家具，一家人坐下",
+     "0:22–0:24 镜头快速拉远回到小镇全景，许多屋顶上接连冒出红色评价卡",
+     "0:24–0:26 整座小镇像幕布一样往下滑出画面，白底上出现两行字：With millions of neighbors you can trust, 以及 get it done with Yelp.（Yelp. 是红色）",
+     "0:26–0:30 白色圆角方块从四周滑入铺满屏幕，Yelp 的字母和红色图标逐个拼到位，定格约 2.5 秒结束"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "前 7 秒用来把三个麻烦摆清楚，每个场景大约 2 秒，只够看懂问题。中间三段「看手机—评价卡—修好」结构相同，各约 4 到 5 秒，重复三次，观众第二次起就知道下一张红卡意味着什么。",
+     "最后 8 秒变慢：拉远、滑走、铺瓷砖、标志落下。前面快的是麻烦和解决，后面慢的是把意思收成一句。"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": [
+     "开场不用淡入。镜头推进时，外墙裂成方块散开，房子自己变成剖面，这是整条片子里最关键的一下。",
+     "三个房间之间用硬切。因为剖面已经让人知道这些房间同属一栋房子，硬切不会跳戏，反而更干脆。",
+     "「解决」不是另加一道特效，而是红色评价卡先弹出，修理的人再出现，问题在一两秒内被收掉。",
+     "结尾不是淡出到黑，而是整座小镇往下滑走，白底和瓷砖再把标志拼出来。积木既是场景，也是转场用的块。"
+    ]
+   },
+   {
+    "h": "字、颜色、立体感和声音",
+    "ul": [
+     "字体未识别。评价卡和结尾标语都是干净的无衬线，标志是 Yelp 品牌字",
+     "颜色只留浅灰、白、近黑和一种红。红只用在评价卡、手机图标、那只手，以及标志和标语里的 Yelp",
+     "立体感来自积木的厚度、圆角和木头纹理，还有很浅的投影。动作按 12 帧来做，带一点定格的顿挫",
+     "有一首轻快的曲子，歌词跟麻烦对上（橱柜、水龙头、院子）。评价卡弹出时有短促的提示音，修理时有对应的动手声。结尾瓷砖合上有清脆的咔哒声",
+     "有几处和小模型的物理对不上：猫推开的橱柜门看不到铰链；浴室里的人比画出来的水线更高；院子里的高草是整层降进地下，不是被割断。风格上说得通，但如果要做得更像实物积木，这几处值得收紧"
+    ],
+    "chips": [
+     [
+      "#C82030",
+      "评价卡片红（取样）"
+     ],
+     [
+      "#D0D0D8",
+      "浅灰墙（取样）"
+     ],
+     [
+      "#F5F5F5",
+      "白底 / 瓷砖"
+     ],
+     [
+      "#202020",
+      "近黑的字和标志字"
+     ]
+    ]
+   },
+   {
+    "h": "对照动效实现规则",
+    "ul": [
+     "同一时刻一个焦点：先看这间屋子的麻烦，再看那张红卡，不要同时抢",
+     "转场为内容服务：外墙拆开是为了进入剖面，红卡是为了说出「邻居推荐」，不是为了炫一次翻页",
+     "颜色世界先锁死，强调色只用一种红，灰和白负责其余所有形状"
+    ]
+   },
+   {
+    "h": "在 Remotion / 代码里怎么做",
+    "p": [
+     "画一座只分灰和白的积木小镇。开场用一次推进：外墙拆成若干方块向外散开，露出一个固定的剖面。三个麻烦写成三个场景，用硬切，不要加闪白。",
+     "每个麻烦的结构相同：先看问题约 2 秒，切到手机或直接弹出一张红色评价卡（姓名、五颗星、一句短评），再让修理的人进入，问题在 1 到 2 秒内被收掉。评价卡的弹出可以带一点 12 帧的步进，不要做成平滑的弹性。",
+     "结尾把镜头拉远，让许多屋顶陆续出现红卡，然后整组场景沿 Y 轴滑出，白底上出两行标语，再用圆角方块从四周铺满，标志逐个就位。难点是灰白体积要有厚度和浅影，红色只能出现在卡、图标和标志上，不要漏到墙上。"
+    ]
+   },
+   {
+    "h": "放进鱼知道的片子里怎么用",
+    "p": [
+     "比如讲一个靠口碑或社区推荐来解决问题的工具，开头 20 到 30 秒。不要先列功能。先搭一座灰色小剖面，设三个具体麻烦（文件找不到、表格对不上、演示要明天交），每次硬切一间屋子，用一张红色小卡当「有人已经做过」的信号，再切到结果。颜色只留灰、白和一种红。然后进入正文讲解。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-26",
+ "kind": "daily",
+ "slug": "2026-11-26"
+}
