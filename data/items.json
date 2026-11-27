@@ -4595,5 +4595,127 @@
    "数据可视化"
   ],
   "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-27-01",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i1",
+  "title": "Something in Your Kitchen Could Save Millions of Lives!",
+  "author": "Kurzgesagt – In a Nutshell",
+  "url": "https://www.youtube.com/watch?v=3X0UcSRQOY4",
+  "embed": "https://www.youtube-nocookie.com/embed/3X0UcSRQOY4?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解",
+   "数据可视化",
+   "MG"
+  ],
+  "cat": "知识讲解 · 数据可视化"
+ },
+ {
+  "id": "2026-11-27-02",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i2",
+  "title": "A Year, One Sphere, Many Shapes（houmahani.com）",
+  "author": "Houmahani Kane（@houma_hani）/ Codrops",
+  "url": "https://x.com/codrops/status/2125974894902923567",
+  "embed": "x:2125974894902923567",
+  "tags": [
+   "代码动画",
+   "3D质感",
+   "UI动效"
+  ],
+  "cat": "代码动画 · 3D质感"
+ },
+ {
+  "id": "2026-11-27-03",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i3",
+  "title": "Galaxy Z Fold8 launch film",
+  "author": "FOREAL（客户 Samsung）",
+  "url": "https://vimeo.com/1250343877",
+  "embed": "https://player.vimeo.com/video/1250343877?playsinline=1&dnt=1",
+  "tags": [
+   "3D质感",
+   "转场",
+   "MG"
+  ],
+  "cat": "3D质感 · 转场"
+ },
+ {
+  "id": "2026-11-27-04",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i4",
+  "title": "Emotes from Gentler_App",
+  "author": "60fps（@60fpsdesign）× Gentler",
+  "url": "https://x.com/60fpsdesign/status/2126021843547295933",
+  "embed": "x:2126021843547295933",
+  "tags": [
+   "UI动效"
+  ],
+  "cat": "UI动效"
+ },
+ {
+  "id": "2026-11-27-05",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i5",
+  "title": "La Boite à Slides",
+  "author": "Sparkk（@wearesparkk）、Naveox（开发）",
+  "url": "https://x.com/awwwards/status/2124791532498702823",
+  "embed": "x:2124791532498702823",
+  "tags": [
+   "字体版式",
+   "转场"
+  ],
+  "cat": "字体版式 · 转场"
+ },
+ {
+  "id": "2026-11-27-06",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i6",
+  "title": "What happens if you accidentally eat moldy food?",
+  "author": "TED-Ed（撰稿 Josephine Wee）",
+  "url": "https://www.youtube.com/watch?v=1IVlILdETAw",
+  "embed": "https://www.youtube-nocookie.com/embed/1IVlILdETAw?playsinline=1&rel=0",
+  "tags": [
+   "知识讲解"
+  ],
+  "cat": "知识讲解"
+ },
+ {
+  "id": "2026-11-27-07",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i7",
+  "title": "The CW — New Brand Identity（补课，2024）",
+  "author": "DixonBaxi（@DixonBaxi）",
+  "url": "https://x.com/motionimo/status/2123654642278043812",
+  "embed": "x:2123654642278043812",
+  "tags": [
+   "字体版式",
+   "片头片尾",
+   "MG"
+  ],
+  "cat": "字体版式 · 片头片尾"
+ },
+ {
+  "id": "2026-11-27-08",
+  "date": "2026-11-27",
+  "kind": "daily",
+  "report": "reports/2026-11-27.html#i8",
+  "title": "Murray's Cheese — Brand Identity（补课，2023）",
+  "author": "Base Design",
+  "url": "https://x.com/motionimo/status/2124381771772899416",
+  "embed": "x:2124381771772899416",
+  "tags": [
+   "字体版式",
+   "MG"
+  ],
+  "cat": "字体版式 · MG"
  }
 ]

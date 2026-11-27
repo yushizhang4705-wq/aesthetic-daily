@@ -1,0 +1,514 @@
+{
+ "kicker": "审美日报",
+ "title": "2026-11-27 审美日报",
+ "flag": "【看过画面（抽帧）】",
+ "note": "今天周五，细拆知识讲解。看片工具完整看完 Kurzgesagt 昨天新出的 70 秒竖屏 Something in Your Kitchen Could Save Millions of Lives!。值得学的是：先让厨房里的物件自己变成数据方块，国家占比一条条滑上来，再把营养素小块「加进」方块里，数字跟着往上跳。本周已经推过两条 Kurzgesagt，但这条是新的短片，结构最能直接用，所以仍拆它。国外信源扫过之后，合格新作 6 条，另补 2 条经典品牌片，一共 8 条，不够 10 条，不硬凑。点赞接口读到 4 条 11-10 的旧赞和 1 条周精选踩，已补进偏好；今天没有新评论。Mac 目前离线，日报网页仍会发布，审美库拷贝和索引同步留到下次电脑在线再补。",
+ "sources": "X（@60fpsdesign、@jh3yy、@codrops、@awwwards、@greensock、@motionimo、@orpetron、@dom_meszaros、@grgrdvrt、@sfc43588、@codegridweb，以及 motion design / Three.js / kinetic typography / opening titles 关键词搜索）、Codrops、Awwwards、GSAP、Motionographer、Stash、Vimeo Staff Picks、Typewolf、It's Nice That、YouTube（Kurzgesagt、TED-Ed、Cleo Abram、Vox、Bloomberg、MKBHD 等）",
+ "items": [
+  {
+   "cat": "知识讲解 · 数据可视化",
+   "tags": [
+    "知识讲解",
+    "数据可视化",
+    "MG"
+   ],
+   "title": "Something in Your Kitchen Could Save Millions of Lives!",
+   "author": "Kurzgesagt – In a Nutshell",
+   "date": "YouTube 2026-11-26",
+   "flag": "【看过视频】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/watch?v=3X0UcSRQOY4"
+    ],
+    [
+     "竖版入口 ↗",
+     "https://www.youtube.com/shorts/3X0UcSRQOY4"
+    ]
+   ],
+   "good": "70 秒竖屏。开头咖啡壶变成奶茶杯，再变成一块带眼睛的高汤块。切到粉红底，尼日利亚 99%、塞内加尔 96%、冈比亚 90% 三条使用率从下往上滑出。标了 Fe 的小三角掉进方块里，圆形擦除切到一个女人在喝汤。后面用同样办法讲加碘盐和叶酸，数字都是「加进去」之后才往上跳。英国碘水平和主粮营养下降，用箭头和上下分屏交代。最后一根装米的管子转成检测仪，镜头上摇经过一叠彩条，停在母子端着热汤的画面，没有结尾标志",
+   "borrow": "讲一个日常物件里藏着的关键成分，先不要报结论。让物件自己变成数据方块，相关数字一条条滑上来，再用「加进去的小块」把计数顶起来。转场多用色块推入或物件变形，少用淡入淡出。下面有细拆",
+   "embed": "https://www.youtube-nocookie.com/embed/3X0UcSRQOY4?playsinline=1&rel=0",
+   "media": {
+    "ratio": "v",
+    "notes": [
+     "69.9 秒成片，完整看过（看片工具）",
+     "字体未识别（粗圆角无衬线，常放在圆角色条里，带一点立体投影）",
+     "主色大约是粉 #FF85B3、黄 #FFE500、深蓝 #1A0B2E、蓝 #2F9CFF、紫 #3D1466",
+     "片头有一条 Gates Foundation 资助说明"
+    ]
+   },
+   "id": "2026-11-27-01",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=3X0UcSRQOY4",
+   "cover": "covers/2026-11-27/01.jpg"
+  },
+  {
+   "cat": "代码动画 · 3D质感",
+   "tags": [
+    "代码动画",
+    "3D质感",
+    "UI动效"
+   ],
+   "title": "A Year, One Sphere, Many Shapes（houmahani.com）",
+   "author": "Houmahani Kane（@houma_hani）/ Codrops",
+   "date": "Codrops 2026-11-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/codrops/status/2125974894902923567"
+    ],
+    [
+     "打开作品集 ↗",
+     "https://houmahani.com/"
+    ],
+    [
+     "阅读制作说明 ↗",
+     "https://tympanus.net/codrops/2026/11/26/houmahani-kane-portfolio/"
+    ]
+   ],
+   "good": "站内片段约 5 秒，另有一段 6 秒的变形演示。浅色渐变底上只有一颗球体，表面是一圈圈蓝线，像等高线，也像西非蜡染的纹样。球体慢慢扭成不规则的团，再拉长、收回，底色从暖黄转到浅绿。同一颗球为不同项目换形状，周围几乎没有装饰",
+   "borrow": "作品集不必一上来摆缩略图。可以只用一颗会变形的主体，每个项目换一种形状或一种线的颜色，背景保持干净。用 Three.js 的形态目标或噪声去推这颗球即可",
+   "embed": "x:2125974894902923567",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "X 转发片段 5.2 秒，Codrops 演示拼接约 6.0 秒",
+     "字体未识别（页面导航是很小的无衬线）",
+     "线是深蓝或青绿，底是浅黄到浅绿的渐变"
+    ]
+   },
+   "id": "2026-11-27-02",
+   "embed_type": "x",
+   "url": "https://x.com/codrops/status/2125974894902923567",
+   "cover": "covers/2026-11-27/02.jpg"
+  },
+  {
+   "cat": "3D质感 · 转场",
+   "tags": [
+    "3D质感",
+    "转场",
+    "MG"
+   ],
+   "title": "Galaxy Z Fold8 launch film",
+   "author": "FOREAL（客户 Samsung）",
+   "date": "Stash 2026-11-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 Vimeo ↗",
+     "https://vimeo.com/1250343877"
+    ],
+    [
+     "Stash 报道 ↗",
+     "https://www.stashmedia.tv/foldable-fun-foreal-launches-samsung-galaxy-z-fold8/"
+    ]
+   ],
+   "good": "33 秒。浅蓝色棚里，先是一部对折的 Fold8 框住一只青苹果，字幕写 and look who's new。苹果被竖直切开，手机薄片贴着切面站好，用来比谁更薄。随后一排旧款折叠屏在苹果后面排开，标了 2023。苹果被推到一边，手机自己站到画面中间：Nowhere to hide，1.6 mm thinner，Years ahead in Foldables。全程几乎只有蓝棚、一只苹果、一部银色手机",
+   "borrow": "对比两个产品，不必并排摆参数表。找一个大家都认识的参照物（这里是被咬过的苹果），让新东西贴着它的切面或厚度站过去，字幕只留半句。颜色锁死棚色和主体",
+   "embed": "https://player.vimeo.com/video/1250343877?playsinline=1&dnt=1",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "33.0 秒成片",
+     "字体未识别（细的无衬线，字很少）",
+     "棚色是浅蓝到白，苹果青绿，手机银色"
+    ]
+   },
+   "id": "2026-11-27-03",
+   "embed_type": "vimeo",
+   "url": "https://vimeo.com/1250343877",
+   "cover": "covers/2026-11-27/03.jpg"
+  },
+  {
+   "cat": "UI动效",
+   "tags": [
+    "UI动效"
+   ],
+   "title": "Emotes from Gentler_App",
+   "author": "60fps（@60fpsdesign）× Gentler",
+   "date": "X 2026-11-26",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/60fpsdesign/status/2126021843547295933"
+    ]
+   ],
+   "good": "10.6 秒方幅。白底上一部手机，问 How are you holding up today? 屏幕是一张会变的简笔脸：皱眉时底色偏橙，慢慢转到黄、蓝，再到开心的绿。脸从难过、平静到大笑，下面的选项从 A BIT OFF 亮到 GREAT，最后问 Anything you'd like to note? 表情收成一个小笑。颜色和表情绑在一起，没有多余装饰。这条转发片段四角有 60 的水印",
+   "borrow": "做情绪或状态选择，不必用五颜六色的图标。一张简笔脸加一层会变的底色就够，选项和脸一起走，背景保持白",
+   "embed": "x:2126021843547295933",
+   "media": {
+    "ratio": "s",
+    "notes": [
+     "10.6 秒成片",
+     "字体未识别（界面是常规无衬线）",
+     "底色从橙到黄到蓝再到绿，手机外的衬底是白",
+     "四角有 60fps 水印"
+    ]
+   },
+   "id": "2026-11-27-04",
+   "embed_type": "x",
+   "url": "https://x.com/60fpsdesign/status/2126021843547295933",
+   "cover": "covers/2026-11-27/04.jpg"
+  },
+  {
+   "cat": "字体版式 · 转场",
+   "tags": [
+    "字体版式",
+    "转场"
+   ],
+   "title": "La Boite à Slides",
+   "author": "Sparkk（@wearesparkk）、Naveox（开发）",
+   "date": "Awwwards 当日最佳 2026-11-23",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/awwwards/status/2124791532498702823"
+    ],
+    [
+     "打开网站 ↗",
+     "https://laboiteaslides.fr/"
+    ]
+   ],
+   "good": "4.5 秒站内快剪。先是紫底上超大的紧缩白字 LES MEILLEURES IDEES FONT L'AVENIR，字旁边有碎裂的纸片或玻璃片。这些碎片把画面撕开，底下翻出荧光绿底和另一句大字，再落到一段正文。颜色只在紫和荧光绿之间切，字始终很大",
+   "borrow": "口号和正文切换，不必淡入。用一层碎纸或碎玻璃把上一屏撕开，露出下一个底色。两种高对比底色轮换即可，字只留一句",
+   "embed": "x:2124791532498702823",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "4.5 秒颁奖转发片段",
+     "字体未识别（超大的紧缩无衬线）",
+     "底色是紫和荧光绿"
+    ]
+   },
+   "id": "2026-11-27-05",
+   "embed_type": "x",
+   "url": "https://x.com/awwwards/status/2124791532498702823",
+   "cover": "covers/2026-11-27/05.jpg"
+  },
+  {
+   "cat": "知识讲解",
+   "tags": [
+    "知识讲解"
+   ],
+   "title": "What happens if you accidentally eat moldy food?",
+   "author": "TED-Ed（撰稿 Josephine Wee）",
+   "date": "YouTube 2026-11-24",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看 YouTube ↗",
+     "https://www.youtube.com/watch?v=1IVlILdETAw"
+    ]
+   ],
+   "good": "成片约 5 分 37 秒，这次看到了前 2 分钟。水彩淡底。先是一盘长了霉的草莓，然后是拟人的胃和肠，接着一个人打开冰箱，脸上也沾到霉。随后出现一个蓝绿色的小圆角色，拿着望远镜看一堆水果，再转到葡萄园和日历。画面一次只放一组东西，颜色浅，没有堆字",
+   "borrow": "讲「吃到会怎样」，先给一样具体食物，再用一个简单角色把肉眼看不见的过程看一遍。底色保持浅，不要一上来就出示意图。这次没有完整看完，细拆不选它",
+   "embed": "https://www.youtube-nocookie.com/embed/1IVlILdETAw?playsinline=1&rel=0",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "成片 337 秒，本次下载并抽帧前 120 秒",
+     "字体未识别",
+     "水彩淡底，霉和角色偏青绿或红"
+    ]
+   },
+   "id": "2026-11-27-06",
+   "embed_type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1IVlILdETAw",
+   "cover": "covers/2026-11-27/06.jpg"
+  },
+  {
+   "cat": "字体版式 · 片头片尾",
+   "tags": [
+    "字体版式",
+    "片头片尾",
+    "MG"
+   ],
+   "title": "The CW — New Brand Identity（补课，2024）",
+   "author": "DixonBaxi（@DixonBaxi）",
+   "date": "补课 2024（Motionimo 2026-11-20 转发）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2123654642278043812"
+    ],
+    [
+     "官网案例 ↗",
+     "https://www.dixonbaxi.com/case-study/the-cw"
+    ]
+   ],
+   "good": "48 秒品牌片。一条橙色的括号形「舞台」框是反复出现的图形：它能收成一条缝，也能张开把剧照、体育镜头或 SEASON PREMIERE 夹在中间。白底上只有一句大字 SLEEK、WE STAND OUT、GIDDY UP，再切到户外广告和电视界面。颜色主要是白、深绿和一种橙",
+   "borrow": "做系列片头，不必每次换一套装饰。设计一个能开能合的简单外框，张开时放画面，合上时变成标志。字只留短词，底色保持干净。品牌方案例里称主字体是 F37 Bolton",
+   "embed": "x:2123654642278043812",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "48.4 秒成片，2024 年品牌更新，本次按补课收入",
+     "主字体据品牌方案例为 F37 Bolton，片中其他字未单独识别",
+     "颜色是白、深绿和橙（他们称作 Hot Sauce）"
+    ]
+   },
+   "id": "2026-11-27-07",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2123654642278043812",
+   "cover": "covers/2026-11-27/07.jpg"
+  },
+  {
+   "cat": "字体版式 · MG",
+   "tags": [
+    "字体版式",
+    "MG"
+   ],
+   "title": "Murray's Cheese — Brand Identity（补课，2023）",
+   "author": "Base Design",
+   "date": "补课 2023（Motionimo 2026-11-22 转发）",
+   "flag": "【看过画面（抽帧）】",
+   "links": [
+    [
+     "看原帖 ↗",
+     "https://x.com/motionimo/status/2124381771772899416"
+    ],
+    [
+     "官网案例 ↗",
+     "https://www.basedesign.com/projects/murrays-cheese-2"
+    ]
+   ],
+   "good": "63 秒。奶油底加一种红。产品照片、菜单、超大的 CHEESE / PARMIGIANO、拱形的品名、洞穴奶酪特写、搭配提示，以及一堆红色贴纸（Hand Selected、Sale、Award Winner）。版面像店里的招贴和包装在翻页，颜色从头锁死两种",
+   "borrow": "介绍一组产品或口味，不必把照片和字混成一篇长文。先锁死底色和一种品牌色，让大字、照片、小贴纸轮流占满画面，每屏只做一件事",
+   "embed": "x:2124381771772899416",
+   "media": {
+    "ratio": "h",
+    "notes": [
+     "63.5 秒成片，2023 年品牌更新，本次按补课收入",
+     "字体未识别（标志是红色手写脚本，标题是粗的无衬线）",
+     "颜色只有奶油底和一种红"
+    ]
+   },
+   "id": "2026-11-27-08",
+   "embed_type": "x",
+   "url": "https://x.com/motionimo/status/2124381771772899416",
+   "cover": "covers/2026-11-27/08.jpg"
+  }
+ ],
+ "cut": [
+  {
+   "title": "New interactions on 60fps.design",
+   "author": "60fps（@60fpsdesign）",
+   "link": "https://x.com/60fpsdesign/status/2125089245320892450",
+   "why": "是很多条界面动效拼在一起的合集，不是一件完整作品；今天已收同一作者的 Gentler 表情动效，避免重复",
+   "cover": "covers/2026-11-27/cut-01.jpg"
+  },
+  {
+   "title": "Huxley Saga（Awwwards 11-26 当日最佳）",
+   "author": "Studio Freight（@studiofreight）/ Awwwards",
+   "link": "https://x.com/awwwards/status/2125878745898586226",
+   "why": "8 秒颁奖快剪，偏影视预告的浓烈红调，看不出站点本身的动效细节",
+   "cover": "covers/2026-11-27/cut-02.jpg"
+  },
+  {
+   "title": "Made By Igor",
+   "author": "Igor（@madeByIgor）/ GSAP",
+   "link": "https://x.com/greensock/status/2125965920547840252",
+   "why": "青绿放射底和标题叠字偏满，结尾品红光斑接近炫技，不符合克制标准",
+   "cover": "covers/2026-11-27/cut-03.jpg"
+  },
+  {
+   "title": "Yachty Fan Site",
+   "author": "Ayo Niyi（@ayochills）/ GSAP",
+   "link": "https://x.com/greensock/status/2123819125822603337",
+   "why": "音乐饭制站，字和色块太满，不够克制",
+   "cover": "covers/2026-11-27/cut-04.jpg"
+  },
+  {
+   "title": "The Last 100",
+   "author": "Flamingo Agency / Orpetron",
+   "link": "https://x.com/orpetron/status/2125897180263145803",
+   "why": "Orpetron 颁奖录屏，SOTD 水印和角标盖满，不适合放进日报",
+   "cover": "covers/2026-11-27/cut-05.jpg"
+  },
+  {
+   "title": "Cloud9 Chair for W. Schillig",
+   "author": "FrameScale",
+   "link": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
+   "why": "实拍的面料特写和 AI 生成的漂浮人物、瀑布拼在一起，整体不统一",
+   "cover": "covers/2026-11-27/cut-06.jpg"
+  },
+  {
+   "title": "Give the Gift of Closeness",
+   "author": "Postoffice Amsterdam（客户 Swiss Brands United）",
+   "link": "https://www.stashmedia.tv/postoffice-amsterdam-give-the-gift-of-closeness-for-swiss-brands-united/",
+   "why": "节日广告叙事为主，画面四角有台标和二维码，可借的制作手法不多",
+   "cover": "covers/2026-11-27/cut-07.jpg"
+  },
+  {
+   "title": "Dancing on Osees",
+   "author": "Catherine Lepage",
+   "link": "https://www.stashmedia.tv/catherine-lepage-friends-go-dancing-on-osees/",
+   "why": "手绘涂鸦风，和要的精致商业感距离大",
+   "cover": "covers/2026-11-27/cut-08.jpg"
+  },
+  {
+   "title": "TO THE WOODS",
+   "author": "Agnès Patron",
+   "link": "https://vimeo.com/1242910943",
+   "why": "约 15 分钟的独立艺术短片，叙事和绘画风格都很难搬到讲解视频",
+   "cover": "covers/2026-11-27/cut-09.jpg"
+  },
+  {
+   "title": "I made a film in Excel",
+   "author": "Maria Tomaszew（Vimeo Staff Picks）",
+   "link": "https://vimeo.com/1241981102",
+   "why": "用 Excel 格子做片的实验，点子有趣但画面粗糙，不像能用的制作参考",
+   "cover": "covers/2026-11-27/cut-10.jpg"
+  }
+ ],
+ "rejected": [
+  {
+   "title": "New interactions on 60fps.design",
+   "author": "60fps（@60fpsdesign）",
+   "link": "https://x.com/60fpsdesign/status/2125089245320892450",
+   "poster": "media/02_60fps.jpg",
+   "why": "是很多条界面动效拼在一起的合集，不是一件完整作品；今天已收同一作者的 Gentler 表情动效，避免重复"
+  },
+  {
+   "title": "Huxley Saga（Awwwards 11-26 当日最佳）",
+   "author": "Studio Freight（@studiofreight）/ Awwwards",
+   "link": "https://x.com/awwwards/status/2125878745898586226",
+   "poster": "media/04_huxley.jpg",
+   "why": "8 秒颁奖快剪，偏影视预告的浓烈红调，看不出站点本身的动效细节"
+  },
+  {
+   "title": "Made By Igor",
+   "author": "Igor（@madeByIgor）/ GSAP",
+   "link": "https://x.com/greensock/status/2125965920547840252",
+   "poster": "media/05_igor.jpg",
+   "why": "青绿放射底和标题叠字偏满，结尾品红光斑接近炫技，不符合克制标准"
+  },
+  {
+   "title": "Yachty Fan Site",
+   "author": "Ayo Niyi（@ayochills）/ GSAP",
+   "link": "https://x.com/greensock/status/2123819125822603337",
+   "poster": "media/09_yachty.jpg",
+   "why": "音乐饭制站，字和色块太满，不够克制"
+  },
+  {
+   "title": "The Last 100",
+   "author": "Flamingo Agency / Orpetron",
+   "link": "https://x.com/orpetron/status/2125897180263145803",
+   "poster": "media/10_last100.jpg",
+   "why": "Orpetron 颁奖录屏，SOTD 水印和角标盖满，不适合放进日报"
+  },
+  {
+   "title": "Cloud9 Chair for W. Schillig",
+   "author": "FrameScale",
+   "link": "https://www.stashmedia.tv/framescale-floats-the-cloud9-chair-for-w-schillig/",
+   "poster": "media/12_cloud9.jpg",
+   "why": "实拍的面料特写和 AI 生成的漂浮人物、瀑布拼在一起，整体不统一"
+  },
+  {
+   "title": "Give the Gift of Closeness",
+   "author": "Postoffice Amsterdam（客户 Swiss Brands United）",
+   "link": "https://www.stashmedia.tv/postoffice-amsterdam-give-the-gift-of-closeness-for-swiss-brands-united/",
+   "poster": "media/13_swiss.jpg",
+   "why": "节日广告叙事为主，画面四角有台标和二维码，可借的制作手法不多"
+  },
+  {
+   "title": "Dancing on Osees",
+   "author": "Catherine Lepage",
+   "link": "https://www.stashmedia.tv/catherine-lepage-friends-go-dancing-on-osees/",
+   "poster": "media/14_osees.jpg",
+   "why": "手绘涂鸦风，和要的精致商业感距离大"
+  },
+  {
+   "title": "TO THE WOODS",
+   "author": "Agnès Patron",
+   "link": "https://vimeo.com/1242910943",
+   "poster": "media/15_woods.jpg",
+   "why": "约 15 分钟的独立艺术短片，叙事和绘画风格都很难搬到讲解视频"
+  },
+  {
+   "title": "I made a film in Excel",
+   "author": "Maria Tomaszew（Vimeo Staff Picks）",
+   "link": "https://vimeo.com/1241981102",
+   "poster": "media/16_excel.jpg",
+   "why": "用 Excel 格子做片的实验，点子有趣但画面粗糙，不像能用的制作参考"
+  }
+ ],
+ "cut_title": "看过但没选进今天日报",
+ "deep": {
+  "kicker": "今日细拆 · 知识讲解",
+  "toc": "细拆：Kurzgesagt 的 70 秒竖屏 Something in Your Kitchen Could Save Millions of Lives!——厨房物件自己变成数据方块，营养素小块加进去，数字才往上跳",
+  "title": "70 秒：先不要报结论，让高汤块和盐包自己把「加进去就能救命」演一遍",
+  "flag": "【看过视频】",
+  "lede": "今天周五，按轮换拆知识讲解。这条是 Kurzgesagt 2026 年 11 月 26 日新出的竖屏短片，片长 70 秒，看片工具完整看完。本周 11 月 20 日和 11 月 25 日已经推过两条 Kurzgesagt，但那两条分别是一块钱能喂饱多少人、地球转快一倍会怎样；这条是新的短结构，讲厨房里的高汤块和盐怎样被加进铁、碘和叶酸。值得学的不是题材本身，而是信息出场的次序：物件先变成方块，统计一条条滑上来，营养素小块「加进」容器之后，数字才出现或往上跳。结尾没有标志，停在母子端着热汤的画面。",
+  "links": [
+   [
+    "看 YouTube ↗",
+    "https://www.youtube.com/watch?v=3X0UcSRQOY4"
+   ],
+   [
+    "竖版入口 ↗",
+    "https://www.youtube.com/shorts/3X0UcSRQOY4"
+   ]
+  ],
+  "blocks": [
+   {
+    "h": "结构（70 秒）",
+    "ul": [
+     "0:00–0:03 锯齿状的紫、黄、蓝色层往上走。正中咖啡壶变成奶茶杯，再变成一块带大眼睛的彩色高汤块。顶部有一条小字 This short was made possible through a grant by the Gates Foundation。主标题是 SOMETHING IN YOUR KITCHEN COULD SAVE MILLIONS",
+     "0:04–0:08 硬切粉红底。一块黄白方块落下，标题 Stock Cubes / Households That Use Them。尼日利亚 99%、塞内加尔 96%、冈比亚 90% 连同国旗从下往上依次滑出",
+     "0:08–0:13 三条统计退去。三块标了 Fe 的红橙三角从上方掉入方块，方块发光。圆形擦除切到黄底：一个女人用黄碗喝汤",
+     "0:13–0:16 一圈液态环扩开，回到方块。Zn、B9、Vitamin A 三个营养图标弹出。字掉下来：Could Save 18,000 Children in Nigeria Per Year",
+     "0:17–0:24 液态转场到粉红底。IODIZED SALT 盐包倾斜，盐粒倒在从下方冒出的地球上，出现 ~89% Consume Salt With Iodine。蓝底上推，盐包落到中间，三个写着 B9 的蓝圆掉进去，计数升到 Preventable Cases of Neural Tube Defects 180,000",
+     "0:24–0:29 黄底上带问号的色块落下，中间出现一张担心的脸，问号翻成 Fe。切到医院里母亲抱着婴儿，字是 Lowering Anemia-Related Maternal Deaths",
+     "0:30–0:36 黄底人体剪影里装满彩色块，胸口一道白光收成一枚 Fe 三角被吸收。镜头迅速推进体内，蓝色纤维挂上三枚 Fe 三角，标签是 Oat Protein Fibers，上方小字 Still in research and development!",
+     "0:37–0:41 硬切蓝底。2013–2023 Iodine Levels in UK Women，向下的箭头从 ~23% 跳到 ~25%，下面女人的表情从平淡变成难过",
+     "0:42–0:46 黄底圆点：By 2050 Nutritional Value of Foods，Zn in Wheat ~9%。紫色层从上往下把画面切成两半，上半是 Fe in Rice ~5%",
+     "0:47–0:52 硬切深蓝底。米袋、面包、面粉袋、瓶子四件食物浮出，后面淡入一张发亮的斜向安全网。字是 2026 ~252 Million People Need Humanitarian Aid",
+     "0:53–1:00 粉红底。紫管打开，标了 Rice，白米粒落入。管子转成黄色手持检测仪，屏上闪 90% Cheaper Than Conventional Testing，以及 60 Mins or Less",
+     "1:01–1:07 粉、青、紫、黄的水平色带从下往上叠起来，每一层里有人举着 Double Fortified Salt 或 Fortified Bouillon，或拿着检测仪。镜头持续上摇",
+     "1:08–1:10 停在最上一层：粉红底、黄色大星爆，母亲和孩子端着热气腾腾的黄碗汤，表情是笑着的。没有 Kurzgesagt 标志，定格到结束"
+    ]
+   },
+   {
+    "h": "节奏",
+    "p": [
+     "前 8 秒只做一件事：把「厨房里的东西」变成数据方块，并给出三个国家的使用率。中间几乎每 5 到 7 秒换一个论据，铁、盐、贫血、燕麦纤维、英国碘水平、主粮营养下降、援助人口、便宜的检测，一个接一个。",
+     "数字都安排在「加进去」或「倒出来」之后才出现或跳变，观众先看见动作，再看见数。最后 10 秒变慢：上摇穿过一叠使用场景，停在母子喝汤的定格，不再出新数据。"
+    ]
+   },
+   {
+    "h": "转场",
+    "p": [
+     "物件会自己变形，不靠切：咖啡壶变成奶茶杯再变成高汤块，装米的管子转成检测仪。",
+     "换场景时多用圆形擦除、液态环，或整块颜色从上或从下推入。完全换主题时才用硬切，比如切到英国碘水平、切到深蓝底的援助数字。",
+     "几乎不用淡入淡出。上下分屏也是一种转场：紫色层把小麦的数字压到下半，上半换成果米的数字。"
+    ]
+   },
+   {
+    "h": "字、颜色和立体感",
+    "ul": [
+     "字体未识别。粗圆角无衬线，常常放在圆角色条里，带一点立体投影",
+     "主色大约是粉 #FF85B3、黄 #FFE500、深蓝 #1A0B2E、蓝 #2F9CFF、紫 #3D1466，强调用橙红和青绿",
+     "立体感主要来自方块、盐包和检测仪的厚度，以及文字的挤压投影。角色是扁平的，靠眨眼和轻轻摆头，不是细腻的骨骼动画",
+     "开头有一条 Gates Foundation 资助说明。燕麦纤维那段标了 Still in research and development!，没有把还在研究的东西写成已落地"
+    ]
+   },
+   {
+    "h": "怎么复现，以及在鱼知道里怎么用",
+    "p": [
+     "用 Remotion 就能搭这个结构。先做物件变形（三个替换加短暂交叉，或用形态插值），统计条目错开大约 0.4 秒从下滑入。最值得学的一句是：颗粒掉进容器，数字才往上跳。",
+     "转场用全屏色块从上或从下推，或中心圆形擦除。结尾用垂直平移穿过分层色带，停在一张生活画面，不必再出标志。",
+     "比如讲一个功能藏在很普通的开关或调料里：先让那个物件自己变成方块，再让两三个使用场景滑上来，最后用「加进去的小块」带动数字。不要一开始就出结论句。"
+    ]
+   }
+  ]
+ },
+ "date": "2026-11-27",
+ "kind": "daily",
+ "slug": "2026-11-27"
+}
