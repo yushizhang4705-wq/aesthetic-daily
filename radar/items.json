@@ -1972,5 +1972,75 @@
   "kind": "viral",
   "title": "@thsottiaux 宣布 GPT-6.2 上线时的用量计费错误已修好：回复和引用都很高。高互动来自付费用户在问「这是不是变相砍额度、以前少算的会不会补收」，而不只是一条技术更正。",
   "url": "https://x.com/thsottiaux/status/2125784147889393806"
+ },
+ {
+  "id": "2026-11-28-01",
+  "date": "2026-11-28",
+  "kind": "item",
+  "title": "月之暗面官方账号 @Kimi_Moonshot 11 月 27 日宣布，面向全球开放科研支持计划 Kimi for Science。官方长帖写明：入选团队将获得免费 Kimi API 额度、最新模型使用权，以及长期合作机会；基础科学和工程的理论与实验研究都欢迎，也包括历史上关注度或经费较少的课题；第一批申请截止 12 月 8 日，申请页为 kimi.ai/news/kimi-for-science-program。官方页面另写明，入选申请人最多可获得价值 2 万美元的 Kimi API 额度（约 70 亿 tokens），具体数量按研究需要和评审结果确定，这是模型用量额度，不是现金资助。自然科学、工程及相关交叉学科的研究者和团队均可申请。官方帖和申请页 FAQ 没有单列国家或地区限制，具体能否申请以申请页和评审结果为准。",
+  "url": "https://x.com/Kimi_Moonshot/status/2126154696947871760"
+ },
+ {
+  "id": "2026-11-28-02",
+  "date": "2026-11-28",
+  "kind": "item",
+  "title": "OpenAI 开发者账号 @OpenAIDevs 11 月 27 日发帖并配了演示视频，展示如何做一个「能说话的周边商店」：GPT-Live-1.1 读出加急费和送达时间估算；Decisions API 为退回杯子的损坏程度打分；WebMCP 让智能体调用商店的购物车工具。官方长帖写明这是 “a merch store you can talk to”，并点名这三件工具。这是官方演示，不是已经对所有消费者开放的在线商店。开发者文档里，GPT-Live-1.1 是可调用的全双工语音模型，语音会话按时长计费（文档写明活跃时段每分钟 0.05 美元，待机每分钟 0.02 美元），后端模型和工具用量另计。同系列的官方 Showcase 里还有一个用 WebMCP 做的杂货店示例 Verdant Market，和这条周边店演示不是同一家店，不要混为一谈。",
+  "url": "https://x.com/OpenAIDevs/status/2126372238853112227"
+ },
+ {
+  "id": "2026-11-28-03",
+  "date": "2026-11-28",
+  "kind": "item",
+  "title": "宇树科技官方账号 @UnitreeRobotics 11 月 27 日宣布 Embodied Avatar V3.0 Guardian。官方长帖写明：最高同步率 99.8%，最低端到端延迟 80 毫秒；除完全自主模式外，还支持对机器人进行全身实时遥操作，用于复杂远程操作和数据采集等；并提醒请安全、友好地使用该功能。这两项数字是官方给出的最高值和最低值，不是第三方测评，也不能理解成日常使用都能稳定达到。监控名单中的 @minchoi 同日转发了这段官方演示。中文报道里有标准模式与运动模式的分项数字，未出现在这条官方原帖中，不以第三方报道为准。",
+  "url": "https://x.com/UnitreeRobotics/status/2126265784045584442"
+ },
+ {
+  "id": "2026-11-28-g01",
+  "date": "2026-11-28",
+  "kind": "infogap",
+  "title": "Kimi 给科研团队发 API 额度，抖音上还没看到讲清限制的专题",
+  "url": "https://x.com/Kimi_Moonshot/status/2126154696947871760"
+ },
+ {
+  "id": "2026-11-28-g02",
+  "date": "2026-11-28",
+  "kind": "infogap",
+  "title": "能说话的周边店演示，抖音上还没看到讲清「这只是演示」的专题",
+  "url": "https://x.com/OpenAIDevs/status/2126372238853112227"
+ },
+ {
+  "id": "2026-11-28-r01",
+  "date": "2026-11-28",
+  "kind": "reply",
+  "title": "@Kimi_Moonshot 宣布 Kimi for Science 科研支持计划：今天热度最高的官方计划，评论区卡在「是不是现金、小实验室能不能轮到」。把官方页面已经写明的上限、不是现金、截止日补一句即可。",
+  "url": "https://x.com/Kimi_Moonshot/status/2126154696947871760"
+ },
+ {
+  "id": "2026-11-28-r02",
+  "date": "2026-11-28",
+  "kind": "reply",
+  "title": "@OpenAIDevs 演示能说话的周边商店：评论里已经在问付款要不要自己按。先讲清这是官方演示，再把三件工具点明，比直接说「以后购物都不用动手」更稳。",
+  "url": "https://x.com/OpenAIDevs/status/2126372238853112227"
+ },
+ {
+  "id": "2026-11-28-r03",
+  "date": "2026-11-28",
+  "kind": "reply",
+  "title": "@UnitreeRobotics 宣布 Embodied Avatar V3.0 Guardian：互动高，但评论容易滑向战争。用官方已经写明的峰值口径回一句，并标明不是第三方测评，避免帮着把 80 毫秒说成日常保证。",
+  "url": "https://x.com/UnitreeRobotics/status/2126265784045584442"
+ },
+ {
+  "id": "2026-11-28-v01",
+  "date": "2026-11-28",
+  "kind": "viral",
+  "title": "@Kimi_Moonshot 宣布 Kimi for Science 科研支持计划：「最多 2 万美元额度」这个数字很好传，官方又写面向全球科研。评论区同时在问小实验室能不能轮到、数据会不会拿去训练，互动不只是在庆祝发额度。",
+  "url": "https://x.com/Kimi_Moonshot/status/2126154696947871760"
+ },
+ {
+  "id": "2026-11-28-v02",
+  "date": "2026-11-28",
+  "kind": "viral",
+  "title": "@UnitreeRobotics 宣布 Embodied Avatar V3.0 Guardian：全身跟上的视频很直观，官方又给出 80 毫秒、99.8% 这种好记的峰值，转发和引用都不低。评论很快滑向战争和综艺，热度不完全来自「自己能不能用」。",
+  "url": "https://x.com/UnitreeRobotics/status/2126265784045584442"
  }
 ]
